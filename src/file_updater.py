@@ -32,6 +32,9 @@ class FileUpdater:
         client_secret = Environment.get_env("SPOTIFY_CLIENT_SECRET")
         client_refresh_token = Environment.get_env("SPOTIFY_CLIENT_REFRESH_TOKEN")
         assert client_id and client_secret and client_refresh_token
+        # assert client_id
+        # assert client_secret
+        # assert client_refresh_token
 
         # Initialize the Spotify client
         access_token = await Spotify.get_access_token(
