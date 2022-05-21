@@ -22,3 +22,5 @@ typing-extensions==3.7.4.3
     # via aiohttp
 yarl==1.6.3
     # via aiohttp
+
+pyre-extensions
