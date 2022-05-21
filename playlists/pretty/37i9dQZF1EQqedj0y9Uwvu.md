@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQqedj0y9Uwvu.md) - [plain](/playlists/plain/37i9dQZF1EQqedj0y9Uwvu) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQqedj0y9Uwvu)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQqedj0y9Uwvu.md) - [plain](/playlists/plain/37i9dQZF1EQqedj0y9Uwvu) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQqedj0y9Uwvu)
 
 ### [2010s Mix](https://open.spotify.com/playlist/37i9dQZF1EQqedj0y9Uwvu)
 

@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EVJHK7Q1TBABQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVJHK7Q1TBABQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVJHK7Q1TBABQ)
+[pretty](/playlists/pretty/37i9dQZF1EVJHK7Q1TBABQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EVJHK7Q1TBABQ) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVJHK7Q1TBABQ)
 
 ### [Upbeat Mix](https://open.spotify.com/playlist/37i9dQZF1EVJHK7Q1TBABQ)
 

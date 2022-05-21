@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1EQpoj8u9Hn81e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EQpoj8u9Hn81e) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQpoj8u9Hn81e)
+[pretty](/playlists/pretty/37i9dQZF1EQpoj8u9Hn81e.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EQpoj8u9Hn81e) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQpoj8u9Hn81e)
 
 ### [House Mix](https://open.spotify.com/playlist/37i9dQZF1EQpoj8u9Hn81e)
 

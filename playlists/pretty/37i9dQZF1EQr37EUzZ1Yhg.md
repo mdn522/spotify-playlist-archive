@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQr37EUzZ1Yhg.md) - [plain](/playlists/plain/37i9dQZF1EQr37EUzZ1Yhg) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQr37EUzZ1Yhg)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQr37EUzZ1Yhg.md) - [plain](/playlists/plain/37i9dQZF1EQr37EUzZ1Yhg) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQr37EUzZ1Yhg)
 
 ### [Hindi Mix](https://open.spotify.com/playlist/37i9dQZF1EQr37EUzZ1Yhg)
 

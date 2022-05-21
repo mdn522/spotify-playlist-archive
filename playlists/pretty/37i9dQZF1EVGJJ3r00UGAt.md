@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVGJJ3r00UGAt.md) - [plain](/playlists/plain/37i9dQZF1EVGJJ3r00UGAt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVGJJ3r00UGAt)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVGJJ3r00UGAt.md) - [plain](/playlists/plain/37i9dQZF1EVGJJ3r00UGAt) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVGJJ3r00UGAt)
 
 ### [Romantic Mix](https://open.spotify.com/playlist/37i9dQZF1EVGJJ3r00UGAt)
 

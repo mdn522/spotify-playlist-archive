@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZF1E36W2WCqcLuM3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E36W2WCqcLuM3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E36W2WCqcLuM3)
+[pretty](/playlists/pretty/37i9dQZF1E36W2WCqcLuM3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1E36W2WCqcLuM3) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1E36W2WCqcLuM3)
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E36W2WCqcLuM3)
 

@@ -1,4 +1,4 @@
-pretty - [cumulative](/playlists/cumulative/37i9dQZF1EuSfybMl0jcbD.md) - [plain](/playlists/plain/37i9dQZF1EuSfybMl0jcbD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EuSfybMl0jcbD)
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EuSfybMl0jcbD.md) - [plain](/playlists/plain/37i9dQZF1EuSfybMl0jcbD) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EuSfybMl0jcbD)
 
 ### [Your Time Capsule](https://open.spotify.com/playlist/37i9dQZF1EuSfybMl0jcbD)
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EuSfybMl0jcbD.md) - [plain]
 | 49 | [Unity](https://open.spotify.com/track/47qYqGPgMTh3l1PRKBHEfI) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Unity](https://open.spotify.com/album/1cxmFr3tma40mHVD1NsLAV) | 4:09 |
 | 50 | [Party Rock Anthem](https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz) | [LMFAO](https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl), [Lauren Bennett](https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP), [GoonRock](https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh) | [Sorry For Party Rocking](https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo) | 4:22 |
 
-Snapshot ID: `MTY1MzA5MTIwMCwwMDAwMDAwMDE5NzQyNGQ1ZThlZjM4ZjhiZTM5OTQ1ZGYyMzNiZDEz`
+Snapshot ID: `MTY1MzA5MTIwMCwwMDAwMDAwMDJiYzU3ZjhmMWRiMjA3ODc4YWIzOGZhYzgzNDZiOTUx`

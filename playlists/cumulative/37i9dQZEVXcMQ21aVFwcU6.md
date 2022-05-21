@@ -1,4 +1,4 @@
-[pretty](/playlists/pretty/37i9dQZEVXcMQ21aVFwcU6.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXcMQ21aVFwcU6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcMQ21aVFwcU6)
+[pretty](/playlists/pretty/37i9dQZEVXcMQ21aVFwcU6.md) - cumulative - [plain](/playlists/plain/37i9dQZEVXcMQ21aVFwcU6) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZEVXcMQ21aVFwcU6)
 
 ### [Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcMQ21aVFwcU6)
 
