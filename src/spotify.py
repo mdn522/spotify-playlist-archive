@@ -324,18 +324,19 @@ class Spotify:
 
     @classmethod
     async def get_access_token(cls, client_id: str, client_secret: str, client_refresh_token: str) -> str:
-        # joined = f"{client_id}:{client_secret}"
-        # encoded = base64.b64encode(joined.encode()).decode()
+        joined = f"{client_id}:{client_secret}"
+        encoded = base64.b64encode(joined.encode()).decode()
         async with cls._get_session() as session:
             async with session.post(
                 url="https://accounts.spotify.com/api/token",
                 data={
                     "grant_type": "refresh_token",
                     "refresh_token": client_refresh_token,
-                    "client_id": client_id,
-                    "client_secret": client_secret,
+                    # "client_id": client_id,
+                    # "client_secret": client_secret,
+                    "redirect_uri": "http://127.0.0.1:5901/accounts/spotify/login/callback/",
                 },
-                # headers={"Authorization": f"Basic {encoded}"},
+                headers={"Authorization": f"Basic {encoded}"},
             ) as response:
                 try:
                     data = await response.json()
@@ -354,7 +355,9 @@ class Spotify:
         if token_type != "Bearer":
             raise InvalidDataError(f"Invalid token type: {token_type}")
 
-        print(f'{access_token=}')
+        # print(data)
+        # print(f'{access_token=}')
+        # 1/0
         return access_token
 
     @classmethod

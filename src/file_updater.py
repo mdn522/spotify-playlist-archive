@@ -31,14 +31,13 @@ class FileUpdater:
         client_id = Environment.get_env("SPOTIFY_CLIENT_ID")
         client_secret = Environment.get_env("SPOTIFY_CLIENT_SECRET")
         client_refresh_token = Environment.get_env("SPOTIFY_CLIENT_REFRESH_TOKEN")
-        assert client_id and client_secret
+        assert client_id and client_secret and client_refresh_token
 
         # Initialize the Spotify client
         access_token = await Spotify.get_access_token(
             client_id=client_id, client_secret=client_secret,
             client_refresh_token=client_refresh_token
         )
-
 
         spotify = Spotify(access_token)
         try:
@@ -263,7 +262,7 @@ class FileUpdater:
         # Lastly, update README.md
         if update_readme:
             readme_path = file_manager.get_readme_path()
-            with open(readme_path, "r") as f:
+            with open(readme_path, "r", encoding='utf-8') as f:
                 prev_content = f.read()
             content = Formatter.readme(prev_content, playlists)
             cls._write_to_file_if_content_changed(prev_content, content, readme_path)
@@ -280,7 +279,7 @@ class FileUpdater:
     @classmethod
     def _get_file_content_or_empty_string(cls, path: pathlib.Path) -> str:
         try:
-            with open(path, "r") as f:
+            with open(path, "r", encoding='utf-8') as f:
                 return f.read()
         except FileNotFoundError:
             return ""
