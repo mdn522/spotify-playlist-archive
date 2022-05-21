@@ -36,4 +36,4 @@ jobs:
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_CLIENT_REFRESH_TOKEN: ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}
 
-        run: python src/main.py --commit-and-push --auto-register
+        run: python src/main.py --commit-and-push
