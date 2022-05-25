@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Afterglow \- Stephan Baulig Remix](https://open.spotify.com/track/5Z01kGFWQcQA3XBRxjAzAJ) | [Andrew Foy](https://open.spotify.com/artist/65vC7eduMeu5MYUXVqIhyg), [Renee Foy](https://open.spotify.com/artist/4vXLV26Szecr2zx6St7Ppz), [Stephan Baulig](https://open.spotify.com/artist/7gAbIQOGMoPh5J2VtRF5Ks) | [Afterglow \(Stephan Baulig Remix\)](https://open.spotify.com/album/2btVqbLpKsidrTJOAi8Hjp) | 3:33 |
 | 30 | [Confidence](https://open.spotify.com/track/09MGUppO2Y0P6tZdhwcW3v) | [Andrew Lambrou](https://open.spotify.com/artist/2LJg6YXPzGpih3QOUmyruJ) | [Confidence](https://open.spotify.com/album/3wlMlZFFtzZnAj5nWjv94S) | 2:56 |
 
-Snapshot ID: `MCwwMDAwMDAwMGMwNDllMDY3YzhlOTViMmU1NjM1NGNhODhjNjM4MDlk`
+Snapshot ID: `MCwwMDAwMDAwMDZkMGJjNTI0NDYwYzFmNTU3YjE0YmU4M2VlMjEyNDg4`

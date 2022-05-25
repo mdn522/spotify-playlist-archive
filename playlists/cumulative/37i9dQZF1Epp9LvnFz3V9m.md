@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-30 songs - 1 hr 32 min - not published yet
+31 songs - 1 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Lemonade](https://open.spotify.com/track/3O365TKnoeVPP9882sfE7y) | [The Williams Fam](https://open.spotify.com/artist/1PZBqRNEGiNjmdqaN0zx5Y), [dai5y](https://open.spotify.com/artist/1AKSEunGFhazRIyOrOpeYx) | [Lemonade](https://open.spotify.com/album/2mxeQzSmhGWb4z4VB5mSmg) | 2:40 | 2022-05-20 |  |
 | [Let’s Go Home Together \- Madism Remix](https://open.spotify.com/track/3JTL0IcXwN5HMGzzchcytd) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv) | [Let’s Go Home Together \(Madism Remix\)](https://open.spotify.com/album/6at96u3cLvCGpxP4IVrXef) | 3:24 | 2022-05-20 |  |
 | [Love Will Find](https://open.spotify.com/track/6N55sVnUVoCJxcRnpDTpIv) | [MJ Kuok](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM), [Simone](https://open.spotify.com/artist/6HBDT9QhkzdyBcF2ispCH2) | [Love Will Find](https://open.spotify.com/album/4GSRGhIfDUOB2dTen2VU74) | 2:36 | 2022-05-20 |  |
+| [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 | 2022-05-24 |  |
 | [Missing U \(feat\. EMIAH\)](https://open.spotify.com/track/2m8w8VRGE2QifHGlakIGKw) | [Wave Wave](https://open.spotify.com/artist/2jeqYJH4s0yEiqBpfer8s9), [EMIAH](https://open.spotify.com/artist/2SvY2cO17kdD3swIBGOxs8) | [Missing U \(feat\. EMIAH\)](https://open.spotify.com/album/1ygiluY3MG4lehAIB0mrSz) | 2:46 | 2022-05-20 |  |
 | [Nothing to You](https://open.spotify.com/track/6CYFx1jP4F9QPKkY7FtZOd) | [Payson Lewis](https://open.spotify.com/artist/69zyKWGSd3gemLNgqGxaOA) | [Nothing to You](https://open.spotify.com/album/2lcjzxqqyuAPlg4CjL0Ube) | 3:18 | 2022-05-20 |  |
 | [Only Me](https://open.spotify.com/track/2UVx8NvtGV2SFvovb2WV1q) | [Mondays](https://open.spotify.com/artist/2ozPCkyHfA8kLDghkVwGrq), [Agnes Berger](https://open.spotify.com/artist/1xlbdWeFT0zvQwYVqI3Bv5) | [This Is How It Feels](https://open.spotify.com/album/3CU0MJgvNLe0aJDRjBnEVx) | 3:36 | 2022-05-20 |  |
@@ -37,6 +38,6 @@
 | [Wish You Were Here](https://open.spotify.com/track/3h6M4K3mBtb2ywoYhG7954) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Willim](https://open.spotify.com/artist/5bp5XaFz8Py4UFEhQ6FZRk), [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [Wish You Were Here](https://open.spotify.com/album/2tv0WOA2D04Aq8Lo7inH7I) | 2:45 | 2022-05-20 |  |
 | [You and Only You](https://open.spotify.com/track/6qRpvLy7HgD96mWGHiTS2h) | [Arize](https://open.spotify.com/artist/6eq90a47vMudnFCHfKCHV9), [Veso](https://open.spotify.com/artist/1fb9DwFSiBuHksqdCrRUHO) | [You and Only You](https://open.spotify.com/album/5EGMwtY1kyNaLiegr08mhV) | 3:28 | 2022-05-20 |  |
 | [Young Queen](https://open.spotify.com/track/6K75zl2mpjMpfQ5L2ek3a7) | [Mimoza](https://open.spotify.com/artist/22tB2wbnB3pexB04xtncrG) | [Young Queen](https://open.spotify.com/album/6bvBz4vIt50uFYlyKFw9ih) | 3:33 | 2022-05-20 |  |
-| [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 | 2022-05-20 |  |
+| [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 | 2022-05-20 | 2022-05-25 |
 
 \*This playlist was first scraped on 2022-05-21. Prior content cannot be recovered.
