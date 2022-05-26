@@ -1,12 +1,12 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIUQz1cmLGzXi>Emily Mei</a>, <a href=spotify:playlist:37i9dQZF1EIYRTwVMW4CzV>Sorn</a>, <a href=spotify:playlist:37i9dQZF1EIVM6yLFCg8KC>WENGIE</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIUQz1cmLGzXi>Emily Mei</a>, <a href=spotify:playlist:37i9dQZF1EIVM6yLFCg8KC>WENGIE</a>, <a href=spotify:playlist:37i9dQZF1EIYRTwVMW4CzV>Sorn</a> and more",
     "num_followers": 0,
     "original_name": "K-Pop Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTY1MzM3MjAwMCwwMDAwMDAwMDE2MzA4YzkyZWY5YjYzZmI3NTc0NDY5NDM1ODcwZTE0",
+    "snapshot_id": "MTY1MzQ1ODQwMCwwMDAwMDAwMDM5NDc5Mzc2Zjk2NTg2MDZhMzJlOWFhN2IzODljMWJk",
     "tracks": [
         {
             "added_at": null,
@@ -35,6 +35,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "Deja Vu",
+                "url": "https://open.spotify.com/album/4k6gtcTGzxdsfaHphsJEzu"
+            },
+            "artists": [
+                {
+                    "name": "WENGIE",
+                    "url": "https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD"
+                }
+            ],
+            "duration_ms": 134970,
+            "name": "Deja Vu",
+            "url": "https://open.spotify.com/track/2s4tJJozLkks92i2LfFZWi"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "RUN",
                 "url": "https://open.spotify.com/album/7bwlqMGcB1u57m3rUVBn15"
             },
@@ -51,18 +67,102 @@
         {
             "added_at": null,
             "album": {
-                "name": "Deja Vu",
-                "url": "https://open.spotify.com/album/4k6gtcTGzxdsfaHphsJEzu"
+                "name": "ALL OUT",
+                "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
             },
             "artists": [
                 {
-                    "name": "WENGIE",
-                    "url": "https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD"
+                    "name": "K/DA",
+                    "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+                },
+                {
+                    "name": "TWICE",
+                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+                },
+                {
+                    "name": "Bekuh Boom",
+                    "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
+                },
+                {
+                    "name": "Annika Wells",
+                    "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
+                },
+                {
+                    "name": "League of Legends",
+                    "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
                 }
             ],
-            "duration_ms": 134970,
-            "name": "Deja Vu",
-            "url": "https://open.spotify.com/track/2s4tJJozLkks92i2LfFZWi"
+            "duration_ms": 198611,
+            "name": "I'LL SHOW YOU",
+            "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "So Am I (feat. NCT 127)",
+                "url": "https://open.spotify.com/album/67sD3DQJRjLU72NULxjmHB"
+            },
+            "artists": [
+                {
+                    "name": "Ava Max",
+                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                },
+                {
+                    "name": "NCT 127",
+                    "url": "https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH"
+                }
+            ],
+            "duration_ms": 185034,
+            "name": "So Am I (feat. NCT 127)",
+            "url": "https://open.spotify.com/track/6hIP8wBnZ74qA0xOXhXt3v"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "NOEASY",
+                "url": "https://open.spotify.com/album/5fNA1Hs2ddXrf8CWJk1Ww7"
+            },
+            "artists": [
+                {
+                    "name": "Stray Kids",
+                    "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
+                }
+            ],
+            "duration_ms": 212479,
+            "name": "Mixtape : OH",
+            "url": "https://open.spotify.com/track/1keLmLnlRaQbn4mLKp68Nl"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "ALL ABOUT LUV",
+                "url": "https://open.spotify.com/album/2O5KXxROQOR8WOdB8fgTCp"
+            },
+            "artists": [
+                {
+                    "name": "Monsta X",
+                    "url": "https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz"
+                }
+            ],
+            "duration_ms": 171273,
+            "name": "GOT MY NUMBER",
+            "url": "https://open.spotify.com/track/2QI91Tq1F2Tl0slIaSegs1"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "XOXO",
+                "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+            },
+            "artists": [
+                {
+                    "name": "JEON SOMI",
+                    "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                }
+            ],
+            "duration_ms": 147240,
+            "name": "DUMB DUMB",
+            "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
         },
         {
             "added_at": null,
@@ -95,78 +195,82 @@
         {
             "added_at": null,
             "album": {
-                "name": "POP/STARS",
-                "url": "https://open.spotify.com/album/2mjP73W9aToXzuLjePfHWw"
+                "name": "Music Of The Spheres",
+                "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
             },
             "artists": [
                 {
-                    "name": "Seraphine",
-                    "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
+                    "name": "Coldplay",
+                    "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
                 },
-                {
-                    "name": "Jasmine Clarke",
-                    "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
-                },
-                {
-                    "name": "Absofacto",
-                    "url": "https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr"
-                }
-            ],
-            "duration_ms": 160500,
-            "name": "POP/STARS",
-            "url": "https://open.spotify.com/track/1mcgxXkPeUN9wXwEex3poW"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Querencia",
-                "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
-            },
-            "artists": [
-                {
-                    "name": "CHUNG HA",
-                    "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-                },
-                {
-                    "name": "R3HAB",
-                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-                }
-            ],
-            "duration_ms": 192735,
-            "name": "Dream of You (with R3HAB)",
-            "url": "https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "LALISA",
-                "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-            },
-            "artists": [
-                {
-                    "name": "LISA",
-                    "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-                }
-            ],
-            "duration_ms": 168227,
-            "name": "MONEY",
-            "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "MAP OF THE SOUL : PERSONA",
-                "url": "https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6"
-            },
-            "artists": [
                 {
                     "name": "BTS",
                     "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
                 }
             ],
-            "duration_ms": 249215,
-            "name": "Dionysus",
-            "url": "https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN"
+            "duration_ms": 226198,
+            "name": "My Universe",
+            "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "MY",
+                "url": "https://open.spotify.com/album/3Z3fQ47AXd0WfDPiDvMecl"
+            },
+            "artists": [
+                {
+                    "name": "MIYEON",
+                    "url": "https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF"
+                }
+            ],
+            "duration_ms": 201613,
+            "name": "Drive",
+            "url": "https://open.spotify.com/track/0nsIi8do34jaxhKI8C6QLP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "PSY 9th",
+                "url": "https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4"
+            },
+            "artists": [
+                {
+                    "name": "PSY",
+                    "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+                },
+                {
+                    "name": "SUGA",
+                    "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+                }
+            ],
+            "duration_ms": 174646,
+            "name": "That That (prod. & feat. SUGA of BTS)",
+            "url": "https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Fighting Demons (Deluxe)",
+                "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+            },
+            "artists": [
+                {
+                    "name": "Juice WRLD",
+                    "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+                },
+                {
+                    "name": "SUGA",
+                    "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+                },
+                {
+                    "name": "BTS",
+                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+                }
+            ],
+            "duration_ms": 226149,
+            "name": "Girl Of My Dreams (with SUGA of BTS)",
+            "url": "https://open.spotify.com/track/59bY27SZQ4r25o02vqOhgC"
         },
         {
             "added_at": null,
@@ -211,498 +315,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "ALL OUT",
-                "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
-            },
-            "artists": [
-                {
-                    "name": "K/DA",
-                    "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
-                },
-                {
-                    "name": "TWICE",
-                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-                },
-                {
-                    "name": "Bekuh Boom",
-                    "url": "https://open.spotify.com/artist/260LldmHBR0r2wtWtjzNxL"
-                },
-                {
-                    "name": "Annika Wells",
-                    "url": "https://open.spotify.com/artist/0kErUwb6xgWfkdn0RyZWHZ"
-                },
-                {
-                    "name": "League of Legends",
-                    "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-                }
-            ],
-            "duration_ms": 198611,
-            "name": "I'LL SHOW YOU",
-            "url": "https://open.spotify.com/track/6LDIVpVNBRy7LCw7jIdci6"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Music Of The Spheres",
-                "url": "https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb"
-            },
-            "artists": [
-                {
-                    "name": "Coldplay",
-                    "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-                },
-                {
-                    "name": "BTS",
-                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-                }
-            ],
-            "duration_ms": 226198,
-            "name": "My Universe",
-            "url": "https://open.spotify.com/track/46HNZY1i7O6jwTA7Slo2PI"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "IU 5th Album 'LILAC'",
-                "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-            },
-            "artists": [
-                {
-                    "name": "IU",
-                    "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-                }
-            ],
-            "duration_ms": 195546,
-            "name": "Celebrity",
-            "url": "https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Chromatica",
-                "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
-            },
-            "artists": [
-                {
-                    "name": "Lady Gaga",
-                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-                },
-                {
-                    "name": "BLACKPINK",
-                    "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-                }
-            ],
-            "duration_ms": 157706,
-            "name": "Sour Candy (with BLACKPINK)",
-            "url": "https://open.spotify.com/track/1IWNylpZ477gIVUDpJL66u"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "~how i'm feeling~",
-                "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
-            },
-            "artists": [
-                {
-                    "name": "Lauv",
-                    "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-                },
-                {
-                    "name": "BTS",
-                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-                }
-            ],
-            "duration_ms": 180413,
-            "name": "Who (feat. BTS)",
-            "url": "https://open.spotify.com/track/2qG81jL9UIP54uS8gYyP4k"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "GUESS WHO",
-                "url": "https://open.spotify.com/album/2XpMmJUrM3e5qdCUpJqXA7"
-            },
-            "artists": [
-                {
-                    "name": "ITZY",
-                    "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-                }
-            ],
-            "duration_ms": 139213,
-            "name": "SHOOT!",
-            "url": "https://open.spotify.com/track/2OCR46ZCjCOi8BfkUYQ4S1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "All The Things She Said",
-                "url": "https://open.spotify.com/album/4xeJ8q56ty4DJaroHrx2tc"
-            },
-            "artists": [
-                {
-                    "name": "Seraphine",
-                    "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
-                },
-                {
-                    "name": "Jasmine Clarke",
-                    "url": "https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc"
-                },
-                {
-                    "name": "Absofacto",
-                    "url": "https://open.spotify.com/artist/7gAYvcQFmAruyvwGjxrSUr"
-                }
-            ],
-            "duration_ms": 131343,
-            "name": "All The Things She Said",
-            "url": "https://open.spotify.com/track/1GglmI9q5ABCHSBoZrMHSu"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Red Diary Page.1",
-                "url": "https://open.spotify.com/album/0d3mf5fBaIBbozCgeEI9AE"
-            },
-            "artists": [
-                {
-                    "name": "BOL4",
-                    "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-                }
-            ],
-            "duration_ms": 181373,
-            "name": "Some",
-            "url": "https://open.spotify.com/track/3jsYQw78lrxJA2ysnmOIf9"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "minisode 2: Thursday's Child",
-                "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-            },
-            "artists": [
-                {
-                    "name": "TOMORROW X TOGETHER",
-                    "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-                }
-            ],
-            "duration_ms": 156364,
-            "name": "Trust Fund Baby",
-            "url": "https://open.spotify.com/track/20pl0RVGT7P6L1Jr9p51nw"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Love Yourself 轉 'Tear'",
-                "url": "https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O"
-            },
-            "artists": [
-                {
-                    "name": "BTS",
-                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-                }
-            ],
-            "duration_ms": 221529,
-            "name": "Love Maze",
-            "url": "https://open.spotify.com/track/4ROdFnoZNn2RTmwct0cVpx"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Maria",
-                "url": "https://open.spotify.com/album/4oLJXInwA9ndm42QETdPyT"
-            },
-            "artists": [
-                {
-                    "name": "Hwa Sa",
-                    "url": "https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ"
-                }
-            ],
-            "duration_ms": 199026,
-            "name": "Maria",
-            "url": "https://open.spotify.com/track/2kqnQCChvRpDRAasIwc4Rh"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "FLASHBACK",
-                "url": "https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm"
-            },
-            "artists": [
-                {
-                    "name": "iKON",
-                    "url": "https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM"
-                }
-            ],
-            "duration_ms": 212687,
-            "name": "BUT YOU",
-            "url": "https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Rollin'",
-                "url": "https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq"
-            },
-            "artists": [
-                {
-                    "name": "Brave Girls",
-                    "url": "https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB"
-                }
-            ],
-            "duration_ms": 197710,
-            "name": "Rollin'",
-            "url": "https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "I burn",
-                "url": "https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe"
-            },
-            "artists": [
-                {
-                    "name": "(G)I-DLE",
-                    "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-                }
-            ],
-            "duration_ms": 197320,
-            "name": "HWAA",
-            "url": "https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "There And Back Again",
-                "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-            },
-            "artists": [
-                {
-                    "name": "Eric Nam",
-                    "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-                }
-            ],
-            "duration_ms": 174386,
-            "name": "Lost On Me",
-            "url": "https://open.spotify.com/track/5ijpPkVMurycFFfNKVlcoc"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "FANCY YOU",
-                "url": "https://open.spotify.com/album/4Zy7aEg2i4mlS9DWXgVqve"
-            },
-            "artists": [
-                {
-                    "name": "TWICE",
-                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-                }
-            ],
-            "duration_ms": 213885,
-            "name": "FANCY",
-            "url": "https://open.spotify.com/track/2FXd6kKCtBIc6UfN1gH1pA"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "SQUARE ONE",
-                "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
-            },
-            "artists": [
-                {
-                    "name": "BLACKPINK",
-                    "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-                }
-            ],
-            "duration_ms": 211631,
-            "name": "WHISTLE",
-            "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ODDINARY",
-                "url": "https://open.spotify.com/album/1byOOf9U3IiQN1cVHqRqEF"
-            },
-            "artists": [
-                {
-                    "name": "Stray Kids",
-                    "url": "https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE"
-                }
-            ],
-            "duration_ms": 188573,
-            "name": "Charmer",
-            "url": "https://open.spotify.com/track/5PyqnR2KX6a6qwf6l9rgpj"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "BE",
-                "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
-            },
-            "artists": [
-                {
-                    "name": "BTS",
-                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-                }
-            ],
-            "duration_ms": 199053,
-            "name": "Dynamite",
-            "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ITAEWON CLASS (Original Television Soundtrack) Pt. 12",
-                "url": "https://open.spotify.com/album/1q3j12Y1sp2eqqffSnyA93"
-            },
-            "artists": [
-                {
-                    "name": "V",
-                    "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-                }
-            ],
-            "duration_ms": 214258,
-            "name": "Sweet Night",
-            "url": "https://open.spotify.com/track/39EXZNMxb4RBHlRjnRaOKp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "SOLO",
-                "url": "https://open.spotify.com/album/7qAJpYeABXN9ZV5wOOX59k"
-            },
-            "artists": [
-                {
-                    "name": "JENNIE",
-                    "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-                }
-            ],
-            "duration_ms": 169566,
-            "name": "SOLO",
-            "url": "https://open.spotify.com/track/2wVDWtLKXunswWecARNILj"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ALL OUT",
-                "url": "https://open.spotify.com/album/26IdRjba8f8DNa7c0FwfQb"
-            },
-            "artists": [
-                {
-                    "name": "K/DA",
-                    "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
-                },
-                {
-                    "name": "Madison Beer",
-                    "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-                },
-                {
-                    "name": "Kim Petras",
-                    "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-                },
-                {
-                    "name": "League of Legends",
-                    "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
-                }
-            ],
-            "duration_ms": 199125,
-            "name": "VILLAIN",
-            "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bad Boy",
-                "url": "https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q"
-            },
-            "artists": [
-                {
-                    "name": "CHUNG HA",
-                    "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-                },
-                {
-                    "name": "Christopher",
-                    "url": "https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC"
-                }
-            ],
-            "duration_ms": 182586,
-            "name": "Bad Boy",
-            "url": "https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "DIMENSION : ANSWER",
-                "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
-            },
-            "artists": [
-                {
-                    "name": "ENHYPEN",
-                    "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
-                }
-            ],
-            "duration_ms": 184601,
-            "name": "Polaroid Love",
-            "url": "https://open.spotify.com/track/5elW2CKSoqjYoJ32AGDxf1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Stay Alive (Prod. SUGA of BTS)",
-                "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
-            },
-            "artists": [
-                {
-                    "name": "Jung Kook",
-                    "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-                }
-            ],
-            "duration_ms": 210928,
-            "name": "Stay Alive (Prod. SUGA of BTS)",
-            "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Savage Love (Laxed - Siren Beat) [BTS Remix]",
-                "url": "https://open.spotify.com/album/5O6izFQ2veRaZOcQSyOi4o"
-            },
-            "artists": [
-                {
-                    "name": "Jawsh 685",
-                    "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-                },
-                {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-                },
-                {
-                    "name": "BTS",
-                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-                }
-            ],
-            "duration_ms": 184905,
-            "name": "Savage Love (Laxed – Siren Beat) [BTS Remix]",
-            "url": "https://open.spotify.com/track/4TgxFMOn5yoESW6zCidCXL"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "BLACKPINK IN YOUR AREA (Japanese Version)",
-                "url": "https://open.spotify.com/album/4cpZazoKuj3jD6x2GrSX2w"
-            },
-            "artists": [
-                {
-                    "name": "BLACKPINK",
-                    "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-                }
-            ],
-            "duration_ms": 209493,
-            "name": "DDU-DU DDU-DU - Japanese Version",
-            "url": "https://open.spotify.com/track/4jUEHIrc443f743JbyLN0y"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Butter (Megan Thee Stallion Remix)",
                 "url": "https://open.spotify.com/album/0ze8IhE4fLLfu5lET12g5v"
             },
@@ -723,56 +335,60 @@
         {
             "added_at": null,
             "album": {
-                "name": "LALISA",
-                "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+                "name": "R",
+                "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
             },
             "artists": [
                 {
-                    "name": "LISA",
-                    "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+                    "name": "ROSÉ",
+                    "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
                 }
             ],
-            "duration_ms": 200689,
-            "name": "LALISA",
-            "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+            "duration_ms": 207163,
+            "name": "Gone",
+            "url": "https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Formula of Love: O+T=<3",
-                "url": "https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi"
+                "name": "오늘 조금 취해서 그래",
+                "url": "https://open.spotify.com/album/6QpIl0FPITcpoJTn5HP4vD"
             },
             "artists": [
                 {
-                    "name": "TWICE",
-                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+                    "name": "YOUHA",
+                    "url": "https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan"
                 }
             ],
-            "duration_ms": 194600,
-            "name": "SCIENTIST",
-            "url": "https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa"
+            "duration_ms": 165545,
+            "name": "오늘 조금 취해서 그래",
+            "url": "https://open.spotify.com/track/1pU5SijPp89lNrZHJL0166"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Twenty-Five Twenty-One OST Part 4",
-                "url": "https://open.spotify.com/album/2Y4nbZENK8auf4oVoQTZ0Y"
+                "name": "Querencia",
+                "url": "https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3"
             },
             "artists": [
                 {
-                    "name": "Wonstein",
-                    "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+                    "name": "CHUNG HA",
+                    "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+                },
+                {
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
                 }
             ],
-            "duration_ms": 204229,
-            "name": "Your Existence",
-            "url": "https://open.spotify.com/track/2tmX4T7ODY34NwvQ3DD3MC"
+            "duration_ms": 192735,
+            "name": "Dream of You (with R3HAB)",
+            "url": "https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa"
         },
         {
             "added_at": null,
             "album": {
-                "name": "strawberry moon",
-                "url": "https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb"
+                "name": "IU 5th Album 'LILAC'",
+                "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
             },
             "artists": [
                 {
@@ -780,69 +396,61 @@
                     "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
                 }
             ],
-            "duration_ms": 205333,
-            "name": "strawberry moon",
-            "url": "https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz"
+            "duration_ms": 195546,
+            "name": "Celebrity",
+            "url": "https://open.spotify.com/track/5nCwjUUsmBuNZKn9Xu10Os"
         },
         {
             "added_at": null,
             "album": {
-                "name": "THE SECOND STEP : CHAPTER ONE",
-                "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+                "name": "GUESS WHO",
+                "url": "https://open.spotify.com/album/2XpMmJUrM3e5qdCUpJqXA7"
             },
             "artists": [
                 {
-                    "name": "TREASURE",
-                    "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+                    "name": "ITZY",
+                    "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
                 }
             ],
-            "duration_ms": 220716,
-            "name": "DARARI",
-            "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+            "duration_ms": 139213,
+            "name": "SHOOT!",
+            "url": "https://open.spotify.com/track/2OCR46ZCjCOi8BfkUYQ4S1"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Fighting Demons (Deluxe)",
-                "url": "https://open.spotify.com/album/1typPCwqyXMfFpvDZAyKew"
+                "name": "Guardian (Original Television Soundtrack), Pt. 1",
+                "url": "https://open.spotify.com/album/6Pr1DaOWfT6hEewhZMRyqg"
             },
             "artists": [
                 {
-                    "name": "Juice WRLD",
-                    "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+                    "name": "CHANYEOL",
+                    "url": "https://open.spotify.com/artist/6jV25rzTKQ2zMgrqHha1V5"
                 },
                 {
-                    "name": "SUGA",
-                    "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-                },
+                    "name": "Punch",
+                    "url": "https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm"
+                }
+            ],
+            "duration_ms": 192441,
+            "name": "Stay With Me",
+            "url": "https://open.spotify.com/track/1HYzRuWjmS9LXCkdVHi25K"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "BE",
+                "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+            },
+            "artists": [
                 {
                     "name": "BTS",
                     "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
                 }
             ],
-            "duration_ms": 226149,
-            "name": "Girl Of My Dreams (with SUGA of BTS)",
-            "url": "https://open.spotify.com/track/59bY27SZQ4r25o02vqOhgC"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dua Lipa (Complete Edition)",
-                "url": "https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o"
-            },
-            "artists": [
-                {
-                    "name": "Dua Lipa",
-                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-                },
-                {
-                    "name": "BLACKPINK",
-                    "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-                }
-            ],
-            "duration_ms": 190560,
-            "name": "Kiss and Make Up",
-            "url": "https://open.spotify.com/track/13hvHEstJ4sNbzdroPrPI3"
+            "duration_ms": 199053,
+            "name": "Dynamite",
+            "url": "https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW"
         },
         {
             "added_at": null,
@@ -856,25 +464,73 @@
                     "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
                 }
             ],
-            "duration_ms": 147240,
-            "name": "DUMB DUMB",
-            "url": "https://open.spotify.com/track/5VXSt0cvi5wtJTox0wKI4x"
+            "duration_ms": 197701,
+            "name": "Anymore",
+            "url": "https://open.spotify.com/track/6GwtJzM3yffZ4FJ39QuUcE"
         },
         {
             "added_at": null,
             "album": {
-                "name": "[Apocalypse : Save us]",
-                "url": "https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5"
+                "name": "Lips On Lips",
+                "url": "https://open.spotify.com/album/1aF0pJ3HIGr4dHoForpVFo"
             },
             "artists": [
                 {
-                    "name": "Dreamcatcher",
-                    "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+                    "name": "Tiffany Young",
+                    "url": "https://open.spotify.com/artist/2lkCfFklQDBPlQzS4tR3VP"
                 }
             ],
-            "duration_ms": 185733,
-            "name": "MAISON",
-            "url": "https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9"
+            "duration_ms": 224253,
+            "name": "Lips On Lips",
+            "url": "https://open.spotify.com/track/06KVx1il9j6VbQfVtFXpW8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Stay Alive (Prod. SUGA of BTS)",
+                "url": "https://open.spotify.com/album/6nvSZLAsbg56fGSCVm8fL9"
+            },
+            "artists": [
+                {
+                    "name": "Jung Kook",
+                    "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+                }
+            ],
+            "duration_ms": 210928,
+            "name": "Stay Alive (Prod. SUGA of BTS)",
+            "url": "https://open.spotify.com/track/7CAdT0HdiQNlt1C7xk2hep"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "R",
+                "url": "https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob"
+            },
+            "artists": [
+                {
+                    "name": "ROSÉ",
+                    "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+                }
+            ],
+            "duration_ms": 168085,
+            "name": "On The Ground",
+            "url": "https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "ESPER",
+                "url": "https://open.spotify.com/album/6A2dUUgMfNcqklkYq7ehTo"
+            },
+            "artists": [
+                {
+                    "name": "KWON EUN BI",
+                    "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+                }
+            ],
+            "duration_ms": 192386,
+            "name": "ESPER",
+            "url": "https://open.spotify.com/track/1zJRBZUlkdfvSP1071YkZF"
         },
         {
             "added_at": null,
@@ -895,6 +551,366 @@
         {
             "added_at": null,
             "album": {
+                "name": "Doom at Your Service (Original Television Soundtrack) Pt. 1",
+                "url": "https://open.spotify.com/album/1eIWQeJo92MqiR7i2BELDC"
+            },
+            "artists": [
+                {
+                    "name": "AILEE",
+                    "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+                }
+            ],
+            "duration_ms": 223706,
+            "name": "Breaking Down",
+            "url": "https://open.spotify.com/track/4qXVjZZ48aShiyCqxhkuJP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "CRY FOR ME",
+                "url": "https://open.spotify.com/album/1Zk459EmzjRKMYbfxMY5CY"
+            },
+            "artists": [
+                {
+                    "name": "TWICE",
+                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+                }
+            ],
+            "duration_ms": 204167,
+            "name": "CRY FOR ME",
+            "url": "https://open.spotify.com/track/0PoAZ7SLFpqpYR9LSCYAo8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "MORE",
+                "url": "https://open.spotify.com/album/23yd1cYlPgl643vE8bb0WD"
+            },
+            "artists": [
+                {
+                    "name": "K/DA",
+                    "url": "https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v"
+                },
+                {
+                    "name": "Madison Beer",
+                    "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+                },
+                {
+                    "name": "(G)I-DLE",
+                    "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                },
+                {
+                    "name": "Lexie Liu",
+                    "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
+                },
+                {
+                    "name": "Jaira Burns",
+                    "url": "https://open.spotify.com/artist/0tRFWXqKBBQcu5oFVOgVzX"
+                },
+                {
+                    "name": "Seraphine",
+                    "url": "https://open.spotify.com/artist/4TqlcgMFDryY96KWcvrhTv"
+                },
+                {
+                    "name": "League of Legends",
+                    "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+                }
+            ],
+            "duration_ms": 217088,
+            "name": "MORE",
+            "url": "https://open.spotify.com/track/6juLaduD4STCUDWT0AYun4"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "BORDER : CARNIVAL",
+                "url": "https://open.spotify.com/album/4LGYBcRsteiXjcPD4QQvxv"
+            },
+            "artists": [
+                {
+                    "name": "ENHYPEN",
+                    "url": "https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9"
+                }
+            ],
+            "duration_ms": 172106,
+            "name": "FEVER",
+            "url": "https://open.spotify.com/track/0UzymivvUH5s8z4PeWZJaK"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Hate that…",
+                "url": "https://open.spotify.com/album/1UUUddQBS8Q5aOyhCQfGaD"
+            },
+            "artists": [
+                {
+                    "name": "KEY",
+                    "url": "https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v"
+                },
+                {
+                    "name": "TAEYEON",
+                    "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+                }
+            ],
+            "duration_ms": 185413,
+            "name": "Hate that…",
+            "url": "https://open.spotify.com/track/7f5np1evozJ5kXUXXztTSm"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "XOXO",
+                "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+            },
+            "artists": [
+                {
+                    "name": "JEON SOMI",
+                    "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+                }
+            ],
+            "duration_ms": 207650,
+            "name": "XOXO",
+            "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "cheer up!",
+                "url": "https://open.spotify.com/album/3HNKi1VPNc9IfEUs7RtyO8"
+            },
+            "artists": [
+                {
+                    "name": "suggi",
+                    "url": "https://open.spotify.com/artist/1plTV3dffWAksGX2XEQKvS"
+                }
+            ],
+            "duration_ms": 240000,
+            "name": "astroboy.",
+            "url": "https://open.spotify.com/track/5B7K0zs5gkaueWXzgd0vk7"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "SQUARE ONE",
+                "url": "https://open.spotify.com/album/0FOOodYRlj7gzh7q7IjmNZ"
+            },
+            "artists": [
+                {
+                    "name": "BLACKPINK",
+                    "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+                }
+            ],
+            "duration_ms": 211631,
+            "name": "WHISTLE",
+            "url": "https://open.spotify.com/track/6NEoeBLQbOMw92qMeLfI40"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "THE SECOND STEP : CHAPTER ONE",
+                "url": "https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ"
+            },
+            "artists": [
+                {
+                    "name": "TREASURE",
+                    "url": "https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP"
+                }
+            ],
+            "duration_ms": 220716,
+            "name": "DARARI",
+            "url": "https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Eyes wide open",
+                "url": "https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua"
+            },
+            "artists": [
+                {
+                    "name": "TWICE",
+                    "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+                }
+            ],
+            "duration_ms": 205493,
+            "name": "I CAN'T STOP ME",
+            "url": "https://open.spotify.com/track/3apeXzypBMnUfYcZYNX6DH"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "BE",
+                "url": "https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr"
+            },
+            "artists": [
+                {
+                    "name": "BTS",
+                    "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+                }
+            ],
+            "duration_ms": 207481,
+            "name": "Life Goes On",
+            "url": "https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "FEARLESS",
+                "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+            },
+            "artists": [
+                {
+                    "name": "LE SSERAFIM",
+                    "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+                }
+            ],
+            "duration_ms": 201894,
+            "name": "Blue Flame",
+            "url": "https://open.spotify.com/track/37YoRLUu1qId0ewavgvnkG"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "I NEVER DIE",
+                "url": "https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk"
+            },
+            "artists": [
+                {
+                    "name": "(G)I-DLE",
+                    "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+                }
+            ],
+            "duration_ms": 174386,
+            "name": "TOMBOY",
+            "url": "https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "LOVE DIVE",
+                "url": "https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p"
+            },
+            "artists": [
+                {
+                    "name": "IVE",
+                    "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+                }
+            ],
+            "duration_ms": 177186,
+            "name": "LOVE DIVE",
+            "url": "https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Our Blues, Pt. 4 (Original Television Soundtrack)",
+                "url": "https://open.spotify.com/album/3Zu8uym76sjmYEGTFsXnSy"
+            },
+            "artists": [
+                {
+                    "name": "Jimin",
+                    "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+                },
+                {
+                    "name": "HA SUNG WOON",
+                    "url": "https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU"
+                }
+            ],
+            "duration_ms": 201905,
+            "name": "With you",
+            "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "ZOOM",
+                "url": "https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz"
+            },
+            "artists": [
+                {
+                    "name": "Jessi",
+                    "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+                }
+            ],
+            "duration_ms": 174840,
+            "name": "ZOOM",
+            "url": "https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "eight",
+                "url": "https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt"
+            },
+            "artists": [
+                {
+                    "name": "IU",
+                    "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+                },
+                {
+                    "name": "SUGA",
+                    "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+                }
+            ],
+            "duration_ms": 167573,
+            "name": "eight(Prod.&Feat. SUGA of BTS)",
+            "url": "https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Savage - The 1st Mini Album",
+                "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
+            },
+            "artists": [
+                {
+                    "name": "aespa",
+                    "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+                }
+            ],
+            "duration_ms": 238143,
+            "name": "Savage",
+            "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Wrap Me In Plastic",
+                "url": "https://open.spotify.com/album/58VYPx8GBYTf3Sz2RyPApB"
+            },
+            "artists": [
+                {
+                    "name": "MOMOLAND",
+                    "url": "https://open.spotify.com/artist/5RR0MLwcjc87wjSw2JYdwx"
+                },
+                {
+                    "name": "CHROMANCE",
+                    "url": "https://open.spotify.com/artist/0fEj1fYIQwWj1bzzAto9rp"
+                }
+            ],
+            "duration_ms": 192808,
+            "name": "Wrap Me In Plastic",
+            "url": "https://open.spotify.com/track/5mpWGq83n0sIgGRopGk5QZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Guardian (Original Television Soundtrack), Pt. 4",
+                "url": "https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS"
+            },
+            "artists": [
+                {
+                    "name": "Crush",
+                    "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+                }
+            ],
+            "duration_ms": 227583,
+            "name": "Beautiful",
+            "url": "https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "CRAZY IN LOVE",
                 "url": "https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh"
             },
@@ -907,22 +923,6 @@
             "duration_ms": 191462,
             "name": "LOCO",
             "url": "https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "minisode 2: Thursday's Child",
-                "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
-            },
-            "artists": [
-                {
-                    "name": "TOMORROW X TOGETHER",
-                    "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-                }
-            ],
-            "duration_ms": 191038,
-            "name": "Good Boy Gone Bad",
-            "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
         }
     ],
     "unique_name": "K-Pop Mix",
