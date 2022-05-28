@@ -24,6 +24,7 @@
 - [House Mix](/playlists/pretty/37i9dQZF1EQpoj8u9Hn81e.md)
 - [K\-Pop Mix](/playlists/pretty/37i9dQZF1EQpesGsmIyqcW.md)
 - [Latin Mix](/playlists/pretty/37i9dQZF1EQmK1rjZuPGDt.md)
+- [Mandopop Mix](/playlists/pretty/37i9dQZF1EQpwudUiy0F5a.md)
 - [Moody Mix](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md)
 - [On Repeat](/playlists/pretty/37i9dQZF1Epp9LvnFz3V9m.md)
 - [Pop Mix](/playlists/pretty/37i9dQZF1EQncLwOalG3K7.md)
