@@ -2,7 +2,7 @@
 
 ### [Cappa Mix](https://open.spotify.com/playlist/37i9dQZF1EIXtSmp4zGkpf)
 
-> <a href=spotify:playlist:37i9dQZF1EIXTfOhVsCiWl>SVRCINA</a>, <a href=spotify:playlist:37i9dQZF1EIYNNINOqf6vQ>Chloe Tang</a>, <a href=spotify:playlist:37i9dQZF1EIYBL4JP7Gs7q>Linney</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUtsnp8Ojs3m>NATIIVE</a>, <a href=spotify:playlist:37i9dQZF1EIWAk3zCocAFF>Maty Noyes</a>, <a href=spotify:playlist:37i9dQZF1EIYBL4JP7Gs7q>Linney</a> and more
 
 214 songs - 11 hr 27 min - not published yet
 

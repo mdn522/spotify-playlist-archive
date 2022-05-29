@@ -129,7 +129,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 209275,
             "name": "All Your Exes",
             "url": "https://open.spotify.com/track/0sm5R6MjXORjLcs1bulN6n"
@@ -165,7 +165,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 149046,
             "name": "Another Guy",
             "url": "https://open.spotify.com/track/1WuSar2HiGJ5ZVxCcutPcG"
@@ -205,7 +205,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 290146,
             "name": "Apocalypse",
             "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -245,7 +245,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 172250,
             "name": "Bad Habits",
             "url": "https://open.spotify.com/track/2UeYdy5tWqA5pvTvBFz24U"
@@ -317,7 +317,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 200523,
             "name": "Black Hole",
             "url": "https://open.spotify.com/track/0vnKE8ukNmF641XhnEyZJD"
@@ -479,7 +479,7 @@
             ],
             "date_added": "2022-05-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 190266,
             "name": "Coping",
             "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
@@ -497,7 +497,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 190700,
             "name": "Crash",
             "url": "https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ"
@@ -537,7 +537,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 173429,
             "name": "Cry for You",
             "url": "https://open.spotify.com/track/1htEVDKgKDFr8ELBA1h0r0"
@@ -555,7 +555,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 197732,
             "name": "Dancing With Your Ghost",
             "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
@@ -674,6 +674,24 @@
         },
         {
             "album": {
+                "name": "Everybody But Me",
+                "url": "https://open.spotify.com/album/0ePcYIbJgTFOjxvJhaKvbB"
+            },
+            "artists": [
+                {
+                    "name": "Nick Wilson",
+                    "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+                }
+            ],
+            "date_added": "2022-05-29",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 184633,
+            "name": "Everybody But Me",
+            "url": "https://open.spotify.com/track/4HzmjPPHHiYwrXPq9Tv1fx"
+        },
+        {
+            "album": {
                 "name": "World Of Walker",
                 "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
             },
@@ -725,7 +743,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 165425,
             "name": "Fazed",
             "url": "https://open.spotify.com/track/7HbBkhywBEDwpLhXkdS6S8"
@@ -783,7 +801,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 153190,
             "name": "Ghost",
             "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -935,7 +953,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 191375,
             "name": "Hurts So Good - Maximillian & Kina Version",
             "url": "https://open.spotify.com/track/5k0bVtIAXVdK2zc53W8Lh5"
@@ -1091,7 +1109,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 158740,
             "name": "i'm so alone",
             "url": "https://open.spotify.com/track/07Fq8R0RvxC6BEN1FJJhP4"
@@ -1371,10 +1389,28 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 148666,
             "name": "like a ghost",
             "url": "https://open.spotify.com/track/4bJNErUhEiZHkFtAwQDycd"
+        },
+        {
+            "album": {
+                "name": "Like My Father",
+                "url": "https://open.spotify.com/album/0EKm3aZ46GWhE31rdKY5oj"
+            },
+            "artists": [
+                {
+                    "name": "Jax",
+                    "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+                }
+            ],
+            "date_added": "2022-05-29",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 183428,
+            "name": "Like My Father",
+            "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
         },
         {
             "album": {
@@ -1590,6 +1626,24 @@
         },
         {
             "album": {
+                "name": "JORDI (Deluxe)",
+                "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+            },
+            "artists": [
+                {
+                    "name": "Maroon 5",
+                    "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+                }
+            ],
+            "date_added": "2022-05-29",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 189486,
+            "name": "Memories",
+            "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+        },
+        {
+            "album": {
                 "name": "I'm a Bad Actress: A Collection",
                 "url": "https://open.spotify.com/album/6dNwkhGZwNhcJgv8WEcb66"
             },
@@ -1673,7 +1727,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 206419,
             "name": "No One Can Fix Me",
             "url": "https://open.spotify.com/track/4h60jyYhzyG060iYvtaQd1"
@@ -1875,7 +1929,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 176566,
             "name": "Sabotage",
             "url": "https://open.spotify.com/track/1nil655gJpCzrbqiqC0NLX"
@@ -1911,7 +1965,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 206772,
             "name": "she's all i wanna be",
             "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
@@ -2005,7 +2059,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 214961,
             "name": "Smiling",
             "url": "https://open.spotify.com/track/1lxGqcyktkUXY9VRG2fyiH"
@@ -2023,7 +2077,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 182160,
             "name": "Someone You Loved",
             "url": "https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf"
@@ -2135,7 +2189,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-25",
+            "date_removed": null,
             "duration_ms": 174299,
             "name": "that way - with Jeremy Zucker",
             "url": "https://open.spotify.com/track/6W4SftknKhWj0iFoHN7aYU"
@@ -2189,7 +2243,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-27",
+            "date_removed": null,
             "duration_ms": 183243,
             "name": "The Way You Felt",
             "url": "https://open.spotify.com/track/5myjSxfvS8pzSMK3jJcfIL"
@@ -2308,6 +2362,24 @@
         },
         {
             "album": {
+                "name": "Turn Back Time",
+                "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
+            },
+            "artists": [
+                {
+                    "name": "Daniel Schulz",
+                    "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
+                }
+            ],
+            "date_added": "2022-05-29",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 223561,
+            "name": "Turn Back Time",
+            "url": "https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3"
+        },
+        {
+            "album": {
                 "name": "FRIENDS KEEP SECRETS 2",
                 "url": "https://open.spotify.com/album/7jainWomsRbTs5dGUOP21C"
             },
@@ -2377,7 +2449,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-05-29",
             "duration_ms": 216864,
             "name": "Walked Through Hell",
             "url": "https://open.spotify.com/track/4N2LGoEJi3aGDgEAnsjtBz"
