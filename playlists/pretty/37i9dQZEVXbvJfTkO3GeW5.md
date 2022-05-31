@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 25 | [Madness](https://open.spotify.com/track/3Uh7yYNERtRGfCnxIajStW) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Madness](https://open.spotify.com/album/2RKql48vI660saCrq2IHdQ) | 2:58 |
 | 26 | [See Me Now](https://open.spotify.com/track/70TzwIoSdIcMyQO5gBAoqO) | [Mindme](https://open.spotify.com/artist/5DwnPlijNCMYMFh40sQ4vX) | [See Me Now](https://open.spotify.com/album/79szB3KZVPEI2dnCeAbEOt) | 3:00 |
 | 27 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 |
-| 28 | [If I Disappear](https://open.spotify.com/track/66tENrg2vef7mVXMvNK9co) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/3ZqUck8YbKFNhVgaCUGBTB) | 3:28 |
-| 29 | [Send Me Your Love](https://open.spotify.com/track/6wrNFRoZiTNktHxEON0iym) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Send Me Your Love](https://open.spotify.com/album/4sECdyKBxvS4EM1fMyvvmP) | 2:47 |
-| 30 | [سورة الحاقة](https://open.spotify.com/track/0SGRr66tJ3RPbLxg7xFrai) | [Islam Sobhi](https://open.spotify.com/artist/0RvVEnuKnzlPBTlzc34ElP) | [روائع التلاوات :: الجزء الثاني](https://open.spotify.com/album/3fRW33XwJ49r0juoVBI2dt) | 5:46 |
+| 28 | [Love Song](https://open.spotify.com/track/6hZRjsX9NWeAp0d6Vptk6L) | [VAIL](https://open.spotify.com/artist/7EHAQkwS4oaYSnRCbo0BZo) | [Love Song](https://open.spotify.com/album/24GYBEyaUznH452tRNfXBw) | 1:58 |
+| 29 | [If I Disappear](https://open.spotify.com/track/66tENrg2vef7mVXMvNK9co) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/3ZqUck8YbKFNhVgaCUGBTB) | 3:28 |
+| 30 | [Send Me Your Love](https://open.spotify.com/track/6wrNFRoZiTNktHxEON0iym) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Send Me Your Love](https://open.spotify.com/album/4sECdyKBxvS4EM1fMyvvmP) | 2:47 |
 
-Snapshot ID: `Mjc1NTk4MDAsMDAwMDAwMDBlODQ5NTEwMjg2ZjAzNWQxYzM1ZjQ0ODUxZDRjNDlmMg==`
+Snapshot ID: `Mjc1NTk4MDAsMDAwMDAwMDBjMjA2YmI5NjQzODdlMmJiYzM0N2I1ZWE0MTk5NDMyMA==`
