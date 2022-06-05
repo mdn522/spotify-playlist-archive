@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 31 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,6 +38,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 28 | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/track/4Xba44w0LihzNJj1xgjs8J) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Shashwat Singh](https://open.spotify.com/artist/6iv4lysB1yHXoZJ2gfqTdh), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [De Taali \(From "Bhool Bhulaiyaa 2"\)](https://open.spotify.com/album/124jf3Uj8NOBismag9calO) | 3:30 |
 | 29 | [Waterfall \- Todd Edwards Remix](https://open.spotify.com/track/46tAI9ary3weGWhtHl1LPK) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Waterfall \(Todd Edwards Remix\)](https://open.spotify.com/album/20Ye21dWe26xm4BjYo5eJv) | 5:38 |
 | 30 | [Jeena Zaroori Hai](https://open.spotify.com/track/3MkQtNRb56jUGNt4XkcWtA) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1), [Deepika Tripathy](https://open.spotify.com/artist/4gZ2lodSlCEsCtj0ZPnN95) | [Jeena Zaroori Hai](https://open.spotify.com/album/6NdVPyeCdmqKIWM3NxTn8F) | 4:29 |
-| 31 | [Send Me Your Love](https://open.spotify.com/track/6wrNFRoZiTNktHxEON0iym) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Send Me Your Love](https://open.spotify.com/album/4sECdyKBxvS4EM1fMyvvmP) | 2:47 |
 
-Snapshot ID: `Mjc1Njk4ODAsMDAwMDAwMDA3ZjA2OTViZjQ3ZDI3OWVjN2UyNThlODg5OWRlOTBlMA==`
+Snapshot ID: `Mjc1Njk4ODAsMDAwMDAwMDAwNzE2ZWI0NjdiZjczZTgyNmY3YWE2MjNiZDVjMzY1MQ==`
