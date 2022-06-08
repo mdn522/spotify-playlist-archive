@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 8 | [Questions](https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Questions](https://open.spotify.com/album/5HyQdrY2jAKPhK1OqX7yOR) | 2:57 |
 | 9 | [Phantom](https://open.spotify.com/track/2teNIGhw8I0gYLPZ9aDt1E) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq), [Merethe Soltvedt](https://open.spotify.com/artist/1i7a9nOCTM0yNCWgIDUeAC) | [Myth](https://open.spotify.com/album/5iZq2XooveQg7ZgfxN9oS9) | 3:28 |
 | 10 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 |
-| 11 | [403 \- Monstercat Call of the Wild](https://open.spotify.com/track/0hP0879BL8tnA1zUzMJ7cs) | [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Monstercat Call of the Wild](https://open.spotify.com/artist/3GLfDAV3PJ4jMMZ0UUjwig) | [403 \- Monstercat Call of the Wild](https://open.spotify.com/album/6wIe3e2KSDEauxBIqQOJUV) | 59:22 |
-| 12 | [Cheat Code \- Remix](https://open.spotify.com/track/4JxDZFPr5AlXT6E4RtR5N8) | [Max Rena](https://open.spotify.com/artist/477ionkvc2pdWOOLi4NQHi), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Cheat Code \(Remix\)](https://open.spotify.com/album/20WUEkjRqqbnjNLgtRAXFY) | 3:56 |
+| 11 | [Cheat Code \- Remix](https://open.spotify.com/track/4JxDZFPr5AlXT6E4RtR5N8) | [Max Rena](https://open.spotify.com/artist/477ionkvc2pdWOOLi4NQHi), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Cheat Code \(Remix\)](https://open.spotify.com/album/20WUEkjRqqbnjNLgtRAXFY) | 3:56 |
+| 12 | [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 |
 | 13 | [Tightrope](https://open.spotify.com/track/5Cpi5g6jl87vxKOfVYMoUN) | [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Tightrope](https://open.spotify.com/album/17I46SMDd5zbo7g5zEdmfZ) | 2:24 |
 | 14 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
 | 15 | [Nothing Compares 2 U \- Live Session](https://open.spotify.com/track/6IRNyX0pyy8yfty0jkRMDY) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT) | [Nothing Compares 2 U \(Live Session\)](https://open.spotify.com/album/7BUYABPKmG8h4r0zP9E5Av) | 2:56 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 29 | [Waterfall \- Todd Edwards Remix](https://open.spotify.com/track/46tAI9ary3weGWhtHl1LPK) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg) | [Waterfall \(Todd Edwards Remix\)](https://open.spotify.com/album/20Ye21dWe26xm4BjYo5eJv) | 5:38 |
 | 30 | [Jeena Zaroori Hai](https://open.spotify.com/track/3MkQtNRb56jUGNt4XkcWtA) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1), [Deepika Tripathy](https://open.spotify.com/artist/4gZ2lodSlCEsCtj0ZPnN95) | [Jeena Zaroori Hai](https://open.spotify.com/album/6NdVPyeCdmqKIWM3NxTn8F) | 4:29 |
 
-Snapshot ID: `Mjc1Njk4ODAsMDAwMDAwMDAwNzE2ZWI0NjdiZjczZTgyNmY3YWE2MjNiZDVjMzY1MQ==`
+Snapshot ID: `Mjc1Njk4ODAsMDAwMDAwMDAzOTI3N2U2ZDFlZGQ2OWE1OGY0NzA4OTM3NzY0MmE0OA==`
