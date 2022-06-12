@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYtGe2CfPeBI>Sia</a>, <a href=spotify:playlist:37i9dQZF1EIXq9FMgikefv>Hayden McHugh</a>, <a href=spotify:playlist:37i9dQZF1EIUE60BMntHf5>Bahjat</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXq9FMgikefv>Hayden McHugh</a>, <a href=spotify:playlist:37i9dQZF1EIXoKerfDK0te>Clean Bandit</a>, <a href=spotify:playlist:37i9dQZF1EIUwSIsv0Dep0>Mimoza</a> and more",
     "name": "Happy Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -43,7 +43,7 @@
             ],
             "date_added": "2022-06-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 186986,
             "name": "2002",
             "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
@@ -61,7 +61,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 186625,
             "name": "24 Hours",
             "url": "https://open.spotify.com/track/3GT5wgjNqL5YMUSSbYM6AL"
@@ -79,7 +79,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 153626,
             "name": "2step",
             "url": "https://open.spotify.com/track/2SUxn2O9NHL6GHGQFgwCY0"
@@ -115,7 +115,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 139672,
             "name": "Acapulco",
             "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
@@ -331,7 +331,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 230746,
             "name": "Bad Habits",
             "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -437,7 +437,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 227395,
             "name": "Beautiful Mistakes (feat. Megan Thee Stallion)",
             "url": "https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL"
@@ -629,7 +629,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-28",
+            "date_removed": null,
             "duration_ms": 214546,
             "name": "Body Back (feat. Maia Wright)",
             "url": "https://open.spotify.com/track/57DJaoHdeeRrg7MWthNnee"
@@ -935,7 +935,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-08",
+            "date_removed": null,
             "duration_ms": 164842,
             "name": "Don't Go Yet",
             "url": "https://open.spotify.com/track/1qCHidBbWAgv3pn6UbZ4Lg"
@@ -1023,7 +1023,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 212668,
             "name": "Dynamite (feat. Sia)",
             "url": "https://open.spotify.com/track/0LcLOyu9n5qRTeax5IdewO"
@@ -1241,7 +1241,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-29",
+            "date_removed": null,
             "duration_ms": 175643,
             "name": "Follow You",
             "url": "https://open.spotify.com/track/1RZUlzNWbvCBeoSkapPgVR"
@@ -1263,7 +1263,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-09",
+            "date_removed": null,
             "duration_ms": 167911,
             "name": "Forever Young",
             "url": "https://open.spotify.com/track/0343bYQtSfznf6v90jRLRK"
@@ -1350,6 +1350,24 @@
         },
         {
             "album": {
+                "name": "The Gods We Can Touch",
+                "url": "https://open.spotify.com/album/2HPgGJnpimfmFPMjP0syqY"
+            },
+            "artists": [
+                {
+                    "name": "AURORA",
+                    "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+                }
+            ],
+            "date_added": "2022-06-12",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 181333,
+            "name": "Giving In To The Love",
+            "url": "https://open.spotify.com/track/0ocZ3MJDhUTkCmMWzhnHqq"
+        },
+        {
+            "album": {
                 "name": "Go Again",
                 "url": "https://open.spotify.com/album/3WeWcat86VzCYelEcOsmz1"
             },
@@ -1383,7 +1401,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 178146,
             "name": "good 4 u",
             "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG"
@@ -1441,7 +1459,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-22",
+            "date_removed": null,
             "duration_ms": 193354,
             "name": "Hailey",
             "url": "https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu"
@@ -1963,7 +1981,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 154983,
             "name": "Leave Before You Love Me (with Jonas Brothers)",
             "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
@@ -2175,7 +2193,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 220968,
             "name": "Love (Sweet Love)",
             "url": "https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il"
@@ -2193,7 +2211,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 258004,
             "name": "Love Again",
             "url": "https://open.spotify.com/track/4rPkN1FMzQyFNP9cLUGIIB"
@@ -2251,7 +2269,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 195880,
             "name": "Love Me Now (feat. Zoe Wees)",
             "url": "https://open.spotify.com/track/1c1sdxrYLIiuJOlE7PPttb"
@@ -2433,7 +2451,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 169887,
             "name": "Million Ways",
             "url": "https://open.spotify.com/track/3wuR0YSNdT9rgWfFi1lctv"
@@ -2587,6 +2605,24 @@
             "duration_ms": 191329,
             "name": "Never Love You Again (with Little Big Town & Bryn Christopher)",
             "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
+        },
+        {
+            "album": {
+                "name": "Smile",
+                "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+                }
+            ],
+            "date_added": "2022-06-12",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 223297,
+            "name": "Never Really Over",
+            "url": "https://open.spotify.com/track/1IIV8jglA0klVZy17q665k"
         },
         {
             "album": {
@@ -2757,7 +2793,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 236906,
             "name": "Overpass Graffiti",
             "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -2953,7 +2989,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 161386,
             "name": "Remember (and David Guetta)",
             "url": "https://open.spotify.com/track/6feiJqgHqeSvkGUzf11AYs"
@@ -2971,7 +3007,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 178221,
             "name": "Remember This",
             "url": "https://open.spotify.com/track/5dth8xfYgHeTtjL3Iu4stR"
@@ -3047,7 +3083,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 168259,
             "name": "Run",
             "url": "https://open.spotify.com/track/6KL88T4Ma4ABXqzgUoEwkd"
@@ -3299,7 +3335,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 193548,
             "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
             "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
@@ -3335,7 +3371,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 192621,
             "name": "Solar Power",
             "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C"
@@ -3433,7 +3469,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 141805,
             "name": "STAY (with Justin Bieber)",
             "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
@@ -3455,7 +3491,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-26",
+            "date_removed": null,
             "duration_ms": 210960,
             "name": "Stereo Hearts (feat. Adam Levine)",
             "url": "https://open.spotify.com/track/0qOnSQQF0yzuPWsXrQ9paz"
@@ -3619,7 +3655,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 213693,
             "name": "Sweet Melody",
             "url": "https://open.spotify.com/track/76Tuo484SLohJakHLnGI3B"
@@ -3779,7 +3815,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-08",
+            "date_removed": null,
             "duration_ms": 178373,
             "name": "Tick Tock (feat. 24kGoldn)",
             "url": "https://open.spotify.com/track/27u7t9d7ZQoyjsCROHuZJ3"
@@ -3913,7 +3949,7 @@
             ],
             "date_added": "2022-05-27",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-12",
             "duration_ms": 174000,
             "name": "Watermelon Sugar",
             "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
@@ -4019,7 +4055,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-10",
+            "date_removed": null,
             "duration_ms": 165506,
             "name": "We're Good",
             "url": "https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh"
@@ -4095,7 +4131,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 183536,
             "name": "Who's In Your Head",
             "url": "https://open.spotify.com/track/62tHYGbBOvOkpgmEXDlgu8"
@@ -4201,7 +4237,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-11",
+            "date_removed": null,
             "duration_ms": 175435,
             "name": "You for Me",
             "url": "https://open.spotify.com/track/73QyyUMMvtNELmULI4FOsp"
