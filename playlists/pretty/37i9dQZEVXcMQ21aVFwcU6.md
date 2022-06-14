@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Meant To Be](https://open.spotify.com/track/1TvfRtSEY9F4ScdPxI3Vle) | [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Meant To Be](https://open.spotify.com/album/6rlaiWxXmYKrpg4AsXiZdA) | 2:54 |
 | 30 | [Stay In The Night](https://open.spotify.com/track/6kcLdgRLibM4sjtb16I2QQ) | [Zac Taylor](https://open.spotify.com/artist/0xOf3udn8on3FgMp9bDal7) | [Stay In The Night](https://open.spotify.com/album/4BAnGjCGLUy0ImXxaYFQHS) | 3:09 |
 
-Snapshot ID: `MCwwMDAwMDAwMDc4OGE3YjgwYmVhMGEyN2RmMzk2ZGNmZDdlMWJiMjlh`
+Snapshot ID: `MCwwMDAwMDAwMDgyNzA4MjJjNGE5MGFhM2RhMjc4MTg5NDdjMmM1Zjgx`
