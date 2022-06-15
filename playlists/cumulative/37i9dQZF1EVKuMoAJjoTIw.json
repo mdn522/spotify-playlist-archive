@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIXUkTp9iHzJQ>S10</a>, <a href=spotify:playlist:37i9dQZF1EIWGNzp5QjGyu>Rochelle Diamante</a>, <a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a>, <a href=spotify:playlist:37i9dQZF1EIWWGAm5gf9FH>Shirfine</a>, <a href=spotify:playlist:37i9dQZF1EIZrlrsP7HtcZ>Beren Olivia</a> and more",
     "name": "Moody Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -89,7 +89,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 244755,
             "name": "After All",
             "url": "https://open.spotify.com/track/5yyqARcQ0blpHTRBwSJK9T"
@@ -125,7 +125,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 166609,
             "name": "aftermath",
             "url": "https://open.spotify.com/track/4nzBST9JdZIy9qfilr93Po"
@@ -291,7 +291,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 244360,
             "name": "Another Love",
             "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -671,7 +671,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 189013,
             "name": "butterfly",
             "url": "https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp"
@@ -707,7 +707,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-26",
+            "date_removed": null,
             "duration_ms": 153058,
             "name": "can I call you back?",
             "url": "https://open.spotify.com/track/3bWubl9oMzs5Z1n5KZXSSz"
@@ -725,7 +725,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 204156,
             "name": "Can't Let You Go",
             "url": "https://open.spotify.com/track/25lvdL8Hg9DNIO7aRzObth"
@@ -924,6 +924,24 @@
         },
         {
             "album": {
+                "name": "Crying in the Rain",
+                "url": "https://open.spotify.com/album/55biwjrtDGdlAjomhA3O4U"
+            },
+            "artists": [
+                {
+                    "name": "Ali Gatie",
+                    "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+                }
+            ],
+            "date_added": "2022-06-15",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 155773,
+            "name": "Crying in the Rain",
+            "url": "https://open.spotify.com/track/134G2m5YsPiZXFOduHEfSJ"
+        },
+        {
+            "album": {
                 "name": "Wiped Out!",
                 "url": "https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF"
             },
@@ -1029,7 +1047,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 208421,
             "name": "Deep End",
             "url": "https://open.spotify.com/track/4wyE8F8FLLdgbnagYidBMn"
@@ -1203,7 +1221,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 159357,
             "name": "Dur Shopno",
             "url": "https://open.spotify.com/track/2OIFHXm1y1aqClmgHgws9l"
@@ -1221,7 +1239,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 225515,
             "name": "Dynasty",
             "url": "https://open.spotify.com/track/0heE5tAAaDQmnGhVDImPl2"
@@ -1503,7 +1521,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 171575,
             "name": "Ghost",
             "url": "https://open.spotify.com/track/05UltuNI98AkRfrxqgVBUu"
@@ -1593,7 +1611,7 @@
             ],
             "date_added": "2022-06-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 277694,
             "name": "Grey",
             "url": "https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd"
@@ -1665,7 +1683,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 186974,
             "name": "Hold Me Like You Used To",
             "url": "https://open.spotify.com/track/4qHexxXs8mPPI9ocONrhOG"
@@ -1683,7 +1701,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 110886,
             "name": "Hope",
             "url": "https://open.spotify.com/track/2ZRo7axmMPeSVUvDbGkJah"
@@ -1821,7 +1839,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 137532,
             "name": "i hate you for this",
             "url": "https://open.spotify.com/track/4pVqrsykRGIyicylgR2gIx"
@@ -2024,6 +2042,24 @@
         },
         {
             "album": {
+                "name": "Illusionary Daytime (The Remixes)",
+                "url": "https://open.spotify.com/album/55ChAXYIOJospVqWq9u9ur"
+            },
+            "artists": [
+                {
+                    "name": "Shirfine",
+                    "url": "https://open.spotify.com/artist/38v6uRMEOpN2Od2SuL7WKN"
+                }
+            ],
+            "date_added": "2022-06-15",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 250666,
+            "name": "Illusionary Daytime - 2022 Remaster",
+            "url": "https://open.spotify.com/track/6pQFuRZz8aF84pYZpN3pXs"
+        },
+        {
+            "album": {
                 "name": "WY WAIT",
                 "url": "https://open.spotify.com/album/6q21Gejb4KoCfWzwYfeTZA"
             },
@@ -2053,7 +2089,7 @@
             ],
             "date_added": "2022-06-01",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 237720,
             "name": "Infinity",
             "url": "https://open.spotify.com/track/1SOClUWhOi8vHZYMz3GluK"
@@ -2075,7 +2111,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 186022,
             "name": "Into Your Arms (feat. Ava Max)",
             "url": "https://open.spotify.com/track/0b11D9D0hMOYCIMN3OKreM"
@@ -2119,7 +2155,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 203300,
             "name": "Is It Just Me? (feat. JP Cooper)",
             "url": "https://open.spotify.com/track/754zNJgoWQaGETFzSYVlmC"
@@ -2137,7 +2173,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 194750,
             "name": "Is That What You Like Now",
             "url": "https://open.spotify.com/track/5GYFceOhqamIBKHHjI3G1f"
@@ -2191,7 +2227,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 204989,
             "name": "It's Ok If You Forget Me",
             "url": "https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi"
@@ -2285,7 +2321,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-03",
+            "date_removed": null,
             "duration_ms": 179109,
             "name": "Khola Janala",
             "url": "https://open.spotify.com/track/2UMnoBDJj3dvM5Y33ri1Bw"
@@ -2401,7 +2437,7 @@
             ],
             "date_added": "2022-05-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-30",
+            "date_removed": null,
             "duration_ms": 183428,
             "name": "Like My Father",
             "url": "https://open.spotify.com/track/5YVmHTAsdWnoanWXB7AwZX"
@@ -2419,7 +2455,7 @@
             ],
             "date_added": "2022-06-12",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 160790,
             "name": "Like Strangers Do",
             "url": "https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F"
@@ -2459,7 +2495,7 @@
             ],
             "date_added": "2022-06-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 179831,
             "name": "Likhi Na Ar Toke Niye Kobita - Lofi Remix",
             "url": "https://open.spotify.com/track/3YWrkJRzXuvNTC354g4BbW"
@@ -2605,7 +2641,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 253928,
             "name": "Love like this",
             "url": "https://open.spotify.com/track/5Sr6SPZsVd60oQ79buav7u"
@@ -2739,7 +2775,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 136838,
             "name": "Mad at Disney",
             "url": "https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE"
@@ -2837,7 +2873,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 208981,
             "name": "Medicine",
             "url": "https://open.spotify.com/track/429hKgsnnsIVn9ohgjj0II"
@@ -2895,7 +2931,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 184447,
             "name": "MIDDLE OF THE NIGHT",
             "url": "https://open.spotify.com/track/58HvfVOeJY7lUuCqF0m3ly"
@@ -3003,7 +3039,7 @@
             ],
             "date_added": "2022-06-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-09",
+            "date_removed": null,
             "duration_ms": 226600,
             "name": "Night Changes",
             "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
@@ -3151,7 +3187,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 206543,
             "name": "One Night - Acoustic",
             "url": "https://open.spotify.com/track/7dl5LGQMOdfqxrLTifGJHH"
@@ -3339,7 +3375,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 218293,
             "name": "Rewrite The Stars (with James Arthur & Anne-Marie)",
             "url": "https://open.spotify.com/track/6mQLN3zRtAp6ovjusyYKrV"
@@ -3411,7 +3447,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 176566,
             "name": "Sabotage",
             "url": "https://open.spotify.com/track/1nil655gJpCzrbqiqC0NLX"
@@ -3480,6 +3516,24 @@
         },
         {
             "album": {
+                "name": "Maja Kristina",
+                "url": "https://open.spotify.com/album/3sSRYiDjWIwU2Bv6xJpFP5"
+            },
+            "artists": [
+                {
+                    "name": "Maja Kristina",
+                    "url": "https://open.spotify.com/artist/5YEeY9cyouvDvUa8SJVaj2"
+                }
+            ],
+            "date_added": "2022-06-15",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 159187,
+            "name": "Self Love Therapy",
+            "url": "https://open.spotify.com/track/6QuiWKQ5grxerLW5RyCbaa"
+        },
+        {
+            "album": {
                 "name": "21",
                 "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
             },
@@ -3527,7 +3581,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 207120,
             "name": "she's all i wanna be",
             "url": "https://open.spotify.com/track/7l9IqDtVWJurTvkQHq1BGh"
@@ -3787,10 +3841,32 @@
             ],
             "date_added": "2022-06-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 157714,
             "name": "Space",
             "url": "https://open.spotify.com/track/5bNlnXNXgpFaG7nTIK7wHR"
+        },
+        {
+            "album": {
+                "name": "The Marshall Mathers LP",
+                "url": "https://open.spotify.com/album/6t7956yu5zYf5A829XRiHC"
+            },
+            "artists": [
+                {
+                    "name": "Eminem",
+                    "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+                },
+                {
+                    "name": "Dido",
+                    "url": "https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs"
+                }
+            ],
+            "date_added": "2022-06-15",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 404106,
+            "name": "Stan",
+            "url": "https://open.spotify.com/track/3UmaczJpikHgJFyBTAJVoz"
         },
         {
             "album": {
@@ -3979,7 +4055,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 146855,
             "name": "That's Hilarious",
             "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
@@ -4113,7 +4189,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 210826,
             "name": "To Begin Again",
             "url": "https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b"
@@ -4167,7 +4243,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-13",
+            "date_removed": null,
             "duration_ms": 157638,
             "name": "toxic culture",
             "url": "https://open.spotify.com/track/3oI3DqBpkyHowcz6ez9qAx"
@@ -4203,7 +4279,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 162418,
             "name": "Treat Myself",
             "url": "https://open.spotify.com/track/1KduF4t7FmMPKbu8U5GvsI"
@@ -4487,7 +4563,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 172266,
             "name": "When You're Gone",
             "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
@@ -4639,7 +4715,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-15",
             "duration_ms": 174357,
             "name": "YEAH RIGHT",
             "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
@@ -4693,7 +4769,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-12",
+            "date_removed": null,
             "duration_ms": 169265,
             "name": "you broke me first",
             "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
