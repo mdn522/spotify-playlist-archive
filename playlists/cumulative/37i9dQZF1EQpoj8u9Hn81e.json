@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYzSLEdd9crM>Sigala</a>, <a href=spotify:playlist:37i9dQZF1EIYMCyypspbv2>Syn Cole</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIYMCyypspbv2>Syn Cole</a>, <a href=spotify:playlist:37i9dQZF1EIYzSLEdd9crM>Sigala</a> and more",
     "name": "House Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -105,7 +105,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 142971,
             "name": "Afraid (feat. HARLEE)",
             "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
@@ -131,7 +131,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 154838,
             "name": "Afterbloom (feat. Deza)",
             "url": "https://open.spotify.com/track/6DploCSZVf5gvIP7WBBU6S"
@@ -275,7 +275,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 148624,
             "name": "Are You OK? (feat. ILIRA)",
             "url": "https://open.spotify.com/track/6Ppext7tYrK3trnspkoSry"
@@ -421,7 +421,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 128442,
             "name": "Be Okay - CLMD Remix",
             "url": "https://open.spotify.com/track/2ovjS1yyTSXy3F0KHlTVTx"
@@ -517,7 +517,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 178087,
             "name": "BED",
             "url": "https://open.spotify.com/track/0siYMEsGrzzzlWLXK5zJfS"
@@ -539,7 +539,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 168053,
             "name": "Beg For You (feat. Rina Sawayama)",
             "url": "https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k"
@@ -601,7 +601,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-18",
+            "date_removed": null,
             "duration_ms": 169921,
             "name": "Bipolar Hearts",
             "url": "https://open.spotify.com/track/5p8QUslWZYz5fsLQ4zuRKs"
@@ -619,7 +619,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 153652,
             "name": "Bittersweet",
             "url": "https://open.spotify.com/track/7vq5i7XNFT5TUBv6OttBpo"
@@ -839,7 +839,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 186142,
             "name": "Call on Me",
             "url": "https://open.spotify.com/track/40HzMn7bwmh3hMLcZnkLzv"
@@ -909,7 +909,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 210306,
             "name": "Champions",
             "url": "https://open.spotify.com/track/2WIpkKW1BJ23CsIaE1SlGU"
@@ -993,7 +993,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 168833,
             "name": "Close Your Eyes",
             "url": "https://open.spotify.com/track/3h2aYVv7RHnOW0qGGYdYIT"
@@ -1217,7 +1217,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 164490,
             "name": "Dive",
             "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
@@ -1701,7 +1701,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 207355,
             "name": "Found Somebody",
             "url": "https://open.spotify.com/track/01T4PnrdCrMwZcWWqa0rFt"
@@ -1818,6 +1818,32 @@
         },
         {
             "album": {
+                "name": "Good for Me (feat. Anna Straker)",
+                "url": "https://open.spotify.com/album/0k5HLDaHBUT1fR8V6DeEoR"
+            },
+            "artists": [
+                {
+                    "name": "Jay Pryor",
+                    "url": "https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd"
+                },
+                {
+                    "name": "Coldabank",
+                    "url": "https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA"
+                },
+                {
+                    "name": "Anna Straker",
+                    "url": "https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 144960,
+            "name": "Good for Me (feat. Anna Straker)",
+            "url": "https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH"
+        },
+        {
+            "album": {
                 "name": "Good Luck",
                 "url": "https://open.spotify.com/album/05tBKh2vFcXIUTk3lRHKFy"
             },
@@ -1877,7 +1903,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 165141,
             "name": "Good Ones - Joel Corry Remix",
             "url": "https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ"
@@ -1951,7 +1977,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-18",
+            "date_removed": null,
             "duration_ms": 158400,
             "name": "Headlights (feat. KIDDO)",
             "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
@@ -1999,7 +2025,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 206400,
             "name": "High",
             "url": "https://open.spotify.com/track/4l6meRCZ5bS8cnMxxMBVvI"
@@ -2079,7 +2105,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 283902,
             "name": "Home To You",
             "url": "https://open.spotify.com/track/6PHFYhiALUwSuWBHiKwPre"
@@ -2101,7 +2127,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 162423,
             "name": "Hopeless (feat. Richard Smitt)",
             "url": "https://open.spotify.com/track/7xtgXhzx6XQvMKYLjefTAc"
@@ -2222,6 +2248,28 @@
         },
         {
             "album": {
+                "name": "I Don't Want You",
+                "url": "https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2"
+            },
+            "artists": [
+                {
+                    "name": "Riton",
+                    "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+                },
+                {
+                    "name": "RAYE",
+                    "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 190240,
+            "name": "I Don't Want You",
+            "url": "https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX"
+        },
+        {
+            "album": {
                 "name": "I Got U",
                 "url": "https://open.spotify.com/album/5U06Y2CHfkglWCTyqY98pN"
             },
@@ -2241,6 +2289,28 @@
             "duration_ms": 285596,
             "name": "I Got U",
             "url": "https://open.spotify.com/track/023H4I7HJnxRqsc9cqeFKV"
+        },
+        {
+            "album": {
+                "name": "i miss u (with Au/Ra)",
+                "url": "https://open.spotify.com/album/4l2tR6CnN9Fn05aTYMb7S5"
+            },
+            "artists": [
+                {
+                    "name": "Jax Jones",
+                    "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+                },
+                {
+                    "name": "Au/Ra",
+                    "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 172143,
+            "name": "i miss u (with Au/Ra)",
+            "url": "https://open.spotify.com/track/7CH8J4ulT49UfZwSDSkSZA"
         },
         {
             "album": {
@@ -2393,7 +2463,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-18",
+            "date_removed": null,
             "duration_ms": 195803,
             "name": "Imprint",
             "url": "https://open.spotify.com/track/7iTL8GlxHADuQMZkYh7n27"
@@ -2411,7 +2481,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 153442,
             "name": "In My Head (On My Mind)",
             "url": "https://open.spotify.com/track/6PxXA3bO8ktyaLHUHx1QQ4"
@@ -2605,7 +2675,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 160710,
             "name": "Lemonade",
             "url": "https://open.spotify.com/track/3O365TKnoeVPP9882sfE7y"
@@ -2683,6 +2753,32 @@
             "duration_ms": 192088,
             "name": "Letting Go",
             "url": "https://open.spotify.com/track/1S7hEPenrIVKVTuEjtXKz9"
+        },
+        {
+            "album": {
+                "name": "Lie To Me",
+                "url": "https://open.spotify.com/album/1LDRVCeQDmiSrieYletJaw"
+            },
+            "artists": [
+                {
+                    "name": "Nevada",
+                    "url": "https://open.spotify.com/artist/15NtJjjHRFybdNSMyM9smT"
+                },
+                {
+                    "name": "Mopiano",
+                    "url": "https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ"
+                },
+                {
+                    "name": "ORKID",
+                    "url": "https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 170500,
+            "name": "Lie To Me",
+            "url": "https://open.spotify.com/track/6PnlQI2LvnEqfqoEIFCU8z"
         },
         {
             "album": {
@@ -2957,7 +3053,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 174869,
             "name": "Me, Myself and I",
             "url": "https://open.spotify.com/track/1DGiKuiPdSdahUI2HPjfGC"
@@ -2997,7 +3093,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 205400,
             "name": "Memories",
             "url": "https://open.spotify.com/track/3etgn6bxFint3MfHHftoqE"
@@ -3037,7 +3133,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 166800,
             "name": "Missing U (feat. EMIAH)",
             "url": "https://open.spotify.com/track/2m8w8VRGE2QifHGlakIGKw"
@@ -3085,7 +3181,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 146904,
             "name": "Morning - Billen Ted Remix",
             "url": "https://open.spotify.com/track/3AOJ294HBNncEDSIAsvwAF"
@@ -3129,7 +3225,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 136071,
             "name": "Motivation (Feed My Appetite)",
             "url": "https://open.spotify.com/track/6q3IKsGKMFyRT1BPvN6eNx"
@@ -3243,7 +3339,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 209685,
             "name": "Need You Now",
             "url": "https://open.spotify.com/track/2APGNdP1ANH7gbVW8BXyh7"
@@ -3269,6 +3365,28 @@
             "duration_ms": 182142,
             "name": "Nentori",
             "url": "https://open.spotify.com/track/1aCrK3hONAYr0huYhkCEXU"
+        },
+        {
+            "album": {
+                "name": "Never Love Again (feat. HQA)",
+                "url": "https://open.spotify.com/album/2N3WK4LN6LbxpaCWPk6yBo"
+            },
+            "artists": [
+                {
+                    "name": "Ryan Blyth",
+                    "url": "https://open.spotify.com/artist/2bno8n7e57sY3zRQw03YoV"
+                },
+                {
+                    "name": "HQA",
+                    "url": "https://open.spotify.com/artist/3odmSlXHTSCIZsSmB6XnCw"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 158808,
+            "name": "Never Love Again (feat. HQA)",
+            "url": "https://open.spotify.com/track/1eEXWccqd1tLSvL9KBhN8o"
         },
         {
             "album": {
@@ -3649,7 +3767,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 179280,
             "name": "Over It",
             "url": "https://open.spotify.com/track/1uMuZoxAmJwU231WHGYdgI"
@@ -4191,7 +4309,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 189718,
             "name": "Seven Days",
             "url": "https://open.spotify.com/track/3xTrQ86pu6kx2PmkFBcHTW"
@@ -4249,7 +4367,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 162580,
             "name": "Sinking",
             "url": "https://open.spotify.com/track/76CEN7DHN8qBXMzzMqffOv"
@@ -4271,7 +4389,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-18",
+            "date_removed": null,
             "duration_ms": 224864,
             "name": "Slow Burn - Sugar Jesus Remix",
             "url": "https://open.spotify.com/track/73Ex7PwpgjkkJnwEPtNMfa"
@@ -4403,7 +4521,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 180834,
             "name": "Stop - Goodboys Remix",
             "url": "https://open.spotify.com/track/7kRNZ4q61n5HuyFKmbxoXP"
@@ -4619,7 +4737,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 209554,
             "name": "Taped Up Heart (feat. Clara Mae) - VIP Mix",
             "url": "https://open.spotify.com/track/4fp5ICMxsl5kq9qWWpYBjN"
@@ -4813,7 +4931,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 172826,
             "name": "There For You",
             "url": "https://open.spotify.com/track/4GYXEWgg31NQPGmpcYtR1d"
@@ -4875,7 +4993,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 151626,
             "name": "Thinkin Bout You",
             "url": "https://open.spotify.com/track/2OEr2lzItRFTQvtzXT0wOm"
@@ -5105,7 +5223,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 189923,
             "name": "Turn Back Time",
             "url": "https://open.spotify.com/track/3oj5xWQasKxqCbcQk4dgY9"
@@ -5219,7 +5337,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 208990,
             "name": "Unwritten",
             "url": "https://open.spotify.com/track/2aAtscdPlS73L1qpov8pn5"
@@ -5292,6 +5410,32 @@
         },
         {
             "album": {
+                "name": "Wasted Love",
+                "url": "https://open.spotify.com/album/3Corsl2gnspLvYihIaMN7L"
+            },
+            "artists": [
+                {
+                    "name": "Nightcall",
+                    "url": "https://open.spotify.com/artist/3xFkHylXN9yHzwCQBypRFn"
+                },
+                {
+                    "name": "Karma Child",
+                    "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+                },
+                {
+                    "name": "Gia Koka",
+                    "url": "https://open.spotify.com/artist/71WExccCBN2mw0klSzfYzz"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 170161,
+            "name": "Wasted Love",
+            "url": "https://open.spotify.com/track/5qfzx2oNmG4L7mOILsIJLo"
+        },
+        {
+            "album": {
                 "name": "Watching You (Drop G Remix)",
                 "url": "https://open.spotify.com/album/0cT5wElA96W4lf47mZAvVp"
             },
@@ -5307,7 +5451,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 163322,
             "name": "Watching You - Drop G Remix",
             "url": "https://open.spotify.com/track/4b7pQ2p9yqGe0G5pvr0YKS"

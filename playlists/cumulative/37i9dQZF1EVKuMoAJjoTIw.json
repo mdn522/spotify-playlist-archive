@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIXUkTp9iHzJQ>S10</a>, <a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a>, <a href=spotify:playlist:37i9dQZF1EIVmkna7DTk3K>Alan Walker</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIYoEcoc1o1HZ>Adele</a>, <a href=spotify:playlist:37i9dQZF1EIXUkTp9iHzJQ>S10</a>, <a href=spotify:playlist:37i9dQZF1EIYphuqGqTlOq>Elley Duhé</a> and more",
     "name": "Moody Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -219,7 +219,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-17",
+            "date_removed": null,
             "duration_ms": 201575,
             "name": "All Over Again",
             "url": "https://open.spotify.com/track/1Hh2HU0uJ947pXGRFa9ZBx"
@@ -237,7 +237,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 209275,
             "name": "All Your Exes",
             "url": "https://open.spotify.com/track/0sm5R6MjXORjLcs1bulN6n"
@@ -436,6 +436,32 @@
         },
         {
             "album": {
+                "name": "Back To You",
+                "url": "https://open.spotify.com/album/3SqcLJf70hcH0oUiqu0b1x"
+            },
+            "artists": [
+                {
+                    "name": "MOTi",
+                    "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+                },
+                {
+                    "name": "CORSAK",
+                    "url": "https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z"
+                },
+                {
+                    "name": "Georgia Ku",
+                    "url": "https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 193294,
+            "name": "Back To You",
+            "url": "https://open.spotify.com/track/1L5Znufb03Ic3r4CFRqTDA"
+        },
+        {
+            "album": {
                 "name": "Bad Habits",
                 "url": "https://open.spotify.com/album/1bPky7W1haIgyaGYxGGN4O"
             },
@@ -447,7 +473,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 172250,
             "name": "Bad Habits",
             "url": "https://open.spotify.com/track/2UeYdy5tWqA5pvTvBFz24U"
@@ -671,7 +697,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 197213,
             "name": "Boys Lie",
             "url": "https://open.spotify.com/track/5IEG6d0KnyQisFLqJZQ6J4"
@@ -729,7 +755,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 206980,
             "name": "Broken Love",
             "url": "https://open.spotify.com/track/3EPgcDNfwJ7RPkf1wEH4ot"
@@ -765,7 +791,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-18",
+            "date_removed": null,
             "duration_ms": 191034,
             "name": "by now.",
             "url": "https://open.spotify.com/track/1vwfNbiJGxrVOtvwM5tyOT"
@@ -935,7 +961,7 @@
             ],
             "date_added": "2022-05-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-03",
+            "date_removed": null,
             "duration_ms": 190266,
             "name": "Coping",
             "url": "https://open.spotify.com/track/4RX020eHQpZbZFP5jpbwOP"
@@ -971,7 +997,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 190700,
             "name": "Crash",
             "url": "https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ"
@@ -1305,7 +1331,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 194558,
             "name": "Dreams",
             "url": "https://open.spotify.com/track/7aiYeTWsZBOxBnij88bs7o"
@@ -1536,6 +1562,24 @@
         },
         {
             "album": {
+                "name": "i used to think i could fly",
+                "url": "https://open.spotify.com/album/5fhTetHew6Eph6HfQ9O5gJ"
+            },
+            "artists": [
+                {
+                    "name": "Tate McRae",
+                    "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 203480,
+            "name": "feel like shit",
+            "url": "https://open.spotify.com/track/03zuGqxMwUFFmCwusq0WKE"
+        },
+        {
+            "album": {
                 "name": "feel like shit",
                 "url": "https://open.spotify.com/album/1auWLVcrhwCbtCD6k4KuZB"
             },
@@ -1713,7 +1757,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 181487,
             "name": "Go",
             "url": "https://open.spotify.com/track/1WEIlkRw4M3Kbeqq5TvP7Y"
@@ -2209,7 +2253,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 208082,
             "name": "If the World Was Ending",
             "url": "https://open.spotify.com/track/3ZgVLv706cvxd81H0wvNi1"
@@ -2245,7 +2289,7 @@
             ],
             "date_added": "2022-06-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 250666,
             "name": "Illusionary Daytime - 2022 Remaster",
             "url": "https://open.spotify.com/track/6pQFuRZz8aF84pYZpN3pXs"
@@ -2477,7 +2521,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 185579,
             "name": "Just Like That",
             "url": "https://open.spotify.com/track/1H1VuSIxfpRPmJbC26U8cx"
@@ -3249,7 +3293,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 178024,
             "name": "Missing You Sucks",
             "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -3357,7 +3401,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 214327,
             "name": "Nights With You",
             "url": "https://open.spotify.com/track/48Vq4u3bM2BRrEgH4diZXj"
@@ -3747,7 +3791,7 @@
             ],
             "date_added": "2022-06-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 147713,
             "name": "rubberband",
             "url": "https://open.spotify.com/track/05ABOPiW13nqIedJfqmfPM"
@@ -3881,7 +3925,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 242973,
             "name": "Set Fire to the Rain",
             "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -4105,7 +4149,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 183849,
             "name": "Slow Motion",
             "url": "https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q"
@@ -4377,7 +4421,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 165652,
             "name": "Talk About Us",
             "url": "https://open.spotify.com/track/0SpsbsyEN0FmM8hGoGSgwg"
@@ -4395,7 +4439,7 @@
             ],
             "date_added": "2022-06-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 176117,
             "name": "Tears of Gold",
             "url": "https://open.spotify.com/track/2YyLNljkMy2viVcXoFGTDY"
@@ -4641,7 +4685,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-19",
+            "date_removed": null,
             "duration_ms": 177506,
             "name": "Traitor",
             "url": "https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV"
@@ -4699,7 +4743,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 233866,
             "name": "Tsunami",
             "url": "https://open.spotify.com/track/2TVLdanpjpu7f6CBhBYTJr"
@@ -5081,7 +5125,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-06-20",
             "duration_ms": 164408,
             "name": "Worst Kind of Hurt",
             "url": "https://open.spotify.com/track/2TvCQzggZs6tX9HmeXPja2"
@@ -5189,7 +5233,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-16",
+            "date_removed": null,
             "duration_ms": 169265,
             "name": "you broke me first",
             "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
