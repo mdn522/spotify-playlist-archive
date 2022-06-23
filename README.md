@@ -33,5 +33,6 @@
 - [Release Radar](/playlists/pretty/37i9dQZEVXbvJfTkO3GeW5.md)
 - [Repeat Rewind](/playlists/pretty/37i9dQZF1EpSWsemYCkpY3.md)
 - [Romantic Mix](/playlists/pretty/37i9dQZF1EVGJJ3r00UGAt.md)
+- [Soul Mix](/playlists/pretty/37i9dQZF1EQntZpEGgfBif.md)
 - [Upbeat Mix](/playlists/pretty/37i9dQZF1EVJHK7Q1TBABQ.md)
 - [Your Time Capsule](/playlists/pretty/37i9dQZF1EuSfybMl0jcbD.md)
