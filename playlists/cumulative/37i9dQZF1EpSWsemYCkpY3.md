@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-87 songs - 4 hr 39 min - not published yet
+89 songs - 4 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Need You Now](https://open.spotify.com/track/2APGNdP1ANH7gbVW8BXyh7) | [Carda](https://open.spotify.com/artist/37SJYTTMo0trMRVJqKiUoO), [KEEKS](https://open.spotify.com/artist/1a0szpyoLfe9iC1II42U4o) | [Need You Now](https://open.spotify.com/album/1xNK69dDTCMKDD1wmswxon) | 3:29 | 2022-05-20 | 2022-05-25 |
 | [Never Let Me Go](https://open.spotify.com/track/2CbimpAqyAtc1qMznPODJV) | [Josh Wantie](https://open.spotify.com/artist/0pge2gEtqePVRTkYcK4hQb), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Never Let Me Go](https://open.spotify.com/album/2CqK9iuKQZP08okHT5kTOQ) | 2:35 | 2022-05-20 | 2022-05-25 |
 | [Next To Me](https://open.spotify.com/track/22inRznmzegG0brXxTZtAB) | [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s) | [Next To Me](https://open.spotify.com/album/2q0BD3BW2jdIx8eMD21Jwl) | 3:37 | 2022-06-13 |  |
-| [No One](https://open.spotify.com/track/1afnzGClKAFQBIfyhVYTLv) | [LARA D](https://open.spotify.com/artist/1QyZxZlQBACv0338oNgmjC) | [No One](https://open.spotify.com/album/1AjHgCSdf2yIKWWhFc1wMH) | 3:18 | 2022-05-24 |  |
+| [No One](https://open.spotify.com/track/1afnzGClKAFQBIfyhVYTLv) | [LARA D](https://open.spotify.com/artist/1QyZxZlQBACv0338oNgmjC) | [No One](https://open.spotify.com/album/1AjHgCSdf2yIKWWhFc1wMH) | 3:18 | 2022-05-24 | 2022-06-23 |
 | [Nosebleeds](https://open.spotify.com/track/6MiuJ2rVfnZZ58qsH3aK1T) | [RAINNE](https://open.spotify.com/artist/1KzrdDCiOfSK85QJHDfdcC) | [Nosebleeds](https://open.spotify.com/album/7IymkEva3eRmVCxLUM8N7J) | 3:03 | 2022-05-24 |  |
+| [Not Letting Go](https://open.spotify.com/track/3vARLSlx8vTwr595PeBnTV) | [Suedo](https://open.spotify.com/artist/5h1VTzBa351QJeGsr2vv1B), [Andy Delos Santos](https://open.spotify.com/artist/1aIogtqCKbzu2paX17EoHN) | [Not Letting Go](https://open.spotify.com/album/73DYXFEgMaJAO0XJrGx8Md) | 3:24 | 2022-06-22 |  |
 | [Not Your Baby](https://open.spotify.com/track/0JkBihR0VtIg6Q2TEfIvKv) | [Flux Vortex](https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H), [Xavy Rusan](https://open.spotify.com/artist/5PfyuVXesLYRkvnPVVaGTA) | [Not Your Baby](https://open.spotify.com/album/29AEzBqPNvE8RqD3pWCLyB) | 3:37 | 2022-05-20 | 2022-05-25 |
 | [Nowhere](https://open.spotify.com/track/0g4joz3rtFEgPctzDn72xh) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [Arizona Jones](https://open.spotify.com/artist/6OCTWDUpzrtOkMOZ4vAn6D) | [Nowhere](https://open.spotify.com/album/3TGtbC4M8rOCbmaBseh5VK) | 2:36 | 2022-06-16 |  |
 | [Numb](https://open.spotify.com/track/7cPMZyLIKCiWssqRKkBM1c) | [Aaron Richards](https://open.spotify.com/artist/635Ty89ihpkpWMkLQ7dlsp), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE) | [Numb](https://open.spotify.com/album/72KaAkea8pjx1egPnEoKFT) | 3:06 | 2022-06-16 |  |
@@ -70,7 +71,7 @@
 | [Oulala](https://open.spotify.com/track/4O6JZ2lWkaQFAZgvWNc3fF) | [3RIN](https://open.spotify.com/artist/0EHDpt81aRXnBCL5KJbXjU), [EHNA](https://open.spotify.com/artist/1iBnezjHfDGtRE5ASQm6Na) | [Oulala](https://open.spotify.com/album/2FkQThXvidm38CNCqtdrz2) | 3:21 | 2022-05-24 | 2022-06-14 |
 | [Out of My Head](https://open.spotify.com/track/2yswYVJycPQtQ0nArHqunI) | [Jasmine Clarke](https://open.spotify.com/artist/35OHoy0DGJRqpfmYvByDBc) | [virgo](https://open.spotify.com/album/0AG5UEnA0zndWuSiLa3m78) | 2:43 | 2022-06-13 |  |
 | [Perfect](https://open.spotify.com/track/4L4c5BHrDWFucpAv8uO1kr) | [Brooke Alexx](https://open.spotify.com/artist/76OGIUhWyFyKOvhRuueDa7) | [Me](https://open.spotify.com/album/4jJD3EzkXsFnIMDU1dJtQp) | 2:22 | 2022-05-24 | 2022-06-02 |
-| [Pretty One](https://open.spotify.com/track/480Ni8GOJpyisGSCxLHcsM) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Pretty One](https://open.spotify.com/album/4tUBLv5JRvv5qx3EtA84MM) | 3:21 | 2022-05-24 |  |
+| [Pretty One](https://open.spotify.com/track/480Ni8GOJpyisGSCxLHcsM) | [Mila Jam](https://open.spotify.com/artist/6m7wJXzvVyE0j6eef6pj1a) | [Pretty One](https://open.spotify.com/album/4tUBLv5JRvv5qx3EtA84MM) | 3:21 | 2022-05-24 | 2022-06-23 |
 | [Quran Recitation Surah Assajdah by Sheikh Abdullah Al Mousa](https://open.spotify.com/track/5HmQRdMxlZeLhB8IgdVVJh) | [القرآن الكريم](https://open.spotify.com/artist/2agF3mAKyDdULwWCZl3Lx5), [القرآن](https://open.spotify.com/artist/2gJgTCrD7XDVNnB5EiNbWW) | [beautiful Quran recitations](https://open.spotify.com/album/13H22D9BxVifypnnSvc2Sv) | 8:41 | 2022-05-20 | 2022-05-25 |
 | [Robot](https://open.spotify.com/track/4crj4dYB3TrDqEdVH13K7g) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [Robot](https://open.spotify.com/album/3qg8brK10PXWr39utKpCmZ) | 2:41 | 2022-06-16 |  |
 | [SALT](https://open.spotify.com/track/2GlWUatsaCggiLEm4hFoji) | [Maddie Regent](https://open.spotify.com/artist/1MMtEyB5HBJLdMOz99JLaj) | [SALT](https://open.spotify.com/album/0UxAxXA8Y2fExhk6P9YQQc) | 4:02 | 2022-05-20 | 2022-06-12 |
@@ -81,6 +82,7 @@
 | [Stargazing \(feat\. Amelie\)](https://open.spotify.com/track/6dvjPTnrQoXfKjgxtE0wF7) | [Severo](https://open.spotify.com/artist/5HqJR4LXclbZPAwQ636j84), [Amelie](https://open.spotify.com/artist/68Spx9j3Okz0PeAjH95QPp) | [Stargazing \(feat\. Amelie\)](https://open.spotify.com/album/34XwdXUTfBMNJmgvYYYEj4) | 3:21 | 2022-05-24 | 2022-06-17 |
 | [Stay](https://open.spotify.com/track/3erC2uFqHWxHW5BZ9c5jAp) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Stay](https://open.spotify.com/album/5WtO3xQP4ZD67s4NNhgkyG) | 2:49 | 2022-05-26 | 2022-06-17 |
 | [Suna\-Ma](https://open.spotify.com/track/1RVyxFOcvix9UNKCCr5vDY) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Suna\-Ma](https://open.spotify.com/album/0sqwFbTMaru39Z48Vxpqmo) | 3:39 | 2022-05-20 |  |
+| [Take Me There](https://open.spotify.com/track/0WwqO9BGFajjD7V3jcnKhJ) | [Sukesha Ray](https://open.spotify.com/artist/0hp6nykf77ftwRA3d7RyMR) | [Take Me There](https://open.spotify.com/album/4QkU3X8wOXxnvTgVNkwcV6) | 3:05 | 2022-06-22 |  |
 | [The Difference](https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 3:30 | 2022-05-24 |  |
 | [Thought About That](https://open.spotify.com/track/0KqQk985HTWIkQgEABSwPP) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Thought About That](https://open.spotify.com/album/3G06Xtuozm5OVMq3iEetEL) | 3:19 | 2022-06-13 |  |
 | [Til the Blue Comes Out](https://open.spotify.com/track/4kqiBzKfKFDXquCXFZfMXQ) | [Willow Stephens](https://open.spotify.com/artist/3pqZ5JEnS0Y1qUn9hgHPi3) | [Til the Blue Comes Out](https://open.spotify.com/album/1N2sjFrtToa9RpEExWyOYa) | 3:01 | 2022-05-26 | 2022-06-14 |
