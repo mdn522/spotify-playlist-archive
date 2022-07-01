@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Epp9LvnFz3V9m.md) - [plain]
 
 > Songs you love right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Epp9LvnFz3V9m.md) - [plain]
 | 12 | [Take Me There](https://open.spotify.com/track/0WwqO9BGFajjD7V3jcnKhJ) | [Sukesha Ray](https://open.spotify.com/artist/0hp6nykf77ftwRA3d7RyMR) | [Take Me There](https://open.spotify.com/album/4QkU3X8wOXxnvTgVNkwcV6) | 3:05 |
 | 13 | [SALT](https://open.spotify.com/track/2GlWUatsaCggiLEm4hFoji) | [Maddie Regent](https://open.spotify.com/artist/1MMtEyB5HBJLdMOz99JLaj) | [SALT](https://open.spotify.com/album/0UxAxXA8Y2fExhk6P9YQQc) | 4:02 |
 | 14 | [Oh My God](https://open.spotify.com/track/5EhXpH8kkPEay1UyjBPgzb) | [Gia Woods](https://open.spotify.com/artist/6T56xtTEllGW17snjAZLNP) | [Oh My God](https://open.spotify.com/album/3C7a0PJRH3H9yoI9SD13eD) | 2:15 |
-| 15 | [Between Good and Bye](https://open.spotify.com/track/6p1LW0yk9jm7UmpUWk5uZu) | [Sionya](https://open.spotify.com/artist/2EzJ2Z4hVR1V2UHWoeWmyO), [Cleo Kelley](https://open.spotify.com/artist/2cobM3dZcgyYVwEvmu6YlF) | [Between Good and Bye](https://open.spotify.com/album/7LtbxbAeztK7aZyxCIERkO) | 3:06 |
+| 15 | [Between Good and Bye](https://open.spotify.com/track/6p1LW0yk9jm7UmpUWk5uZu) | [Sionya](https://open.spotify.com/artist/2EzJ2Z4hVR1V2UHWoeWmyO), [Cleo Kelley](https://open.spotify.com/artist/2cobM3dZcgyYVwEvmu6YlF) | [Between Good and Bye](https://open.spotify.com/album/7LtbxbAeztK7aZyxCIERkO) | 0:29 |
 | 16 | [Devoted](https://open.spotify.com/track/2ozcnjTM5S4d26yuAT3jtU) | [Beks](https://open.spotify.com/artist/3yPTH9Cm5CqJUBvZ2PIOVW) | [Devoted](https://open.spotify.com/album/5uWAGjx8n9fgjyRq1sNXKU) | 2:35 |
 | 17 | [EveryTime I Cry \- R3HAB Remix](https://open.spotify.com/track/752n2yiIZZdxNAMTXmrObn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [EveryTime I Cry \(R3HAB Remix\)](https://open.spotify.com/album/2vBz1iYx315biPiOAQbq1g) | 3:11 |
 | 18 | [Married to Your Melody](https://open.spotify.com/track/51w6LCBEGB11uBY0tH9cdB) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Married to Your Melody](https://open.spotify.com/album/1T8EL8sajrxd3mjr6CqiQ5) | 2:58 |
