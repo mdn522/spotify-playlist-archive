@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-129 songs - 6 hr 46 min - not published yet
+129 songs - 6 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Bedroom Eyes \(Naked\)](https://open.spotify.com/track/6tsJlAftYVVRhStypH50CA) | [Myah Marie](https://open.spotify.com/artist/2bhKoNWwiNLxvkd1ynM8pV), [The FunkLabb](https://open.spotify.com/artist/7ducZyOLpMHuUVDgzw9p8E) | [Bedroom Eyes \(Naked\)](https://open.spotify.com/album/7hIHl0kJgvTRaKozruUhto) | 3:58 | 2022-06-07 | 2022-06-14 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-05-29 |  |
 | [Begin Again](https://open.spotify.com/track/2ruJ5QRKuX7SnOgauqDnfV) | [Kobi McCoull](https://open.spotify.com/artist/1mtGicicMWX3T3XXdZzzRq) | [Begin Again](https://open.spotify.com/album/2thHCJmzdMtUPdWZCSjyf8) | 3:08 | 2022-06-01 | 2022-06-12 |
-| [Between Good and Bye](https://open.spotify.com/track/6p1LW0yk9jm7UmpUWk5uZu) | [Sionya](https://open.spotify.com/artist/2EzJ2Z4hVR1V2UHWoeWmyO), [Cleo Kelley](https://open.spotify.com/artist/2cobM3dZcgyYVwEvmu6YlF) | [Between Good and Bye](https://open.spotify.com/album/7LtbxbAeztK7aZyxCIERkO) | 0:29 | 2022-06-19 |  |
+| [Between Good and Bye](https://open.spotify.com/track/6p1LW0yk9jm7UmpUWk5uZu) | [Sionya](https://open.spotify.com/artist/2EzJ2Z4hVR1V2UHWoeWmyO), [Cleo Kelley](https://open.spotify.com/artist/2cobM3dZcgyYVwEvmu6YlF) | [Between Good and Bye](https://open.spotify.com/album/7LtbxbAeztK7aZyxCIERkO) | 3:06 | 2022-06-19 |  |
 | [Boyfriend](https://open.spotify.com/track/2JxCbNviFgjwXV9a3HekzY) | [Link Lauren](https://open.spotify.com/artist/6zN8SfYK7CaitT1XrHOhIN) | [Boyfriend](https://open.spotify.com/album/0typL3f9CcpADnGDL8hCRq) | 3:27 | 2022-05-26 | 2022-06-05 |
 | [by now.](https://open.spotify.com/track/1vwfNbiJGxrVOtvwM5tyOT) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [parris mitchell](https://open.spotify.com/album/2AUh8VGQuONcMLyWxUXxN4) | 3:11 | 2022-06-19 |  |
 | [Call It Love](https://open.spotify.com/track/0WuWSx5j0pVNPRwVMKD6w5) | [Nicole O'Brien](https://open.spotify.com/artist/2tVpJbyCKjOYkQitqV0bK7) | [Call It Love](https://open.spotify.com/album/0uCD8bpamCt4n4tUdRO3R2) | 2:30 | 2022-05-20 | 2022-05-27 |

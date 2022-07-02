@@ -4,7 +4,7 @@
 
 > Rihanna, Kat Deluna, Meghan Trainor and more
 
-969 songs - 2 day 4 hr 45 min - not published yet
+970 songs - 2 day 4 hr 48 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,7 @@
 | [Feelings](https://open.spotify.com/track/7wUW5qYK19RlL6ljqDbc5x) | [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA), [Azertion](https://open.spotify.com/artist/2UsZKeB2olmMd3wAUxRC6G) | [Feelings](https://open.spotify.com/album/6bgdgylfzmjqqeV8ztYoR5) | 2:54 | 2022-06-01 | 2022-06-02 |
 | [Feelings](https://open.spotify.com/track/0FhFZbyZbkUh5uyAKesmDL) | [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Feelings](https://open.spotify.com/album/78QTeY02nibG7BWZV9zyVz) | 2:49 | 2022-06-03 | 2022-06-19 |
 | [Fete din balcani \- Radio edit](https://open.spotify.com/track/0LciVrdW4ckPVhpulIo9NG) | [Corina](https://open.spotify.com/artist/1CIFZBDYwomNEdnBJUnIZD), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Skizzo Skillz](https://open.spotify.com/artist/6BYzUcuF3aueWcqwo6UU3d) | [Fete din balcani \(Radio edit\)](https://open.spotify.com/album/2lH1EsCvzSUdfL46afHFB1) | 3:12 | 2022-06-19 | 2022-06-28 |
-| [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 | 2022-07-01 |  |
+| [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 | 2022-07-01 | 2022-07-02 |
 | [Find Myself](https://open.spotify.com/track/10AxP7nKrbDydCnEpS5VuJ) | [Last Soldier](https://open.spotify.com/artist/4j4nBDloEwhzyEc7yVOshn), [Vahid Ghandizadeh](https://open.spotify.com/artist/72FQZY1HQeXYNYwk2urfkf), [Hanna Finsen](https://open.spotify.com/artist/5aszqubLG0rR6bsz8BAzwP) | [Find Myself](https://open.spotify.com/album/7GIQ3xwp011vCS6TmRMe2u) | 3:35 | 2022-06-08 | 2022-06-12 |
 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 | 2022-06-18 | 2022-06-19 |
 | [Flashbacks](https://open.spotify.com/track/7AB1TtGbNXkixdYZtJRb4u) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Heartbreaker](https://open.spotify.com/album/3QFR3OduDKvQpTPsnmiYl9) | 2:57 | 2022-05-31 | 2022-06-01 |
@@ -896,6 +896,7 @@
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-21 | 2022-06-29 |
 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 | 2022-06-26 | 2022-06-27 |
 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 | 2022-05-25 | 2022-06-18 |
+| [Unstoppable](https://open.spotify.com/track/7p3eVrTbD7Bt7ICjZVbLcg) | [Kat Deluna](https://open.spotify.com/artist/0bOlhT8OcoC1lCpN69NcFP) | [Inside Out](https://open.spotify.com/album/14M5XlaHfn40ytNcPqr7BO) | 3:47 | 2022-07-02 |  |
 | [Unwritten](https://open.spotify.com/track/2aAtscdPlS73L1qpov8pn5) | [Coral Reef](https://open.spotify.com/artist/2Ia6l1oSkQazPGlu5AF8CT), [Bikini Bandits](https://open.spotify.com/artist/2UJZu7S4F22tWYZ2CdsJQr), [Alex Grey](https://open.spotify.com/artist/1AAK1j4h0H8pdz4kzW2Bzf) | [Unwritten](https://open.spotify.com/album/05OICtmlBNjwOpJyH6xGss) | 3:28 | 2022-06-21 | 2022-06-29 |
 | [Us Against the World](https://open.spotify.com/track/4kic2zBTI9CWmtEfYsyOf6) | [Bahjat](https://open.spotify.com/artist/4IdNUGAtqlYjfXNx4ktplO) | [Us Against the World](https://open.spotify.com/album/3HEULxDbM2NTlTKZwogrpP) | 3:41 | 2022-05-26 | 2022-06-03 |
 | [Used To Know Me](https://open.spotify.com/track/5dry5tz8yLcLuOJ3l6ZEQd) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:25 | 2022-06-17 | 2022-06-27 |

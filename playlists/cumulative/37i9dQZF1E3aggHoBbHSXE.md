@@ -4,7 +4,7 @@
 
 > Clara Mae, AJ Mitchell, Olivia Rodrigo and more
 
-839 songs - 1 day 20 hr 56 min - not published yet
+839 songs - 1 day 20 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -222,7 +222,7 @@
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2022-05-21 | 2022-06-13 |
 | [EveryTime I Cry \- R3HAB Remix](https://open.spotify.com/track/752n2yiIZZdxNAMTXmrObn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [EveryTime I Cry \(R3HAB Remix\)](https://open.spotify.com/album/2vBz1iYx315biPiOAQbq1g) | 3:11 | 2022-06-18 | 2022-06-29 |
 | [Evol](https://open.spotify.com/track/2TKagzpiPwHatU1zY6thl6) | [SOFIA](https://open.spotify.com/artist/2jYbioCqrYKHc5jxO0lQpl) | [Evol](https://open.spotify.com/album/4xn7H2qKBIsUIMgFOPgRT8) | 2:28 | 2022-06-03 | 2022-06-04 |
-| [EXHALE \(feat\. Sia\)](https://open.spotify.com/track/30xUaJSXc6aQfsF3yIcj0o) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [EXHALE \(feat\. Sia\)](https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24) | 0:29 | 2022-07-01 |  |
+| [EXHALE \(feat\. Sia\)](https://open.spotify.com/track/30xUaJSXc6aQfsF3yIcj0o) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [EXHALE \(feat\. Sia\)](https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24) | 2:34 | 2022-07-01 |  |
 | [Exposed](https://open.spotify.com/track/67WnvvtIlyQy33fv6Td7B3) | [APEK](https://open.spotify.com/artist/6jNwV0P142cXxXanOl9Ylo), [April Bender](https://open.spotify.com/artist/4nEs5Ln0E5g3UtNu8suntA) | [Exposed](https://open.spotify.com/album/3hFJjmqcoqY0yrzSpwPFbf) | 3:35 | 2022-05-22 | 2022-06-08 |
 | [Extra Agenda](https://open.spotify.com/track/6VdxXCKrjYafM3qAbtwMSA) | [Claudia Valentina](https://open.spotify.com/artist/1LZNFyDqn3t4DnOFpfK84I) | [Extra Agenda](https://open.spotify.com/album/6P4LnWcuO5p08cetdZtPaX) | 3:40 | 2022-06-18 | 2022-06-19 |
 | [EXTRA FR!ES](https://open.spotify.com/track/5JfXI7NmMyak0lAzCTbVUw) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EXTRA FR!ES](https://open.spotify.com/album/7J9nP67J4hULMaGGrYdOUu) | 2:50 | 2022-06-08 | 2022-06-09 |

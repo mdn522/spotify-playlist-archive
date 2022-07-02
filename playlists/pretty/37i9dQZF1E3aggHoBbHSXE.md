@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E3aggHoBbHSXE.md) - [plain]
 
 > Clara Mae, AJ Mitchell, Olivia Rodrigo and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E3aggHoBbHSXE.md) - [plain]
 | 42 | [Unmiss You](https://open.spotify.com/track/2wlJT4GJkQNXeI4GxLUhLQ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Drunk On Emotions](https://open.spotify.com/album/420G51WTKOJQFg7YknO4Xi) | 3:10 |
 | 43 | [Sober](https://open.spotify.com/track/42cUHHFn4NVZUq0K8CAQiv) | [Johnny Manuel](https://open.spotify.com/artist/5U8Xyp22AsF2SX5Fi7x9KC) | [Sober](https://open.spotify.com/album/176d2E2Gpoz6x7TvxC2qDf) | 3:00 |
 | 44 | [Inferno](https://open.spotify.com/track/4M0TgOab5aEqhThFSk2ENS) | [ABIR](https://open.spotify.com/artist/3QUOtWgmuxFyae4C0Q0thd) | [HEAT](https://open.spotify.com/album/4e0q6vdXFQF5jpbpdgpjDy) | 2:54 |
-| 45 | [EXHALE \(feat\. Sia\)](https://open.spotify.com/track/30xUaJSXc6aQfsF3yIcj0o) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [EXHALE \(feat\. Sia\)](https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24) | 0:29 |
+| 45 | [EXHALE \(feat\. Sia\)](https://open.spotify.com/track/30xUaJSXc6aQfsF3yIcj0o) | [kenzie](https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [EXHALE \(feat\. Sia\)](https://open.spotify.com/album/0jN9u42ixbBaGnk8CFYl24) | 2:34 |
 | 46 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 47 | [Lost](https://open.spotify.com/track/0D9FOgEG9uZm8EsE5q2Y6F) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [Lost](https://open.spotify.com/album/14ecs1rWP4SrH5rT8sU6Ox) | 3:34 |
 | 48 | [BOY CRAZY](https://open.spotify.com/track/0x51U4P4RntgqBXz5nnnOv) | [Nicky Buell](https://open.spotify.com/artist/68k70YNmyjOGsTekZIxXR9) | [BOY CRAZY](https://open.spotify.com/album/7o5gXsEUvGOLz44ECPYiN8) | 3:19 |
