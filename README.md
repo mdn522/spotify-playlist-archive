@@ -29,6 +29,7 @@
 - [Moody Mix](/playlists/pretty/37i9dQZF1EVKuMoAJjoTIw.md)
 - [On Repeat](/playlists/pretty/37i9dQZF1Epp9LvnFz3V9m.md)
 - [Pop Mix](/playlists/pretty/37i9dQZF1EQncLwOalG3K7.md)
+- [Progressive House Mix](/playlists/pretty/37i9dQZF1EIfwlfJi9BTMY.md)
 - [R&B Mix](/playlists/pretty/37i9dQZF1EQoqCH7BwIYb7.md)
 - [Release Radar](/playlists/pretty/37i9dQZEVXbvJfTkO3GeW5.md)
 - [Repeat Rewind](/playlists/pretty/37i9dQZF1EpSWsemYCkpY3.md)
