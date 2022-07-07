@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIWWGAm5gf9FH>Shirfine</a>, <a href=spotify:playlist:37i9dQZF1EIVmkna7DTk3K>Alan Walker</a>, <a href=spotify:playlist:37i9dQZF1EIXUkTp9iHzJQ>S10</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXfLv7KAaEhF>Maja Kristina</a>, <a href=spotify:playlist:37i9dQZF1EIVyfkcatrxjS>mxmtoon</a>, <a href=spotify:playlist:37i9dQZF1EIWWGAm5gf9FH>Shirfine</a> and more",
     "name": "Moody Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -147,7 +147,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 238146,
             "name": "AGAIN",
             "url": "https://open.spotify.com/track/3jo95r85lplzckjtWC91AK"
@@ -353,7 +353,7 @@
             ],
             "date_added": "2022-07-01",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 182398,
             "name": "Anxiety",
             "url": "https://open.spotify.com/track/14xlzzRVu9mYd9R0wuOKNw"
@@ -379,7 +379,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 160066,
             "name": "Anyone But You",
             "url": "https://open.spotify.com/track/7kjWMc4jG7f2P4A3MGYGy8"
@@ -437,7 +437,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-02",
+            "date_removed": null,
             "duration_ms": 187453,
             "name": "Arcade (feat. FLETCHER)",
             "url": "https://open.spotify.com/track/4Ld4kbKo1eOzToQ0P8JA0V"
@@ -579,7 +579,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-05-27",
+            "date_removed": null,
             "duration_ms": 183133,
             "name": "bad ones",
             "url": "https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg"
@@ -651,7 +651,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 191462,
             "name": "Bitch (I Said It)",
             "url": "https://open.spotify.com/track/0ABeME5fOK9X8dfqx6V98C"
@@ -1059,7 +1059,7 @@
             ],
             "date_added": "2022-06-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 146798,
             "name": "COLOR ME BLUE",
             "url": "https://open.spotify.com/track/5UJJoLremNt32C7OeyHy0I"
@@ -1389,7 +1389,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 291428,
             "name": "Disappearing Now",
             "url": "https://open.spotify.com/track/6OyAdrIqlulqr7hEpo7QSL"
@@ -1613,7 +1613,7 @@
             ],
             "date_added": "2022-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 198750,
             "name": "echo",
             "url": "https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD"
@@ -1895,7 +1895,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-14",
+            "date_removed": null,
             "duration_ms": 153190,
             "name": "Ghost",
             "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -2021,7 +2021,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 188680,
             "name": "Good Graces",
             "url": "https://open.spotify.com/track/5ozogAq7SyCuqiW0JqO1am"
@@ -2244,6 +2244,24 @@
         },
         {
             "album": {
+                "name": "Hurt Again",
+                "url": "https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ"
+            },
+            "artists": [
+                {
+                    "name": "Jillian Rossi",
+                    "url": "https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO"
+                }
+            ],
+            "date_added": "2022-07-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 126562,
+            "name": "Hurt Again",
+            "url": "https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph"
+        },
+        {
+            "album": {
                 "name": "Leave It Beautiful (Complete)",
                 "url": "https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW"
             },
@@ -2281,7 +2299,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 191375,
             "name": "Hurts So Good - Maximillian & Kina Version",
             "url": "https://open.spotify.com/track/5k0bVtIAXVdK2zc53W8Lh5"
@@ -2411,7 +2429,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 230133,
             "name": "I Miss Ü",
             "url": "https://open.spotify.com/track/2rVMLG5OjQ3mIgsYN7VEnu"
@@ -2825,7 +2843,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 176703,
             "name": "It’s You, Not Me (Sabotage)",
             "url": "https://open.spotify.com/track/2Vz1Kcs9Chj8SGb2UjPMxP"
@@ -2951,7 +2969,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 169353,
             "name": "Let Me Down Slowly",
             "url": "https://open.spotify.com/track/2qxmye6gAegTMjLKEBoR3d"
@@ -3763,7 +3781,7 @@
             ],
             "date_added": "2022-06-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 195939,
             "name": "More Than I",
             "url": "https://open.spotify.com/track/1aMwKrGTbtJfDOU70n0Y1t"
@@ -3817,7 +3835,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 214327,
             "name": "Nights With You",
             "url": "https://open.spotify.com/track/48Vq4u3bM2BRrEgH4diZXj"
@@ -3983,7 +4001,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 206543,
             "name": "One Night - Acoustic",
             "url": "https://open.spotify.com/track/7dl5LGQMOdfqxrLTifGJHH"
@@ -4095,7 +4113,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-04",
+            "date_removed": null,
             "duration_ms": 167653,
             "name": "Pull Me Out",
             "url": "https://open.spotify.com/track/7DL3XQ3XiSQJ1j34poGCsx"
@@ -4377,7 +4395,7 @@
             ],
             "date_added": "2022-06-15",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 159187,
             "name": "Self Love Therapy",
             "url": "https://open.spotify.com/track/6QuiWKQ5grxerLW5RyCbaa"
@@ -4511,7 +4529,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 190808,
             "name": "Silence II",
             "url": "https://open.spotify.com/track/6YcW1okeO3q0QT6IZVJapS"
@@ -4619,7 +4637,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 183849,
             "name": "Slow Motion",
             "url": "https://open.spotify.com/track/30I7kdtPa1Nmun5I5bns7Q"
@@ -4967,7 +4985,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 176117,
             "name": "THATS WHAT I WANT - Piano Acoustic",
             "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
@@ -5155,7 +5173,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 157638,
             "name": "toxic culture",
             "url": "https://open.spotify.com/track/3oI3DqBpkyHowcz6ez9qAx"
@@ -5191,7 +5209,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 177506,
             "name": "Traitor",
             "url": "https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV"
@@ -5209,7 +5227,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 162418,
             "name": "Treat Myself",
             "url": "https://open.spotify.com/track/1KduF4t7FmMPKbu8U5GvsI"
@@ -5761,7 +5779,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-07",
             "duration_ms": 169265,
             "name": "you broke me first",
             "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"

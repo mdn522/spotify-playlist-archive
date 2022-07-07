@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Sweet Dreams & Dynamite \- The Stickmen Project Remix](https://open.spotify.com/track/4fMtoJ54JyTtsi2as9xpvC) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Sweet Dreams & Dynamite \(The Stickmen Project Remix\)](https://open.spotify.com/album/2wp3zbuDilVKqywEmKIoPM) | 3:25 |
 | 30 | [internet girlfriend](https://open.spotify.com/track/0tYcqXg4525EcEDzk0okO4) | [Asher Postman](https://open.spotify.com/artist/3EGjCFB0QWTxgDDicucBtX) | [internet girlfriend](https://open.spotify.com/album/34FHoVdBHBJZGfg9CCnd0z) | 3:08 |
 
-Snapshot ID: `MCwwMDAwMDAwMDMzNGM3MjRhOWM4YmViMjliN2Q2M2FlYjRlMmZkMWY5`
+Snapshot ID: `MCwwMDAwMDAwMDJjMmIyNTE2YmZkODgwMTUxZGU3OTg3YTFkYWUzZWM4`
