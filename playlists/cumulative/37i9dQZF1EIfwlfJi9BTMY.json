@@ -69,7 +69,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-08",
+            "date_removed": null,
             "duration_ms": 252405,
             "name": "All I Want",
             "url": "https://open.spotify.com/track/5QPsqN21eGZHBwAGU8M41a"
@@ -113,7 +113,7 @@
             ],
             "date_added": "2022-07-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 196210,
             "name": "All These Things (feat. Jason Walker)",
             "url": "https://open.spotify.com/track/4ICmabqonolvu5FkEIHKAF"
@@ -227,7 +227,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 213600,
             "name": "Blue",
             "url": "https://open.spotify.com/track/3AWWBb8QM0ZvyBEo5cfb14"
@@ -275,7 +275,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 170156,
             "name": "Brighter",
             "url": "https://open.spotify.com/track/06y7aLT9ElpibqadVkss1F"
@@ -407,7 +407,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 191718,
             "name": "Escape",
             "url": "https://open.spotify.com/track/1HAT2xjWigUkMNhVujv76d"
@@ -537,7 +537,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 239142,
             "name": "For All Time",
             "url": "https://open.spotify.com/track/7EqygDGjuyLQoYlqoloH8w"
@@ -629,7 +629,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 145748,
             "name": "Human Touch",
             "url": "https://open.spotify.com/track/3DzTSZZ7R1Gx9YWEfuJgev"
@@ -673,7 +673,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 240000,
             "name": "Last Goodbye",
             "url": "https://open.spotify.com/track/5YLajakY9egbhDUIGoaPN2"
@@ -783,7 +783,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 198203,
             "name": "Miles To Go",
             "url": "https://open.spotify.com/track/0d2F9wcykuZ1QzDMcI0Mf0"
@@ -827,7 +827,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 234330,
             "name": "More Than Love",
             "url": "https://open.spotify.com/track/7i7g6ePSpEl8BpuIEj5OIw"
@@ -857,7 +857,7 @@
             ],
             "date_added": "2022-07-07",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-08",
+            "date_removed": null,
             "duration_ms": 241413,
             "name": "More Than Love - Craig Connelly Remix",
             "url": "https://open.spotify.com/track/0jS9Y3DVAIxcYLzJlyau50"
@@ -897,7 +897,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 200747,
             "name": "Next To You",
             "url": "https://open.spotify.com/track/2GjLrloU97ugzCVbEByDeC"
@@ -1048,6 +1048,24 @@
         },
         {
             "album": {
+                "name": "Radiance",
+                "url": "https://open.spotify.com/album/1g8tMQENKZOGgeEBax55lp"
+            },
+            "artists": [
+                {
+                    "name": "Aimoon",
+                    "url": "https://open.spotify.com/artist/17vJZOw0HdCJgRMBWBTmHT"
+                }
+            ],
+            "date_added": "2022-07-10",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 209172,
+            "name": "Radiance",
+            "url": "https://open.spotify.com/track/0rTpcjoAixpWUWPkzZ0E3R"
+        },
+        {
+            "album": {
                 "name": "Say It Like You Feel It",
                 "url": "https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b"
             },
@@ -1063,7 +1081,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-08",
+            "date_removed": null,
             "duration_ms": 208917,
             "name": "Reforget (feat. Violet Days)",
             "url": "https://open.spotify.com/track/6pQ5OouO6NwU7gjM8kTJvt"
@@ -1133,7 +1151,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 231093,
             "name": "Running With The Wind",
             "url": "https://open.spotify.com/track/3TwjKecYO8cdCKgyJbz1nB"
@@ -1239,7 +1257,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 238064,
             "name": "Shine Over Me (feat. Shira)",
             "url": "https://open.spotify.com/track/0r6CKnK09wzl2thLeJ4VJY"
@@ -1349,7 +1367,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-07",
+            "date_removed": null,
             "duration_ms": 212000,
             "name": "Stranger To Your Love",
             "url": "https://open.spotify.com/track/4AQiZ9OMg2OSsg1noGnjEB"
@@ -1375,10 +1393,32 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 187500,
             "name": "Summer Rain",
             "url": "https://open.spotify.com/track/76zrz2bR83kvQzAjjEDEBQ"
+        },
+        {
+            "album": {
+                "name": "Superhuman",
+                "url": "https://open.spotify.com/album/7vmsD5McUhD0U0Msyz3tOj"
+            },
+            "artists": [
+                {
+                    "name": "Tritonal",
+                    "url": "https://open.spotify.com/artist/521qvhdobR0GzhvU6TFw76"
+                },
+                {
+                    "name": "Codeko",
+                    "url": "https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp"
+                }
+            ],
+            "date_added": "2022-07-10",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 251250,
+            "name": "Superhuman",
+            "url": "https://open.spotify.com/track/2TlhOVwPyMJ0CbdgHS34JQ"
         },
         {
             "album": {
@@ -1449,7 +1489,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 219130,
             "name": "Take Me Back",
             "url": "https://open.spotify.com/track/49AI8WLleEdi80tgE3plVX"
@@ -1489,7 +1529,7 @@
             ],
             "date_added": "2022-07-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-10",
             "duration_ms": 213571,
             "name": "Temper Temper (feat. ONR)",
             "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
@@ -1761,7 +1801,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 209937,
             "name": "You'll Be OK",
             "url": "https://open.spotify.com/track/1YXUD5D1ZRSaKZRZME4UB5"
