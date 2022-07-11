@@ -4,7 +4,7 @@
 
 > Ava Max, Elgit Doda, Acn8 and more
 
-873 songs - 1 day 23 hr 7 min - not published yet
+874 songs - 1 day 23 hr 10 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Afraid of Love](https://open.spotify.com/track/36bE2OPOL9wwxAuFEjigbZ) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Stondon Massey](https://open.spotify.com/artist/0f5OmOrnXOokDq55o3osxg) | [Afraid of Love](https://open.spotify.com/album/26rQDtJrRtWzA5L0dg0sJF) | 2:31 | 2022-07-05 | 2022-07-06 |
 | [After Midnight](https://open.spotify.com/track/35AzqWrY78E3sHcb3bSZSG) | [Sam Creighton](https://open.spotify.com/artist/1KOYDvQ7cNqhkhqlf7AK8F) | [After Midnight](https://open.spotify.com/album/1qCvf4LwjwpKBI1eD0hWW6) | 3:25 | 2022-05-22 | 2022-06-29 |
 | [After Ours](https://open.spotify.com/track/2coTyOHfAxmAjYF2BiVlud) | [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [After Ours](https://open.spotify.com/album/0hnE7os3g2jVB6bk7R2jKi) | 2:40 | 2022-06-09 | 2022-06-30 |
+| [Again](https://open.spotify.com/track/16HrOASfb75oNM5AcQV9Fh) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y) | [Again](https://open.spotify.com/album/7olN7aIYmD5uzwdcJEyCzL) | 2:22 | 2022-07-11 |  |
 | [Ain't Nobody's Baby](https://open.spotify.com/track/1fTuWEkpSr2MyKxR8ifack) | [Frawley](https://open.spotify.com/artist/0Ey8TMIVvT6OSYiblEuyMh) | [Ain't Nobody's Baby](https://open.spotify.com/album/35MQYWJLe9qhbgTIWGqsGJ) | 2:29 | 2022-05-22 | 2022-05-28 |
 | [Ako Muna](https://open.spotify.com/track/5jLEQLkEU8Sb2fG5UQcwDM) | [Yeng Constantino](https://open.spotify.com/artist/0DnjaQqb436AH1idffI6CQ) | [Synesthesia](https://open.spotify.com/album/3CZcvxE3YyYqjF8XfvaQzn) | 3:42 | 2022-07-07 | 2022-07-08 |
 | [Alibi \(Far Out Remix\)](https://open.spotify.com/track/144VylfhBHydi2xvqy9yw6) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Alibi & Runaway \(Remixes\)](https://open.spotify.com/album/79JRwwNINMbcuNeL7SZb3o) | 3:39 | 2022-07-10 |  |
@@ -338,7 +339,7 @@
 | [Hard To Love](https://open.spotify.com/track/5Vqs0bljkV2vaDpWm2C0Zk) | [bexx](https://open.spotify.com/artist/6tXuCxJODkifV9zdPsA1G6) | [Hard To Love](https://open.spotify.com/album/3KWMc2JB7zS2ulcFHnUYTW) | 3:42 | 2022-06-06 | 2022-06-07 |
 | [Hate You but I Don't](https://open.spotify.com/track/2GYbhIQZWdEGLZGhClUTcl) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Hate You but I Don't](https://open.spotify.com/album/0DWuDpTtrUnFzAs6g6sD1Y) | 2:31 | 2022-06-15 | 2022-06-29 |
 | [Haunt Me](https://open.spotify.com/track/6mvpB9jnc5ZmPDXlCvAEkl) | [XY&O](https://open.spotify.com/artist/636Zdq45wjoYRFToU0t3Gb) | [Haunt Me](https://open.spotify.com/album/2J0WkU2dFHH6uwdOcnU5Yq) | 2:36 | 2022-06-22 | 2022-06-23 |
-| [Have a Good Life \(See You Never\)](https://open.spotify.com/track/5N3O4ndq55dBE3N4H9SuHV) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Have a Good Life \(See You Never\)](https://open.spotify.com/album/57IaAscXTLK9e4egeS38tL) | 3:01 | 2022-06-22 |  |
+| [Have a Good Life \(See You Never\)](https://open.spotify.com/track/5N3O4ndq55dBE3N4H9SuHV) | [Benedict Cork](https://open.spotify.com/artist/3x2c58AEVAjnJPpuz8ywTv) | [Have a Good Life \(See You Never\)](https://open.spotify.com/album/57IaAscXTLK9e4egeS38tL) | 3:01 | 2022-06-22 | 2022-07-11 |
 | [He Don't Trust Me](https://open.spotify.com/track/3gscLcrKjevsPoHr6EIkSV) | [Balcony](https://open.spotify.com/artist/5Jk42C5fwPHCgpyOypW2G7) | [He Don't Trust Me](https://open.spotify.com/album/7xm9lt3WiVpOc4VXZsbmqc) | 2:26 | 2022-05-22 | 2022-06-22 |
 | [He Loves Me, But...](https://open.spotify.com/track/24Yn3IkIQOklbhWvyRgh0A) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 2:26 | 2022-05-28 | 2022-06-21 |
 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 | 2022-07-07 | 2022-07-10 |
