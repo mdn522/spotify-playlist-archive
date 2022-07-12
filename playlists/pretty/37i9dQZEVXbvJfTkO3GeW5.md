@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 40 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 40 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 8 | [Starry Eyes \- MIKE DEAN Remix](https://open.spotify.com/track/5ONnknPrFf58QVxCBRcofB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Starry Eyes \(MIKE DEAN Remix\)](https://open.spotify.com/album/6vJRxj9GnmwXT7mKJqE61n) | 3:18 |
 | 9 | [Eu cu ce mă îmbrac](https://open.spotify.com/track/7IcWR79JkmngXaSbdheKAS) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Eu cu ce mă îmbrac](https://open.spotify.com/album/5XJA3hiIXvnlrI71V6EHxD) | 2:24 |
 | 10 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 |
-| 11 | [Стефен Карри](https://open.spotify.com/track/6xn3HBru1TcsHmOUGyRES2) | [YOUSTAYKID](https://open.spotify.com/artist/1dmXGN2EjUsLvW7vnk6saI), [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Стефен Карри](https://open.spotify.com/album/3T976UxCz6gxJvBPLHy4vD) | 1:52 |
-| 12 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 |
+| 11 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 |
+| 12 | [Стефен Карри](https://open.spotify.com/track/6xn3HBru1TcsHmOUGyRES2) | [YOUSTAYKID](https://open.spotify.com/artist/1dmXGN2EjUsLvW7vnk6saI), [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Стефен Карри](https://open.spotify.com/album/3T976UxCz6gxJvBPLHy4vD) | 1:52 |
 | 13 | [Force](https://open.spotify.com/track/19unD7rG2TiZExkGw7arDQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/6fFWfyJAwDCUoNA8X9O5Ni) | 4:00 |
 | 14 | [Reckless \(with MØ\)](https://open.spotify.com/track/6FUHEGAHbt4DbUFp5dNwod) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Reckless](https://open.spotify.com/album/2Oy8FCMc08WhIBKRU9r79v) | 2:36 |
 | 15 | [I Have a Dream \(Ecuador\) \(feat\. 24hrs\)](https://open.spotify.com/track/4Q4N8fJIkAyVLDImBKckC5) | [MasterM](https://open.spotify.com/artist/5ZoZi4oWF88BVvmM6iJbRK), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [I Have a Dream \(Ecuador\) \(feat\. 24hrs\)](https://open.spotify.com/album/4yxBeMKlbmxZi5KvgMLzhm) | 2:50 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 39 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 |
 | 40 | [Let It Out](https://open.spotify.com/track/09KtCfJWklTv0U1Sk55WAx) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Let It Out](https://open.spotify.com/album/1d9DRFnBtedDiStyCWs6M1) | 2:23 |
 
-Snapshot ID: `Mjc2MjAyODAsMDAwMDAwMDAxYjc5YzNmMzQwMzM1YWZlZjYzNGJmMzdjOGE1YzU4Ng==`
+Snapshot ID: `Mjc2MjAyODAsMDAwMDAwMDA2OTNjNTM5YWJkMWY1NzFjNTBiZWNhMzViMDgxMmVjOQ==`

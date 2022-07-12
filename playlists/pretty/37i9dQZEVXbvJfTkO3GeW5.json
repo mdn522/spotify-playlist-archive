@@ -1,12 +1,12 @@
 {
     "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
-    "num_followers": null,
+    "num_followers": 1,
     "original_name": "Release Radar",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "Mjc2MjAyODAsMDAwMDAwMDAxYjc5YzNmMzQwMzM1YWZlZjYzNGJmMzdjOGE1YzU4Ng==",
+    "snapshot_id": "Mjc2MjAyODAsMDAwMDAwMDA2OTNjNTM5YWJkMWY1NzFjNTBiZWNhMzViMDgxMmVjOQ==",
     "tracks": [
         {
             "added_at": "2022-07-07 18:00:00",
@@ -211,6 +211,22 @@
         {
             "added_at": "2022-07-07 18:00:00",
             "album": {
+                "name": "Café Con Leche",
+                "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
+            },
+            "artists": [
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                }
+            ],
+            "duration_ms": 168323,
+            "name": "Café Con Leche",
+            "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
+        },
+        {
+            "added_at": "2022-07-07 18:00:00",
+            "album": {
                 "name": "Стефен Карри",
                 "url": "https://open.spotify.com/album/3T976UxCz6gxJvBPLHy4vD"
             },
@@ -227,22 +243,6 @@
             "duration_ms": 112000,
             "name": "Стефен Карри",
             "url": "https://open.spotify.com/track/6xn3HBru1TcsHmOUGyRES2"
-        },
-        {
-            "added_at": "2022-07-07 18:00:00",
-            "album": {
-                "name": "Café Con Leche",
-                "url": "https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS"
-            },
-            "artists": [
-                {
-                    "name": "Pitbull",
-                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-                }
-            ],
-            "duration_ms": 168323,
-            "name": "Café Con Leche",
-            "url": "https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy"
         },
         {
             "added_at": "2022-07-07 18:00:00",
