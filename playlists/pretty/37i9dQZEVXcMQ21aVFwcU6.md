@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 |
 | 30 | [Cold Summer \- Sean Darin Remix](https://open.spotify.com/track/2evXDtD2q2faHAiESi9LyH) | [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [ICON](https://open.spotify.com/artist/7kkr4SkM1wOcU2sGZ9hY5f), [Sean Darin](https://open.spotify.com/artist/2OsKEXpTPXQuHEPzIIr0vU) | [Cold Summer \(Remixes\)](https://open.spotify.com/album/3H7xd5XpRPUajRQUfftqHI) | 2:57 |
 
-Snapshot ID: `MCwwMDAwMDAwMDJiMjk4NDY0Y2M2NGEwZmRlMjhlODAyNWQ5ZjNkYzE1`
+Snapshot ID: `MCwwMDAwMDAwMDhlNmYwNThjYmU1NTBlNzU1OGFkM2FiNmM2M2QzZGZh`
