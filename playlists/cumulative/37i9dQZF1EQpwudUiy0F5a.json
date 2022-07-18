@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-28",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIW2zHEyCgMvU>NINEONE#</a>, <a href=spotify:playlist:37i9dQZF1EIUXfCNqutatR>Jasmine Sokko</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIUXfCNqutatR>Jasmine Sokko</a>, <a href=spotify:playlist:37i9dQZF1EIW2zHEyCgMvU>NINEONE#</a> and more",
     "name": "Mandopop Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -57,7 +57,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-13",
+            "date_removed": null,
             "duration_ms": 194743,
             "name": "0321",
             "url": "https://open.spotify.com/track/1pbb71pOKB5iqfkju4NmPj"
@@ -97,7 +97,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 234817,
             "name": "11 (with Hooleeger)",
             "url": "https://open.spotify.com/track/5eDJH4MfpRQM9S9WTiu7yU"
@@ -115,7 +115,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 216511,
             "name": "14 Days",
             "url": "https://open.spotify.com/track/4ah3zSZMuR2gE4hnxaGQSl"
@@ -235,7 +235,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 212800,
             "name": "Addicted to You",
             "url": "https://open.spotify.com/track/0MKQMuVOTbLnN6sMuie5lC"
@@ -497,7 +497,7 @@
             ],
             "date_added": "2022-06-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 203990,
             "name": "Bedroom (feat. Anne-Marie)",
             "url": "https://open.spotify.com/track/1U6aNzlYxoCGGm7K6Nu9EE"
@@ -515,7 +515,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 318938,
             "name": "Best Friend",
             "url": "https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0"
@@ -533,7 +533,7 @@
             ],
             "date_added": "2022-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 201386,
             "name": "Better Left Unsaid",
             "url": "https://open.spotify.com/track/0Yb9NW4OcugPmaTkIdcwau"
@@ -875,7 +875,7 @@
             ],
             "date_added": "2022-07-11",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-12",
+            "date_removed": null,
             "duration_ms": 171797,
             "name": "Do Do Do",
             "url": "https://open.spotify.com/track/6Q6BicOa9GEFMFNXLWS8za"
@@ -959,7 +959,7 @@
             ],
             "date_added": "2022-07-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 226837,
             "name": "Don't Be Afraid ft.黃祝賢儒",
             "url": "https://open.spotify.com/track/24PS4kTyRm5mhkGelQEbmw"
@@ -977,7 +977,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 198613,
             "name": "Don't Make Me Like You Too Much",
             "url": "https://open.spotify.com/track/3SQ0WkjTgFxApUz8KnfiFE"
@@ -1021,10 +1021,28 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 196308,
             "name": "Double Me",
             "url": "https://open.spotify.com/track/13rZQUVGSlVc2M3YJ7QDbs"
+        },
+        {
+            "album": {
+                "name": "Double You",
+                "url": "https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX"
+            },
+            "artists": [
+                {
+                    "name": "G.E.M.",
+                    "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+                }
+            ],
+            "date_added": "2022-06-17",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 196308,
+            "name": "Double You",
+            "url": "https://open.spotify.com/track/1vpxFxx27sDpx9oaeBPzyF"
         },
         {
             "album": {
@@ -1061,7 +1079,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 156747,
             "name": "Drowning",
             "url": "https://open.spotify.com/track/1XXvo0XLQqEnIb0fjEr0C8"
@@ -1105,7 +1123,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 210054,
             "name": "Equal in the Darkness (Mandarin Version)",
             "url": "https://open.spotify.com/track/1WTA85YI0F6olAmTCSRVvF"
@@ -1189,7 +1207,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 197334,
             "name": "Fight With The Demon (feat. Goater)",
             "url": "https://open.spotify.com/track/3LkITiONSVW8eWhruHhiDJ"
@@ -1420,24 +1438,6 @@
         },
         {
             "album": {
-                "name": "Capricorn",
-                "url": "https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB"
-            },
-            "artists": [
-                {
-                    "name": "Jay Chou",
-                    "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
-                }
-            ],
-            "date_added": "2022-06-06",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
-            "duration_ms": 262093,
-            "name": "Hua Hai",
-            "url": "https://open.spotify.com/track/7pIizKkImgo7jAZnbpFF2R"
-        },
-        {
-            "album": {
                 "name": "I Could Be Yours",
                 "url": "https://open.spotify.com/album/6PfP8WdbcQkd8vpFtXtHm1"
             },
@@ -1587,7 +1587,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 172282,
             "name": "I'm Alive",
             "url": "https://open.spotify.com/track/0FfNFvy5KRRyB2snvK39zL"
@@ -1667,7 +1667,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-15",
+            "date_removed": null,
             "duration_ms": 220014,
             "name": "jagi (feat. KIRE)",
             "url": "https://open.spotify.com/track/487CwH00ao0LRep28i58sT"
@@ -1782,6 +1782,24 @@
         },
         {
             "album": {
+                "name": "Matters",
+                "url": "https://open.spotify.com/album/0rLL1nI6vFUxkp03DmpWre"
+            },
+            "artists": [
+                {
+                    "name": "高爾宣 OSN",
+                    "url": "https://open.spotify.com/artist/4TcOznbEZBqev21LzAH4KE"
+                }
+            ],
+            "date_added": "2022-07-18",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 160893,
+            "name": "Matters",
+            "url": "https://open.spotify.com/track/2IGM8jCcofLS21rb470Dx3"
+        },
+        {
+            "album": {
                 "name": "Reset",
                 "url": "https://open.spotify.com/album/1uz1ah9nwO6YjBh3GvloWt"
             },
@@ -1797,7 +1815,7 @@
             ],
             "date_added": "2022-06-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 220223,
             "name": "Messed Up",
             "url": "https://open.spotify.com/track/2wSIeDjm57Q1U9CzRGaqy1"
@@ -1837,7 +1855,7 @@
             ],
             "date_added": "2022-05-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 204140,
             "name": "Missing You",
             "url": "https://open.spotify.com/track/13wcq4v3Ys0kS8fOMdvZpr"
@@ -1943,7 +1961,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 273119,
             "name": "Mutual Pain",
             "url": "https://open.spotify.com/track/2Ml2GEyuekwmmzoyC9x4TK"
@@ -2269,7 +2287,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 270399,
             "name": "Reborn",
             "url": "https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk"
@@ -2327,7 +2345,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 193120,
             "name": "Remember - 電影《跟你老婆去旅行》插曲",
             "url": "https://open.spotify.com/track/4xB7mLuL2HxpU6r8W7ipK6"
@@ -2349,7 +2367,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 203200,
             "name": "Remember Tonight",
             "url": "https://open.spotify.com/track/6jSuDYZslh4lvcfefoFRbN"
@@ -2555,7 +2573,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 172118,
             "name": "So Bad",
             "url": "https://open.spotify.com/track/0q1FMCm6hZhyPomad3LQES"
@@ -2613,7 +2631,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-13",
+            "date_removed": null,
             "duration_ms": 161904,
             "name": "Stars Align (with Jolin Tsai)",
             "url": "https://open.spotify.com/track/0xDQPgYdTQZCn92Ee1W0WW"
@@ -2631,7 +2649,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 207857,
             "name": "STARS AND SEA",
             "url": "https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS"
@@ -2761,7 +2779,7 @@
             ],
             "date_added": "2022-06-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 213148,
             "name": "That's Why I Like You",
             "url": "https://open.spotify.com/track/6Lr9Orx9Szmf0y4QRmOpZm"
@@ -2920,6 +2938,24 @@
         },
         {
             "album": {
+                "name": "Mise en scène",
+                "url": "https://open.spotify.com/album/3xlEyPCruVZ58Z9KYKL1Du"
+            },
+            "artists": [
+                {
+                    "name": "Young",
+                    "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
+                }
+            ],
+            "date_added": "2022-07-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 247210,
+            "name": "Unrequited Love",
+            "url": "https://open.spotify.com/track/6yXggBqj00PxhlFzIrKekS"
+        },
+        {
+            "album": {
                 "name": "摩天動物園",
                 "url": "https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS"
             },
@@ -2953,7 +2989,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 185622,
             "name": "Waste My Time",
             "url": "https://open.spotify.com/track/4vSEkALKd7ksHwphWg3oNS"
@@ -2978,6 +3014,24 @@
         },
         {
             "album": {
+                "name": "We Will",
+                "url": "https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb"
+            },
+            "artists": [
+                {
+                    "name": "JJ Lin",
+                    "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
+                }
+            ],
+            "date_added": "2022-06-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 207266,
+            "name": "We Will",
+            "url": "https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi"
+        },
+        {
+            "album": {
                 "name": "When You Loved Me",
                 "url": "https://open.spotify.com/album/6kXiZM2u6c5VdmYcGhtxmh"
             },
@@ -2993,7 +3047,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 224400,
             "name": "When You Loved Me",
             "url": "https://open.spotify.com/track/6us212S3fCRIQwOwNExqLH"
@@ -3047,7 +3101,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 225172,
             "name": "Who I Am",
             "url": "https://open.spotify.com/track/76O16TXhsSMYZhEQAJXwmZ"
@@ -3090,6 +3144,42 @@
         },
         {
             "album": {
+                "name": "Words Left Unsaid (EBC drama \"Bonus Trip\" Theme Song)",
+                "url": "https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb"
+            },
+            "artists": [
+                {
+                    "name": "柏霖PoLin",
+                    "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
+                }
+            ],
+            "date_added": "2022-07-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 215000,
+            "name": "Words Left Unsaid - EBC drama \"Bonus Trip\" Theme Song",
+            "url": "https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD"
+        },
+        {
+            "album": {
+                "name": "You Don't Belong to Me (\"More than Blue\" TV Series Theme Song)",
+                "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
+            },
+            "artists": [
+                {
+                    "name": "Eric Chou",
+                    "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+                }
+            ],
+            "date_added": "2022-06-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 322266,
+            "name": "You Don't Belong to Me - \"More than Blue\" TV Series Theme Song",
+            "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
+        },
+        {
+            "album": {
                 "name": "You Don't Know",
                 "url": "https://open.spotify.com/album/1rcDTJB9R1wYLWAdANv7bu"
             },
@@ -3119,7 +3209,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 180208,
             "name": "You Like Me",
             "url": "https://open.spotify.com/track/7x6lPvge2DmUzODEWkYYam"
@@ -3159,7 +3249,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 256959,
             "name": "​你是心動的理由 (電影《再說一次我願意》主題曲)",
             "url": "https://open.spotify.com/track/0H4AZpUvshZ6pU5mBxembi"
@@ -3221,28 +3311,10 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-21",
+            "date_removed": null,
             "duration_ms": 144846,
             "name": "一天加點愛 (feat. Karencici)",
             "url": "https://open.spotify.com/track/0yuyPYhkkHYlBKwrPi6MZk"
-        },
-        {
-            "album": {
-                "name": "一定會",
-                "url": "https://open.spotify.com/album/1HM6brsnjlgf9bKaGGuibb"
-            },
-            "artists": [
-                {
-                    "name": "JJ Lin",
-                    "url": "https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM"
-                }
-            ],
-            "date_added": "2022-06-20",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-14",
-            "duration_ms": 207266,
-            "name": "一定會",
-            "url": "https://open.spotify.com/track/2W3RHGoIiSACvtk51Ehhxi"
         },
         {
             "album": {
@@ -3673,7 +3745,7 @@
             ],
             "date_added": "2022-06-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 305462,
             "name": "世界终结前一天",
             "url": "https://open.spotify.com/track/201CbmeY9lnUmGVmZUQtUM"
@@ -3951,7 +4023,7 @@
             ],
             "date_added": "2022-07-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 273031,
             "name": "以上皆非",
             "url": "https://open.spotify.com/track/100G5aK04coIMgwLcslho6"
@@ -4056,24 +4128,6 @@
         },
         {
             "album": {
-                "name": "你不屬於我 (《比悲傷更悲傷的故事》影集版片尾曲)",
-                "url": "https://open.spotify.com/album/6tsPH97HyxcVfg5mEtOGdv"
-            },
-            "artists": [
-                {
-                    "name": "Eric Chou",
-                    "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-                }
-            ],
-            "date_added": "2022-06-06",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-14",
-            "duration_ms": 322266,
-            "name": "你不屬於我 - 《比悲傷更悲傷的故事》影集版片尾曲",
-            "url": "https://open.spotify.com/track/5Y47GrCrjQY44qFv8Gt0Gm"
-        },
-        {
-            "album": {
                 "name": "你夠了",
                 "url": "https://open.spotify.com/album/0aBj80EllGcejy9XcavrtZ"
             },
@@ -4085,7 +4139,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-14",
+            "date_removed": null,
             "duration_ms": 201363,
             "name": "你夠了",
             "url": "https://open.spotify.com/track/5vJ2Hw5FQShQIpyDqgQlCR"
@@ -4143,7 +4197,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 203898,
             "name": "你接受嗎",
             "url": "https://open.spotify.com/track/1n4EIVWxLfkjkvRckNelO1"
@@ -4219,7 +4273,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-03",
+            "date_removed": null,
             "duration_ms": 219874,
             "name": "你的答案",
             "url": "https://open.spotify.com/track/4QWSICaQ6LGmcS8qX9lNVh"
@@ -4245,24 +4299,6 @@
             "duration_ms": 191365,
             "name": "你還不知道? (with Tay Kewei)",
             "url": "https://open.spotify.com/track/3m10HSlwj2wKqDg5ypejzE"
-        },
-        {
-            "album": {
-                "name": "來不及的告白 (東森電視自製戲劇《額外旅程》片頭曲)",
-                "url": "https://open.spotify.com/album/4bSV4Nba05BmRD919Oobpb"
-            },
-            "artists": [
-                {
-                    "name": "柏霖PoLin",
-                    "url": "https://open.spotify.com/artist/42UhEbkOaTEwJKWmf7xlfZ"
-                }
-            ],
-            "date_added": "2022-07-08",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
-            "duration_ms": 215000,
-            "name": "來不及的告白 - 東森電視自製戲劇《額外旅程》片頭曲",
-            "url": "https://open.spotify.com/track/3Yip2BwY2pv3B8WN5JIBqD"
         },
         {
             "album": {
@@ -4313,7 +4349,7 @@
             ],
             "date_added": "2022-07-14",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-15",
+            "date_removed": null,
             "duration_ms": 262373,
             "name": "倫敦的愛情",
             "url": "https://open.spotify.com/track/7q4QI51i0qedJfEwO9CQHd"
@@ -4522,24 +4558,6 @@
         },
         {
             "album": {
-                "name": "兩個你",
-                "url": "https://open.spotify.com/album/04vZzjRIBZPqPqZiB9GwFX"
-            },
-            "artists": [
-                {
-                    "name": "G.E.M.",
-                    "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
-                }
-            ],
-            "date_added": "2022-06-17",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-12",
-            "duration_ms": 196308,
-            "name": "兩個你",
-            "url": "https://open.spotify.com/track/1vpxFxx27sDpx9oaeBPzyF"
-        },
-        {
-            "album": {
                 "name": "八小时时差",
                 "url": "https://open.spotify.com/album/1vFmYvXAUAaXO4QOrxsMcf"
             },
@@ -4681,7 +4699,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 256597,
             "name": "出走",
             "url": "https://open.spotify.com/track/2TA4q4ZaXzypeVvOKz1pfq"
@@ -4851,7 +4869,7 @@
             ],
             "date_added": "2022-06-10",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-05",
+            "date_removed": null,
             "duration_ms": 200019,
             "name": "剛好遇見你",
             "url": "https://open.spotify.com/track/6G5F6BsIuT4zpzILracNSa"
@@ -4869,7 +4887,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 241711,
             "name": "勇气",
             "url": "https://open.spotify.com/track/5rY7xc2h5Imj6iFn97h8Qj"
@@ -5361,7 +5379,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 248527,
             "name": "四季予你",
             "url": "https://open.spotify.com/track/4BGkSCrjiLao1bpibNptTD"
@@ -5433,7 +5451,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 182992,
             "name": "围绕",
             "url": "https://open.spotify.com/track/7cpOrlLyc4kIv1qCIlyup3"
@@ -5527,10 +5545,28 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-04",
+            "date_removed": null,
             "duration_ms": 357093,
             "name": "在這座城市遺失了你 (戲劇《他們創業的那些鳥事》插曲)",
             "url": "https://open.spotify.com/track/1Ytgo9ipdlTsf6wlg6sXf3"
+        },
+        {
+            "album": {
+                "name": "CYNDILOVES2SING 愛。心凌",
+                "url": "https://open.spotify.com/album/3n7rU5QPhanHWGtVgTKjch"
+            },
+            "artists": [
+                {
+                    "name": "Cyndi Wang",
+                    "url": "https://open.spotify.com/artist/3AroL2oDPiAnMpTmIQv3KP"
+                }
+            ],
+            "date_added": "2022-07-18",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 218096,
+            "name": "在青春迷失的咖啡館",
+            "url": "https://open.spotify.com/track/77xwukOvyqpUwDQFBNvKNO"
         },
         {
             "album": {
@@ -5581,7 +5617,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-30",
+            "date_removed": null,
             "duration_ms": 226240,
             "name": "夏天",
             "url": "https://open.spotify.com/track/3PNl0rcFCajUKXaeZ9d81j"
@@ -5841,7 +5877,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 246231,
             "name": "失物招領(電影《以年為單位的戀愛》情感主題曲)",
             "url": "https://open.spotify.com/track/6arzoxKHtpm9UAgbw5jfO6"
@@ -6105,7 +6141,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 265383,
             "name": "如愿",
             "url": "https://open.spotify.com/track/4x9retP0JqKa35zZZhNhNS"
@@ -6184,24 +6220,6 @@
         },
         {
             "album": {
-                "name": "規定情境",
-                "url": "https://open.spotify.com/album/3xlEyPCruVZ58Z9KYKL1Du"
-            },
-            "artists": [
-                {
-                    "name": "Young",
-                    "url": "https://open.spotify.com/artist/7tuUo4Kby0sTXYcctxdlYa"
-                }
-            ],
-            "date_added": "2022-07-05",
-            "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
-            "duration_ms": 247210,
-            "name": "妳說妳還不了",
-            "url": "https://open.spotify.com/track/6yXggBqj00PxhlFzIrKekS"
-        },
-        {
-            "album": {
                 "name": "EARTHBOUND",
                 "url": "https://open.spotify.com/album/3lHtaWlEUfb7unlRMyVx23"
             },
@@ -6249,7 +6267,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 219973,
             "name": "存在的力量",
             "url": "https://open.spotify.com/track/7l2SOJbmkxQHHNrqIuH3Vf"
@@ -6267,7 +6285,7 @@
             ],
             "date_added": "2022-05-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 256000,
             "name": "孤勇者 - 《英雄聯盟:雙城之戰》動畫劇集中文主題曲",
             "url": "https://open.spotify.com/track/6akVETVeqqPVvuBS5e0EB1"
@@ -6339,7 +6357,7 @@
             ],
             "date_added": "2022-07-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 246357,
             "name": "完 ,(首唱於XIANG YU YI YANG線上演唱會)[Live]",
             "url": "https://open.spotify.com/track/4MVBHALfwiy44u5s4Y1TY0"
@@ -6985,7 +7003,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 277203,
             "name": "忽然",
             "url": "https://open.spotify.com/track/7628wHlTHencodj9Z244Rt"
@@ -7241,7 +7259,7 @@
             ],
             "date_added": "2022-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 244488,
             "name": "想對你說 - 電視劇《無神之地不下雨》插曲",
             "url": "https://open.spotify.com/track/4w3Bvc1GO4TBhhUSN1uAtN"
@@ -7389,7 +7407,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 292074,
             "name": "愛人錯過",
             "url": "https://open.spotify.com/track/27FOde2nUw0pFuj7hlPbaS"
@@ -7461,7 +7479,7 @@
             ],
             "date_added": "2022-07-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 301480,
             "name": "愛在蔓延時",
             "url": "https://open.spotify.com/track/0UR0XF5CjroWk1FbUr8hE6"
@@ -7519,7 +7537,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 250005,
             "name": "感谢你曾来过",
             "url": "https://open.spotify.com/track/1JLtvvPsHwLyd2ufASdkWV"
@@ -7537,7 +7555,7 @@
             ],
             "date_added": "2022-07-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 289604,
             "name": "慢冷",
             "url": "https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW"
@@ -7685,7 +7703,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-12",
+            "date_removed": null,
             "duration_ms": 243116,
             "name": "我不需要每一個人都愛我 A Rock Can Be A Star",
             "url": "https://open.spotify.com/track/2JpQvrAzCdCjhwy5EkMqRS"
@@ -7743,7 +7761,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-13",
+            "date_removed": null,
             "duration_ms": 255573,
             "name": "我反芻著你留下的寂寞",
             "url": "https://open.spotify.com/track/3UrBBzW0iYXg579Qdbb53l"
@@ -7779,7 +7797,7 @@
             ],
             "date_added": "2022-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-12",
+            "date_removed": null,
             "duration_ms": 204437,
             "name": "我就想你",
             "url": "https://open.spotify.com/track/0Eh0C7rpC5E0sPy4OcLdsq"
@@ -8039,7 +8057,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 222750,
             "name": "戒掉你",
             "url": "https://open.spotify.com/track/6R0KyLT5BUq3IhtkOLDTDK"
@@ -8115,7 +8133,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 213564,
             "name": "抱一抱一下",
             "url": "https://open.spotify.com/track/3bYxgKZB4siWtadw7hm4Nb"
@@ -8339,7 +8357,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-15",
+            "date_removed": null,
             "duration_ms": 181348,
             "name": "时光背面的我",
             "url": "https://open.spotify.com/track/3YlWZ4xj5bmTi7FQK83063"
@@ -8927,7 +8945,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 205218,
             "name": "毒藥",
             "url": "https://open.spotify.com/track/5VymCvfV0FguCa7zrIPSgk"
@@ -9205,7 +9223,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 227232,
             "name": "清晨五點",
             "url": "https://open.spotify.com/track/0np6VAqG3YhOq8Jbi3IjbZ"
@@ -9365,7 +9383,7 @@
             ],
             "date_added": "2022-05-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-01",
+            "date_removed": null,
             "duration_ms": 168796,
             "name": "潮汐",
             "url": "https://open.spotify.com/track/3Bi7JrgmqmN5LBsG6fsWgM"
@@ -9383,7 +9401,7 @@
             ],
             "date_added": "2022-05-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 181184,
             "name": "炙愛 - 女聲版",
             "url": "https://open.spotify.com/track/3CEkc8f1UDvI7kohz3ARpA"
@@ -9455,7 +9473,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-09",
+            "date_removed": null,
             "duration_ms": 288733,
             "name": "無人知曉",
             "url": "https://open.spotify.com/track/5R3KGS53DCrlbi6cxECAEH"
@@ -9661,7 +9679,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 239711,
             "name": "現在是什麼時辰了",
             "url": "https://open.spotify.com/track/3wG3yWNanqRahzgusWgpJx"
@@ -9787,7 +9805,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 243614,
             "name": "癡人說夢",
             "url": "https://open.spotify.com/track/5XSA1NjZV8f9yMzlMqj5Bx"
@@ -9827,7 +9845,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 204215,
             "name": "白月光与朱砂痣",
             "url": "https://open.spotify.com/track/5jbC5gnLRAafNuadQU0QB8"
@@ -10297,7 +10315,7 @@
             ],
             "date_added": "2022-06-10",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-15",
+            "date_removed": null,
             "duration_ms": 252000,
             "name": "美人魚",
             "url": "https://open.spotify.com/track/2ahydS3UcOoAF2usK3I1ph"
@@ -10355,7 +10373,7 @@
             ],
             "date_added": "2022-06-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 225254,
             "name": "自娱自乐",
             "url": "https://open.spotify.com/track/1ls1mJyjl1OVIx7WlvICwA"
@@ -10457,6 +10475,24 @@
             "duration_ms": 176476,
             "name": "芯 Empty Bullets",
             "url": "https://open.spotify.com/track/2Kt0eeJtQIZJeK9nZnvmC8"
+        },
+        {
+            "album": {
+                "name": "魔杰座",
+                "url": "https://open.spotify.com/album/6pmapc89HjY4f16ARzrmBB"
+            },
+            "artists": [
+                {
+                    "name": "Jay Chou",
+                    "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+                }
+            ],
+            "date_added": "2022-06-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 262093,
+            "name": "花 海",
+            "url": "https://open.spotify.com/track/7pIizKkImgo7jAZnbpFF2R"
         },
         {
             "album": {
@@ -10780,6 +10816,24 @@
         },
         {
             "album": {
+                "name": "被人 Facade",
+                "url": "https://open.spotify.com/album/6cDiKQSKvCAo4WLJ2DyrOy"
+            },
+            "artists": [
+                {
+                    "name": "Joker Xue",
+                    "url": "https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN"
+                }
+            ],
+            "date_added": "2022-07-18",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 248160,
+            "name": "被人 Facade",
+            "url": "https://open.spotify.com/track/0RstD1ThE5VUie4RU8d5Jk"
+        },
+        {
+            "album": {
                 "name": "裹著心的光",
                 "url": "https://open.spotify.com/album/5Ahq8CVYewyMVVjIcHgqUO"
             },
@@ -10831,7 +10885,7 @@
             ],
             "date_added": "2022-07-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-07-18",
             "duration_ms": 242778,
             "name": "規則就是用來打破的",
             "url": "https://open.spotify.com/track/6Q1c391oqwpOlvZx2pvP4Z"
@@ -10907,7 +10961,7 @@
             ],
             "date_added": "2022-06-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-10",
+            "date_removed": null,
             "duration_ms": 279163,
             "name": "變廢為寶",
             "url": "https://open.spotify.com/track/2XkFoLQSE7zVpVQNNsOhEn"
@@ -10943,7 +10997,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-06",
+            "date_removed": null,
             "duration_ms": 300032,
             "name": "貪",
             "url": "https://open.spotify.com/track/2cDQ5rXdQoWZsVUok3Gk8M"
@@ -11629,7 +11683,7 @@
             ],
             "date_added": "2022-07-15",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 285000,
             "name": "閉上眼睛會想起的人 (電影《一杯熱奶茶的等待》主題曲)",
             "url": "https://open.spotify.com/track/3YznHBhAqELVwdRFxBD7MI"
@@ -11831,7 +11885,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 233882,
             "name": "離開我的依賴",
             "url": "https://open.spotify.com/track/28VBdtYc5Cpmey4Cpvcrby"
@@ -12045,7 +12099,7 @@
             ],
             "date_added": "2022-06-01",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 296006,
             "name": "飞鸟和蝉",
             "url": "https://open.spotify.com/track/6XBL9naPxZjATbmGAWGJ9V"
@@ -12103,7 +12157,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-13",
+            "date_removed": null,
             "duration_ms": 283997,
             "name": "鲸落海底",
             "url": "https://open.spotify.com/track/6SCJVKQdBc4KDDCafZ4S8p"
