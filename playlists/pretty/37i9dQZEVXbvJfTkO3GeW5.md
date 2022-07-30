@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 39 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 39 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 31 | [I'm Sorry](https://open.spotify.com/track/7Iwo0m1RFI4HXJAklNlfHE) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [I'm Sorry](https://open.spotify.com/album/4If0BISylxtZSwsRZvOke8) | 3:42 |
 | 32 | [Crazy](https://open.spotify.com/track/0y0JrjcYjxmvdiXDT6348Z) | [Paul Damixie](https://open.spotify.com/artist/0nkCaGdwKdFsufB3GbvCdk), [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [Crazy](https://open.spotify.com/album/4cGLdrCDu8q6MLqjjT6Pyp) | 3:14 |
 | 33 | [Clap Clap](https://open.spotify.com/track/6vwWw8eyVwbzO3i5YqnPaU) | [Gran Error](https://open.spotify.com/artist/7ilnC3b4EuUuElf3cuStza), [Elvana Gjata](https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Clap Clap](https://open.spotify.com/album/0q4yUDBYy1X76urz2RcWU7) | 2:29 |
-| 34 | [Crazy What Love Can Do \(with Becky Hill\) \[Öwnboss Remix\]](https://open.spotify.com/track/6DYyHbNBUEmX0t9SlhtZg3) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Crazy What Love Can Do \(Remixes\)](https://open.spotify.com/album/4pMtHrpoLAkye23NIswVFu) | 2:36 |
+| 34 | [Crazy What Love Can Do \- HEADER Extended Remix](https://open.spotify.com/track/3J7angSaf12eQIxWnUb3Zv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [HEADER](https://open.spotify.com/artist/7odWcvukhtSCQY2pBN7YT0) | [Crazy What Love Can Do \(Extended Remixes\)](https://open.spotify.com/album/2RXhHxhWuHKByjY0gxquL4) | 4:05 |
 | 35 | [Sad Songs](https://open.spotify.com/track/7FNBs0uJ316QqcVutWKz3O) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Sad Songs](https://open.spotify.com/album/5BAJ0ZYVeoioYv1PqZgsQz) | 3:09 |
 | 36 | [Café Con Leche](https://open.spotify.com/track/5vXhgXRIUWMD62onAqA5xy) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Café Con Leche](https://open.spotify.com/album/1WwJMtiIDJLNREM5ldlXRS) | 2:48 |
 | 37 | [Eu cu ce mă îmbrac?](https://open.spotify.com/track/7IcWR79JkmngXaSbdheKAS) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG) | [Eu cu ce mă îmbrac?](https://open.spotify.com/album/5XJA3hiIXvnlrI71V6EHxD) | 2:24 |
 | 38 | [I Have a Dream \(Ecuador\) \(feat\. 24hrs\)](https://open.spotify.com/track/4Q4N8fJIkAyVLDImBKckC5) | [MasterM](https://open.spotify.com/artist/5ZoZi4oWF88BVvmM6iJbRK), [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J) | [I Have a Dream \(Ecuador\) \(feat\. 24hrs\)](https://open.spotify.com/album/4yxBeMKlbmxZi5KvgMLzhm) | 2:50 |
 | 39 | [The Sun & The Ocean](https://open.spotify.com/track/7v7LJMBbvWOtBWP26B0b8u) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [The Sun & The Ocean](https://open.spotify.com/album/0mlUjuOPReK0brnRD3QPLz) | 3:14 |
 
-Snapshot ID: `Mjc2NTA1MjAsMDAwMDAwMDA4YmRmZTFlODVjNmQ1ZTg1OWQ5NjBlZjMwYWRlM2RjNQ==`
+Snapshot ID: `Mjc2NTA1MjAsMDAwMDAwMDA4NGU2NTQyZmZlMzcxZTUxZTVmNjMzNmE1OGM2MDMyOQ==`
