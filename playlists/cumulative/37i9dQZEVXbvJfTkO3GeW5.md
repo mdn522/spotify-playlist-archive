@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-194 songs - 17 hr 43 min - not published yet
+195 songs - 17 hr 47 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [Cheat Code \- Remix](https://open.spotify.com/track/4JxDZFPr5AlXT6E4RtR5N8) | [Max Rena](https://open.spotify.com/artist/477ionkvc2pdWOOLi4NQHi), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Cheat Code \(Remix\)](https://open.spotify.com/album/20WUEkjRqqbnjNLgtRAXFY) | 3:56 | 2022-06-02 | 2022-06-10 |
 | [Chiki Chiki](https://open.spotify.com/track/3jvaQDDS72EXLDAdtf0iJS) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Chiki Chiki](https://open.spotify.com/album/4bYLJm29seRRjc0UbidVQE) | 3:06 | 2022-06-23 | 2022-07-23 |
 | [Clap Clap](https://open.spotify.com/track/6vwWw8eyVwbzO3i5YqnPaU) | [Gran Error](https://open.spotify.com/artist/7ilnC3b4EuUuElf3cuStza), [Elvana Gjata](https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Clap Clap](https://open.spotify.com/album/0q4yUDBYy1X76urz2RcWU7) | 2:29 | 2022-07-07 |  |
-| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-28 |  |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/5WliMybG9GxcxbYGF5S5tr) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/5l0rPc9qm1hqknasKE71Ch) | 3:51 | 2022-07-28 | 2022-08-03 |
+| [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-28 |  |
 | [Coming Back \- Tobias Bergson Remix](https://open.spotify.com/track/0ez3XaefP2D32jdF86Vxrl) | [CARSTN](https://open.spotify.com/artist/3Wb1mXnd1hXkGwys5m54YC), [Treetalk](https://open.spotify.com/artist/3xwLNvmLpu3mDKzCoht2lp), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Coming Back \(Tobias Bergson Remix\)](https://open.spotify.com/album/0EBtj72DMkTULEPdaFqTbZ) | 3:29 | 2022-05-19 | 2022-05-27 |
 | [Coming Over](https://open.spotify.com/track/34uPxlUlhuGX9OpNUJdaYq) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Coming Over](https://open.spotify.com/album/7GTYl8muzPJvzwQGIOkk5t) | 2:52 | 2022-07-14 |  |
 | [Courage to Change \- Michael Calfan Remix](https://open.spotify.com/track/5LzBIh1CxOnNknwoi5hCb8) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Michael Calfan](https://open.spotify.com/artist/4CuipEvwcoQggmCV8jpKF9) | [Courage to Change \(Michael Calfan Remix\)](https://open.spotify.com/album/01DUi2JC51Ers9bAypxDrk) | 2:36 | 2022-06-09 | 2022-07-08 |
