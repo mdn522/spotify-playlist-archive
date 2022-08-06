@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYUff8eZFxG8>Gabi DeMartino</a>, <a href=spotify:playlist:37i9dQZF1EIWGNzp5QjGyu>Rochelle Diamante</a>, <a href=spotify:playlist:37i9dQZF1EIXUkTp9iHzJQ>S10</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZ6Kpu6rluYe>Clara Mae</a>, <a href=spotify:playlist:37i9dQZF1EIVyfkcatrxjS>mxmtoon</a>, <a href=spotify:playlist:37i9dQZF1EIXzXxwq03nPR>Benicio Bryant</a> and more",
     "name": "Moody Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -35,7 +35,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 221823,
             "name": "2:30",
             "url": "https://open.spotify.com/track/6dgxX4IiQKI3Yqm0hVVbNE"
@@ -219,7 +219,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-24",
+            "date_removed": null,
             "duration_ms": 201575,
             "name": "All Over Again",
             "url": "https://open.spotify.com/track/1Hh2HU0uJ947pXGRFa9ZBx"
@@ -379,7 +379,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 160066,
             "name": "Anyone But You",
             "url": "https://open.spotify.com/track/7kjWMc4jG7f2P4A3MGYGy8"
@@ -433,7 +433,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 185146,
             "name": "Arcade",
             "url": "https://open.spotify.com/track/1J14CdDAvBTE1AJYUOwl6C"
@@ -915,7 +915,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 206980,
             "name": "Broken Love",
             "url": "https://open.spotify.com/track/3EPgcDNfwJ7RPkf1wEH4ot"
@@ -1201,7 +1201,7 @@
             ],
             "date_added": "2022-06-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-30",
+            "date_removed": null,
             "duration_ms": 230880,
             "name": "Control",
             "url": "https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t"
@@ -1367,7 +1367,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 197732,
             "name": "Dancing With Your Ghost",
             "url": "https://open.spotify.com/track/1TQXIltqoZ5XXyfCbAeSQQ"
@@ -1403,7 +1403,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 176603,
             "name": "De Diepte",
             "url": "https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z"
@@ -1629,7 +1629,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 194558,
             "name": "Dreams",
             "url": "https://open.spotify.com/track/7aiYeTWsZBOxBnij88bs7o"
@@ -1835,7 +1835,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 165335,
             "name": "Fake A Smile",
             "url": "https://open.spotify.com/track/1Ph65gYzHdiNDs9yWh4ePY"
@@ -1853,7 +1853,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 226202,
             "name": "Fall Back into You",
             "url": "https://open.spotify.com/track/56yE58892x5B1weq0FjiAG"
@@ -2044,6 +2044,24 @@
         },
         {
             "album": {
+                "name": "Love Goes",
+                "url": "https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC"
+            },
+            "artists": [
+                {
+                    "name": "Sam Smith",
+                    "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+                }
+            ],
+            "date_added": "2022-08-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 246735,
+            "name": "Fire On Fire",
+            "url": "https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"
+        },
+        {
+            "album": {
                 "name": "Flowers",
                 "url": "https://open.spotify.com/album/3FtYC7MmFKnjJoCE1aElBx"
             },
@@ -2131,7 +2149,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 193733,
             "name": "GHOST TOWN",
             "url": "https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH"
@@ -2473,7 +2491,7 @@
             ],
             "date_added": "2022-07-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 126562,
             "name": "Hurt Again",
             "url": "https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph"
@@ -2665,7 +2683,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 230133,
             "name": "I Miss Ü",
             "url": "https://open.spotify.com/track/2rVMLG5OjQ3mIgsYN7VEnu"
@@ -2945,7 +2963,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 240000,
             "name": "immaculate",
             "url": "https://open.spotify.com/track/6lntmxb6dQvpdBRXyD8hiz"
@@ -3659,7 +3677,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 253928,
             "name": "Love like this",
             "url": "https://open.spotify.com/track/5Sr6SPZsVd60oQ79buav7u"
@@ -4079,7 +4097,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 178024,
             "name": "Missing You Sucks",
             "url": "https://open.spotify.com/track/57zslQlwkYyVqErssPWDvA"
@@ -4595,7 +4613,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-31",
+            "date_removed": null,
             "duration_ms": 227186,
             "name": "Remember That Night?",
             "url": "https://open.spotify.com/track/1nYzjrdVQ8RpF93M0jPFW7"
@@ -4835,7 +4853,7 @@
             ],
             "date_added": "2022-06-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 159187,
             "name": "Self Love Therapy",
             "url": "https://open.spotify.com/track/6QuiWKQ5grxerLW5RyCbaa"
@@ -4853,7 +4871,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-02",
+            "date_removed": null,
             "duration_ms": 242973,
             "name": "Set Fire to the Rain",
             "url": "https://open.spotify.com/track/7j4OmvkjRz0PrjFADlHfQx"
@@ -5483,7 +5501,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 176117,
             "name": "THATS WHAT I WANT - Piano Acoustic",
             "url": "https://open.spotify.com/track/4p95kpslEQ0PhjaeHPmqoD"
@@ -5689,7 +5707,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 157638,
             "name": "toxic culture",
             "url": "https://open.spotify.com/track/3oI3DqBpkyHowcz6ez9qAx"
@@ -5725,7 +5743,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 177506,
             "name": "Traitor",
             "url": "https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV"
@@ -6107,7 +6125,7 @@
             ],
             "date_added": "2022-07-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-06",
             "duration_ms": 200282,
             "name": "When You Lose Someone",
             "url": "https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z"
@@ -6321,7 +6339,7 @@
             ],
             "date_added": "2022-07-12",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-25",
+            "date_removed": null,
             "duration_ms": 182773,
             "name": "WTF",
             "url": "https://open.spotify.com/track/3UBAs1HwAbihtCftCqQ9JZ"
