@@ -107,7 +107,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-18",
+            "date_removed": null,
             "duration_ms": 247129,
             "name": "... Mon ange",
             "url": "https://open.spotify.com/track/3ZbIKbkiDCVUUXVoSPEP3l"
@@ -245,7 +245,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-28",
+            "date_removed": null,
             "duration_ms": 232676,
             "name": "A Little Bit of Love (Cast Version)",
             "url": "https://open.spotify.com/track/3zIdP0pLtikty24DMPJjVT"
@@ -451,7 +451,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 239560,
             "name": "Adamım",
             "url": "https://open.spotify.com/track/2ZMY5U172NZyLrBOqrDevY"
@@ -803,7 +803,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 111200,
             "name": "Always Be My Baby (from The Runaway Bunny)",
             "url": "https://open.spotify.com/track/4pP7vTRDkwKftiPB3JBaP0"
@@ -1071,7 +1071,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 198493,
             "name": "Après un rêve, Op. 7, No. 1 (Arr. Piano)",
             "url": "https://open.spotify.com/track/0d71p8tQDxLgdTkEHcxQyl"
@@ -1381,7 +1381,7 @@
             ],
             "date_added": "2022-08-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 257026,
             "name": "Aşk Yarası",
             "url": "https://open.spotify.com/track/1iXlcaT9RjgEbemNGrxeub"
@@ -1501,7 +1501,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 137000,
             "name": "Bailando (feat. Phil The Beat)",
             "url": "https://open.spotify.com/track/1fkA6K3VO7W4nvGrcjukHN"
@@ -1661,7 +1661,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-26",
+            "date_removed": null,
             "duration_ms": 249375,
             "name": "Bassa Sababa - Dalit Rechester Remix",
             "url": "https://open.spotify.com/track/7fjOSyoUwen3Vi973SvOGf"
@@ -1679,7 +1679,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-01",
+            "date_removed": null,
             "duration_ms": 207666,
             "name": "Be Adam",
             "url": "https://open.spotify.com/track/5R62yrYVMRZExYqxoPnQMn"
@@ -2418,6 +2418,24 @@
         },
         {
             "album": {
+                "name": "The Year of RNG",
+                "url": "https://open.spotify.com/album/3qX37OE9Mg8n2HkFnnewFN"
+            },
+            "artists": [
+                {
+                    "name": "R'N'G",
+                    "url": "https://open.spotify.com/artist/67QmYgREHkg0yQra3V1Mdw"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 257933,
+            "name": "Can't U Ce",
+            "url": "https://open.spotify.com/track/1zMS0OtaL9Igei7ZknxEfb"
+        },
+        {
+            "album": {
                 "name": "Caribbean Blue",
                 "url": "https://open.spotify.com/album/0drAXE2TkbZhrj2HBB4bOc"
             },
@@ -2680,6 +2698,24 @@
         },
         {
             "album": {
+                "name": "Children (Remastered Version)",
+                "url": "https://open.spotify.com/album/1AjEGkfZipykbQbI54tq4M"
+            },
+            "artists": [
+                {
+                    "name": "Robert Miles",
+                    "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 203211,
+            "name": "Children - Remastered Version",
+            "url": "https://open.spotify.com/track/74960yFHLj6D8VOJUI23V1"
+        },
+        {
+            "album": {
                 "name": "Children (Undercatt Remix)",
                 "url": "https://open.spotify.com/album/48SKJA51N5qADc57Ngvmrz"
             },
@@ -2695,7 +2731,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 405071,
             "name": "Children - Undercatt Remix",
             "url": "https://open.spotify.com/track/539yxbKKHPHrI1vc3BI2Ee"
@@ -3247,7 +3283,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 193554,
             "name": "Cuckoo",
             "url": "https://open.spotify.com/track/6TmpRHZKmvGZoFs7XDXFjK"
@@ -3283,7 +3319,7 @@
             ],
             "date_added": "2022-08-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 186528,
             "name": "cxxl kids (sped ver)",
             "url": "https://open.spotify.com/track/2DwW79wr2Gv1rQTEVpttxS"
@@ -3301,7 +3337,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 236716,
             "name": "CƠN MƯA NGANG QUA - REMIX 2022",
             "url": "https://open.spotify.com/track/53JDP7TaGacjUtnStYQp51"
@@ -3399,7 +3435,7 @@
             ],
             "date_added": "2022-07-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 242060,
             "name": "Deeper And Deeper (David's Radio Edit) - 2022 Remaster",
             "url": "https://open.spotify.com/track/3EJnKowBidd3dWaXQ2yTVF"
@@ -3955,7 +3991,7 @@
             ],
             "date_added": "2022-07-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 245773,
             "name": "Dreams Come True",
             "url": "https://open.spotify.com/track/6whFRgwg7je2SYzpSfansM"
@@ -4103,7 +4139,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 229000,
             "name": "Early - Evolution Mix",
             "url": "https://open.spotify.com/track/4fMOEtRHPEzRgNVpjYjPHv"
@@ -4223,7 +4259,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 467435,
             "name": "Ekhon Onek Raat - Unplugged Live",
             "url": "https://open.spotify.com/track/4TofXYWe8kxrv8zYG2ZGwQ"
@@ -4683,7 +4719,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 297404,
             "name": "Fade To Grey - Lecomte de Brégeot and Violet Chachki Remix",
             "url": "https://open.spotify.com/track/6gP3jfbNT0REkHV1YpYYGT"
@@ -4821,7 +4857,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 254240,
             "name": "Falling",
             "url": "https://open.spotify.com/track/78P2oudZ2N9tVU9eVs32Mn"
@@ -4843,7 +4879,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 284305,
             "name": "Fancy - Dave Audé Remix",
             "url": "https://open.spotify.com/track/2ZuPfysUMPtXSGhFZ7W4Xt"
@@ -4977,7 +5013,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 364042,
             "name": "Ferari Mon - Unplugged Live",
             "url": "https://open.spotify.com/track/0aNVBb459J8QmTAoHu3pGq"
@@ -4995,7 +5031,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 237160,
             "name": "Flute - Radio Edit",
             "url": "https://open.spotify.com/track/5JJJvX5q8IXWAbaspeoTE1"
@@ -5039,7 +5075,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 175999,
             "name": "Flying High - Anime Speed Mix",
             "url": "https://open.spotify.com/track/2cNb6qUXHpFv0RRPcehzth"
@@ -5057,7 +5093,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 264546,
             "name": "Flying Without Wings - Live at Ulster Hall",
             "url": "https://open.spotify.com/track/43hhQ0QSBR5tZfvqzAhSZ1"
@@ -5235,7 +5271,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-06",
+            "date_removed": null,
             "duration_ms": 209500,
             "name": "Freak Like Me - Riton Remix",
             "url": "https://open.spotify.com/track/1gqUOhTqoNszEJpbEfWqhs"
@@ -5367,7 +5403,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-08",
+            "date_removed": null,
             "duration_ms": 277511,
             "name": "Frozen - Extended Club Mix Edit",
             "url": "https://open.spotify.com/track/7JOeqsEoEyDFv5cexYicJq"
@@ -5393,7 +5429,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 133090,
             "name": "Frozen - Fireboy DML Remix",
             "url": "https://open.spotify.com/track/6LDZVinkfCfaBtqOMF1lSA"
@@ -5723,7 +5759,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 155000,
             "name": "God is A DJ",
             "url": "https://open.spotify.com/track/4exGSaz6lVTxxZVF1xVD4k"
@@ -5745,7 +5781,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-06",
+            "date_removed": null,
             "duration_ms": 256368,
             "name": "God is A DJ - Extended",
             "url": "https://open.spotify.com/track/08cBDGzPfgexMmwV1fvi7K"
@@ -6131,7 +6167,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 188181,
             "name": "Her",
             "url": "https://open.spotify.com/track/36gqpkyC3Pvzgw3Mnz3tfX"
@@ -6225,7 +6261,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 257480,
             "name": "High and Dry",
             "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
@@ -6269,7 +6305,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 368812,
             "name": "Himno De Mi Corazón - Verlk Remix - Mixed",
             "url": "https://open.spotify.com/track/2umBiGQ9sPfhQsvrJnotMd"
@@ -6643,7 +6679,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 314493,
             "name": "I Surrender",
             "url": "https://open.spotify.com/track/2oIJcLFfmcNNaNpMJzBUwG"
@@ -6665,7 +6701,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 252493,
             "name": "I Turn To You - Hex Hector Radio Mix",
             "url": "https://open.spotify.com/track/5x5zRAJy1a8lSKWCCKSCIH"
@@ -6861,7 +6897,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 196795,
             "name": "I'm Outta Love - CARSTN & Nicolas Haelg Remix",
             "url": "https://open.spotify.com/track/6HuXA4NSQsKRzwEOxAwxw3"
@@ -7301,7 +7337,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 456866,
             "name": "It's All Coming Back to Me Now",
             "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
@@ -7659,7 +7695,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-18",
+            "date_removed": null,
             "duration_ms": 298226,
             "name": "Just Walk Away - Bonus Track",
             "url": "https://open.spotify.com/track/1SCsL0vE4W3N7n9HiG4q2r"
@@ -7811,7 +7847,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-26",
+            "date_removed": null,
             "duration_ms": 264066,
             "name": "Karma Police",
             "url": "https://open.spotify.com/track/63OQupATfueTdZMWTxW03A"
@@ -8161,7 +8197,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-27",
+            "date_removed": null,
             "duration_ms": 321626,
             "name": "Lamunan Terhenti",
             "url": "https://open.spotify.com/track/0KIxT6yIhIRks39LAUOJJB"
@@ -8237,7 +8273,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 236160,
             "name": "Leaving Town - Evolution Mix",
             "url": "https://open.spotify.com/track/2Di4G1S9keFpSksulGUOks"
@@ -8255,7 +8291,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 258800,
             "name": "Left Outside Alone",
             "url": "https://open.spotify.com/track/2uNq2hKb4X1S30hBgoywOF"
@@ -8403,7 +8439,7 @@
             ],
             "date_added": "2022-07-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 246897,
             "name": "Lonely - Original",
             "url": "https://open.spotify.com/track/2XAuKwZuf3EPDo9GLfBDsB"
@@ -8447,7 +8483,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-07",
+            "date_removed": null,
             "duration_ms": 379419,
             "name": "Lonely - Remastered",
             "url": "https://open.spotify.com/track/0XANi0RKsIKcyT9BKxg6rK"
@@ -8880,6 +8916,24 @@
         },
         {
             "album": {
+                "name": "Sungguh Tak Ku Sangka",
+                "url": "https://open.spotify.com/album/7BqwTnVWuWBfIz9PkrzmUl"
+            },
+            "artists": [
+                {
+                    "name": "X-Ray",
+                    "url": "https://open.spotify.com/artist/1BO9p8yXqIOEOAWozEw18S"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 301400,
+            "name": "Mekar Di Jiwa",
+            "url": "https://open.spotify.com/track/60IdBkOfKw8dKtAfjBOjL6"
+        },
+        {
+            "album": {
                 "name": "Kembali Merindu",
                 "url": "https://open.spotify.com/album/6UzAMN5spiRcr3NVCa0Inf"
             },
@@ -9011,7 +9065,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 249417,
             "name": "MMMBop - Slowed + Reverb",
             "url": "https://open.spotify.com/track/3Qi6MkuAHlT6lIb1ZAIajB"
@@ -9047,7 +9101,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 261842,
             "name": "Mourir sur scène - Orchestration 2022",
             "url": "https://open.spotify.com/track/1SqT8wdt6byNfs7mC9RTMj"
@@ -9443,7 +9497,7 @@
             ],
             "date_added": "2022-08-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 222573,
             "name": "Nazına Ölüyorum - Çelik Şarkıları",
             "url": "https://open.spotify.com/track/3e8XLX8PkYBrgYUzgl0jJZ"
@@ -9881,7 +9935,7 @@
             ],
             "date_added": "2022-07-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-05",
+            "date_removed": null,
             "duration_ms": 196012,
             "name": "Offshore - Kryder Remix",
             "url": "https://open.spotify.com/track/1dmjsQ7Pu7zkAMxYED0QuR"
@@ -9947,7 +10001,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 173371,
             "name": "On The Beach - Kryder & JenJammin Sax Edit",
             "url": "https://open.spotify.com/track/4aFTcJeAy1P78T4eKFPyh3"
@@ -10464,6 +10518,24 @@
         },
         {
             "album": {
+                "name": "Classic",
+                "url": "https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR"
+            },
+            "artists": [
+                {
+                    "name": "Bryan Adams",
+                    "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 312983,
+            "name": "Please Forgive Me (Classic Version)",
+            "url": "https://open.spotify.com/track/6PpkGvvtmLahruv3sttVzw"
+        },
+        {
+            "album": {
                 "name": "Aabar Bachhor Kuri Pore, Vol. 1",
                 "url": "https://open.spotify.com/album/0nXTQZdaWyTduqlcbaYit4"
             },
@@ -10705,7 +10777,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 198347,
             "name": "Reachers Of Civilisation - AVIRA & Nourey's Unplugged Remix",
             "url": "https://open.spotify.com/track/3FPIssWRaxh0YLkYs348hU"
@@ -11029,7 +11101,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-16",
+            "date_removed": null,
             "duration_ms": 199708,
             "name": "Right in the Night - Balthazar & JackRock 5 A.M. Rave Remix",
             "url": "https://open.spotify.com/track/0JUdRqIGk5ddobsNjS1WEY"
@@ -11589,7 +11661,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-17",
+            "date_removed": null,
             "duration_ms": 325466,
             "name": "Send Me An Angel - Live",
             "url": "https://open.spotify.com/track/2u3qmqb4SVXkAbRiPM1uuo"
@@ -11797,7 +11869,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 205849,
             "name": "Seven Cities - Tom Staar Remix",
             "url": "https://open.spotify.com/track/2QUQgmpGxTy3EWxYtj3JPD"
@@ -12111,7 +12183,7 @@
             ],
             "date_added": "2022-07-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-02",
+            "date_removed": null,
             "duration_ms": 259907,
             "name": "Silence - Brennan Heart & Dailucia Hard Mix",
             "url": "https://open.spotify.com/track/0LQO4g1NLbhZPTqCVwb9bJ"
@@ -12137,7 +12209,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 263453,
             "name": "Silence - Brennan Heart Remix",
             "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
@@ -12421,7 +12493,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 165605,
             "name": "Somebody Dance with Me",
             "url": "https://open.spotify.com/track/1MdrjvDw47Ck6Dh37FNqXR"
@@ -13175,7 +13247,7 @@
             ],
             "date_added": "2022-08-01",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-06",
+            "date_removed": null,
             "duration_ms": 237440,
             "name": "Take Me Where the Sun Is Shining (Summer Mix)",
             "url": "https://open.spotify.com/track/2uBf6uDNxj58Orp6GwkzOB"
@@ -13433,6 +13505,24 @@
         {
             "album": {
                 "name": "Far From The Maddening Crowds (Evolution Mixes)",
+                "url": "https://open.spotify.com/album/7nObjTvNy7uVm3lDeCp0PK"
+            },
+            "artists": [
+                {
+                    "name": "Chicane",
+                    "url": "https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 353280,
+            "name": "The Drive Home - Evolution Extended Mix",
+            "url": "https://open.spotify.com/track/6z9ex3zax2GamMmiXn6mQ8"
+        },
+        {
+            "album": {
+                "name": "Far From The Maddening Crowds (Evolution Mixes)",
                 "url": "https://open.spotify.com/album/5CR6luLHeshWtx2pgH7tAn"
             },
             "artists": [
@@ -13443,7 +13533,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 226560,
             "name": "The Drive Home - Evolution Mix",
             "url": "https://open.spotify.com/track/1ZJibvFopah70eoZELgXSu"
@@ -13505,6 +13595,32 @@
             "duration_ms": 161506,
             "name": "The Next Episode",
             "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC"
+        },
+        {
+            "album": {
+                "name": "Sherlock Gnomes (Music From The Motion Picture)",
+                "url": "https://open.spotify.com/album/5E2AhhoDudFdOBsOv6Dzu3"
+            },
+            "artists": [
+                {
+                    "name": "Elton John",
+                    "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+                },
+                {
+                    "name": "PNAU",
+                    "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+                },
+                {
+                    "name": "Vera Blue",
+                    "url": "https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA"
+                }
+            ],
+            "date_added": "2022-08-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 195333,
+            "name": "The One",
+            "url": "https://open.spotify.com/track/66aowrvTZDOruq0GpzmZ1K"
         },
         {
             "album": {
@@ -13663,7 +13779,7 @@
             ],
             "date_added": "2022-07-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-24",
+            "date_removed": null,
             "duration_ms": 132640,
             "name": "There Is None Like You",
             "url": "https://open.spotify.com/track/7e0AWrrQaUA0xbcfXKg1zR"
@@ -13931,7 +14047,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 196960,
             "name": "To Love You More - Boston Show",
             "url": "https://open.spotify.com/track/1vbJnm46DssJKGrKF7Txjx"
@@ -14167,7 +14283,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-03",
+            "date_removed": null,
             "duration_ms": 148489,
             "name": "Toy - #NotYourToy Remix",
             "url": "https://open.spotify.com/track/371538CDCqZJ1VG14Hg1jq"
@@ -14337,7 +14453,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 280074,
             "name": "Uang",
             "url": "https://open.spotify.com/track/1fYsmg0ZSGWsif7gNhC9d4"
@@ -14381,7 +14497,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 351200,
             "name": "Un-Break My Heart - Soul Hex Anthem Vocal",
             "url": "https://open.spotify.com/track/18pF4zBSsZ8LhNyVUvWoTj"
@@ -14545,7 +14661,7 @@
             ],
             "date_added": "2022-06-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-26",
+            "date_removed": null,
             "duration_ms": 586000,
             "name": "Violin Concerto No. 5 in A Major, K. 219 \"Turkish\": 1. Allegro aperto",
             "url": "https://open.spotify.com/track/15DDB8MkD4l2jkWTUKH9tP"
@@ -14581,7 +14697,7 @@
             ],
             "date_added": "2022-07-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-29",
+            "date_removed": null,
             "duration_ms": 230960,
             "name": "Vivo",
             "url": "https://open.spotify.com/track/341vrDZ2VgEssv98gMNuLt"
@@ -14657,7 +14773,7 @@
             ],
             "date_added": "2022-06-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-24",
+            "date_removed": null,
             "duration_ms": 260131,
             "name": "Vur Yüreğim",
             "url": "https://open.spotify.com/track/2EMQJyCwBTfa2Vrur4ZFsP"
@@ -14777,7 +14893,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 100874,
             "name": "Water Verve (Mixed) - DJ Quicksilver Remix",
             "url": "https://open.spotify.com/track/1dxLYXCbQ7siwdXI4IPrWw"
@@ -14795,7 +14911,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-29",
+            "date_removed": null,
             "duration_ms": 251242,
             "name": "We Run Things (It's Like Dat)",
             "url": "https://open.spotify.com/track/22GbJVEc04zY06E5g8K5Qz"
@@ -15359,7 +15475,7 @@
             ],
             "date_added": "2022-07-31",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-01",
+            "date_removed": null,
             "duration_ms": 236106,
             "name": "You Gotta Be - Tin Tin Out Remix",
             "url": "https://open.spotify.com/track/4n36DDdab2tSuABN1eswJM"
@@ -15753,7 +15869,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 241826,
             "name": "Птица",
             "url": "https://open.spotify.com/track/2hDnmGGrVORLpDrUw5GNjB"
@@ -16385,7 +16501,7 @@
             ],
             "date_added": "2022-07-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-07-28",
+            "date_removed": null,
             "duration_ms": 264760,
             "name": "我知道你很難過",
             "url": "https://open.spotify.com/track/3Wuplaz7OX7p17wjempzj9"
@@ -16493,7 +16609,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 259665,
             "name": "為你我受冷風吹",
             "url": "https://open.spotify.com/track/1Im37MwbQ7VwHzgsFRSPEW"
@@ -16511,7 +16627,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-07",
             "duration_ms": 273773,
             "name": "爱我的人和我爱的人",
             "url": "https://open.spotify.com/track/5cgqUdzhgmSNFDOo0g1uLx"
