@@ -1,13 +1,29 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIV2KGSBlbzaw>Iron Maiden</a>, <a href=spotify:playlist:37i9dQZF1EIYCDsUXTBScY>Michael Jackson</a>, <a href=spotify:playlist:37i9dQZF1EIVjktvE2TbAb>Alka Yagnik</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIW3CeNGyf1nj>a-ha</a>, <a href=spotify:playlist:37i9dQZF1EIV2KGSBlbzaw>Iron Maiden</a>, <a href=spotify:playlist:37i9dQZF1EIYCDsUXTBScY>Michael Jackson</a> and more",
     "num_followers": 0,
     "original_name": "80s Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTY2MDExMTIwMCwwMDAwMDAwMDE3MjgzMWFhZTJhMWZjY2QxZjk1M2ExNmNiNGYxMDVh",
+    "snapshot_id": "MTY2MDE5NzYwMCwwMDAwMDAwMGM2ZjVkMjM1YjQwZjFkYmY2NWU0NTc1ZDdhOWRiOTJh",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "Hunting High and Low",
+                "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+            },
+            "artists": [
+                {
+                    "name": "a-ha",
+                    "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+                }
+            ],
+            "duration_ms": 225280,
+            "name": "Take on Me",
+            "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L"
+        },
         {
             "added_at": null,
             "album": {
@@ -20,15 +36,15 @@
                     "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
                 }
             ],
-            "duration_ms": 252733,
-            "name": "The Trooper - 2015 Remaster",
-            "url": "https://open.spotify.com/track/4OROzZUy6gOWN4UGQVaZMF"
+            "duration_ms": 230760,
+            "name": "Flight of Icarus - 2015 Remaster",
+            "url": "https://open.spotify.com/track/3vhKrSxe3fRuS5Ogis76VO"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Bad 25th Anniversary",
-                "url": "https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm"
+                "name": "Thriller 25 Super Deluxe Edition",
+                "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
             },
             "artists": [
                 {
@@ -36,85 +52,9 @@
                     "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
                 }
             ],
-            "duration_ms": 257760,
-            "name": "Smooth Criminal - 2012 Remaster",
-            "url": "https://open.spotify.com/track/2bCQHF9gdG5BNDVuEIEnNk"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Qayamat Se Qayamat Tak",
-                "url": "https://open.spotify.com/album/7N1jBaiqOFLHAvW0wLpUMC"
-            },
-            "artists": [
-                {
-                    "name": "Alka Yagnik",
-                    "url": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
-                },
-                {
-                    "name": "Udit Narayan",
-                    "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-                }
-            ],
-            "duration_ms": 355840,
-            "name": "Ae Mere Humsafar",
-            "url": "https://open.spotify.com/track/0dUbhFM18NyBDDpiktEQLk"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Finally Enough Love",
-                "url": "https://open.spotify.com/album/2y7jq4zRtFwbw3M2NsbZsD"
-            },
-            "artists": [
-                {
-                    "name": "Madonna",
-                    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-                }
-            ],
-            "duration_ms": 284517,
-            "name": "Into The Groove (You Can Dance Remix Edit) - 2022 Remaster",
-            "url": "https://open.spotify.com/track/3K6j52TvA5UgzBVEHnhmQp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Säg Mig Var Du Står",
-                "url": "https://open.spotify.com/album/3Qg81i4ee6h9l2nbwZAS4F"
-            },
-            "artists": [
-                {
-                    "name": "Carola",
-                    "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
-                },
-                {
-                    "name": "Zara Larsson",
-                    "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-                }
-            ],
-            "duration_ms": 204987,
-            "name": "Säg Mig Var Du Står",
-            "url": "https://open.spotify.com/track/23PJqdjssVlOJlKvhQe5o9"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ROX RMX Vol. 1 (Remixes From The Roxette Vaults)",
-                "url": "https://open.spotify.com/album/2m4bjcwM03IVCKfiLr3C1f"
-            },
-            "artists": [
-                {
-                    "name": "Roxette",
-                    "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-                },
-                {
-                    "name": "The Rapino Brothers",
-                    "url": "https://open.spotify.com/artist/4u6KKMOzc3fT5wvgX9mSpU"
-                }
-            ],
-            "duration_ms": 255266,
-            "name": "The Look (Rapino 7\" Remix)",
-            "url": "https://open.spotify.com/track/6fh9KjicATVboY2qIxn9Xm"
+            "duration_ms": 293826,
+            "name": "Billie Jean",
+            "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
         },
         {
             "added_at": null,
@@ -139,26 +79,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Aliens (No Hopes Remix)",
-                "url": "https://open.spotify.com/album/6KAXVTuWhN0Ie2K7IjJL3q"
-            },
-            "artists": [
-                {
-                    "name": "Radiorama",
-                    "url": "https://open.spotify.com/artist/4TjGlxmI4FTT2NhwDNL7q2"
-                },
-                {
-                    "name": "No Hopes",
-                    "url": "https://open.spotify.com/artist/4eRfkq2oGeOhnEEndl184K"
-                }
-            ],
-            "duration_ms": 186107,
-            "name": "Aliens (No Hopes Radio Edit)",
-            "url": "https://open.spotify.com/track/5XELMIXU2rUJ17AzWz6btu"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Secret Dreams and Forbidden Fire",
                 "url": "https://open.spotify.com/album/4doea7KA9jw7nkm3IOs0PR"
             },
@@ -175,184 +95,40 @@
         {
             "added_at": null,
             "album": {
-                "name": "Romancing In The Dark",
-                "url": "https://open.spotify.com/album/3iJVoVO7XYRwBKzkO2fwVB"
+                "name": "K2HD Beyond Live 91",
+                "url": "https://open.spotify.com/album/4SnxRPZlOE8loV4mrG6gCr"
             },
             "artists": [
                 {
-                    "name": "Münchener Freiheit",
-                    "url": "https://open.spotify.com/artist/353KPo8gVAfcZfwF7BPZDy"
+                    "name": "Beyond",
+                    "url": "https://open.spotify.com/artist/4F5TrtYYxsVM1PhbtISE5m"
                 }
             ],
-            "duration_ms": 243880,
-            "name": "Every Time",
-            "url": "https://open.spotify.com/track/7EUEsi4Z3M2XMbvbZNgfGm"
+            "duration_ms": 324346,
+            "name": "真的愛妳",
+            "url": "https://open.spotify.com/track/4G64ahh3XAO0RrDgWtvGOY"
         },
         {
             "added_at": null,
             "album": {
-                "name": "A BETTER BEE",
-                "url": "https://open.spotify.com/album/5Lf5yj5lcY0MAVYzUfsVPZ"
+                "name": "夢",
+                "url": "https://open.spotify.com/album/0CRHxUw8fi0an8sgzJklNA"
             },
             "artists": [
                 {
-                    "name": "Kenny Bee",
-                    "url": "https://open.spotify.com/artist/1SnFcgaLa1l0bV8ZOEL3Cg"
+                    "name": "薰妮",
+                    "url": "https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf"
                 }
             ],
-            "duration_ms": 258026,
-            "name": "讓一切隨風",
-            "url": "https://open.spotify.com/track/5znJVtRoDHuGle3basEubn"
+            "duration_ms": 215840,
+            "name": "夢",
+            "url": "https://open.spotify.com/track/30J4x3MFjiq5Eto5ATMbQ5"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Express Yourself",
-                "url": "https://open.spotify.com/album/6v75OtLW4MZxCu035LAopd"
-            },
-            "artists": [
-                {
-                    "name": "Madonna",
-                    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-                },
-                {
-                    "name": "Shep Pettibone",
-                    "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
-                }
-            ],
-            "duration_ms": 275728,
-            "name": "Express Yourself - 7\" Remix",
-            "url": "https://open.spotify.com/track/4KImfnZuVGuGt84MhfFc8M"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "No Time To Die (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/2xgi7tCocjnULdraqmheR1"
-            },
-            "artists": [
-                {
-                    "name": "Hans Zimmer",
-                    "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-                }
-            ],
-            "duration_ms": 225146,
-            "name": "Home",
-            "url": "https://open.spotify.com/track/758bSg93OazKDrAbemPk8i"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "12\" Singles And Mixes",
-                "url": "https://open.spotify.com/album/209X6mV1nO4KPLqjz8MtyK"
-            },
-            "artists": [
-                {
-                    "name": "Level 42",
-                    "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
-                }
-            ],
-            "duration_ms": 381133,
-            "name": "Are You Hearing (What I Hear)? - Extended Version",
-            "url": "https://open.spotify.com/track/1lXs0Ap5WuXQgH8M8OdQYo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Break Out",
-                "url": "https://open.spotify.com/album/5jgQl00nL7ei2z5Biv7kdV"
-            },
-            "artists": [
-                {
-                    "name": "The Pointer Sisters",
-                    "url": "https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N"
-                }
-            ],
-            "duration_ms": 293213,
-            "name": "I'm So Excited - 12\" Remix",
-            "url": "https://open.spotify.com/track/6jc1163Wzty6vWXhOwUGBo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Hot Hot Hot (Atomic Drum Assembly Remix)",
-                "url": "https://open.spotify.com/album/70FT5nFAOjbFsf15imMlQD"
-            },
-            "artists": [
-                {
-                    "name": "Arrow",
-                    "url": "https://open.spotify.com/artist/1CzWsbK2Rdn0RlWYZGgnAm"
-                },
-                {
-                    "name": "Atomic Drum Assembly",
-                    "url": "https://open.spotify.com/artist/4LzLMRGejol2nWDb61fLws"
-                }
-            ],
-            "duration_ms": 151741,
-            "name": "Hot Hot Hot - Atomic Drum Assembly Remix",
-            "url": "https://open.spotify.com/track/0R8V7kgq2EFduvoG4sQGBW"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Phantom Of The Opera (London Cast Recording 2022)",
-                "url": "https://open.spotify.com/album/0ZPKD62U5wyfPFZ2EOHgYV"
-            },
-            "artists": [
-                {
-                    "name": "Andrew Lloyd Webber",
-                    "url": "https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG"
-                },
-                {
-                    "name": "Killian Donnelly",
-                    "url": "https://open.spotify.com/artist/6AVon1me4OpHj4mfxTFSHW"
-                },
-                {
-                    "name": "Lucy St. Louis",
-                    "url": "https://open.spotify.com/artist/6QH7pTgRTfOhXcZHmFwPNl"
-                }
-            ],
-            "duration_ms": 258769,
-            "name": "The Phantom Of The Opera - London Cast Recording 2022",
-            "url": "https://open.spotify.com/track/5eOLjAP0xBknCtcqDIKyxs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Everything",
-                "url": "https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C"
-            },
-            "artists": [
-                {
-                    "name": "Climie Fisher",
-                    "url": "https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF"
-                }
-            ],
-            "duration_ms": 268186,
-            "name": "Love Changes (Everything)",
-            "url": "https://open.spotify.com/track/1y748kOQshZECWk5MddfOv"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Ten On One",
-                "url": "https://open.spotify.com/album/3hfGA48qunf7KofX40XEVc"
-            },
-            "artists": [
-                {
-                    "name": "Sandra",
-                    "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-                }
-            ],
-            "duration_ms": 227160,
-            "name": "Everlasting Love",
-            "url": "https://open.spotify.com/track/1mscYl0vNlVknI51wOWDG7"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Madame X - Music From The Theater Xperience (Live)",
-                "url": "https://open.spotify.com/album/5NLO9sMI3xznCGrRWhsPN3"
+                "name": "Finally Enough Love",
+                "url": "https://open.spotify.com/album/2y7jq4zRtFwbw3M2NsbZsD"
             },
             "artists": [
                 {
@@ -360,117 +136,77 @@
                     "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
                 }
             ],
-            "duration_ms": 309959,
-            "name": "Like A Prayer - Live at the Coliseu dos Recreios, Lisbon, Portugal, 1/12-23/2020",
-            "url": "https://open.spotify.com/track/31DwuncuHyI9NhXn5tizhk"
+            "duration_ms": 342285,
+            "name": "Like A Prayer (7\" Remix Edit) - 2022 Remaster",
+            "url": "https://open.spotify.com/track/3XewYBIeHBOTdNkDEl59g6"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Promised Land (Kiko Franco Remix)",
-                "url": "https://open.spotify.com/album/4LLWTeJOH1YA872O3xLcfs"
+                "name": "Hasret Türküsü",
+                "url": "https://open.spotify.com/album/1xQitYQcAzQp2cIc0j5fIL"
             },
             "artists": [
                 {
-                    "name": "Joe Smooth",
-                    "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
+                    "name": "Ferhat Güzel",
+                    "url": "https://open.spotify.com/artist/5lRR1Im4BYs7Ga8njXILYZ"
+                }
+            ],
+            "duration_ms": 159960,
+            "name": "Başımın Tacı",
+            "url": "https://open.spotify.com/track/2pRegfvGr4IiEBpwVpUFVC"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Words (Remix 2020)",
+                "url": "https://open.spotify.com/album/50WxZhqBCBlLQOVYriGXTe"
+            },
+            "artists": [
+                {
+                    "name": "F.R. David",
+                    "url": "https://open.spotify.com/artist/6GnCucI2uDaYj1j39GFxkn"
+                }
+            ],
+            "duration_ms": 199678,
+            "name": "Words (Remix 2020)",
+            "url": "https://open.spotify.com/track/5zAQ0EVwLhDESwDgoFtuLe"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Smalltown Boy (Remix)",
+                "url": "https://open.spotify.com/album/6MCmrAijdlokUF5hv5CLiL"
+            },
+            "artists": [
+                {
+                    "name": "Bronski Beat",
+                    "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
                 },
                 {
-                    "name": "Kiko Franco",
-                    "url": "https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2"
+                    "name": "Bourlingueurs",
+                    "url": "https://open.spotify.com/artist/1xPMhpyL3qgakeWsHQXy66"
                 }
             ],
-            "duration_ms": 221612,
-            "name": "Promised Land - Kiko Franco Remix",
-            "url": "https://open.spotify.com/track/1oRo1g9ZGqGyh6Quod1gYl"
+            "duration_ms": 248377,
+            "name": "Smalltown Boy (Remix)",
+            "url": "https://open.spotify.com/track/08FUzof6NqG8kQEsNmkWDh"
         },
         {
             "added_at": null,
             "album": {
-                "name": "The Bayou (Live 1989)",
-                "url": "https://open.spotify.com/album/3ETCLrKI88n0WnTwzI2tRj"
+                "name": "True Love",
+                "url": "https://open.spotify.com/album/7eqdUZuRuOkurhzRWr6YUn"
             },
             "artists": [
                 {
-                    "name": "Melissa Etheridge",
-                    "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+                    "name": "Crystal Gayle",
+                    "url": "https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc"
                 }
             ],
-            "duration_ms": 285368,
-            "name": "Don't You Need - Live 1989",
-            "url": "https://open.spotify.com/track/0h7gnq3OUzd2DzIG5ToM6k"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Muscles, Men & More (Remastered & Remixed)",
-                "url": "https://open.spotify.com/album/1SW2HObDFYAUavnstpbRQc"
-            },
-            "artists": [
-                {
-                    "name": "The Weather Girls",
-                    "url": "https://open.spotify.com/artist/19xz1vcuKNjniGEftTOSSH"
-                }
-            ],
-            "duration_ms": 310588,
-            "name": "It's Raining Men - Jaydom Remix",
-            "url": "https://open.spotify.com/track/5mVTf8xy6GhDdkDDmAL0qA"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Plus grandir - Best Of 1986 / 1996",
-                "url": "https://open.spotify.com/album/6lkG1ZEOecHw8wZ3KTkVI1"
-            },
-            "artists": [
-                {
-                    "name": "Mylène Farmer",
-                    "url": "https://open.spotify.com/artist/0e04xgVBPU6mE2QkSHlufD"
-                }
-            ],
-            "duration_ms": 232000,
-            "name": "Sans contrefaçon - Single Version",
-            "url": "https://open.spotify.com/track/69K6Nu1fRiD9ilxeet26BA"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "祥情廿載",
-                "url": "https://open.spotify.com/album/7H90BROYrXQro89J0MP9aP"
-            },
-            "artists": [
-                {
-                    "name": "George Lam",
-                    "url": "https://open.spotify.com/artist/7rxRHujzUzobMEbtoE297s"
-                },
-                {
-                    "name": "David Ling Jr",
-                    "url": "https://open.spotify.com/artist/5ElXLkDzZPQA9fBzBjA9TJ"
-                }
-            ],
-            "duration_ms": 299040,
-            "name": "敢愛敢做",
-            "url": "https://open.spotify.com/track/7roRA1aMpy9axwLnwdFhOb"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Somebody's Watching Me (Syzz Remix)",
-                "url": "https://open.spotify.com/album/1Vc0bXQ2kxa5Sd1sECrwgA"
-            },
-            "artists": [
-                {
-                    "name": "Rockwell",
-                    "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-                },
-                {
-                    "name": "Syzz",
-                    "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
-                }
-            ],
-            "duration_ms": 142020,
-            "name": "Somebody's Watching Me - Syzz Remix",
-            "url": "https://open.spotify.com/track/4dKgJOFyPs5qMTC925ikc3"
+            "duration_ms": 164750,
+            "name": "Baby What About You",
+            "url": "https://open.spotify.com/track/2vX5CNzU63uolkCgIT5Axm"
         },
         {
             "added_at": null,
@@ -495,46 +231,78 @@
         {
             "added_at": null,
             "album": {
-                "name": "It's All Right (Eric Kupper Remix)",
-                "url": "https://open.spotify.com/album/3UFRk1LdVlMnVSfPIUwSXR"
+                "name": "Sun Of Jamaica (2021 Version)",
+                "url": "https://open.spotify.com/album/29SATgBCzWnjhYGTtedCBS"
             },
             "artists": [
                 {
-                    "name": "Sterling Void",
-                    "url": "https://open.spotify.com/artist/00q2vdqp7FcsPfMj23Yf4g"
-                },
-                {
-                    "name": "Paris Brightledge",
-                    "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
-                },
-                {
-                    "name": "Eric Kupper",
-                    "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+                    "name": "Goombay Dance Band",
+                    "url": "https://open.spotify.com/artist/0uikComDxOCI12Rlf0F8fg"
                 }
             ],
-            "duration_ms": 531818,
-            "name": "It's All Right - Eric Kupper Remix",
-            "url": "https://open.spotify.com/track/7f6p8CNY0SJquXAdlyiNHo"
+            "duration_ms": 206938,
+            "name": "Sun Of Jamaica - 2021 Version",
+            "url": "https://open.spotify.com/track/5EcxMksNg2e90CLRTtYtJM"
         },
         {
             "added_at": null,
             "album": {
-                "name": "True Blue (35th Anniversary Edition)",
-                "url": "https://open.spotify.com/album/4pnhHLvaRIlDUwXEIXZEnH"
+                "name": "Shakar",
+                "url": "https://open.spotify.com/album/05HO4pDEcNnaY6cgJBLs1F"
             },
             "artists": [
                 {
-                    "name": "Madonna",
-                    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-                },
-                {
-                    "name": "Shep Pettibone",
-                    "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
+                    "name": "Farhad Darya",
+                    "url": "https://open.spotify.com/artist/0mSLPrqEzM3ep1L8iGSod2"
                 }
             ],
-            "duration_ms": 266973,
-            "name": "True Blue - Remix/Edit",
-            "url": "https://open.spotify.com/track/2Pjx9QlTCC7bV8d5ws2vCd"
+            "duration_ms": 244506,
+            "name": "Belandihaa",
+            "url": "https://open.spotify.com/track/6SBkP8sr1K0PdBBCBkzU52"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Top Gun: Maverick (Music From The Motion Picture)",
+                "url": "https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz"
+            },
+            "artists": [
+                {
+                    "name": "Harold Faltermeyer",
+                    "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+                },
+                {
+                    "name": "Lady Gaga",
+                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+                },
+                {
+                    "name": "Hans Zimmer",
+                    "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                },
+                {
+                    "name": "Lorne Balfe",
+                    "url": "https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es"
+                }
+            ],
+            "duration_ms": 148933,
+            "name": "Top Gun Anthem",
+            "url": "https://open.spotify.com/track/1ZkmPku85veww4fF66aUFF"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Remixed Vol. 1 (1985 – 2000)",
+                "url": "https://open.spotify.com/album/3gasfdY9NwSH3iR0KxEhfm"
+            },
+            "artists": [
+                {
+                    "name": "Simply Red",
+                    "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+                }
+            ],
+            "duration_ms": 346438,
+            "name": "It's Only Love - Valentine Mix; 2021 Remaster",
+            "url": "https://open.spotify.com/track/0OIMqjBCJPutM8EaMiIPVT"
         },
         {
             "added_at": null,
@@ -559,24 +327,88 @@
         {
             "added_at": null,
             "album": {
-                "name": "I Won't Let You Down",
-                "url": "https://open.spotify.com/album/6MDuT3grIiSWTMzKoKjo95"
+                "name": "蔡國權精選",
+                "url": "https://open.spotify.com/album/33uwiA1btZ2WvJzUb8KErc"
             },
             "artists": [
                 {
-                    "name": "Ph.D.",
-                    "url": "https://open.spotify.com/artist/2S4OQZxRbWsQ5SLnmMs0GO"
+                    "name": "蔡國權",
+                    "url": "https://open.spotify.com/artist/1Um3mUSS03Q0zApJwu5xUw"
                 }
             ],
-            "duration_ms": 242534,
-            "name": "I Won't Let You Down",
-            "url": "https://open.spotify.com/track/1NXHwS75sCmkMZAE0zvwl0"
+            "duration_ms": 226493,
+            "name": "再見也許不再會",
+            "url": "https://open.spotify.com/track/2OXkOU9ib0SY7Sv036Uejw"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Fever",
-                "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+                "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+                "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
+            },
+            "artists": [
+                {
+                    "name": "Alphaville",
+                    "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+                }
+            ],
+            "duration_ms": 464506,
+            "name": "Sounds Like a Melody - Special Long Version; 2019 Remaster",
+            "url": "https://open.spotify.com/track/7ug7Kx3JJTF6rvr9sBHGMf"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The Land of Make Believe (UK Chart Top 40 - No. 1)",
+                "url": "https://open.spotify.com/album/1Gy4RvUId9BapnDijcDmb4"
+            },
+            "artists": [
+                {
+                    "name": "Bucks Fizz",
+                    "url": "https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX"
+                }
+            ],
+            "duration_ms": 215160,
+            "name": "The Land of Make Believe - Rerecorded",
+            "url": "https://open.spotify.com/track/0wUVdPFJFJVfIWHYDOfBWg"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Melancholie und Sturmflut (Bonus Track Edition 2019)",
+                "url": "https://open.spotify.com/album/2ePO85uUu7Glj8CKPSzywF"
+            },
+            "artists": [
+                {
+                    "name": "Achim Reichel",
+                    "url": "https://open.spotify.com/artist/48tAT9Z7hzxyk70wVtTcmt"
+                }
+            ],
+            "duration_ms": 301798,
+            "name": "Aloha Heja He (Maxi Version) - Bonus",
+            "url": "https://open.spotify.com/track/6ZziyHFVtfi1sksxElwrZ6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "VARIETY (30th Anniversary Edition)",
+                "url": "https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH"
+            },
+            "artists": [
+                {
+                    "name": "Mariya Takeuchi",
+                    "url": "https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N"
+                }
+            ],
+            "duration_ms": 295453,
+            "name": "プラスティック・ラブ - 12\" Original Length ReMix",
+            "url": "https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Kylie",
+                "url": "https://open.spotify.com/album/2xuoy4Qfrk9wlucZ8anDzE"
             },
             "artists": [
                 {
@@ -584,29 +416,45 @@
                     "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
                 }
             ],
-            "duration_ms": 229333,
-            "name": "Love at First Sight - Ruff & Jam US Radio Mix",
-            "url": "https://open.spotify.com/track/3nFL304KxqFg3qq7Frm6uN"
+            "duration_ms": 191853,
+            "name": "Love at First Sight",
+            "url": "https://open.spotify.com/track/36g1NSIQ8sNcIQWr8gI4ON"
         },
         {
             "added_at": null,
             "album": {
-                "name": "The Body Remembers",
-                "url": "https://open.spotify.com/album/5gqkg3QPLgnGQQIVOOupdY"
+                "name": "故鄉的雨",
+                "url": "https://open.spotify.com/album/01sWGLPClyT11JgOgPPAcn"
             },
             "artists": [
                 {
-                    "name": "Debbie Gibson",
-                    "url": "https://open.spotify.com/artist/18jZvCsW1PJ4FDQ5gEXuKp"
-                },
-                {
-                    "name": "Joey McIntyre",
-                    "url": "https://open.spotify.com/artist/3SIW6eVIZSz9V05WsaKIr3"
+                    "name": "薰妮",
+                    "url": "https://open.spotify.com/artist/3V8vKHOlOSNdH2IJjtghNf"
                 }
             ],
-            "duration_ms": 219500,
-            "name": "Lost in Your Eyes, The Duet",
-            "url": "https://open.spotify.com/track/3lTrq5drblF35GyREmYAAz"
+            "duration_ms": 232720,
+            "name": "紅燭淚",
+            "url": "https://open.spotify.com/track/3XdsuydFhQxmoJgUCHfm71"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Express Yourself",
+                "url": "https://open.spotify.com/album/6v75OtLW4MZxCu035LAopd"
+            },
+            "artists": [
+                {
+                    "name": "Madonna",
+                    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+                },
+                {
+                    "name": "Shep Pettibone",
+                    "url": "https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv"
+                }
+            ],
+            "duration_ms": 275728,
+            "name": "Express Yourself - 7\" Remix",
+            "url": "https://open.spotify.com/track/4KImfnZuVGuGt84MhfFc8M"
         },
         {
             "added_at": null,
@@ -627,290 +475,394 @@
         {
             "added_at": null,
             "album": {
-                "name": "RIVER'S ISLAND REMIX",
-                "url": "https://open.spotify.com/album/1CHYyTJlifCw5ZqHbswXYw"
+                "name": "Big in Japan - Symphonic Version",
+                "url": "https://open.spotify.com/album/4cP7Vk8dD2kgP6Dm3PK6Ss"
             },
             "artists": [
                 {
-                    "name": "S. Kiyotaka & Omega Tribe",
-                    "url": "https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx"
-                }
-            ],
-            "duration_ms": 258733,
-            "name": "Rainy Harbor Light",
-            "url": "https://open.spotify.com/track/64M3qRzmAXzfCLty8xPyG7"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Thanks Giving",
-                "url": "https://open.spotify.com/album/7ol1TLrCGQAVHYecGt7AYS"
-            },
-            "artists": [
-                {
-                    "name": "RA MU",
-                    "url": "https://open.spotify.com/artist/6SDnPouFAKtGxLzdb3cNW5"
-                }
-            ],
-            "duration_ms": 311200,
-            "name": "Rainy Night Lady",
-            "url": "https://open.spotify.com/track/0JSW096nyJvH327ItrgBoM"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Hasret Türküsü",
-                "url": "https://open.spotify.com/album/1xQitYQcAzQp2cIc0j5fIL"
-            },
-            "artists": [
-                {
-                    "name": "Ferhat Güzel",
-                    "url": "https://open.spotify.com/artist/5lRR1Im4BYs7Ga8njXILYZ"
-                }
-            ],
-            "duration_ms": 128546,
-            "name": "Yarim Gel",
-            "url": "https://open.spotify.com/track/7CjsNhANdKxY4Mp3WfXXlk"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Diamonds Forever - Lata Mangeshkar",
-                "url": "https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad"
-            },
-            "artists": [
-                {
-                    "name": "Lata Mangeshkar",
-                    "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+                    "name": "Alphaville",
+                    "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
                 },
                 {
-                    "name": "Kishore Kumar",
-                    "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+                    "name": "Deutsches Filmorchester Babelsberg",
+                    "url": "https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir"
                 }
             ],
-            "duration_ms": 320733,
-            "name": "Dekha Ek Khwab (From \"Silsila\")",
-            "url": "https://open.spotify.com/track/6eu75OSNNFbQncfV3jbJ3a"
+            "duration_ms": 238964,
+            "name": "Big in Japan - Symphonic Version - Single Edit",
+            "url": "https://open.spotify.com/track/1VMdxrt7L5aBqOGmIWBrjL"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Mann Vasanai (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/083abpz37ew8JGDH97kH0M"
+                "name": "Actually",
+                "url": "https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74"
             },
             "artists": [
                 {
-                    "name": "S. P. Balasubrahmanyam",
-                    "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+                    "name": "Pet Shop Boys",
+                    "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+                }
+            ],
+            "duration_ms": 238106,
+            "name": "Heart - 2001 Remaster",
+            "url": "https://open.spotify.com/track/3D3ifPgwQ7nwQSG2BR0HIQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "(I Just) Died in Your Arms 2019",
+                "url": "https://open.spotify.com/album/3bJFisSHlLBLxRIZEa4cw9"
+            },
+            "artists": [
+                {
+                    "name": "Savage",
+                    "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+                }
+            ],
+            "duration_ms": 200117,
+            "name": "(I Just) Died in Your Arms - 2019 Vocal Mix",
+            "url": "https://open.spotify.com/track/5IgCa6pc6eMsWFcQHPd0XZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Puncak Asmara",
+                "url": "https://open.spotify.com/album/7j0DL5MMoKWfyQgZjCdtWd"
+            },
+            "artists": [
+                {
+                    "name": "Utha Likumahuwa",
+                    "url": "https://open.spotify.com/artist/5CqfTDAytUttoCHfln3Wl9"
+                }
+            ],
+            "duration_ms": 321304,
+            "name": "Puncak Asmara",
+            "url": "https://open.spotify.com/track/2ITyszklKfG5VgCaLBTzPu"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The Long Play",
+                "url": "https://open.spotify.com/album/7HkN3j6dxCRKGXMduwfmzL"
+            },
+            "artists": [
+                {
+                    "name": "Sandra",
+                    "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+                }
+            ],
+            "duration_ms": 320933,
+            "name": "In The Heat Of The Night",
+            "url": "https://open.spotify.com/track/5wYPhxYeWs6ij0nlmvMAq8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "25 (The Long Mixes)",
+                "url": "https://open.spotify.com/album/7xHi1h9Pu1iRKU5IOyTlnm"
+            },
+            "artists": [
+                {
+                    "name": "Bad Boys Blue",
+                    "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+                }
+            ],
+            "duration_ms": 347625,
+            "name": "Pretty Young Girl - New Long Version",
+            "url": "https://open.spotify.com/track/4xSwEfu62B3lmAh3qqFJ3e"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Ross (Expanded Edition)",
+                "url": "https://open.spotify.com/album/4AyA2xN6aVVDaGfGqFIDfQ"
+            },
+            "artists": [
+                {
+                    "name": "Diana Ross",
+                    "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+                }
+            ],
+            "duration_ms": 250720,
+            "name": "That's How You Start Over",
+            "url": "https://open.spotify.com/track/1w54lZeYo4vckU37xPLyhp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Communards (35 Year Anniversary Edition)",
+                "url": "https://open.spotify.com/album/7iR1wnDXTqZjODF40r1SoE"
+            },
+            "artists": [
+                {
+                    "name": "The Communards",
+                    "url": "https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT"
                 },
                 {
-                    "name": "S. Janaki",
-                    "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+                    "name": "Sarah Jane Morris",
+                    "url": "https://open.spotify.com/artist/7g6rQ236kj9vrXWdGyiC8o"
                 }
             ],
-            "duration_ms": 258480,
-            "name": "Poththi Vachcha",
-            "url": "https://open.spotify.com/track/2oQAU31P8ySn8VVm1R4VDL"
+            "duration_ms": 505226,
+            "name": "Don't Leave Me This Way - 7th Heaven Club Mix",
+            "url": "https://open.spotify.com/track/5XTxbgtG0cNzEs5Bs76ept"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Never Say Never",
-                "url": "https://open.spotify.com/album/6PVzuoicuekpOwCn7unfzT"
+                "name": "Fearless",
+                "url": "https://open.spotify.com/album/0lFsOiIEjds6DSqPWrrq8V"
             },
             "artists": [
                 {
-                    "name": "Kim Wilde",
-                    "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+                    "name": "Eighth Wonder",
+                    "url": "https://open.spotify.com/artist/67drSMarzjhEXxEJ2ATLfE"
                 }
             ],
-            "duration_ms": 190320,
-            "name": "You Came",
-            "url": "https://open.spotify.com/track/6tyOolEHxeCt1PdC6LCc43"
+            "duration_ms": 482066,
+            "name": "I'm Not Scared - Disco Mix",
+            "url": "https://open.spotify.com/track/5ZLwwWKRONS81VqXpS8hj6"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Trust Issues Quick",
-                "url": "https://open.spotify.com/album/3I3BCmhEGaqJGwDpf9hztW"
+                "name": "Çağdaştan Seçmeler, Vol. 3",
+                "url": "https://open.spotify.com/album/4fWNWtG5zGudKsBVocgDaq"
             },
             "artists": [
                 {
-                    "name": "Six Dior",
-                    "url": "https://open.spotify.com/artist/4Soc06zRsHw2US0abt3TAa"
+                    "name": "Ali Osman Erbaşı",
+                    "url": "https://open.spotify.com/artist/5wFMBE4SkSBqncjuudYqFt"
                 }
             ],
-            "duration_ms": 196440,
-            "name": "Trust Issues Quick",
-            "url": "https://open.spotify.com/track/7p0D73H4eg82xV3g9Zc6HG"
+            "duration_ms": 197982,
+            "name": "Sevdalılar",
+            "url": "https://open.spotify.com/track/5j6Wu97JFJbkeihaAJ8ttT"
         },
         {
             "added_at": null,
             "album": {
-                "name": "True Blue (Reissue)",
-                "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+                "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+                "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
             },
             "artists": [
                 {
-                    "name": "Madonna",
-                    "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+                    "name": "Alphaville",
+                    "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
                 }
             ],
-            "duration_ms": 253453,
-            "name": "Open Your Heart",
-            "url": "https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS"
+            "duration_ms": 371853,
+            "name": "Forever Young - Special Dance Version; 2019 Remaster",
+            "url": "https://open.spotify.com/track/3APq3iiagjTHWGLYjSZIaD"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Can't Slow Down",
-                "url": "https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T"
+                "name": "柳影虹全新精選",
+                "url": "https://open.spotify.com/album/5H53GthHjxVodzKZVcjULJ"
             },
             "artists": [
                 {
-                    "name": "Lionel Richie",
-                    "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
+                    "name": "柳影虹",
+                    "url": "https://open.spotify.com/artist/7j02dSlxLwrHGPKvAWP5ag"
                 }
             ],
-            "duration_ms": 257240,
-            "name": "The Only One",
-            "url": "https://open.spotify.com/track/7nvLekndCInVSpJolFMDJk"
+            "duration_ms": 184653,
+            "name": "少女慈禧",
+            "url": "https://open.spotify.com/track/5NDf0xvD1qEYU6A9V64OeQ"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Solid State Logik 1",
-                "url": "https://open.spotify.com/album/1kJY7mRPwF5eJOf8DMZdwa"
+                "name": "我們擁有一個名字 - 中國",
+                "url": "https://open.spotify.com/album/1Lb52zPsxOiPUs6pzlz3BG"
             },
             "artists": [
                 {
-                    "name": "The KLF",
-                    "url": "https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH"
+                    "name": "張明敏",
+                    "url": "https://open.spotify.com/artist/3PIQlH40tT47oWnkhHUsvs"
                 }
             ],
-            "duration_ms": 232411,
-            "name": "3AM Eternal - Live at the S.S.L.",
-            "url": "https://open.spotify.com/track/0ldLTYuqnHU92weLtw6W9m"
+            "duration_ms": 189066,
+            "name": "一縷情: 重複",
+            "url": "https://open.spotify.com/track/54U8xvW7PRfSLJjpjkeZKC"
         },
         {
             "added_at": null,
             "album": {
-                "name": "D.J.'s Delight (Mark Knight & Michael Gray Remix)",
-                "url": "https://open.spotify.com/album/0EVYVQuVGP25cR4TxR4WK5"
+                "name": "何日再相見",
+                "url": "https://open.spotify.com/album/0wJ8ypkf6syMggaepJQ0FY"
             },
             "artists": [
                 {
-                    "name": "Ingram",
-                    "url": "https://open.spotify.com/artist/4wKxcGIfyMyTAucXYUHzGw"
+                    "name": "張德蘭",
+                    "url": "https://open.spotify.com/artist/5aPGAChoe34CdQqwDeRKrk"
+                }
+            ],
+            "duration_ms": 195986,
+            "name": "留住今日情 (無線電視劇 \"神雕俠侶\" 插曲)",
+            "url": "https://open.spotify.com/track/5wz9DJ2yWTrmQTnZt9WyQj"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Sem Pensar No Amanhã",
+                "url": "https://open.spotify.com/album/5ZIajOAD0CW3QHGzNvAJV7"
+            },
+            "artists": [
+                {
+                    "name": "Alceu Valença",
+                    "url": "https://open.spotify.com/artist/559vxOLTzlAv0zB77JMcdG"
+                }
+            ],
+            "duration_ms": 180302,
+            "name": "Iris",
+            "url": "https://open.spotify.com/track/2U63R2srySIfAuNEOh8JPO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dis Tyd",
+                "url": "https://open.spotify.com/album/1dnfN7s107TMzqoC0rNkcG"
+            },
+            "artists": [
+                {
+                    "name": "Juanita du Plessis",
+                    "url": "https://open.spotify.com/artist/7dtmhKnycd3REPNNixXGHO"
                 },
                 {
-                    "name": "Mark Knight",
-                    "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+                    "name": "Ruan Josh",
+                    "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
                 },
                 {
-                    "name": "Michael Gray",
-                    "url": "https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz"
+                    "name": "Franja Du Plessis",
+                    "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
                 }
             ],
-            "duration_ms": 192955,
-            "name": "D.J.'s Delight - Mark Knight & Michael Gray Remix",
-            "url": "https://open.spotify.com/track/37f0pyRJwTcgEOUTp3FC1o"
+            "duration_ms": 193360,
+            "name": "Just An Illusion",
+            "url": "https://open.spotify.com/track/45aR6sKefbJ1h9pI0vzOek"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Dharmathin Thalaivan (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/5iCpAj9vOxJ90mXIhTu1Wj"
+                "name": "FINAL FANTASY VII ADVENT CHILDREN Original Soundtrack",
+                "url": "https://open.spotify.com/album/4XekpIrzSv1COvnCSNTXdO"
             },
             "artists": [
                 {
-                    "name": "Ilaiyaraaja",
-                    "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
-                },
-                {
-                    "name": "S. P. Balasubrahmanyam",
-                    "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
-                },
-                {
-                    "name": "P. Susheela",
-                    "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-                },
-                {
-                    "name": "Malaysia Vasudevan",
-                    "url": "https://open.spotify.com/artist/0qS0rxCY4YfrUx9GCTlDIW"
+                    "name": "植松 伸夫",
+                    "url": "https://open.spotify.com/artist/6pzh5XF6c5q7eCZK8JYYs8"
                 }
             ],
-            "duration_ms": 272533,
-            "name": "Thenmadurai Vaigai Nadhi",
-            "url": "https://open.spotify.com/track/5gC5yDi7o5ukwt1eiIsniQ"
+            "duration_ms": 209000,
+            "name": "Cloud Smiles",
+            "url": "https://open.spotify.com/track/3lFrGXN40Ozwlo5QhHA0TV"
         },
         {
             "added_at": null,
             "album": {
-                "name": "デッドリイ・ドライブ (40周年記念デラックス・エディション)",
-                "url": "https://open.spotify.com/album/6Ws4QGER5BggUtDGS7q9SZ"
+                "name": "Samurai Remix",
+                "url": "https://open.spotify.com/album/2elywJ6HUwfQ4bOrAneR9D"
             },
             "artists": [
                 {
-                    "name": "Ginji Ito",
-                    "url": "https://open.spotify.com/artist/5bYp8QsjOW6NAkb9FQCjjY"
+                    "name": "Michael Cretu",
+                    "url": "https://open.spotify.com/artist/44Dw7QHrK9D47mADOHFpZB"
                 }
             ],
-            "duration_ms": 216000,
-            "name": "風になれるなら - Single Version",
-            "url": "https://open.spotify.com/track/6nk9e6hnN2pGJocWoWgE7f"
+            "duration_ms": 288396,
+            "name": "Samurai - Dance Mix",
+            "url": "https://open.spotify.com/track/37nns77kSzxqsmaDXkhN7u"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Laputa: Castle in the Sky Soundtrack -The Mystery of the Levitation Stone-",
-                "url": "https://open.spotify.com/album/1gmwJD2H9nSka3uCAlGC4P"
+                "name": "The Visitors (Deluxe Edition)",
+                "url": "https://open.spotify.com/album/5GByGaws7Cw0t28kjvAOzV"
             },
             "artists": [
                 {
-                    "name": "Azumi Inoue",
-                    "url": "https://open.spotify.com/artist/3lG7z36cCcA64i1S4CBgqp"
+                    "name": "ABBA",
+                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
                 }
             ],
-            "duration_ms": 247973,
-            "name": "Carrying You",
-            "url": "https://open.spotify.com/track/2NS9QCNalBanyRUCJxZldL"
+            "duration_ms": 227640,
+            "name": "Under Attack",
+            "url": "https://open.spotify.com/track/3MsQJQPi172pXgXcYGlenx"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Pudhu Pudhu Arthangal (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/6gE3V7mZJgmHgc5MvKdLCP"
+                "name": "Cycles",
+                "url": "https://open.spotify.com/album/1S2hydKZl6Co8H7ExPo2f5"
             },
             "artists": [
                 {
-                    "name": "S. P. Balasubrahmanyam",
-                    "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+                    "name": "The Doobie Brothers",
+                    "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+                }
+            ],
+            "duration_ms": 269640,
+            "name": "Tonight I'm Coming Through (The Border)",
+            "url": "https://open.spotify.com/track/12UC3XAQdiEoxLbVzkN5c7"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Var ska vi sova inatt - EPA Remix (Dansbandsrave)",
+                "url": "https://open.spotify.com/album/3Pvb9Y1VGpUeAu9fwWIxzG"
+            },
+            "artists": [
+                {
+                    "name": "Perikles",
+                    "url": "https://open.spotify.com/artist/2WjMknfXoWEZL4X5QbGd3z"
                 },
                 {
-                    "name": "K. S. Chithra",
-                    "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+                    "name": "Lars Lundgren",
+                    "url": "https://open.spotify.com/artist/68kz937o4ZZFC5xt2pxiB6"
                 }
             ],
-            "duration_ms": 273554,
-            "name": "Guruvayurappa",
-            "url": "https://open.spotify.com/track/3JgOiGRp9lT5FkPcE1I7c6"
+            "duration_ms": 217906,
+            "name": "Var ska vi sova inatt - EPA Remix - Dansbandsrave",
+            "url": "https://open.spotify.com/track/1XbzhcrAEgGI9Jtgwz14hD"
         },
         {
             "added_at": null,
             "album": {
-                "name": "35th Anniversary Album \"To Your Summertime Smile\"",
-                "url": "https://open.spotify.com/album/38cfk108kMheiz6uNKFD9b"
+                "name": "情若無花不結果",
+                "url": "https://open.spotify.com/album/0SH8L18eE2CmMRwqSLMJzd"
             },
             "artists": [
                 {
-                    "name": "1986 Omega Tribe",
-                    "url": "https://open.spotify.com/artist/0ECegKslGWO6zz3XzTyIwQ"
+                    "name": "張德蘭",
+                    "url": "https://open.spotify.com/artist/5aPGAChoe34CdQqwDeRKrk"
                 }
             ],
-            "duration_ms": 275560,
-            "name": "君は1000%",
-            "url": "https://open.spotify.com/track/2tJu4DDMGCVbRgXYyl0zbR"
+            "duration_ms": 216413,
+            "name": "情若無花不結果",
+            "url": "https://open.spotify.com/track/6kvhj6gb1jbVmaTqyRgfvp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Annie (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/0MVa9A8tUgkPz1TJnX0C6C"
+            },
+            "artists": [
+                {
+                    "name": "Albert Finney",
+                    "url": "https://open.spotify.com/artist/1kwtda1NFJAsoM03y1Z5LH"
+                },
+                {
+                    "name": "Carol Burnett",
+                    "url": "https://open.spotify.com/artist/47XlZ6zQWFJ0qgX5FDDFqx"
+                }
+            ],
+            "duration_ms": 171373,
+            "name": "Sign",
+            "url": "https://open.spotify.com/track/3LfsSkHz2CvwwKm3Z3y23f"
         }
     ],
     "unique_name": "80s Mix",
