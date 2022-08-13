@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 37 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 31 | [Clap Clap \- Extended](https://open.spotify.com/track/5lXhJH12uVkcHYodRtnB0W) | [Gran Error](https://open.spotify.com/artist/7ilnC3b4EuUuElf3cuStza), [Elvana Gjata](https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Clap Clap \(Extended\)](https://open.spotify.com/album/7CVe8A2Bi7GUnn7srJo5Ot) | 2:59 |
 | 32 | [Higher](https://open.spotify.com/track/7sGOTPdnneWaUJgGuyTsnp) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Higher](https://open.spotify.com/album/5K3nlj87hGA3YmwdXxqFdK) | 3:54 |
 | 33 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 |
-| 34 | [Freeze \- John Summit Remix](https://open.spotify.com/track/6N1UWEnnka2kl5g39UnoqI) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Freeze \(John Summit Remix\)](https://open.spotify.com/album/1y9vtFEaefqwQUioWsaOsw) | 3:12 |
-| 35 | [Barricades \(with Rita Ora\) \- Shapes Remix](https://open.spotify.com/track/7eNGT5FwPG5leWLSu7vwgN) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Barricades \(with Rita Ora\) \[Shapes Remix\]](https://open.spotify.com/album/6x2cgjfk2lI1GtjfZkRXdb) | 2:53 |
-| 36 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
-| 37 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 |
-| 38 | [Coming Over](https://open.spotify.com/track/34uPxlUlhuGX9OpNUJdaYq) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Coming Over](https://open.spotify.com/album/7GTYl8muzPJvzwQGIOkk5t) | 2:52 |
-| 39 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
-| 40 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 |
-| 41 | [Shirdi Wale \- Hindi](https://open.spotify.com/track/1AS7KGHZ44PgworHEv3HqN) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Shirdi Wale \(Hindi\)](https://open.spotify.com/album/57ufx3FClqqYGo35GCgwmB) | 6:23 |
+| 34 | [LOL](https://open.spotify.com/track/4qsrQnTtzIdmTOXFobkkE9) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [About Last Night...](https://open.spotify.com/album/2DX0Tyq5e8CtsoncXWEWPm) | 3:32 |
+| 35 | [Coming Over](https://open.spotify.com/track/34uPxlUlhuGX9OpNUJdaYq) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Coming Over](https://open.spotify.com/album/7GTYl8muzPJvzwQGIOkk5t) | 2:52 |
+| 36 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 |
+| 37 | [Shirdi Wale \- Hindi](https://open.spotify.com/track/1AS7KGHZ44PgworHEv3HqN) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Shirdi Wale \(Hindi\)](https://open.spotify.com/album/57ufx3FClqqYGo35GCgwmB) | 6:23 |
 
-Snapshot ID: `Mjc2NzA2ODAsMDAwMDAwMDA4ODIzYTlhZGNjNjQwNjY3ZDE0MTA3MjFiMzVmOWUxZQ==`
+Snapshot ID: `Mjc2NzA2ODAsMDAwMDAwMDA0NGYwYTc2YTRlMzdhM2FhMzRiYmM0M2UzNzBiZWEzYw==`
