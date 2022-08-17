@@ -1,0 +1,62 @@
+pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQoowv2cDraCW.md) - [plain](/playlists/plain/37i9dQZF1EQoowv2cDraCW) - [githistory](https://github.githistory.xyz/mdn522/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EQoowv2cDraCW)
+
+### [J\-Pop Mix](https://open.spotify.com/playlist/37i9dQZF1EQoowv2cDraCW)
+
+> <a href=spotify:playlist:37i9dQZF1EIXUP8Gy3gmsR>EMMA WAHLIN</a> and more
+
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 1 min
+
+| No. | Title | Artist(s) | Album | Length |
+|---|---|---|---|---|
+| 1 | [Used To Be Mine](https://open.spotify.com/track/0S3m17l6s69nRlENPq2MW4) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Used To Be Mine](https://open.spotify.com/album/2vwhQOYWpRiBUSjCPPJKDV) | 2:43 |
+| 2 | [Automatic](https://open.spotify.com/track/4GVW6Zq0KK99QDc2O1nkyA) | [B\-Spanner](https://open.spotify.com/artist/7qsx4ACvkISyFPPLFngPux), [Elina](https://open.spotify.com/artist/5w87fjB2p5QndgKyCc61wk) | [Automatic](https://open.spotify.com/album/5cXIXcSpwmVlJpOZL1A8oJ) | 3:16 |
+| 3 | [RUN](https://open.spotify.com/track/5addyZDQMgnj1vDkMYZAyA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [RUN](https://open.spotify.com/album/7bwlqMGcB1u57m3rUVBn15) | 2:44 |
+| 4 | [ベテルギウス](https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [壱](https://open.spotify.com/album/1YWoHzj5wHnG7m6gLlwBQd) | 3:50 |
+| 5 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 6 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 |
+| 7 | [TERMS & CONDITIONS](https://open.spotify.com/track/3I69ylSTzkrx1vWCHQXoDo) | [Jasmine Sokko](https://open.spotify.com/artist/3risOBDAx6GGVaCcBuhswz) | [θi = θr](https://open.spotify.com/album/2kn0Bvqiq98iZlIPEw4DLE) | 2:27 |
+| 8 | [Starting Now](https://open.spotify.com/track/7EGITWLpmKCzwZUdF5glhq) | [Miisha Shimizu](https://open.spotify.com/artist/2ITl7YzD1Hm6NVojBhKkOp) | [Starting Now](https://open.spotify.com/album/632QdkoBFjgW5XuFV29Pvt) | 3:25 |
+| 9 | [Angel](https://open.spotify.com/track/3vXHM9HaxNYrky9r1zxLWa) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [ハレンチ](https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh) | 3:11 |
+| 10 | [スパークル](https://open.spotify.com/track/6EuubEs5qOmJdpNhkU47OZ) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [スパークル](https://open.spotify.com/album/0HmvMEiGowPfT2UvYNRDcv) | 3:33 |
+| 11 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 |
+| 12 | [I’ll be by your side](https://open.spotify.com/track/6QIWKCrhC1x6DPva7LigmU) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 3:18 |
+| 13 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 |
+| 14 | [Bye\-Good\-Bye](https://open.spotify.com/track/3Itdlob7CzXIQqydeVwutQ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:01 |
+| 15 | [勿忘](https://open.spotify.com/track/0XZyF9lv6diMt4bxThOL0h) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Grower](https://open.spotify.com/album/4TapnJaH5MhqK5Jn7jt3eS) | 4:11 |
+| 16 | [inside you](https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:42 |
+| 17 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 |
+| 18 | [Surges](https://open.spotify.com/track/5XhxMq0dQNenKr6eDU79Ka) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS), [夏背](https://open.spotify.com/artist/3xRckHz0CRl2Z328bNeVpC), [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [Surges](https://open.spotify.com/album/72RDPs84Uf87a92q7GzhmT) | 2:00 |
+| 19 | [Anniversary](https://open.spotify.com/track/79Jzx5hxCQf7TysqfGJNfT) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 2:48 |
+| 20 | [夜撫でるメノウ](https://open.spotify.com/track/6IHWPY5iBUI1AOUclbtE6F) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [夜撫でるメノウ / 幽霊東京](https://open.spotify.com/album/2eGDVgL9Vbz6Pehc9Kz7hS) | 4:22 |
+| 21 | [U+](https://open.spotify.com/track/0MGLjahQGLLVCNRw7bWPE8) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [1999](https://open.spotify.com/album/322uTZewuhwVaanjOO92Av) | 2:38 |
+| 22 | [Anarchy](https://open.spotify.com/track/0ZPYvSJZ1feuhUcG17PHqP) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Anarchy](https://open.spotify.com/album/0aHdIJjwSWIKPKgZcU097P) | 4:28 |
+| 23 | [夜に駆ける](https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:18 |
+| 24 | [アンドロイド&](https://open.spotify.com/track/2jPaEKOxzHhs1zSmOZjJLM) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 4:13 |
+| 25 | [One Reason](https://open.spotify.com/track/2cUj9S2fFEma91GLWsou4U) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 4:13 |
+| 26 | [それを愛と呼ぶなら](https://open.spotify.com/track/3ibqi5ANZtNI7QXOgUnFsL) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [それを愛と呼ぶなら](https://open.spotify.com/album/5gdO6MiTK1Df7SGctJWtUs) | 4:54 |
+| 27 | [クロノスタシス](https://open.spotify.com/track/6Pd73yNBtoVpTRM6xLwOGp) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [クロノスタシス](https://open.spotify.com/album/4upctURy2F1F2rVfltc2P6) | 5:39 |
+| 28 | [Running Forward](https://open.spotify.com/track/5Lpebus0QnG3IaZrfdgkA0) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [ReNBRANDT](https://open.spotify.com/album/6TmFqcRuU8NB6ScPSelQ4t) | 3:41 |
+| 29 | [群青](https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK](https://open.spotify.com/album/1xhO0GSoezdPJcSuNe1ySv) | 4:08 |
+| 30 | [願いごと](https://open.spotify.com/track/3sgL5jQOlQP5BufvF6rWj2) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 2:57 |
+| 31 | [jam](https://open.spotify.com/track/1fMuHK8DWgtSiNrEi5hTSn) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:25 |
+| 32 | [Side Dish](https://open.spotify.com/track/6oWFj0CEkMuClA5uSz0Z9l) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 3:22 |
+| 33 | [アルデバラン](https://open.spotify.com/track/7JkljB7rL0SXZ7TK0vyFDN) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q) | [DREAM](https://open.spotify.com/album/0G5QsW05YzP6NKeaEIY60L) | 4:27 |
+| 34 | [ハート](https://open.spotify.com/track/6cvKfEw8rDcmXBslqSEC9G) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [ハート](https://open.spotify.com/album/2TMrGnNWnF1GgUwRY427zk) | 4:31 |
+| 35 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 |
+| 36 | [Talking Box](https://open.spotify.com/track/7fru0rxutpi08K7Q112saF) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [檸檬の日々](https://open.spotify.com/album/2ceMonx7yH4UDjM8jpUxZq) | 2:21 |
+| 37 | [Trippin](https://open.spotify.com/track/26E5DkSFtAvATrzPnzWuvC) | [Nissy](https://open.spotify.com/artist/4L9VSeE7K3BTBndqEL9A6q) | [HOCUS POCUS 3](https://open.spotify.com/album/54DQf4eWVVxYhs47wuxR0y) | 3:17 |
+| 38 | [We'll be fine](https://open.spotify.com/track/78Ngfh05zUIO2THfsgQiKq) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [ReNBRANDT](https://open.spotify.com/album/6TmFqcRuU8NB6ScPSelQ4t) | 3:17 |
+| 39 | [Who I Am](https://open.spotify.com/track/5vhT3PFYz4GncdUYUpyf8m) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:22 |
+| 40 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 |
+| 41 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 |
+| 42 | [MIRROR MIRROR](https://open.spotify.com/track/3nFxkwyRpr4xYBR9Z0ywjo) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 3:06 |
+| 43 | [ただ声一つ](https://open.spotify.com/track/2e1gUS6Wv8GS8ZT6FMeE1J) | [ロクデナシ](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [ただ声一つ](https://open.spotify.com/album/4XSyWcP9Ofb0aGunNVVV6t) | 2:41 |
+| 44 | [怪盗](https://open.spotify.com/track/10Eyo4juZQFthKqlJgGMdp) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [怪盗](https://open.spotify.com/album/4WQ8gG1ItkCzFBnG7P20YR) | 3:16 |
+| 45 | [いけないbaby](https://open.spotify.com/track/7mTqXGdt58G9pLaagkrr6N) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [PALETTE](https://open.spotify.com/album/1sOmwSreycIb0KTHyxAQUQ) | 3:35 |
+| 46 | [Tight Rope](https://open.spotify.com/track/5NeLJqVbSo5hhrxBSuLhRY) | [WRAYA](https://open.spotify.com/artist/75HFBU7IxOt15gbgSM4IYV) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 3:05 |
+| 47 | [Shining One](https://open.spotify.com/track/7DTKSwO1kTAJDu9Q5U73UZ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Shining One](https://open.spotify.com/album/1cdXswO18i5AFNWQLPasok) | 4:04 |
+| 48 | [三原色](https://open.spotify.com/track/0UBUg8NU4XJtQqzTPs8Pkr) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [THE BOOK 2](https://open.spotify.com/album/2Ltmu8tslylv8YlBkyrcgY) | 3:40 |
+| 49 | [SEVENTH HEAVEN](https://open.spotify.com/track/6YK1jSYfYeUZybhXRnPKna) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:57 |
+| 50 | [palette](https://open.spotify.com/track/4JkcfPD2fir5ApJGEjXDZ5) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [PALETTE](https://open.spotify.com/album/1sOmwSreycIb0KTHyxAQUQ) | 3:11 |
+
+Snapshot ID: `MTY2MDcxNjAwMCwwMDAwMDAwMGUzNmM5NmJmNDcwNDg4NGQ0YmRjOGEyZWU5ODM5YjAw`
