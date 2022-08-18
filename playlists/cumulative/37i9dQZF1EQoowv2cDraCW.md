@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIXUP8Gy3gmsR>EMMA WAHLIN</a> and more
 
-50 songs - 3 hr 1 min - not published yet
+51 songs - 3 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [BE MY BABY](https://open.spotify.com/track/0YlpoSZnQJT2Yz52JT8YwA) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw) | [BE MY BABY](https://open.spotify.com/album/6nQNbDEhVWM81pdcb5CSjb) | 2:51 | 2022-08-17 |  |
 | [Bye\-Good\-Bye](https://open.spotify.com/track/3Itdlob7CzXIQqydeVwutQ) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:01 | 2022-08-17 |  |
 | [Cheers](https://open.spotify.com/track/1BjNUu608nOEvEtMETFnlB) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX), [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [Cheers](https://open.spotify.com/album/2o9dAH1dNC3UD1gbIr8RN5) | 3:52 | 2022-08-17 |  |
-| [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2022-08-17 |  |
+| [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 | 2022-08-17 | 2022-08-18 |
 | [I'm a mess](https://open.spotify.com/track/6c5GqVWU3yFDgPkgBB0MGg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [告白](https://open.spotify.com/album/4iwt5zps0wDrMuo6wQ95AJ) | 4:09 | 2022-08-17 |  |
 | [inside you](https://open.spotify.com/track/6dxjfasDAe8v56M308tQdz) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:42 | 2022-08-17 |  |
 | [I’ll be by your side](https://open.spotify.com/track/6QIWKCrhC1x6DPva7LigmU) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [HOPE / WISH](https://open.spotify.com/album/6MsGbobSY6DsLpFGbRTOfQ) | 3:18 | 2022-08-17 |  |
@@ -39,6 +39,7 @@
 | [Used To Be Mine](https://open.spotify.com/track/0S3m17l6s69nRlENPq2MW4) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Used To Be Mine](https://open.spotify.com/album/2vwhQOYWpRiBUSjCPPJKDV) | 2:43 | 2022-08-17 |  |
 | [We'll be fine](https://open.spotify.com/track/78Ngfh05zUIO2THfsgQiKq) | [ReN](https://open.spotify.com/artist/22wa94PJF9zyFJMTp2BYus) | [ReNBRANDT](https://open.spotify.com/album/6TmFqcRuU8NB6ScPSelQ4t) | 3:17 | 2022-08-17 |  |
 | [Who I Am](https://open.spotify.com/track/5vhT3PFYz4GncdUYUpyf8m) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [visions](https://open.spotify.com/album/1SawHGXZXBBST8mGV0uJgK) | 3:22 | 2022-08-17 |  |
+| [Wonder](https://open.spotify.com/track/1RbsnRJu6FJAyRer1ADMgd) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Wonder](https://open.spotify.com/album/5ApwQum2jaNFN1UsCQVdIo) | 3:47 | 2022-08-18 |  |
 | [いけないbaby](https://open.spotify.com/track/7mTqXGdt58G9pLaagkrr6N) | [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [PALETTE](https://open.spotify.com/album/1sOmwSreycIb0KTHyxAQUQ) | 3:35 | 2022-08-17 |  |
 | [うるうびと](https://open.spotify.com/track/6mJIn3fvwWHHAnrR3LEdxp) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [余命10年 \(Original Soundtrack\)](https://open.spotify.com/album/4BVxkC0NDkRLpTmNdDnPmz) | 5:18 | 2022-08-17 |  |
 | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [おもかげ \(produced by Vaundy\)](https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE) | 3:08 | 2022-08-17 |  |
