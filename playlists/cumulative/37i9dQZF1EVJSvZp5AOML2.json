@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIV4eUl0BLMcp>Anne-Marie</a>, <a href=spotify:playlist:37i9dQZF1EIWm4Ht82t64s>Here At Last</a>, <a href=spotify:playlist:37i9dQZF1EIXq9FMgikefv>Hayden McHugh</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXq9FMgikefv>Hayden McHugh</a>, <a href=spotify:playlist:37i9dQZF1EIYtGe2CfPeBI>Sia</a>, <a href=spotify:playlist:37i9dQZF1EIWm4Ht82t64s>Here At Last</a> and more",
     "name": "Happy Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -239,7 +239,7 @@
             ],
             "date_added": "2022-07-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-21",
+            "date_removed": null,
             "duration_ms": 155040,
             "name": "All or Nothing",
             "url": "https://open.spotify.com/track/1n3yIbpxECKWO3qjlN3FXP"
@@ -357,7 +357,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-21",
+            "date_removed": null,
             "duration_ms": 162954,
             "name": "Another Life (feat. FLETCHER & Josh Golden)",
             "url": "https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq"
@@ -639,7 +639,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 155363,
             "name": "Be Who You Are",
             "url": "https://open.spotify.com/track/2Z7JAlG8RPvN277Y6bc6cM"
@@ -857,7 +857,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 195428,
             "name": "Better Than This",
             "url": "https://open.spotify.com/track/6lRUCqq1uSxcwCwcithfqj"
@@ -1111,7 +1111,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-18",
+            "date_removed": null,
             "duration_ms": 192000,
             "name": "Call On Me (feat. Georgia Ku)",
             "url": "https://open.spotify.com/track/3pBv3LfvfPft2TqHleqKHo"
@@ -1407,7 +1407,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 164490,
             "name": "Dive",
             "url": "https://open.spotify.com/track/2aXC0fD6qziwlOZZqhCqTd"
@@ -1655,7 +1655,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-21",
+            "date_removed": null,
             "duration_ms": 165335,
             "name": "Fake A Smile",
             "url": "https://open.spotify.com/track/1Ph65gYzHdiNDs9yWh4ePY"
@@ -2048,6 +2048,24 @@
         },
         {
             "album": {
+                "name": "Go It Alone (From Rumble)",
+                "url": "https://open.spotify.com/album/6ZZ9msZeDJYcMM4e014iZO"
+            },
+            "artists": [
+                {
+                    "name": "Joe Jonas",
+                    "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+                }
+            ],
+            "date_added": "2022-08-22",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 133291,
+            "name": "Go It Alone (From Rumble)",
+            "url": "https://open.spotify.com/track/1CjHbhYlTbT2Xiotbkkb2g"
+        },
+        {
+            "album": {
                 "name": "Gold Skies",
                 "url": "https://open.spotify.com/album/2cKMnX2Yp2vAi3ozzNup8F"
             },
@@ -2273,7 +2291,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 192586,
             "name": "Hard to Love (feat. Stevie Brock)",
             "url": "https://open.spotify.com/track/6eeXy0bfaLvhkfd501PXQ1"
@@ -2615,7 +2633,7 @@
             ],
             "date_added": "2022-06-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-11",
+            "date_removed": null,
             "duration_ms": 161035,
             "name": "In My Zone",
             "url": "https://open.spotify.com/track/3LR2EPyj36gxYgCYbC0au0"
@@ -2729,7 +2747,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 174760,
             "name": "Keep You Mine",
             "url": "https://open.spotify.com/track/0OJN2A3Qyvd7pwSF0AIteC"
@@ -3121,7 +3139,7 @@
             ],
             "date_added": "2022-08-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 174019,
             "name": "Long Summer Nights",
             "url": "https://open.spotify.com/track/3sYbnk1vLjNMxevpne08ts"
@@ -3193,7 +3211,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 214119,
             "name": "Love Like That",
             "url": "https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y"
@@ -3401,7 +3419,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 224649,
             "name": "Message In A Bottle (Fat Max G Remix) (Taylor’s Version)",
             "url": "https://open.spotify.com/track/3tGq7hWDCtrnL83y5OGual"
@@ -3531,7 +3549,7 @@
             ],
             "date_added": "2022-07-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 190052,
             "name": "mona lisa",
             "url": "https://open.spotify.com/track/6tJOpzHYBF6Ym2gmmQy9mE"
@@ -3877,7 +3895,7 @@
             ],
             "date_added": "2022-07-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-11",
+            "date_removed": null,
             "duration_ms": 184930,
             "name": "Nothing But Love",
             "url": "https://open.spotify.com/track/5EP2a7a6b5J3xkT0R4oA28"
@@ -4019,7 +4037,7 @@
             ],
             "date_added": "2022-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 114024,
             "name": "Once In A Blue Moon",
             "url": "https://open.spotify.com/track/2yFD85aGXfJT603rhhQOce"
@@ -4157,7 +4175,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-20",
+            "date_removed": null,
             "duration_ms": 142858,
             "name": "Perfect",
             "url": "https://open.spotify.com/track/4L4c5BHrDWFucpAv8uO1kr"
@@ -4411,7 +4429,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-18",
+            "date_removed": null,
             "duration_ms": 188400,
             "name": "Ride or Die (feat. Phoebe Ryan)",
             "url": "https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va"
@@ -5263,7 +5281,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-20",
+            "date_removed": null,
             "duration_ms": 163854,
             "name": "Sunshine",
             "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
@@ -5525,7 +5543,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-21",
+            "date_removed": null,
             "duration_ms": 151626,
             "name": "Thinkin Bout You",
             "url": "https://open.spotify.com/track/2OEr2lzItRFTQvtzXT0wOm"
@@ -5565,7 +5583,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 162786,
             "name": "Those Eyes (feat. Griff Clawson)",
             "url": "https://open.spotify.com/track/33ArLNq6JksceoJUONafnX"
@@ -5893,7 +5911,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-21",
+            "date_removed": null,
             "duration_ms": 181486,
             "name": "We Found Love",
             "url": "https://open.spotify.com/track/2oxoFsg4dG7gUrKtUJY7BA"
@@ -6031,7 +6049,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-08-22",
             "duration_ms": 183536,
             "name": "Who's In Your Head",
             "url": "https://open.spotify.com/track/5nhW8I46uDE5sc5ouEbzao"
