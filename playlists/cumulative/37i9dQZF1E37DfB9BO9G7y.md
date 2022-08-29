@@ -4,7 +4,7 @@
 
 > Maroon 5, Kesha, Yves V and more
 
-2,422 songs - 5 day 15 hr 17 min - not published yet
+2,423 songs - 5 day 15 hr 20 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,7 +581,7 @@
 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 | 2022-05-23 | 2022-08-24 |
 | [Everything for Love](https://open.spotify.com/track/5vKypoVss8b7A5XG0L396E) | [Tycoos](https://open.spotify.com/artist/0ZesultCLHEe8lbXluMvV7), [Sandro Mireno](https://open.spotify.com/artist/6ZuduLnO1GSOdWp0qZWl3C), [Ria Joyse](https://open.spotify.com/artist/1RZsVM7SDfZ7vtM0CPMGjU) | [Everything for Love](https://open.spotify.com/album/1PKZXEeXI5LFCQPhl80iTk) | 2:43 | 2022-06-20 | 2022-08-22 |
 | [Everything Is Okay](https://open.spotify.com/track/2xQmJZIMN7F5b4mwSg9Nad) | [AFTRHOURS](https://open.spotify.com/artist/3pvFPaqjwCdXwVIt3uIad5), [Natalie Major](https://open.spotify.com/artist/2Qe2PBKLmokOP8hzcfEDjL) | [Everything Is Okay](https://open.spotify.com/album/4Piik4zE36S5Em9MiZPdOY) | 3:14 | 2022-05-22 | 2022-07-26 |
-| [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2022-05-23 |  |
+| [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2022-05-23 | 2022-08-29 |
 | [EveryTime I Cry \- R3HAB Remix](https://open.spotify.com/track/752n2yiIZZdxNAMTXmrObn) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [EveryTime I Cry \(R3HAB Remix\)](https://open.spotify.com/album/2vBz1iYx315biPiOAQbq1g) | 3:11 | 2022-06-30 | 2022-08-28 |
 | [Everywhere I Go](https://open.spotify.com/track/2yGcQ0vhoTWAhbondcftQP) | [ALPHA 9](https://open.spotify.com/artist/6ckI88Ggj8DPe0TNAAVkjn) | [Everywhere I Go](https://open.spotify.com/album/7Ik4uzT4Np6YLHCIYoj5Yt) | 3:38 | 2022-07-27 | 2022-07-28 |
 | [EXTRA FR!ES](https://open.spotify.com/track/5JfXI7NmMyak0lAzCTbVUw) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EXTRA FR!ES](https://open.spotify.com/album/7J9nP67J4hULMaGGrYdOUu) | 2:50 | 2022-05-30 | 2022-05-31 |
@@ -1613,6 +1613,7 @@
 | [Running To You \(feat\. Caden\)](https://open.spotify.com/track/3zc9SflSDf8EnFc7NNoqO9) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Caden](https://open.spotify.com/artist/3g9TrS2xoUpvNJXvQejXYS) | [Running To You \(feat\. Caden\)](https://open.spotify.com/album/3pew3ehm1DOu5HONPx4LhJ) | 3:03 | 2022-08-07 | 2022-08-07 |
 | [Running Up That Hill](https://open.spotify.com/track/0FEdfD2exlmizDE6z2uAoh) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Running Up That Hill](https://open.spotify.com/album/4GA1fKDesvFoR4afbdpeFj) | 4:16 | 2022-08-07 | 2022-08-27 |
 | [Saber Athena](https://open.spotify.com/track/4Cd4btNTL4tzumsluYSefn) | [Adz](https://open.spotify.com/artist/5JQz6ekVNCeKSAYKn0HkNp), [Harry Diamond](https://open.spotify.com/artist/30XV4Gby1iaSfs16WZ5a4R), [Lyonheart](https://open.spotify.com/artist/2fsUpxhMZT8VF7z7rDnvfu) | [Ebb & Flow \#3](https://open.spotify.com/album/0LtCbxonAXaopT4JbeNc7y) | 3:59 | 2022-08-25 | 2022-08-26 |
+| [Sabotage](https://open.spotify.com/track/1nil655gJpCzrbqiqC0NLX) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:56 | 2022-08-29 |  |
 | [Sacrifice](https://open.spotify.com/track/5fKTWlpV4hT7ujXV45WbtN) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Better Mistakes](https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo) | 2:40 | 2022-08-28 |  |
 | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/track/1qRgEKIeSrMcS62Ji4g8VT) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Kylie Cantrall](https://open.spotify.com/artist/20EGKg0XsxPJ0GRHxfb9LX) | [Sad Boy \(feat\. Ava Max & Kylie Cantrall\)](https://open.spotify.com/album/5KcaU97tf7FqJ1s9cKVPpZ) | 2:21 | 2022-05-23 | 2022-08-27 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-07-25 | 2022-08-25 |

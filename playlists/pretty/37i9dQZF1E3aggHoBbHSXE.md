@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E3aggHoBbHSXE.md) - [plain]
 | 9 | [how to lose a guy](https://open.spotify.com/track/3HP03ApAXFYXhzg1eDdH2z) | [Lucy Deakin](https://open.spotify.com/artist/76vO0RjFam5iW8mbtVsc4h) | [in your head i'm probably crying](https://open.spotify.com/album/1guCn8K3jrXzveCzwNd2xZ) | 3:37 |
 | 10 | [Feels Like](https://open.spotify.com/track/3v4GROPtpHzWRHec5qnOo5) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [Feels Like / Pretty In Pink](https://open.spotify.com/album/39hjOgGSEFeUuLJWCI0dH2) | 2:44 |
 | 11 | [Be Yourself](https://open.spotify.com/track/1bdtCCoirNd5QeSj1bhiVZ) | [KØLEEN](https://open.spotify.com/artist/59d8yAQE0AxnNLrm4gaOgZ) | [Be Yourself](https://open.spotify.com/album/6xY4RB2CzrLMKJczZ0oqxi) | 3:01 |
-| 12 | [Dirty Dancing](https://open.spotify.com/track/48RIjdx0DWLeJyJdcfjKNf) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Dirty Dancing](https://open.spotify.com/album/1mrx63ntHNi1LskXj864T8) | 3:10 |
-| 13 | [Love Me Loud](https://open.spotify.com/track/3ScHbZkVLo2VpPjWONTLR2) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Love Me Loud](https://open.spotify.com/album/7lupWpF9aVRE8Sn6ujhvbc) | 3:34 |
+| 12 | [Love Me Loud](https://open.spotify.com/track/3ScHbZkVLo2VpPjWONTLR2) | [Dani Sylvia](https://open.spotify.com/artist/4loap7SYpi11OpsZKnynZj) | [Love Me Loud](https://open.spotify.com/album/7lupWpF9aVRE8Sn6ujhvbc) | 3:34 |
+| 13 | [Dirty Dancing](https://open.spotify.com/track/48RIjdx0DWLeJyJdcfjKNf) | [MICHAELA](https://open.spotify.com/artist/0QxBW01qmpM8InQcVa1x9V) | [Dirty Dancing](https://open.spotify.com/album/1mrx63ntHNi1LskXj864T8) | 3:10 |
 | 14 | [Lie](https://open.spotify.com/track/6RIEEqSSPelDooZ1oRGpO4) | [Skye Holland](https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy), [Steve Kroeger](https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om) | [Lie](https://open.spotify.com/album/3W93PAq3CpzsL8YqbWqNX5) | 3:02 |
 | 15 | [Cycles](https://open.spotify.com/track/040mp23DaszF0qOITsidKN) | [ANNALIA](https://open.spotify.com/artist/3HqtySTAiAcvSU847Itcdt) | [Cycles](https://open.spotify.com/album/4YcPIXN0EoAToSkGIdNf0r) | 3:16 |
 | 16 | [Stockholm](https://open.spotify.com/track/3hx2hGxbqD14XwIBWpLHJW) | [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Stockholm](https://open.spotify.com/album/0PdGyCYUQfT6NGYN51FFDJ) | 3:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E3aggHoBbHSXE.md) - [plain]
 | 49 | [Year of the Ex](https://open.spotify.com/track/5m1Wm07bfb58sEWw7wosy7) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Year of the Ex](https://open.spotify.com/album/3zT0wDFGo5yeKwyGvEc41e) | 3:04 |
 | 50 | [Someday](https://open.spotify.com/track/5sh7DKRH3YICFDDAVHVcUs) | [Jackie Lipson](https://open.spotify.com/artist/6b99BX40EX6IVdqKwS1by1) | [Someday](https://open.spotify.com/album/1ppMHkpfwUZKRAxBXOJ1fV) | 3:40 |
 
-Snapshot ID: `MTY2MTY0ODUwMiwwMDAwMDAwMDIyY2Y5NTc4Mjc0MjEzMDg0MmU3MTEwOTE2OGY1NTUy`
+Snapshot ID: `MTY2MTY0ODUwMiwwMDAwMDAwMDAxY2UzYzFkZTJmZWRmNzc3OTQyOWNkOTM1ZDllMDI2`
