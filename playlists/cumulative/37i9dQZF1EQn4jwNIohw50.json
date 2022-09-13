@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIWiP8k7AjPgM>Vishal-Shekhar</a>, <a href=spotify:playlist:37i9dQZF1EIVbdIvtWiVVY>Miki Matsubara</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIVbdIvtWiVVY>Miki Matsubara</a> and more",
     "name": "2000s Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -549,7 +549,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 260142,
             "name": "Aashayein",
             "url": "https://open.spotify.com/track/0d54B7VI12WOMK8AoIWllf"
@@ -601,7 +601,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-16",
+            "date_removed": null,
             "duration_ms": 301714,
             "name": "Ab To Forever",
             "url": "https://open.spotify.com/track/3gLf7ctpqnklhoQfeveBw0"
@@ -951,7 +951,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 298788,
             "name": "Alisha",
             "url": "https://open.spotify.com/track/5LhYDk8wnGGeaQufZAe7ce"
@@ -973,7 +973,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 185348,
             "name": "All Good Things (Come To An End) - Nelly Furtado x Quarterhead",
             "url": "https://open.spotify.com/track/4hZ3E2eYHadmtKHbAaNycZ"
@@ -1247,7 +1247,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 215106,
             "name": "Angel of Darkness - Video Mix",
             "url": "https://open.spotify.com/track/2p6yof8qYnSFB3gjnerrWs"
@@ -1287,7 +1287,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-08",
+            "date_removed": null,
             "duration_ms": 254130,
             "name": "Another Chance",
             "url": "https://open.spotify.com/track/2zJ5nuyOQi4jBvToG3HHys"
@@ -1367,7 +1367,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-30",
+            "date_removed": null,
             "duration_ms": 222580,
             "name": "As The Rush Comes - Space Motion Remix",
             "url": "https://open.spotify.com/track/7IVWGU5XaJ0MZHfRHmiIDT"
@@ -2139,7 +2139,7 @@
             ],
             "date_added": "2022-07-13",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-02",
+            "date_removed": null,
             "duration_ms": 165407,
             "name": "Believe me",
             "url": "https://open.spotify.com/track/6hqnl7iERKa2apQ7BVpkeo"
@@ -2671,7 +2671,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-01",
+            "date_removed": null,
             "duration_ms": 256586,
             "name": "Broken Strings (Refreshed)",
             "url": "https://open.spotify.com/track/3yLw1G3hGvyKaGxjuXnY6s"
@@ -2711,7 +2711,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-10",
+            "date_removed": null,
             "duration_ms": 162213,
             "name": "Bulletproof",
             "url": "https://open.spotify.com/track/0SyxZC4wlqAwf20cHE6Xon"
@@ -2795,7 +2795,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 163999,
             "name": "Cambodia",
             "url": "https://open.spotify.com/track/6RuinRceJOmoIWiqar4UDu"
@@ -2835,7 +2835,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 242000,
             "name": "Can't Fight The Moonlight (Dave Audé Mix)",
             "url": "https://open.spotify.com/track/0CTLLbwxLjQghLELl6pI2P"
@@ -3605,7 +3605,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 198226,
             "name": "Connected",
             "url": "https://open.spotify.com/track/1LPfKzfFd9JvqvPhD18o0w"
@@ -3748,6 +3748,24 @@
         },
         {
             "album": {
+                "name": "Gold",
+                "url": "https://open.spotify.com/album/4d03zDt0sm9pK0h2NWfl75"
+            },
+            "artists": [
+                {
+                    "name": "September",
+                    "url": "https://open.spotify.com/artist/6VX2R9L0O0d6qPvqGuIH7b"
+                }
+            ],
+            "date_added": "2022-09-13",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 164906,
+            "name": "Cry for You - UK Radio Edit",
+            "url": "https://open.spotify.com/track/2FuJvdLfBf8eUmgtlz3Rb3"
+        },
+        {
+            "album": {
                 "name": "The Singer",
                 "url": "https://open.spotify.com/album/6mqV4lo8LrZhDS3NzjVLP5"
             },
@@ -3847,7 +3865,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-27",
+            "date_removed": null,
             "duration_ms": 239647,
             "name": "Dancing Jodi",
             "url": "https://open.spotify.com/track/2YNgcIiD73XsXFNM3UuxlM"
@@ -3891,7 +3909,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-11",
+            "date_removed": null,
             "duration_ms": 210580,
             "name": "Dangerous - Thyron Remix",
             "url": "https://open.spotify.com/track/2DeGPkkkn8tnI9NbUfrnu2"
@@ -4803,7 +4821,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 231428,
             "name": "Empty Streets - Morgin Madison Remix",
             "url": "https://open.spotify.com/track/01zNEkolbK33XOAswYVoBB"
@@ -5503,7 +5521,7 @@
             ],
             "date_added": "2022-07-02",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-25",
+            "date_removed": null,
             "duration_ms": 236706,
             "name": "Fight For You - Sultan & Ned Shephard Remix Radio Edit",
             "url": "https://open.spotify.com/track/4JIYvt01Fibhd7Tgeb9VAq"
@@ -5635,7 +5653,7 @@
             ],
             "date_added": "2022-09-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 169571,
             "name": "Fly Away - KhoMha Remix",
             "url": "https://open.spotify.com/track/7dzI7FiaWeCOWLOdKFWkKN"
@@ -6403,7 +6421,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-11",
+            "date_removed": null,
             "duration_ms": 179844,
             "name": "Güle Güle Şekerim - Her Dem Yeşil",
             "url": "https://open.spotify.com/track/3u7Oo4Z5kmNw0g0AEgrHLN"
@@ -6719,7 +6737,7 @@
             ],
             "date_added": "2022-08-15",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-05",
+            "date_removed": null,
             "duration_ms": 276560,
             "name": "Here I Am (Classic Version)",
             "url": "https://open.spotify.com/track/29tnryGLEZCD6rpMncxU9S"
@@ -7102,6 +7120,24 @@
         },
         {
             "album": {
+                "name": "Another Cinderella Story (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/6Jv7Yo0ihit4JyxvjQLUhb"
+            },
+            "artists": [
+                {
+                    "name": "Tiffany Giardina",
+                    "url": "https://open.spotify.com/artist/36Cpz1IHGEFgEV0lmzNB5U"
+                }
+            ],
+            "date_added": "2022-09-13",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 230680,
+            "name": "Hurry Up And Save Me",
+            "url": "https://open.spotify.com/track/6uQvcYL43YFWOldj7R4YqL"
+        },
+        {
+            "album": {
                 "name": "SOLO",
                 "url": "https://open.spotify.com/album/6B9JssCvQa6Z5RtcMQaK7n"
             },
@@ -7167,7 +7203,7 @@
             ],
             "date_added": "2022-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 240600,
             "name": "I Drove All Night",
             "url": "https://open.spotify.com/track/3zN4OLeBAN7LwAr442bB8E"
@@ -7359,7 +7395,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 192272,
             "name": "I See Right Through To You - Faustix Remix",
             "url": "https://open.spotify.com/track/2n66mgQLa12l817SEWokAk"
@@ -7665,7 +7701,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 195234,
             "name": "In And Out Of Love - Ian Tosel & Arthur M Remix",
             "url": "https://open.spotify.com/track/7fvQ3kv9pCOkFyGdON4k6H"
@@ -7807,7 +7843,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-27",
+            "date_removed": null,
             "duration_ms": 207306,
             "name": "Insomnia",
             "url": "https://open.spotify.com/track/6YUUQapDEqBF1yP3iHlsut"
@@ -7869,7 +7905,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 216112,
             "name": "Into The Sun - Maor Levi Remix",
             "url": "https://open.spotify.com/track/3fuKvvIKd6e89T68x6mP9D"
@@ -8177,7 +8213,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 216946,
             "name": "Joy",
             "url": "https://open.spotify.com/track/1xWO8bXqhvgYIOWiALGEIF"
@@ -8961,7 +8997,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 197921,
             "name": "Lambada Night",
             "url": "https://open.spotify.com/track/6ifFKpMGrGbcTdJgaG6yXs"
@@ -9067,7 +9103,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-02",
+            "date_removed": null,
             "duration_ms": 218306,
             "name": "Liar Liar",
             "url": "https://open.spotify.com/track/5pFBAvTLbEvueaMMmkeJeB"
@@ -9147,7 +9183,7 @@
             ],
             "date_added": "2022-08-15",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 165613,
             "name": "Light Years - From the Infinite Disco Livestream",
             "url": "https://open.spotify.com/track/7pjtz9ucObOWYdhrnJXbvh"
@@ -9249,7 +9285,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 149000,
             "name": "Like Whoa (A&A Version)",
             "url": "https://open.spotify.com/track/6ZmqS2ru3VVCAype7FJ6Xu"
@@ -9577,7 +9613,7 @@
             ],
             "date_added": "2022-09-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 286034,
             "name": "Love Mera Hit Hit",
             "url": "https://open.spotify.com/track/2VgbvKdaSOXWByBKYgBsEc"
@@ -9617,7 +9653,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 211857,
             "name": "Love Story (Taylor's Version) - Elvira Remix",
             "url": "https://open.spotify.com/track/5RaBeejGtdPEszYEKYECs2"
@@ -10367,7 +10403,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 161250,
             "name": "Monster (Meg and Dia’s version)",
             "url": "https://open.spotify.com/track/55sgBR6rRySVy1dnJ5X44r"
@@ -10551,7 +10587,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 452832,
             "name": "My Dil Goes Mmmm",
             "url": "https://open.spotify.com/track/3Uv8BQFN3bQfhkregyMbnx"
@@ -10757,7 +10793,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 293103,
             "name": "Need To Feel Loved - Matrix Remix",
             "url": "https://open.spotify.com/track/39mH77WsUcG5hAWBt1k1K4"
@@ -10775,7 +10811,7 @@
             ],
             "date_added": "2022-09-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 139140,
             "name": "Never Be Replaced",
             "url": "https://open.spotify.com/track/44ikIuhGpv77WzEcpuvIhY"
@@ -10947,7 +10983,7 @@
             ],
             "date_added": "2022-06-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-26",
+            "date_removed": null,
             "duration_ms": 166644,
             "name": "No Stress - Tommie Sunshine & MureKian Remix",
             "url": "https://open.spotify.com/track/2wujE7n4hv8SGRjq2ARtks"
@@ -11437,7 +11473,7 @@
             ],
             "date_added": "2022-08-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-09",
+            "date_removed": null,
             "duration_ms": 213600,
             "name": "One Way Ticket (To The Blues)",
             "url": "https://open.spotify.com/track/3Mk9gXpijocBDudBUWXqYR"
@@ -11619,7 +11655,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-10",
+            "date_removed": null,
             "duration_ms": 198413,
             "name": "Où je vais",
             "url": "https://open.spotify.com/track/5Mxfz7g8AnAhV7vtwWrSR6"
@@ -12017,7 +12053,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-01",
+            "date_removed": null,
             "duration_ms": 165714,
             "name": "Pyramid - Nicky Romero Remix",
             "url": "https://open.spotify.com/track/3UcR8sUTURoNzhYrjeSI0q"
@@ -12035,7 +12071,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 184041,
             "name": "Qélé Qélé (Eurovision 2008 Armenia)",
             "url": "https://open.spotify.com/track/3f89Rw7YxjXf9pdCXZCCk1"
@@ -12057,7 +12093,7 @@
             ],
             "date_added": "2022-09-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 202084,
             "name": "Rain",
             "url": "https://open.spotify.com/track/2fMvPhllTQky1CS42p9MeW"
@@ -12261,7 +12297,7 @@
             ],
             "date_added": "2022-07-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 193640,
             "name": "Release Me - Cahill Radio Edit",
             "url": "https://open.spotify.com/track/1woTL6S0lrnKaurQ0oAtoR"
@@ -12319,7 +12355,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 157637,
             "name": "Ride It - Nippandab Remix",
             "url": "https://open.spotify.com/track/1HIUUtL86xWbwtFkC8AaNz"
@@ -12395,7 +12431,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-05",
+            "date_removed": null,
             "duration_ms": 210562,
             "name": "River Flows In You",
             "url": "https://open.spotify.com/track/3IEl5LLYsvTEQmnxMaxBQa"
@@ -12413,7 +12449,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 285251,
             "name": "River Flows in You - Orchestra Version",
             "url": "https://open.spotify.com/track/02xd7yuAEiLOF7rt4zlPep"
@@ -12471,7 +12507,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 212793,
             "name": "Run for Cover - MNEK Remix",
             "url": "https://open.spotify.com/track/4GulweUgy7nP0oVFRXvnPc"
@@ -12819,7 +12855,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 157924,
             "name": "Say Say Say (Waiting 4 U) - Steff da Campo Remix",
             "url": "https://open.spotify.com/track/4W3XVLpstX6EkD69APGzZO"
@@ -13661,7 +13697,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 215146,
             "name": "Spelar Ingen Roll",
             "url": "https://open.spotify.com/track/7zyQI71b2rASJ891Vikfvk"
@@ -13777,10 +13813,28 @@
             ],
             "date_added": "2022-08-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 228351,
             "name": "Stay with Me (Always)",
             "url": "https://open.spotify.com/track/5ZfayXikF8vAT4EgMD5T8t"
+        },
+        {
+            "album": {
+                "name": "Bagatellen und Serenaden",
+                "url": "https://open.spotify.com/album/13F1ZPltvX3UoJBM3t6IvM"
+            },
+            "artists": [
+                {
+                    "name": "Valentin Silvestrov",
+                    "url": "https://open.spotify.com/artist/1bauOA5U5M3RwH2euX3Eq6"
+                }
+            ],
+            "date_added": "2022-09-13",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 137413,
+            "name": "Stille Musik: 3. Augenblicke der Serenade",
+            "url": "https://open.spotify.com/track/308fmwi0Y8ULBSzthdhooI"
         },
         {
             "album": {
@@ -14067,7 +14121,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-10",
+            "date_removed": null,
             "duration_ms": 221249,
             "name": "Take Me With You [feat. Emma Hewitt] - Easy Way Out Radio Edit",
             "url": "https://open.spotify.com/track/5QHTNwDmzkstuFajnYQrgZ"
@@ -14437,7 +14491,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 209906,
             "name": "The One - Main",
             "url": "https://open.spotify.com/track/3h3GCDFiFOdLu3aKGF48tU"
@@ -14593,7 +14647,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 254840,
             "name": "The Secret Wedding - Love Theme From \"Braveheart\"",
             "url": "https://open.spotify.com/track/12kqfVmygQLCrwx6ldfYMH"
@@ -14655,7 +14709,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 212280,
             "name": "The Way I Are - OneRepublic Remix Version",
             "url": "https://open.spotify.com/track/5suCRIyDMxsIHMIDfPLzAl"
@@ -14801,7 +14855,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 213913,
             "name": "Time To Say Goodbye - South Of The Stars Remix",
             "url": "https://open.spotify.com/track/2FdbCwWH8jCI08PLAI1fDy"
@@ -14849,7 +14903,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 158400,
             "name": "Toca Me - Ben Rainey Remix",
             "url": "https://open.spotify.com/track/7u3g1olu6QyMib8NBYzoP3"
@@ -14889,7 +14943,7 @@
             ],
             "date_added": "2022-08-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 200483,
             "name": "Toca's Miracle - Radio Edit",
             "url": "https://open.spotify.com/track/6oE5yvroDXWNYWpIFz2JJB"
@@ -15063,7 +15117,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 106329,
             "name": "Toxic - Y2K & Alexander Lewis Remix",
             "url": "https://open.spotify.com/track/48C9sYkAOavqzFn77bxGR3"
@@ -15149,7 +15203,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 184773,
             "name": "Trouwen",
             "url": "https://open.spotify.com/track/37Qz85BgJQ0L5QfXNp2AT9"
@@ -15775,7 +15829,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 192914,
             "name": "We Belong Together (Mimi's Late Night Valentine's Mix)",
             "url": "https://open.spotify.com/track/6RJq76GbQ2mkR9Ml6rcK6r"
@@ -16145,7 +16199,7 @@
             ],
             "date_added": "2022-08-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-31",
+            "date_removed": null,
             "duration_ms": 226239,
             "name": "White Sand - Roger Shah Uplifting Remix",
             "url": "https://open.spotify.com/track/1TExzW0Qti4OjHOfOcYoLJ"
@@ -16167,7 +16221,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-12",
+            "date_removed": null,
             "duration_ms": 238615,
             "name": "Who Will Find Me - Original Summer Sunrise Radio Edit",
             "url": "https://open.spotify.com/track/3p67j3KiJcYAbSpPngQuSS"
@@ -16349,7 +16403,7 @@
             ],
             "date_added": "2022-09-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 302710,
             "name": "Wo Ajnabee",
             "url": "https://open.spotify.com/track/0ZNg3I2kga2XnqKp1Y9PeZ"
@@ -16407,7 +16461,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-08",
+            "date_removed": null,
             "duration_ms": 396005,
             "name": "Wonder Where You Are - Anton Ishutin Remix",
             "url": "https://open.spotify.com/track/4utbgj0mkuVqhwSActLJOv"
@@ -16461,7 +16515,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-04",
+            "date_removed": null,
             "duration_ms": 248000,
             "name": "Xin Anh Đừng",
             "url": "https://open.spotify.com/track/5FzOfxYlPNxiCJNtB01nOu"
@@ -16479,7 +16533,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 280026,
             "name": "Y (Please Tell Me Why)",
             "url": "https://open.spotify.com/track/1nk9moKBnrWMsXoHxnaeJd"
@@ -16515,7 +16569,7 @@
             ],
             "date_added": "2022-07-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-30",
+            "date_removed": null,
             "duration_ms": 254746,
             "name": "Ya Ta'ebny",
             "url": "https://open.spotify.com/track/1M5m1DR5jAJFaIKoGzikj8"
@@ -16717,7 +16771,7 @@
             ],
             "date_added": "2022-07-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 196333,
             "name": "You and I",
             "url": "https://open.spotify.com/track/4eRLK1vLJxTWL5UZMiNIfD"
@@ -17329,7 +17383,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-11",
+            "date_removed": null,
             "duration_ms": 213746,
             "name": "Солнце",
             "url": "https://open.spotify.com/track/6ieDvgQXjMXt1eGkQiS8Wq"
@@ -17986,6 +18040,24 @@
         },
         {
             "album": {
+                "name": "遊戲 基",
+                "url": "https://open.spotify.com/album/2De2KUAINpBFy4osvm1U3E"
+            },
+            "artists": [
+                {
+                    "name": "Leo Ku",
+                    "url": "https://open.spotify.com/artist/4F0XzHNcfvvA2I0rGqIwAQ"
+                }
+            ],
+            "date_added": "2022-09-13",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 232012,
+            "name": "必殺技",
+            "url": "https://open.spotify.com/track/3PrIhODothki0YvYW3qCOT"
+        },
+        {
+            "album": {
                 "name": "活出生命II演唱會",
                 "url": "https://open.spotify.com/album/33Nm4jEH3QHaO1Pc1Xfsgg"
             },
@@ -18051,7 +18123,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-09",
+            "date_removed": null,
             "duration_ms": 232000,
             "name": "愛丫愛丫",
             "url": "https://open.spotify.com/track/3ug64gXY4mHjvMRYUdGjA2"
@@ -18303,7 +18375,7 @@
             ],
             "date_added": "2022-07-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-13",
             "duration_ms": 267426,
             "name": "沒有如果",
             "url": "https://open.spotify.com/track/1G9MmoUjo5nC5lB7paaG0l"
@@ -18339,7 +18411,7 @@
             ],
             "date_added": "2022-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-11",
+            "date_removed": null,
             "duration_ms": 214200,
             "name": "灰姑娘",
             "url": "https://open.spotify.com/track/1Og1e0fnFgZpa0XiBv6GzE"
