@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 30 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Open up Your Heart \- Don Gianni Remix Edit](https://open.spotify.com/track/1H0iNj9IVATC3bZu972Ot9) | [Dave202](https://open.spotify.com/artist/2cQ47iUYGq4lHTtQ5GKMr9), [Don Gianni](https://open.spotify.com/artist/05a2yjvz7pTPTzQY0AuacM) | [Open up Your Heart \(Don Gianni Remix\)](https://open.spotify.com/album/5TUep1pv0En5Wy8Ona33k7) | 2:40 |
 | 30 | [The Chase](https://open.spotify.com/track/16C8sdPmE5vI9xJuUPRjLT) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [The Chase](https://open.spotify.com/album/6DV5hbleliSVkdSS3pvRUG) | 2:50 |
 
-Snapshot ID: `MCwwMDAwMDAwMDI1M2Y5Zjg0YjVjMGJlNTBlNGZkYWQxODg3YWExN2Y3`
+Snapshot ID: `MCwwMDAwMDAwMGQ3OTJhMzk4ZDFlZDA0NzE2YzU3OTJmZGZkNmYxNDBk`
