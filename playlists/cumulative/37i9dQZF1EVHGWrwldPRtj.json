@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIVFFGiV5gyRE>Oscar House</a>, <a href=spotify:playlist:37i9dQZF1EIVeJoc0RI1N4>LYOD</a>, <a href=spotify:playlist:37i9dQZF1EIYZLuQPsUOSo>Monte Fino</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWw5V3f3gihN>Miles Away</a>, <a href=spotify:playlist:37i9dQZF1EIYZLuQPsUOSo>Monte Fino</a>, <a href=spotify:playlist:37i9dQZF1EIVFFGiV5gyRE>Oscar House</a> and more",
     "name": "Chill Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -25,7 +25,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 209233,
             "name": "100 Years",
             "url": "https://open.spotify.com/track/134IsUD5yQuNbpVRnHRIbP"
@@ -167,7 +167,7 @@
             ],
             "date_added": "2022-06-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 227082,
             "name": "Addicted to Blue",
             "url": "https://open.spotify.com/track/0rObiX7BqIZ2diO63Ynbpy"
@@ -821,7 +821,7 @@
             ],
             "date_added": "2022-09-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 168000,
             "name": "Back To That",
             "url": "https://open.spotify.com/track/4QnzjJYUUPI2DZdj5NdA9M"
@@ -1357,7 +1357,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 135080,
             "name": "Blinding Lights",
             "url": "https://open.spotify.com/track/1pJLrEk2AVNbMcoyz0b3y0"
@@ -1637,7 +1637,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 206980,
             "name": "Broken Love",
             "url": "https://open.spotify.com/track/3EPgcDNfwJ7RPkf1wEH4ot"
@@ -2286,6 +2286,24 @@
         },
         {
             "album": {
+                "name": "Crash & Burn",
+                "url": "https://open.spotify.com/album/4A9gu0Sf74m1a3Pey3Hfjm"
+            },
+            "artists": [
+                {
+                    "name": "With Løve",
+                    "url": "https://open.spotify.com/artist/0x0UI85q7lIdGMEZsNH5fm"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 181671,
+            "name": "Crash & Burn",
+            "url": "https://open.spotify.com/track/2m5QKbztxywxupGxI25HLK"
+        },
+        {
+            "album": {
                 "name": "Awake",
                 "url": "https://open.spotify.com/album/5rvIgXvAPGWspXY4rDLkeU"
             },
@@ -2301,7 +2319,7 @@
             ],
             "date_added": "2022-09-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 242011,
             "name": "Crawl Outta Love",
             "url": "https://open.spotify.com/track/0q7oMII7kWTj1ZSX6GT6LU"
@@ -2501,7 +2519,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 275200,
             "name": "Die In Your Arms",
             "url": "https://open.spotify.com/track/1AXFNVpfZkoclEwmmPCL7r"
@@ -2711,7 +2729,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 194558,
             "name": "Dreams",
             "url": "https://open.spotify.com/track/7aiYeTWsZBOxBnij88bs7o"
@@ -3131,7 +3149,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 193209,
             "name": "Fall Out Of Love (Bonus Track)",
             "url": "https://open.spotify.com/track/5H3TQ5T0kEKPVEC20Eehe6"
@@ -3219,7 +3237,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 152000,
             "name": "Falling Water",
             "url": "https://open.spotify.com/track/755pL9dpZcHH63euEwOzNY"
@@ -4318,6 +4336,32 @@
         },
         {
             "album": {
+                "name": "Hold On",
+                "url": "https://open.spotify.com/album/2NYdo4wGxtS47SbjvSTAwC"
+            },
+            "artists": [
+                {
+                    "name": "Marin Hoxha",
+                    "url": "https://open.spotify.com/artist/69kFCyHDE14cRD1cctCCcd"
+                },
+                {
+                    "name": "Stahl",
+                    "url": "https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU"
+                },
+                {
+                    "name": "Caroline",
+                    "url": "https://open.spotify.com/artist/0lAH0mtuoDPBLteml8XHKe"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 194887,
+            "name": "Hold On",
+            "url": "https://open.spotify.com/track/0HF24NEtAuHCCjcMn9Sk81"
+        },
+        {
+            "album": {
                 "name": "Hold on to Me",
                 "url": "https://open.spotify.com/album/4I7iWovVDkRSt7GhJ7tNdA"
             },
@@ -4759,7 +4803,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 167318,
             "name": "I Was Never Here",
             "url": "https://open.spotify.com/track/27XJfyCiMmTgpCrLI4tJAN"
@@ -4781,7 +4825,7 @@
             ],
             "date_added": "2022-09-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 184000,
             "name": "I Wish (feat. Mabel) - Acoustic",
             "url": "https://open.spotify.com/track/1PBI1RLuIDmwwpOpm42qMg"
@@ -4803,6 +4847,24 @@
             "duration_ms": 252851,
             "name": "I'll Be Waiting",
             "url": "https://open.spotify.com/track/1zhQAiG8ffFkEZcwtwMSzA"
+        },
+        {
+            "album": {
+                "name": "I'll Be Your Reason",
+                "url": "https://open.spotify.com/album/1l6drqanZEtcU357VyQoSy"
+            },
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 219882,
+            "name": "I'll Be Your Reason",
+            "url": "https://open.spotify.com/track/0sBW1wri8FQX4PsCmyF0Pm"
         },
         {
             "album": {
@@ -5197,7 +5259,7 @@
             ],
             "date_added": "2022-09-14",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-25",
+            "date_removed": null,
             "duration_ms": 185084,
             "name": "July",
             "url": "https://open.spotify.com/track/4U3KlfWhOVDSqEgSTJpeVy"
@@ -5277,7 +5339,7 @@
             ],
             "date_added": "2022-08-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 226975,
             "name": "Kill Me Slowly",
             "url": "https://open.spotify.com/track/5IaCQ33KniLNTUBkD1YaU7"
@@ -5390,6 +5452,24 @@
         },
         {
             "album": {
+                "name": "Awake",
+                "url": "https://open.spotify.com/album/5rvIgXvAPGWspXY4rDLkeU"
+            },
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 234857,
+            "name": "Leaving",
+            "url": "https://open.spotify.com/track/5XlvOh5YbJMp7CU3NoksNf"
+        },
+        {
+            "album": {
                 "name": "Odyssey",
                 "url": "https://open.spotify.com/album/6asVk7m2rY3BzTydnUll3b"
             },
@@ -5419,7 +5499,7 @@
             ],
             "date_added": "2022-07-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 266024,
             "name": "Let Me Know",
             "url": "https://open.spotify.com/track/3t4vuDXipURALFQfXDD2ja"
@@ -5603,7 +5683,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 180869,
             "name": "Locked In",
             "url": "https://open.spotify.com/track/7CTcpzlvGIAOhE0ESO2mVJ"
@@ -5657,7 +5737,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 160966,
             "name": "Losing You",
             "url": "https://open.spotify.com/track/3JC7UABWAy8SBt9lPNGTog"
@@ -5733,7 +5813,7 @@
             ],
             "date_added": "2022-06-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 131200,
             "name": "Lost in Time",
             "url": "https://open.spotify.com/track/6dg5qkFdN8X0cK7HlkHw6k"
@@ -6265,7 +6345,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 205400,
             "name": "Memories",
             "url": "https://open.spotify.com/track/3etgn6bxFint3MfHHftoqE"
@@ -6287,7 +6367,7 @@
             ],
             "date_added": "2022-08-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 243530,
             "name": "Memories",
             "url": "https://open.spotify.com/track/6Chmtc1Zt9d81yn0x1TK2u"
@@ -6587,7 +6667,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-21",
+            "date_removed": null,
             "duration_ms": 209685,
             "name": "Need You Now",
             "url": "https://open.spotify.com/track/2APGNdP1ANH7gbVW8BXyh7"
@@ -6667,7 +6747,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 230880,
             "name": "Never Let You Go",
             "url": "https://open.spotify.com/track/7amH2HH61gLCW6mSAre9s7"
@@ -7016,6 +7096,28 @@
         },
         {
             "album": {
+                "name": "Oceans & Galaxies",
+                "url": "https://open.spotify.com/album/68ktA77AGDVlrifYU53GzL"
+            },
+            "artists": [
+                {
+                    "name": "Jauz",
+                    "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+                },
+                {
+                    "name": "HALIENE",
+                    "url": "https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 200547,
+            "name": "Oceans & Galaxies",
+            "url": "https://open.spotify.com/track/5NQKpa6uCqZcaFkAbUK4XB"
+        },
+        {
+            "album": {
                 "name": "On & On",
                 "url": "https://open.spotify.com/album/6Unm4KKxYtjR08J1wEOnkc"
             },
@@ -7227,7 +7329,7 @@
             ],
             "date_added": "2022-09-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 160000,
             "name": "Open up Your Heart - Don Gianni Remix Edit",
             "url": "https://open.spotify.com/track/1H0iNj9IVATC3bZu972Ot9"
@@ -7253,7 +7355,7 @@
             ],
             "date_added": "2022-09-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 264945,
             "name": "Operate - Illenium Remix",
             "url": "https://open.spotify.com/track/485MkQBLrOyThyLmtWTdX5"
@@ -7380,6 +7482,24 @@
         },
         {
             "album": {
+                "name": "Paper Doll",
+                "url": "https://open.spotify.com/album/3B2BdMSxRoJycK3AYIzbkY"
+            },
+            "artists": [
+                {
+                    "name": "Lauren Martinez",
+                    "url": "https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 168304,
+            "name": "Paper Doll",
+            "url": "https://open.spotify.com/track/1Qnutv2irxfloKeWeAoKvP"
+        },
+        {
+            "album": {
                 "name": "Paperwings",
                 "url": "https://open.spotify.com/album/2EPIAatdh7de92oEFapYAB"
             },
@@ -7391,7 +7511,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-18",
+            "date_removed": null,
             "duration_ms": 195626,
             "name": "Paperwings",
             "url": "https://open.spotify.com/track/5VyLznpm9AWD49sIV0DUGT"
@@ -7547,6 +7667,28 @@
             "duration_ms": 193228,
             "name": "Post Your Body",
             "url": "https://open.spotify.com/track/0Vq1nZpDtuKPqAtnTPt2zD"
+        },
+        {
+            "album": {
+                "name": "ASCEND",
+                "url": "https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS"
+            },
+            "artists": [
+                {
+                    "name": "ILLENIUM",
+                    "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+                },
+                {
+                    "name": "Kameron",
+                    "url": "https://open.spotify.com/artist/7Gui07OSDQGktpwL3oH8yt"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 295890,
+            "name": "Pray (feat. Kameron)",
+            "url": "https://open.spotify.com/track/61sor95BL63MCvZYgKK8KM"
         },
         {
             "album": {
@@ -7779,7 +7921,7 @@
             ],
             "date_added": "2022-06-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 193653,
             "name": "Radioactive",
             "url": "https://open.spotify.com/track/5PIadGaOr3mP8SGF9vfjNQ"
@@ -7891,7 +8033,7 @@
             ],
             "date_added": "2022-05-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-20",
+            "date_removed": null,
             "duration_ms": 144545,
             "name": "Red Sun",
             "url": "https://open.spotify.com/track/4NIc5c6Y8s9gMkkgPwA2QW"
@@ -8463,7 +8605,7 @@
             ],
             "date_added": "2022-09-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 224884,
             "name": "Signal",
             "url": "https://open.spotify.com/track/3HIIQAodqPWaMnWr5LofQy"
@@ -8627,7 +8769,7 @@
             ],
             "date_added": "2022-07-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 219360,
             "name": "Slow Motion",
             "url": "https://open.spotify.com/track/19dJjHXQHClJHVxPcksKbs"
@@ -8663,7 +8805,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 250203,
             "name": "So Far Away",
             "url": "https://open.spotify.com/track/5hofmMDez4gQwDnEeBaMGD"
@@ -8989,7 +9131,7 @@
             ],
             "date_added": "2022-08-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 188963,
             "name": "Still Learning",
             "url": "https://open.spotify.com/track/3vqA0R4ENSlxAzEMVWlI2C"
@@ -9083,7 +9225,7 @@
             ],
             "date_added": "2022-08-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 150394,
             "name": "Summer Stars",
             "url": "https://open.spotify.com/track/1mrRgtxikCZ9y8qdnhS3FD"
@@ -9228,6 +9370,32 @@
         },
         {
             "album": {
+                "name": "World War Joy",
+                "url": "https://open.spotify.com/album/01GR4NL5O5CZM51k0aejKD"
+            },
+            "artists": [
+                {
+                    "name": "The Chainsmokers",
+                    "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                },
+                {
+                    "name": "ILLENIUM",
+                    "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+                },
+                {
+                    "name": "Lennon Stella",
+                    "url": "https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot"
+                }
+            ],
+            "date_added": "2022-09-30",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 209880,
+            "name": "Takeaway",
+            "url": "https://open.spotify.com/track/3g0mEQx3NTanacLseoP0Gw"
+        },
+        {
+            "album": {
                 "name": "Talk About Us",
                 "url": "https://open.spotify.com/album/62S2ZuskKh6myBX2k0jXxR"
             },
@@ -9269,7 +9437,7 @@
             ],
             "date_added": "2022-08-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-23",
+            "date_removed": null,
             "duration_ms": 166721,
             "name": "Tan Chevrolet",
             "url": "https://open.spotify.com/track/635mmJRUvpZ3FAp7t4AjRW"
@@ -9345,7 +9513,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-01",
+            "date_removed": null,
             "duration_ms": 193240,
             "name": "Temple",
             "url": "https://open.spotify.com/track/6pH8WZDzS7wdWZSunqCUo2"
@@ -10393,7 +10561,7 @@
             ],
             "date_added": "2022-08-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 175304,
             "name": "Wake up in the Sky",
             "url": "https://open.spotify.com/track/6ca0DXSjsE0bXWhKqV5WDv"
@@ -10507,7 +10675,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 159245,
             "name": "Waving At Cars",
             "url": "https://open.spotify.com/track/1K1j5IkohC4t0S8zjrYbOH"
@@ -10609,7 +10777,7 @@
             ],
             "date_added": "2022-05-27",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-09-30",
             "duration_ms": 156253,
             "name": "Welcome Back",
             "url": "https://open.spotify.com/track/4dUMnmuCWhILHrmaV043nT"
@@ -10667,7 +10835,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 194890,
             "name": "What Other People Say",
             "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
@@ -11193,7 +11361,7 @@
             ],
             "date_added": "2022-06-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 177637,
             "name": "You and I",
             "url": "https://open.spotify.com/track/1ZuwEYxkMFktWG8o3qDGyU"
@@ -11255,7 +11423,7 @@
             ],
             "date_added": "2022-09-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 190432,
             "name": "You'll Be Fine",
             "url": "https://open.spotify.com/track/09VolXvIlBUeBEsvYxcUgb"
