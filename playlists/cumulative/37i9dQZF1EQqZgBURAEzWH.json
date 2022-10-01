@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIWkmh5eNpM5Z>Matthew Parker</a>, <a href=spotify:playlist:37i9dQZF1EIYtaBPDg38Uo>for KING & COUNTRY</a>, <a href=spotify:playlist:37i9dQZF1EIXQtiLT2Wioi>Eric Champlin</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXQtiLT2Wioi>Eric Champlin</a>, <a href=spotify:playlist:37i9dQZF1EIWkmh5eNpM5Z>Matthew Parker</a>, <a href=spotify:playlist:37i9dQZF1EIYtaBPDg38Uo>for KING & COUNTRY</a> and more",
     "name": "Christian Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -42,6 +42,28 @@
         },
         {
             "album": {
+                "name": "Growing Pains",
+                "url": "https://open.spotify.com/album/1fscw3oW7uTtq9zodiHV5M"
+            },
+            "artists": [
+                {
+                    "name": "Json",
+                    "url": "https://open.spotify.com/artist/5eAZLsVlw4VKkwtQS9cfrX"
+                },
+                {
+                    "name": "Lecrae",
+                    "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 266266,
+            "name": "2 Human (feat. Lecrae)",
+            "url": "https://open.spotify.com/track/6A3GV0OC4l0yWdtbZ8EsY7"
+        },
+        {
+            "album": {
                 "name": "Identity Crisis",
                 "url": "https://open.spotify.com/album/1EV7m88lwrr8ueRdAS3xmH"
             },
@@ -57,7 +79,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 313746,
             "name": "26's",
             "url": "https://open.spotify.com/track/55fcyFqlQt1d4R9NA3sGw3"
@@ -575,7 +597,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 228762,
             "name": "Amen (Reborn)",
             "url": "https://open.spotify.com/track/2WMNWgHHDeZGkUy2uVkcuM"
@@ -849,7 +871,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 225882,
             "name": "Authority",
             "url": "https://open.spotify.com/track/5yg1yc0FdakvnlGrbmqDPf"
@@ -1003,7 +1025,7 @@
             ],
             "date_added": "2022-09-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 279186,
             "name": "Background",
             "url": "https://open.spotify.com/track/1vuuMEFNSEO3AHN3mTi6AO"
@@ -1185,7 +1207,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 279533,
             "name": "Beautiful Eulogy",
             "url": "https://open.spotify.com/track/2SjMOWfvHJYIqAT4OXiRn3"
@@ -1269,7 +1291,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 240493,
             "name": "Behind the Clouds (feat. Chris Lee)",
             "url": "https://open.spotify.com/track/4SVtSS0Hr0icToNwr6PtDU"
@@ -1305,7 +1327,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 132180,
             "name": "Believe",
             "url": "https://open.spotify.com/track/4202wfSq3fEG4oUvpM9VvS"
@@ -1411,7 +1433,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 214596,
             "name": "Best Thing That I Found",
             "url": "https://open.spotify.com/track/5yaDNf8KGYHCCrEjCW9gNk"
@@ -1527,7 +1549,7 @@
             ],
             "date_added": "2022-09-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 52183,
             "name": "Blue (Da Ba Dee) - Piano Version",
             "url": "https://open.spotify.com/track/55wKwAWsLdGfFR6ygXPIxS"
@@ -1741,7 +1763,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 299400,
             "name": "Bring Us Home (Joshua)",
             "url": "https://open.spotify.com/track/6pa6sKbnAyTlrWsWR1Xbe8"
@@ -1763,7 +1785,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 283852,
             "name": "Broken",
             "url": "https://open.spotify.com/track/3q5vVM2ogQWXxRjnMjhCrF"
@@ -1781,7 +1803,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 191283,
             "name": "Broken Halos",
             "url": "https://open.spotify.com/track/7dlCAK8HdnI6UGHqZkfvJT"
@@ -2050,6 +2072,24 @@
         },
         {
             "album": {
+                "name": "Crave",
+                "url": "https://open.spotify.com/album/6UoU5gg48va0GbZchRK1pw"
+            },
+            "artists": [
+                {
+                    "name": "for KING & COUNTRY",
+                    "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 198786,
+            "name": "Busted Heart (Hold On To Me)",
+            "url": "https://open.spotify.com/track/3p6xfj47lt8TfOax2oB2Mr"
+        },
+        {
+            "album": {
                 "name": "Gravity",
                 "url": "https://open.spotify.com/album/709e0W96FV6lKRoBHcDQ91"
             },
@@ -2235,7 +2275,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-24",
+            "date_removed": null,
             "duration_ms": 246440,
             "name": "Change",
             "url": "https://open.spotify.com/track/6u4PDv1cMAMsiYwaJD8l1U"
@@ -2253,7 +2293,7 @@
             ],
             "date_added": "2022-09-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-25",
+            "date_removed": null,
             "duration_ms": 225293,
             "name": "Chase That (Ambition)",
             "url": "https://open.spotify.com/track/4Ocy3ccduH3cNhc9PnXJg7"
@@ -2385,7 +2425,7 @@
             ],
             "date_added": "2022-09-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 213173,
             "name": "Children of the Light",
             "url": "https://open.spotify.com/track/4kvVCXBG9zYmYzZCEB8gWT"
@@ -2497,7 +2537,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 136292,
             "name": "Co-Sign Pt. 2",
             "url": "https://open.spotify.com/track/6L54wYLci0Cveluc8TXTIo"
@@ -2579,7 +2619,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 237411,
             "name": "Come Alive",
             "url": "https://open.spotify.com/track/7cSgDrUh6ZAv25JgOPlyOB"
@@ -2920,6 +2960,24 @@
         },
         {
             "album": {
+                "name": "Come To The Well",
+                "url": "https://open.spotify.com/album/6PU9khplTO06aCcMBkoGze"
+            },
+            "artists": [
+                {
+                    "name": "Casting Crowns",
+                    "url": "https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 239973,
+            "name": "Courageous",
+            "url": "https://open.spotify.com/track/28Bao9cmaIMsqxragOM8ba"
+        },
+        {
+            "album": {
                 "name": "Better View, Part II",
                 "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
             },
@@ -2949,7 +3007,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 220346,
             "name": "Crazy Love",
             "url": "https://open.spotify.com/track/2h0hbhCNWT85B4XHyJQiM0"
@@ -2989,6 +3047,28 @@
             "duration_ms": 423173,
             "name": "Creo En Ti",
             "url": "https://open.spotify.com/track/1ZdBf0NZR4oi7Gtxyy4E9Q"
+        },
+        {
+            "album": {
+                "name": "The Compilation Album",
+                "url": "https://open.spotify.com/album/4NBkzcOtJFvNnA7ybytAmZ"
+            },
+            "artists": [
+                {
+                    "name": "116",
+                    "url": "https://open.spotify.com/artist/7tTsvTUJ7lXBezazP5jU72"
+                },
+                {
+                    "name": "Lecrae",
+                    "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 211360,
+            "name": "Crossover",
+            "url": "https://open.spotify.com/track/3VbQDOZUbchyd3FFOsaQIE"
         },
         {
             "album": {
@@ -3257,7 +3337,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 218533,
             "name": "Desert Road",
             "url": "https://open.spotify.com/track/5fomExVZhfTmfwPQCBG5GQ"
@@ -3315,7 +3395,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 231946,
             "name": "Divine Intervention",
             "url": "https://open.spotify.com/track/2Qm8jNBiYFVgMNgUgI1OlX"
@@ -3395,6 +3475,24 @@
             "duration_ms": 183383,
             "name": "Don't Feel Like Fighting",
             "url": "https://open.spotify.com/track/5cex5w6GN9h7sC9GFtAip6"
+        },
+        {
+            "album": {
+                "name": "Teach Me To Love",
+                "url": "https://open.spotify.com/album/0lDP0hfIchWnWpxTEQSQ4w"
+            },
+            "artists": [
+                {
+                    "name": "Calling Glory",
+                    "url": "https://open.spotify.com/artist/77Ide50jAEqgy2kRn2Nmc0"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 234365,
+            "name": "Don't Give Up",
+            "url": "https://open.spotify.com/track/0WmgWK0iVhKU7fowBAzwIG"
         },
         {
             "album": {
@@ -3661,7 +3759,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-24",
+            "date_removed": null,
             "duration_ms": 213640,
             "name": "Entitlement",
             "url": "https://open.spotify.com/track/0qYkwwwNUroQBGPhpBCRLO"
@@ -3853,7 +3951,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 224270,
             "name": "Faith (Fe) [feat. Evan Craft]",
             "url": "https://open.spotify.com/track/3o84UCxrGt0MJ57IHDEzZc"
@@ -4243,7 +4341,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 310062,
             "name": "Flowin' (feat. J'son & Eshon Burgundy)",
             "url": "https://open.spotify.com/track/7zmUJZKmgNoCFYQZw4ccg0"
@@ -4301,7 +4399,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 196846,
             "name": "For God Is With Us",
             "url": "https://open.spotify.com/track/0CQPPHjPpG4kAzvfOcKvh8"
@@ -4323,7 +4421,7 @@
             ],
             "date_added": "2022-07-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 199085,
             "name": "For God Is With Us (with Hillary Scott)",
             "url": "https://open.spotify.com/track/3oEUEyCzKwaBHBvzsJaiGJ"
@@ -4399,7 +4497,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 254013,
             "name": "Forgiveness",
             "url": "https://open.spotify.com/track/4u9iYaJyx92KzhK6rAFlSu"
@@ -4439,7 +4537,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 200133,
             "name": "Free",
             "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
@@ -4479,7 +4577,7 @@
             ],
             "date_added": "2022-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 154385,
             "name": "Freedom Is Coming - Reimagined",
             "url": "https://open.spotify.com/track/3b8ovywNFzaiVpifmivkmU"
@@ -4509,6 +4607,24 @@
             "duration_ms": 273183,
             "name": "Fresh Wind - Studio",
             "url": "https://open.spotify.com/track/2ulryRFKdoQxTjCOWrheGl"
+        },
+        {
+            "album": {
+                "name": "Take Everything",
+                "url": "https://open.spotify.com/album/2WvcjekSHRRT2osdMBLXL1"
+            },
+            "artists": [
+                {
+                    "name": "Seventh Day Slumber",
+                    "url": "https://open.spotify.com/artist/6kFLnclYFc3gzpNt13wim5"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 242480,
+            "name": "From The Inside Out",
+            "url": "https://open.spotify.com/track/2uuypjgKjH1un23bwHJpmB"
         },
         {
             "album": {
@@ -4613,7 +4729,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 219444,
             "name": "Getting Started - Radio Version",
             "url": "https://open.spotify.com/track/2xGV4GoWiq6CGjyz71H1jl"
@@ -4631,7 +4747,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 276440,
             "name": "Gimme Dat!",
             "url": "https://open.spotify.com/track/7HIkQrTk0fvBvjahLTZtjB"
@@ -4783,7 +4899,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 229760,
             "name": "God Only Knows",
             "url": "https://open.spotify.com/track/4ElNxglBjcrASiGn58t9Jm"
@@ -5099,7 +5215,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 252346,
             "name": "Gotta Know",
             "url": "https://open.spotify.com/track/3p7QopGgPHRl5eogWyCqAB"
@@ -5179,7 +5295,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 222732,
             "name": "Gravity",
             "url": "https://open.spotify.com/track/1GUkwPVMyN9ryj7m2Q0TBB"
@@ -5317,7 +5433,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 177920,
             "name": "Headspace",
             "url": "https://open.spotify.com/track/40eIrKcUvepNmdenanC0Hl"
@@ -5462,6 +5578,24 @@
         },
         {
             "album": {
+                "name": "Never Odd or Even",
+                "url": "https://open.spotify.com/album/67NySlcWXT3FTTF7xZX0dN"
+            },
+            "artists": [
+                {
+                    "name": "Shonlock",
+                    "url": "https://open.spotify.com/artist/0Fs18mA7TFMvYVRNX4dNTt"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 205400,
+            "name": "Hello",
+            "url": "https://open.spotify.com/track/1jvTVPxutW9VwqQgfLOqdq"
+        },
+        {
+            "album": {
                 "name": "Hello Unknown",
                 "url": "https://open.spotify.com/album/0l8i7Va6G5yoQQsQFxn7xy"
             },
@@ -5491,7 +5625,7 @@
             ],
             "date_added": "2022-06-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 173565,
             "name": "Help Is on the Way",
             "url": "https://open.spotify.com/track/0atXjxvXpkQSDuPFeyFXqz"
@@ -5585,7 +5719,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 369906,
             "name": "Hero",
             "url": "https://open.spotify.com/track/36kJ9xuQzZqXKSyYNcLtLV"
@@ -6034,6 +6168,24 @@
         },
         {
             "album": {
+                "name": "How Great Is Our God: The Essential Collection",
+                "url": "https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu"
+            },
+            "artists": [
+                {
+                    "name": "Chris Tomlin",
+                    "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 365134,
+            "name": "How Great Is Our God - World Edition",
+            "url": "https://open.spotify.com/track/3Lca29U4AaObrsNauGFhgK"
+        },
+        {
+            "album": {
                 "name": "Church Music",
                 "url": "https://open.spotify.com/album/69UXabkBHbKMJ0DQjctXtK"
             },
@@ -6067,7 +6219,7 @@
             ],
             "date_added": "2022-09-29",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 231000,
             "name": "How We Do It (feat. Lecrae)",
             "url": "https://open.spotify.com/track/0RBhnaHXH7a1YLbXMpYMCw"
@@ -6273,7 +6425,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 229119,
             "name": "I Believe It Now (Single Version)",
             "url": "https://open.spotify.com/track/6kc0XFXTEaBWCEXZnQPFIc"
@@ -6775,7 +6927,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 167403,
             "name": "I'll Fight for You",
             "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
@@ -6851,7 +7003,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-26",
+            "date_removed": null,
             "duration_ms": 265453,
             "name": "I'm Good",
             "url": "https://open.spotify.com/track/4ByUWgIohW1KYoGfUNAcum"
@@ -6923,7 +7075,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 210510,
             "name": "I'm Still Breathing",
             "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
@@ -6945,7 +7097,7 @@
             ],
             "date_added": "2022-09-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 219307,
             "name": "If I Die Tonight",
             "url": "https://open.spotify.com/track/1f05Qj94S17VYQjtYzvI9W"
@@ -7133,7 +7285,7 @@
             ],
             "date_added": "2022-09-27",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 254506,
             "name": "Instruments of Mercy",
             "url": "https://open.spotify.com/track/6r71E5J8wljny6FY1gwUrK"
@@ -7263,7 +7415,7 @@
             ],
             "date_added": "2022-06-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 241946,
             "name": "It's Always Been You",
             "url": "https://open.spotify.com/track/5Tc2hNyood20vuKm89NeCf"
@@ -7433,7 +7585,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 213853,
             "name": "Jesus Is Coming Back",
             "url": "https://open.spotify.com/track/7Dxh2X3k565qoBEnNyqZoa"
@@ -7579,7 +7731,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 233946,
             "name": "joy.",
             "url": "https://open.spotify.com/track/0vBjd0I8iefycEZ2ex1Zpi"
@@ -7815,7 +7967,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 207174,
             "name": "Keep On Hoping",
             "url": "https://open.spotify.com/track/4gRtiMPzay0QWiktPAUSX1"
@@ -8109,7 +8261,7 @@
             ],
             "date_added": "2022-09-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 314293,
             "name": "Leaving Eden",
             "url": "https://open.spotify.com/track/3oPN3Eh40OewkU68uLUhnR"
@@ -8185,7 +8337,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 204173,
             "name": "Let The Light In",
             "url": "https://open.spotify.com/track/4CPJQmuCA7iyMEdefWhfl6"
@@ -8225,7 +8377,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 247445,
             "name": "Let There Be Light",
             "url": "https://open.spotify.com/track/4IcxdwtOkNfze1Sgr6DhMT"
@@ -8863,7 +9015,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 205426,
             "name": "Lovely",
             "url": "https://open.spotify.com/track/1kitWvPQ2PpAIYXvqCkgZj"
@@ -8921,7 +9073,7 @@
             ],
             "date_added": "2022-09-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 277106,
             "name": "Lucky Ones",
             "url": "https://open.spotify.com/track/6I6FjSdFyV1PqDBCq7VFYk"
@@ -9115,7 +9267,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 207197,
             "name": "Man up Anthem",
             "url": "https://open.spotify.com/track/4HSyxvkoA2MKKVh13ruWLI"
@@ -9297,7 +9449,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 235666,
             "name": "Mighty To Save - Family Force 5 Remix",
             "url": "https://open.spotify.com/track/2FrXpFwxc98gUQZMOdJq7c"
@@ -12298,6 +12450,32 @@
         },
         {
             "album": {
+                "name": "Lions and Liars",
+                "url": "https://open.spotify.com/album/4B7PDu1JK0rIOYsylICHyX"
+            },
+            "artists": [
+                {
+                    "name": "Sho Baraka",
+                    "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+                },
+                {
+                    "name": "Lecrae",
+                    "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+                },
+                {
+                    "name": "After Edmund",
+                    "url": "https://open.spotify.com/artist/2McwkTZTIHPoqxBr2Sqajd"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 213853,
+            "name": "Shut Us Down",
+            "url": "https://open.spotify.com/track/4Ub4d6k3cUubwFIAypBe8v"
+        },
+        {
+            "album": {
                 "name": "What Are We Waiting For?",
                 "url": "https://open.spotify.com/album/6h95CVsuRQt0SHA0MtjpWW"
             },
@@ -13234,6 +13412,28 @@
         },
         {
             "album": {
+                "name": "Burning Lights",
+                "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
+            },
+            "artists": [
+                {
+                    "name": "Chris Tomlin",
+                    "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+                },
+                {
+                    "name": "Phil Wickham",
+                    "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 266226,
+            "name": "Thank You God For Saving Me",
+            "url": "https://open.spotify.com/track/4IyGOzZb2AsGNI9C7SHFPy"
+        },
+        {
+            "album": {
                 "name": "Chris Tomlin & Friends",
                 "url": "https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP"
             },
@@ -13315,7 +13515,7 @@
             ],
             "date_added": "2022-09-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-30",
+            "date_removed": null,
             "duration_ms": 222920,
             "name": "The Comeback Kid",
             "url": "https://open.spotify.com/track/5giQsPrpHmvSt2lPuJYpcf"
@@ -13453,7 +13653,7 @@
             ],
             "date_added": "2022-09-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 225240,
             "name": "The Goodness (feat. Blessing Offor)",
             "url": "https://open.spotify.com/track/4xOo4DFiTSSfefD63Ya6UK"
@@ -13551,6 +13751,24 @@
             "duration_ms": 242306,
             "name": "The Power of the Cross",
             "url": "https://open.spotify.com/track/4B8RK4DDqNSch0gn9g0Dl4"
+        },
+        {
+            "album": {
+                "name": "The Proof of Your Love (The Monologue Mix)",
+                "url": "https://open.spotify.com/album/2SupNsaoKE8ggfXLeuAHA9"
+            },
+            "artists": [
+                {
+                    "name": "for KING & COUNTRY",
+                    "url": "https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 221357,
+            "name": "The Proof of Your Love - The Monologue Mix",
+            "url": "https://open.spotify.com/track/3b1TedXKn9m9dUl07s1vxF"
         },
         {
             "album": {
@@ -13786,6 +14004,28 @@
         },
         {
             "album": {
+                "name": "Breakthrough (Music From & Inspired By The Motion Picture)",
+                "url": "https://open.spotify.com/album/2e6XpPJpzqrhcsWFVG7ETI"
+            },
+            "artists": [
+                {
+                    "name": "Phil Wickham",
+                    "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+                },
+                {
+                    "name": "Lecrae",
+                    "url": "https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 157066,
+            "name": "This Is Amazing Grace - Breakthrough Mix",
+            "url": "https://open.spotify.com/track/0AMzOlSgwUfPNa57WBby2K"
+        },
+        {
+            "album": {
                 "name": "This Is Living",
                 "url": "https://open.spotify.com/album/7h7W5MDYWmSYGSAag53umc"
             },
@@ -13801,7 +14041,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-28",
+            "date_removed": null,
             "duration_ms": 210480,
             "name": "This Is Living",
             "url": "https://open.spotify.com/track/6TCk1yecQRDU5sXG3vjTYj"
@@ -13881,6 +14121,24 @@
             "duration_ms": 224693,
             "name": "Tightrope",
             "url": "https://open.spotify.com/track/7wm3bz9MXLezlv0Gj5Xoxc"
+        },
+        {
+            "album": {
+                "name": "Over And Underneath",
+                "url": "https://open.spotify.com/album/6owfUdoDWVCB7S00NDKPKM"
+            },
+            "artists": [
+                {
+                    "name": "Tenth Avenue North",
+                    "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 256693,
+            "name": "Times",
+            "url": "https://open.spotify.com/track/2xrO334KeHfC3ziiJpuU1a"
         },
         {
             "album": {
@@ -14009,7 +14267,7 @@
             ],
             "date_added": "2022-06-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 157014,
             "name": "TOGETHER (R3HAB Remix) [feat. Kirk Franklin & Tori Kelly]",
             "url": "https://open.spotify.com/track/2zTPQYsXHHZcSs3TUMjM2I"
@@ -14107,7 +14365,7 @@
             ],
             "date_added": "2022-09-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-01",
             "duration_ms": 178373,
             "name": "Trust You (feat. Julianna Zobrist)",
             "url": "https://open.spotify.com/track/4Nr23JsVAuExJmNGkHN00F"
@@ -14403,7 +14661,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-29",
+            "date_removed": null,
             "duration_ms": 256320,
             "name": "Unstoppable (feat. T Haddy & Bizzle)",
             "url": "https://open.spotify.com/track/07do9vna7C0FA6fMkZK1yA"
@@ -14931,6 +15189,28 @@
             "duration_ms": 233586,
             "name": "We All Need Jesus",
             "url": "https://open.spotify.com/track/62tKqnRQCf4qHAVHtGt3CY"
+        },
+        {
+            "album": {
+                "name": "We Cry Out (Live)",
+                "url": "https://open.spotify.com/album/2oX39zQNTTWA4zxVMuebh1"
+            },
+            "artists": [
+                {
+                    "name": "Jesus Culture",
+                    "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+                },
+                {
+                    "name": "Kim Walker-Smith",
+                    "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 373386,
+            "name": "We Cry Out - Live",
+            "url": "https://open.spotify.com/track/50njrxTVfwLSMAScpu0hmU"
         },
         {
             "album": {
@@ -15656,6 +15936,24 @@
         },
         {
             "album": {
+                "name": "The Struggle",
+                "url": "https://open.spotify.com/album/3TunW3H9Be9xvvR9Ip7a0L"
+            },
+            "artists": [
+                {
+                    "name": "Tenth Avenue North",
+                    "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 244120,
+            "name": "Worn",
+            "url": "https://open.spotify.com/track/6jAAYLKxXPyeEoddXu6Gf7"
+        },
+        {
+            "album": {
                 "name": "Worry",
                 "url": "https://open.spotify.com/album/43ojYDCvq2qfmzx82dU6R9"
             },
@@ -15743,6 +16041,24 @@
             "duration_ms": 238613,
             "name": "Wounds",
             "url": "https://open.spotify.com/track/1YidleCiCJNtzDUMG5LIrs"
+        },
+        {
+            "album": {
+                "name": "Battle Cry: Worship From the Frontlines",
+                "url": "https://open.spotify.com/album/3GuvJQVzR5iotFoQN7DPjQ"
+            },
+            "artists": [
+                {
+                    "name": "Michael Gungor",
+                    "url": "https://open.spotify.com/artist/636Yuw9EBCEsZDAyWJibEJ"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 360080,
+            "name": "Wrap Me In Your Arms",
+            "url": "https://open.spotify.com/track/7HmiYpBstWVaMyB7Mc8JaT"
         },
         {
             "album": {
@@ -16097,7 +16413,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-25",
+            "date_removed": null,
             "duration_ms": 249413,
             "name": "You Will",
             "url": "https://open.spotify.com/track/0n4LOdaoFhFeM3Lxm9AUbn"
@@ -16123,6 +16439,24 @@
             "duration_ms": 261519,
             "name": "You're Gonna Be Ok",
             "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
+        },
+        {
+            "album": {
+                "name": "Leaving Eden",
+                "url": "https://open.spotify.com/album/6LVll9TMx884kBnA9AcMtZ"
+            },
+            "artists": [
+                {
+                    "name": "Brandon Heath",
+                    "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+                }
+            ],
+            "date_added": "2022-10-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 215720,
+            "name": "Your Love",
+            "url": "https://open.spotify.com/track/56ZNyOHknU78LEwq4IWMJ7"
         }
     ],
     "url": "https://open.spotify.com/playlist/37i9dQZF1EQqZgBURAEzWH"
