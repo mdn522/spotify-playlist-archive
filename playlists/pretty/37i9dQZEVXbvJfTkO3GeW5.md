@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 33 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 27 | [Cada vez que Despiertes](https://open.spotify.com/track/5onHRWSOnHnPjpuOH7FAfn) | [Osmani Garcia "La Voz"](https://open.spotify.com/artist/37G8DfNgO4mQ3PKh5droSo), [Nayer](https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO) | [Cada vez que Despiertes](https://open.spotify.com/album/4zJ6b0KCjtM1G3IkcV5YyI) | 3:22 |
 | 28 | [Only 1](https://open.spotify.com/track/7M005E4SYsQUk5VTtsSUrn) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Only 1](https://open.spotify.com/album/7oPlJM8LZhJoDl3F85EPLL) | 3:07 |
 | 29 | [Viata are culoare](https://open.spotify.com/track/3FK4eNAKWsBvFc6ys1otWi) | [Cleopatra Stratan](https://open.spotify.com/artist/0Ejsh870ekvlkgnaQkadAG), [Andra Gogan](https://open.spotify.com/artist/3ztjwIdqUA9afRUAP246y6), [Ana Are](https://open.spotify.com/artist/13PWGY1eAiqZgKPkEd0nXu), [Maia Mălăncuș](https://open.spotify.com/artist/1eWX16Gl2i63vOyqfvUIFw) | [Viata are culoare](https://open.spotify.com/album/5tgKP5syPiNnvm6y6uWuhd) | 2:32 |
-| 30 | [Animal](https://open.spotify.com/track/5PywXLdPc8b5QdbO0tdC4m) | [Station Little](https://open.spotify.com/artist/26H7oKMgo1SMkFiQuAOohV), [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl), [RaVaughn](https://open.spotify.com/artist/3JdYPiv1crdgsbgsryxQu6) | [Animal](https://open.spotify.com/album/10BMTolquLHKA0jtigsnMF) | 3:04 |
-| 31 | [Cade](https://open.spotify.com/track/7p16fI5M6V6MilEENdRmle) | [Reea](https://open.spotify.com/artist/44hpSSInMPfG4vk0MIVOC9), [Florin Talent](https://open.spotify.com/artist/69tmUlxW5RuK02ps8Y0X32) | [Cade](https://open.spotify.com/album/5GUvSLFChiqu8OTzEr92E8) | 2:54 |
-| 32 | [Ek Nazar Dekh Lo Mere Khwaja](https://open.spotify.com/track/0q0PXMzE0E4WJsIEcSI1wa) | [Iqbal Afzal Sabri](https://open.spotify.com/artist/1Z9s4Rbxi6QCl0uyLy7iaM), [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Ek Nazar Dekh Lo Mere Khwaja \(Hindi\)](https://open.spotify.com/album/6vvr8vy7CSANiU1SnAF4O0) | 7:51 |
-| 33 | [All That Really Matters \- Crystal Skies Remix](https://open.spotify.com/track/2K2PkhEA8wVp162OQEZrOb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK) | [All That Really Matters \(Remixes\)](https://open.spotify.com/album/37JX4Ei0qs624Og5HIDytL) | 4:32 |
+| 30 | [Ek Nazar Dekh Lo Mere Khwaja](https://open.spotify.com/track/0q0PXMzE0E4WJsIEcSI1wa) | [Iqbal Afzal Sabri](https://open.spotify.com/artist/1Z9s4Rbxi6QCl0uyLy7iaM), [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Ek Nazar Dekh Lo Mere Khwaja \(Hindi\)](https://open.spotify.com/album/6vvr8vy7CSANiU1SnAF4O0) | 7:51 |
 
-Snapshot ID: `Mjc3NDEyNDAsMDAwMDAwMDBjOTM0NTRkZjFmNTgyYTMxOTM2NWQwYTFhZjQ2NDZlYg==`
+Snapshot ID: `Mjc3NDEyNDAsMDAwMDAwMDBiMzA0YjkxZWQ5OTI0ZDE5YzY4ZjRjZTU1MmI3MDhiMA==`
