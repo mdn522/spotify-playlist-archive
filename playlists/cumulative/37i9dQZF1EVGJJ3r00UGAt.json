@@ -1,9 +1,27 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIZddIPBg1BXG>Sofia Lafuente</a>, <a href=spotify:playlist:37i9dQZF1EIVVbjbXamkhO>Jessica Andrea</a>, <a href=spotify:playlist:37i9dQZF1EIXq62fS6ynRI>Ben Hazlewood</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>Kellan and Kevin</a>, <a href=spotify:playlist:37i9dQZF1EIVgwzgZAxzsi>Rawle</a>, <a href=spotify:playlist:37i9dQZF1EIXq62fS6ynRI>Ben Hazlewood</a> and more",
     "name": "Romantic Mix",
     "published_playlist_ids": [],
     "tracks": [
+        {
+            "album": {
+                "name": "Spice",
+                "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+            },
+            "artists": [
+                {
+                    "name": "Spice Girls",
+                    "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 241026,
+            "name": "2 Become 1",
+            "url": "https://open.spotify.com/track/36AWdhZIGLUTkWpJDhe7va"
+        },
         {
             "album": {
                 "name": "2:30",
@@ -135,7 +153,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 163500,
             "name": "Aafat (Telugu) [From \"Liger (Telugu)\"]",
             "url": "https://open.spotify.com/track/21aHbmzbIE9hXry26mwKDt"
@@ -455,7 +473,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 272000,
             "name": "Adiye - From \"Bachelor\"",
             "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
@@ -867,7 +885,7 @@
             ],
             "date_added": "2022-08-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 189250,
             "name": "Another Day",
             "url": "https://open.spotify.com/track/1s6hnnmUZtMFTHO0gJvcNZ"
@@ -911,7 +929,7 @@
             ],
             "date_added": "2022-08-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 231308,
             "name": "Anyone",
             "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
@@ -2190,6 +2208,24 @@
         },
         {
             "album": {
+                "name": "Coco",
+                "url": "https://open.spotify.com/album/7a8mrq83VEf0PoFh6pvtsb"
+            },
+            "artists": [
+                {
+                    "name": "Colbie Caillat",
+                    "url": "https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 196226,
+            "name": "Bubbly",
+            "url": "https://open.spotify.com/track/1lkvpmrCaXK8QtliFDcHBO"
+        },
+        {
+            "album": {
                 "name": "Buhe Bariyan",
                 "url": "https://open.spotify.com/album/50MHfytKPljf732R1f6dw0"
             },
@@ -3235,7 +3271,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 225116,
             "name": "Darshana",
             "url": "https://open.spotify.com/track/4vWcMkEsnEeolYB5kUmr9Q"
@@ -3579,7 +3615,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-01",
+            "date_removed": null,
             "duration_ms": 231486,
             "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
             "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -4701,10 +4737,32 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 245453,
             "name": "For You (Fifty Shades Freed) (& Rita Ora)",
             "url": "https://open.spotify.com/track/66xn6tB8s3l8uhj02OGneE"
+        },
+        {
+            "album": {
+                "name": "LP1",
+                "url": "https://open.spotify.com/album/5pbvTLpIZB3XWRuUS9ZxHm"
+            },
+            "artists": [
+                {
+                    "name": "Liam Payne",
+                    "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+                },
+                {
+                    "name": "Rita Ora",
+                    "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 242827,
+            "name": "For You (With Rita Ora)",
+            "url": "https://open.spotify.com/track/5rlMVKnvE6ZSzNCs8ZyHqU"
         },
         {
             "album": {
@@ -4917,7 +4975,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 257588,
             "name": "Genesis",
             "url": "https://open.spotify.com/track/78Zrw04OLrewXEMNNfbmTn"
@@ -5137,7 +5195,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 185250,
             "name": "Goldrush",
             "url": "https://open.spotify.com/track/3bPRt9c4FJOm4riTGOTBnN"
@@ -5159,6 +5217,24 @@
             "duration_ms": 188680,
             "name": "Good Graces",
             "url": "https://open.spotify.com/track/5ozogAq7SyCuqiW0JqO1am"
+        },
+        {
+            "album": {
+                "name": "Somebody Else",
+                "url": "https://open.spotify.com/album/5S3mCKtrPmVdIeiLGKLGzT"
+            },
+            "artists": [
+                {
+                    "name": "Ruelle",
+                    "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 191435,
+            "name": "Good Thing",
+            "url": "https://open.spotify.com/track/1k1mZ9B1CzAMEIEp6uUk5p"
         },
         {
             "album": {
@@ -5265,7 +5341,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 217175,
             "name": "Haaniya Ve (From \"Thank God\")",
             "url": "https://open.spotify.com/track/2NDLUTwapq7FDdkTOhxR8c"
@@ -5375,7 +5451,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 219426,
             "name": "Hands",
             "url": "https://open.spotify.com/track/2RXj2z32ZdDuuTTDApcbCs"
@@ -5565,7 +5641,7 @@
             ],
             "date_added": "2022-06-14",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-15",
+            "date_removed": null,
             "duration_ms": 191813,
             "name": "Heaven",
             "url": "https://open.spotify.com/track/3cysp2UU6xmV61ZlnQsa8s"
@@ -6091,7 +6167,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 247160,
             "name": "I Don’t Wanna Live Forever (Fifty Shades Darker)",
             "url": "https://open.spotify.com/track/55n9yjI6qqXh5F2mYvUc2y"
@@ -6109,7 +6185,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 180266,
             "name": "I F*cking Love You",
             "url": "https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5"
@@ -6171,7 +6247,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 239362,
             "name": "I Get to Love You",
             "url": "https://open.spotify.com/track/3CV4lFELdziNM1OnHU8nwz"
@@ -6197,6 +6273,24 @@
             "duration_ms": 227368,
             "name": "I Got You",
             "url": "https://open.spotify.com/track/5yCgrmdxO8rIHgoOOyGp2D"
+        },
+        {
+            "album": {
+                "name": "I Look To You",
+                "url": "https://open.spotify.com/album/1MwwtYFk7ow6Bn0S98VW0A"
+            },
+            "artists": [
+                {
+                    "name": "Whitney Houston",
+                    "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 265613,
+            "name": "I Look to You",
+            "url": "https://open.spotify.com/track/1rAESNsSXvXpJh9hCjgHVX"
         },
         {
             "album": {
@@ -6549,7 +6643,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 253110,
             "name": "In Flames",
             "url": "https://open.spotify.com/track/2VrANCn1fhtflBXTdPmIxl"
@@ -7129,6 +7223,24 @@
             "duration_ms": 196179,
             "name": "Je serai là",
             "url": "https://open.spotify.com/track/0cPsUSupo85xOLSO5o6wLw"
+        },
+        {
+            "album": {
+                "name": "Jealousy",
+                "url": "https://open.spotify.com/album/4AvpFaGqToYSPQU3XNzxrH"
+            },
+            "artists": [
+                {
+                    "name": "Jacob Lee",
+                    "url": "https://open.spotify.com/artist/4xPR9p75zzDlisJvvhEYl2"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 186873,
+            "name": "Jealousy",
+            "url": "https://open.spotify.com/track/2oJ58zpMsxJnA023Tu0eIm"
         },
         {
             "album": {
@@ -8311,7 +8423,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 161490,
             "name": "La La La",
             "url": "https://open.spotify.com/track/6dMm31vV30QYSLwpcTPznv"
@@ -8917,7 +9029,7 @@
             ],
             "date_added": "2022-06-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-22",
+            "date_removed": null,
             "duration_ms": 253520,
             "name": "Love Me Like You Do",
             "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
@@ -9987,7 +10099,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 246805,
             "name": "Mera Banega Tu",
             "url": "https://open.spotify.com/track/3HjMAWTLyUM4irdbsudw26"
@@ -11267,7 +11379,7 @@
             ],
             "date_added": "2022-08-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 192636,
             "name": "On My Way (Marry Me)",
             "url": "https://open.spotify.com/track/6a4QPI8CcXctTjAH9lkjTA"
@@ -11537,7 +11649,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-01",
+            "date_removed": null,
             "duration_ms": 247286,
             "name": "Pal",
             "url": "https://open.spotify.com/track/5G7pZ8G8NFvS1MQ9H4L7dC"
@@ -11875,6 +11987,24 @@
             "duration_ms": 243428,
             "name": "Perfect Song - From Royalties",
             "url": "https://open.spotify.com/track/2zQATu45bshBV89wMJS6Ch"
+        },
+        {
+            "album": {
+                "name": "Mi Reflejo",
+                "url": "https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK"
+            },
+            "artists": [
+                {
+                    "name": "Christina Aguilera",
+                    "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 265733,
+            "name": "Pero Me Acuerdo de Tí",
+            "url": "https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB"
         },
         {
             "album": {
@@ -12473,7 +12603,7 @@
             ],
             "date_added": "2022-05-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 230292,
             "name": "Raataan Lambiyan (From \"Shershaah\")",
             "url": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY"
@@ -12593,7 +12723,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-26",
+            "date_removed": null,
             "duration_ms": 291462,
             "name": "Rait Zara Si",
             "url": "https://open.spotify.com/track/3gOXq3FPPesm7VLPKmef6j"
@@ -12689,7 +12819,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-21",
+            "date_removed": null,
             "duration_ms": 228855,
             "name": "Ranjha (From \"Shershaah\")",
             "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -13551,7 +13681,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 230875,
             "name": "Shiddat Title Track (From \"Shiddat\")",
             "url": "https://open.spotify.com/track/6CTN8S2qzPwZdwwp0Nugvy"
@@ -13675,7 +13805,7 @@
             ],
             "date_added": "2022-09-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 177750,
             "name": "skinny dipping",
             "url": "https://open.spotify.com/track/1ZvbLYAXwvMfaPtN65QF2D"
@@ -13807,7 +13937,7 @@
             ],
             "date_added": "2022-09-26",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-27",
+            "date_removed": null,
             "duration_ms": 193218,
             "name": "Somebody Else",
             "url": "https://open.spotify.com/track/4eaW9mt8VdDWqtC9CRUhLm"
@@ -13847,6 +13977,24 @@
             "duration_ms": 219428,
             "name": "Something to Do with Love",
             "url": "https://open.spotify.com/track/4rmys6fQGJXEA0f6mXl2jd"
+        },
+        {
+            "album": {
+                "name": "Somewhere Over the Rainbow",
+                "url": "https://open.spotify.com/album/1zfRNZtdrop6JLGqiCnZMp"
+            },
+            "artists": [
+                {
+                    "name": "Bella Goldwin",
+                    "url": "https://open.spotify.com/artist/1iGopxKoGRFIEyBfdncWzJ"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 131500,
+            "name": "Somewhere Over the Rainbow",
+            "url": "https://open.spotify.com/track/3D33ogoFVsWJGFLViEScyE"
         },
         {
             "album": {
@@ -14331,7 +14479,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 180117,
             "name": "Take My Breath Away",
             "url": "https://open.spotify.com/track/7jolSfE1rnsBLg0DMWuTkm"
@@ -14779,7 +14927,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-21",
+            "date_removed": null,
             "duration_ms": 206089,
             "name": "Tere Siva Jag Mein",
             "url": "https://open.spotify.com/track/2o00edfZxmZ1v8NzwKB8rA"
@@ -14883,7 +15031,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 293813,
             "name": "Teri Galliyon Se",
             "url": "https://open.spotify.com/track/7fuBxwRsCzWP6wwJyRWiGK"
@@ -15093,6 +15241,24 @@
             "duration_ms": 198500,
             "name": "The Universe Is a Bitch",
             "url": "https://open.spotify.com/track/5I17BGdzyVLnWQi5dZ770s"
+        },
+        {
+            "album": {
+                "name": "Stripped",
+                "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
+            },
+            "artists": [
+                {
+                    "name": "Christina Aguilera",
+                    "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 304013,
+            "name": "The Voice Within",
+            "url": "https://open.spotify.com/track/42JgHvkBiAc5ivo0gvVRvQ"
         },
         {
             "album": {
@@ -15478,6 +15644,24 @@
         },
         {
             "album": {
+                "name": "Folklore",
+                "url": "https://open.spotify.com/album/0n5YYYnL8cjKL2E7fmu1lu"
+            },
+            "artists": [
+                {
+                    "name": "Nelly Furtado",
+                    "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+                }
+            ],
+            "date_added": "2022-10-03",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 278386,
+            "name": "Try",
+            "url": "https://open.spotify.com/track/1kS9d4x0ftbfq65eaBGSCT"
+        },
+        {
+            "album": {
                 "name": "Tsunami",
                 "url": "https://open.spotify.com/album/315jQJoWdXKhrwzQpCm4nb"
             },
@@ -15701,7 +15885,7 @@
             ],
             "date_added": "2022-08-12",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-14",
+            "date_removed": null,
             "duration_ms": 234265,
             "name": "Tu Meri Zindagi-Adayein (From \"T-Series Mixtape Rewind Season 3\")",
             "url": "https://open.spotify.com/track/7oWc4z1CHhndaaMGpuIuqX"
@@ -16135,7 +16319,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-23",
+            "date_removed": null,
             "duration_ms": 319100,
             "name": "Tumse Bhi Zyada",
             "url": "https://open.spotify.com/track/4tyofCkaLLqvRmM84M6CB5"
@@ -16935,7 +17119,7 @@
             ],
             "date_added": "2022-07-12",
             "date_added_asterisk": false,
-            "date_removed": "2022-09-20",
+            "date_removed": null,
             "duration_ms": 220433,
             "name": "Wildest Dreams (Taylor's Version)",
             "url": "https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL"
@@ -17157,7 +17341,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-10-03",
             "duration_ms": 194477,
             "name": "You",
             "url": "https://open.spotify.com/track/52INmBPUsLUQ6to3WnGWUm"
