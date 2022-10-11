@@ -2,7 +2,7 @@
 
 ### [Daily Mix 6](https://open.spotify.com/playlist/37i9dQZF1E37DfB9BO9G7y)
 
-> Ramin Djawadi, Iván Torrent, Audiomachine and more
+> Two Steps from Hell, Audiomachine, Iván Torrent and more
 
 3,096 songs - 7 day 3 hr 11 min - not published yet
 
@@ -62,7 +62,7 @@
 | [Acid Test](https://open.spotify.com/track/0wLlDzUhekvoo36YNqmdHP) | [Clay C](https://open.spotify.com/artist/5CAZEANnkwKsMGajbP5kOw) | [Acid Test](https://open.spotify.com/album/3QKKWhrMcttMJZbEjBgSzV) | 3:51 | 2022-07-26 | 2022-09-04 |
 | [Across The Sea](https://open.spotify.com/track/3QHkAtIHnbHWMgqHGldw0y) | [Acn8](https://open.spotify.com/artist/2IbncNoCxJ50juRLTJdI6D) | [Across The Sea](https://open.spotify.com/album/5oesV7C2iLmWvyMvv6v75D) | 2:38 | 2022-08-23 | 2022-08-24 |
 | [Across the Sky](https://open.spotify.com/track/1CwCg8SmaSmquwSCyCIjPX) | [Solar Vision](https://open.spotify.com/artist/4wd6bczppl4mNXPyhg0HT4) | [Across the Sky](https://open.spotify.com/album/5VN64q8Bxq4b5Pugxs6A2b) | 2:58 | 2022-06-06 | 2022-07-17 |
-| [Adaline Bowman](https://open.spotify.com/track/1egbZl7XMR97TDrFqGESX1) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Age of Adaline \(Original Motion Picture Score\)](https://open.spotify.com/album/1qqSMbmBj0NqFUlyqed44o) | 1:51 | 2022-10-07 | 2022-10-08 |
+| [Adaline Bowman](https://open.spotify.com/track/1egbZl7XMR97TDrFqGESX1) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Age of Adaline \(Original Motion Picture Score\)](https://open.spotify.com/album/1qqSMbmBj0NqFUlyqed44o) | 1:51 | 2022-10-07 |  |
 | [Adelante \- Y3mr$ Remix](https://open.spotify.com/track/3S9LtJtsRPFkaNyr4cR0lL) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Y3MR$](https://open.spotify.com/artist/5LjUJsKAOlXSyGfpblbMvD) | [Megamix \(Remixes\)](https://open.spotify.com/album/2aFvCHRHH864aIEF6blxm9) | 3:09 | 2022-09-07 | 2022-10-02 |
 | [Adio](https://open.spotify.com/track/0X3oMtr68q17fRd3lTzNTY) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Adio](https://open.spotify.com/album/1BClDS8MiaP4XykTCbqbRs) | 4:18 | 2022-10-03 | 2022-10-07 |
 | [Adolescence \(Original Mix\)](https://open.spotify.com/track/3q8tG3PEvU3w1Q95Vvkriq) | [Kita\-Kei](https://open.spotify.com/artist/1weO2N0ZR1PjH3QrhyFWIP) | [Adolescence](https://open.spotify.com/album/4bFX6uy2uslEBGIMoMG8H0) | 3:19 | 2022-09-03 | 2022-09-04 |
@@ -2575,7 +2575,7 @@
 | [Toata noaptea](https://open.spotify.com/track/4lC2rmlMug4B4FeaeZ2Ya1) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Toata noaptea](https://open.spotify.com/album/3fv0w88F34D9g8R7pvdXnd) | 2:46 | 2022-07-06 | 2022-09-24 |
 | [Together](https://open.spotify.com/track/0WX9TkyUexryQW8Ik9DEQp) | [RudeLies](https://open.spotify.com/artist/7hf6L4LN1RTVN66IdBVpPr), [Distrion](https://open.spotify.com/artist/01amjyTlohCQrBLbM1scoO), [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Axol](https://open.spotify.com/artist/1AT64PJc0geIUwVRqYqkTu) | [Together](https://open.spotify.com/album/1osYCChX7RWXYwlCIipXDr) | 2:45 | 2022-06-28 | 2022-06-29 |
 | [Together Again](https://open.spotify.com/track/2hnA4tmaBMisNvz4TOl1Rk) | [Stephen Rennicks](https://open.spotify.com/artist/1qwshnqmsxCWhZAnBIISeL) | [Normal People \(Original Score from the Television Series\)](https://open.spotify.com/album/3WsKQ06VJYFnl5msx295V9) | 2:53 | 2022-10-08 | 2022-10-09 |
-| [Together as One](https://open.spotify.com/track/75rs55wUJV5XxuEWbeaAKh) | [James Paget](https://open.spotify.com/artist/1GTVsTQAXWfsiU7xrojYXy) | [Rubicon](https://open.spotify.com/album/7alTAlsgA4t7diHy4FLXAt) | 3:17 | 2022-10-10 |  |
+| [Together as One](https://open.spotify.com/track/75rs55wUJV5XxuEWbeaAKh) | [James Paget](https://open.spotify.com/artist/1GTVsTQAXWfsiU7xrojYXy) | [Rubicon](https://open.spotify.com/album/7alTAlsgA4t7diHy4FLXAt) | 3:17 | 2022-10-10 | 2022-10-11 |
 | [Together We Will Live Forever](https://open.spotify.com/track/2pr6us08iPNzIex5q6fMvI) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [The Fountain OST](https://open.spotify.com/album/7q18n1Pnq7mx6satptDoJ3) | 5:01 | 2022-10-05 | 2022-10-09 |
 | [Tokyo](https://open.spotify.com/track/3nYfOeJJ3HJ6kmZW8OR6aS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Rainbows](https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm) | 3:02 | 2022-08-26 | 2022-10-07 |
 | [Tokyo](https://open.spotify.com/track/4ML8cSuk6T0dFFbgfY0BiA) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN](https://open.spotify.com/album/2JIKEfeHQDXIdlcV70tCWu) | 2:50 | 2022-05-31 | 2022-10-10 |
