@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-396 songs - 1 day 5 hr 33 min - not published yet
+397 songs - 1 day 5 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -247,6 +247,7 @@
 | [Mi\-ai pus capac](https://open.spotify.com/track/4Mlst5wB03DIufZYI6NL2T) | [Raul Talent](https://open.spotify.com/artist/7xgc59lft0bnMy6GeEurfb), [Antonia](https://open.spotify.com/artist/6se2GkCalGOocfFjdQTYLP) | [Mi\-ai pus capac](https://open.spotify.com/album/677u89aBuLsNKWJmxpp3Xh) | 2:09 | 2022-09-08 | 2022-09-17 |
 | [Million Dollar Baby](https://open.spotify.com/track/3pPN20syOYvbUuEiBpbenI) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Million Dollar Baby](https://open.spotify.com/album/4fCW1XNPfBY6rgL1scsfGC) | 3:04 | 2022-09-01 | 2022-09-09 |
 | [Mira](https://open.spotify.com/track/1xvp0GMpJ8aHMquy8DIaC5) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [Mira](https://open.spotify.com/album/6FDHAT26mzRIF3kHiEXN5W) | 3:44 | 2022-08-18 | 2022-09-02 |
+| [Mirror](https://open.spotify.com/track/7Cn5dFvCckY1q6pB8u0WHt) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Mirror](https://open.spotify.com/album/53QPiqPVq7KSdDH7y4gybZ) | 4:09 | 2022-10-06 |  |
 | [Miss Karte Hain \- 1 Min Music](https://open.spotify.com/track/6WovP1xPrbgqLXb1APY662) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Miss Karte Hain \- 1 Min Music](https://open.spotify.com/album/3vbOufqxPPspyZU1g1ndHt) | 1:00 | 2022-06-30 | 2022-07-15 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 | 2022-07-28 | 2022-08-21 |
 | [Monstercat Silk Showcase 647 \(Hosted by Jacob Henry\)](https://open.spotify.com/track/0Kp6haaZ6a7Lw6jMBvWAhy) | [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Monstercat Silk Showcase](https://open.spotify.com/artist/2idr7EyXbYbsdD6coXHYVi) | [Monstercat Silk Showcase 647 \(Hosted by Jacob Henry\)](https://open.spotify.com/album/4E5F7wiBjfgQ7Fjgy3dODA) | 1:00:37 | 2022-05-19 | 2022-05-26 |
@@ -317,7 +318,7 @@
 | [Sad Girls \(feat\. Rema\) \- MOTi Remix](https://open.spotify.com/track/1KepQ8aCgeS1sXFpXzbmJ8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sad Girls \(feat\. Rema\) \[MOTi Remix\]](https://open.spotify.com/album/1lDctUb1ijFpzNU6t369le) | 3:18 | 2022-10-06 |  |
 | [Sad Songs](https://open.spotify.com/track/7FNBs0uJ316QqcVutWKz3O) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Sad Songs](https://open.spotify.com/album/5BAJ0ZYVeoioYv1PqZgsQz) | 3:09 | 2022-07-07 | 2022-08-07 |
 | [Sajaunga Lutkar Bhi](https://open.spotify.com/track/3PzNjt67SwJuJWKqSBfx3k) | [Shaan](https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Sajaunga Lutkar Bhi \- Single](https://open.spotify.com/album/6msVTEPZ8646JKzoEXNCVb) | 3:16 | 2022-09-01 | 2022-09-17 |
-| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 | 2022-10-06 |  |
+| [Scandalous \(with Tinashe\)](https://open.spotify.com/track/0HoDk4kVVbMfdBm5yy8jZq) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Scandalous \(with Tinashe\)](https://open.spotify.com/album/2EHnywdcT0XROIxAK8VIoP) | 2:39 | 2022-10-06 | 2022-10-13 |
 | [See Me Now](https://open.spotify.com/track/70TzwIoSdIcMyQO5gBAoqO) | [Mindme](https://open.spotify.com/artist/5DwnPlijNCMYMFh40sQ4vX) | [See Me Now](https://open.spotify.com/album/79szB3KZVPEI2dnCeAbEOt) | 3:00 | 2022-05-19 | 2022-06-03 |
 | [Send Me Your Love](https://open.spotify.com/track/6wrNFRoZiTNktHxEON0iym) | [Gromee](https://open.spotify.com/artist/2oRTLExi1ct74cVtfAwfhV), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Send Me Your Love](https://open.spotify.com/album/4sECdyKBxvS4EM1fMyvvmP) | 2:47 | 2022-05-26 | 2022-06-05 |
 | [September](https://open.spotify.com/track/0G8wQhhhCzdxE7Fg7wt1SE) | [Anja Kotar](https://open.spotify.com/artist/5a71BOwXAojkstqJFlg7GT) | [September](https://open.spotify.com/album/0Fgp6zJOv5Xr1qlcfIPtZk) | 3:48 | 2022-09-15 | 2022-09-23 |
