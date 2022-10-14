@@ -19,6 +19,7 @@
 - [Daily Mix 4](/playlists/pretty/37i9dQZF1E3ait2RxIZVMp.md)
 - [Daily Mix 5](/playlists/pretty/37i9dQZF1E35783e1v1tLq.md)
 - [Daily Mix 6](/playlists/pretty/37i9dQZF1E37DfB9BO9G7y.md)
+- [Dance/Electronic Mix](/playlists/pretty/37i9dQZF1EQp9BVPsNVof1.md)
 - [Discover Weekly](/playlists/pretty/37i9dQZEVXcMQ21aVFwcU6.md)
 - [Happy Mix](/playlists/pretty/37i9dQZF1EVJSvZp5AOML2.md)
 - [Hindi Mix](/playlists/pretty/37i9dQZF1EQr37EUzZ1Yhg.md)
