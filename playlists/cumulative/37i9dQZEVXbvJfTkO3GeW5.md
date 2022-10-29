@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-482 songs - 1 day 10 hr 48 min - not published yet
+483 songs - 1 day 10 hr 51 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 | 2022-07-21 | 2022-08-14 |
 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 | 2022-10-13 | 2022-10-15 |
 | [We Want It](https://open.spotify.com/track/4mc1vOCyS2EEq7VCuiDRJQ) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [We Want It](https://open.spotify.com/album/3Le4NjUjsjLKvggDXo0xBo) | 3:54 | 2022-10-20 |  |
+| [We Will Rise \(Arknights Soundtrack\)](https://open.spotify.com/track/7zHL1OYrxUuxHxpCdHea4v) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [We Will Rise \(Arknights Soundtrack\)](https://open.spotify.com/album/5INa7MOsLir2U3srMW4UXN) | 2:52 | 2022-10-27 |  |
 | [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-06-09 | 2022-07-01 |
 | [Wings for Ukraine \- Live](https://open.spotify.com/track/7zHLiGML4jgpSKiQPxiGia) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Wings for Ukraine \(Live\)](https://open.spotify.com/album/5fJYLgNoLTo82P1yHtFQ5G) | 5:14 | 2022-10-20 |  |
 | [Woke Up in Love](https://open.spotify.com/track/21H0pUV2uPIPcFnFhgTBjo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Woke Up in Love](https://open.spotify.com/album/06q3cqjSYhkePDu6RW6Uoy) | 3:36 | 2022-09-08 | 2022-09-16 |
