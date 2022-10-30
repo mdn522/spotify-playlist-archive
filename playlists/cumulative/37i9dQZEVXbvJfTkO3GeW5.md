@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-483 songs - 1 day 10 hr 51 min - not published yet
+484 songs - 1 day 10 hr 56 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [מחפשים אהבה](https://open.spotify.com/track/4wMOaYw3W2PoHPWidiyKrp) | [Eyal Golan](https://open.spotify.com/artist/54jZWpivOTllo1afYNSx5U) | [מחפשים אהבה](https://open.spotify.com/album/1lJezjXHGOG4VWH0ZDCEdC) | 3:34 | 2022-09-15 | 2022-09-23 |
 | [פנתרה \- Itay Galo Official Remix](https://open.spotify.com/track/0KXKeccHMltISQWxb4JQDx) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Itay Galo](https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d) | [פנתרה \(Itay Galo Official Remix\)](https://open.spotify.com/album/2lQRpN2qR209obWXXLgHRu) | 2:45 | 2022-10-06 | 2022-10-14 |
 | [שלושה בנות](https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Gitit Fisher](https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0) | [שלושה בנות](https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y) | 3:37 | 2022-06-02 | 2022-06-10 |
-| [الحمد لله العلي العظيم](https://open.spotify.com/track/6iS6ASLvInfi1Es9LWhE5j) | [Ahmed Al Ajamy](https://open.spotify.com/artist/1WOGZBpQwdpsBceG5RDk4h) | [الحمد لله العلي العظيم](https://open.spotify.com/album/2iRLhSq5xuQMQjXyO6ycLN) | 9:55 | 2022-10-27 |  |
+| [الحمد لله العلي العظيم](https://open.spotify.com/track/6iS6ASLvInfi1Es9LWhE5j) | [Ahmed Al Ajamy](https://open.spotify.com/artist/1WOGZBpQwdpsBceG5RDk4h) | [الحمد لله العلي العظيم](https://open.spotify.com/album/2iRLhSq5xuQMQjXyO6ycLN) | 9:55 | 2022-10-27 | 2022-10-30 |
+| [الحمد لله الملك الكبير](https://open.spotify.com/track/3q2hVoHIeUmoA7KuPMEh7k) | [Ahmed Al Ajamy](https://open.spotify.com/artist/1WOGZBpQwdpsBceG5RDk4h) | [الحمد لله الملك الكبير](https://open.spotify.com/album/5xUkvPGTpH8789suYiYELV) | 4:47 | 2022-10-27 |  |
 | [اللهم انا نسألك عيش السعداء](https://open.spotify.com/track/3UtvVxtGnXHG352s7eQYwe) | [Ahmed Al Ajamy](https://open.spotify.com/artist/1WOGZBpQwdpsBceG5RDk4h) | [اللهم انا نسألك عيش السعداء](https://open.spotify.com/album/1g2ILuo7g74ycTORDC1KB6) | 6:36 | 2022-10-20 | 2022-10-28 |
 | [اللهم كن معنا](https://open.spotify.com/track/7x2YgYeIBcIXLwMvo6Q6d1) | [Ahmed Al Ajamy](https://open.spotify.com/artist/1WOGZBpQwdpsBceG5RDk4h) | [اللهم كن معنا](https://open.spotify.com/album/6j7twD2qzaUdF4ZWv7XOM8) | 4:20 | 2022-10-13 | 2022-10-21 |
 | [سورة الحاقة](https://open.spotify.com/track/0SGRr66tJ3RPbLxg7xFrai) | [Islam Sobhi](https://open.spotify.com/artist/0RvVEnuKnzlPBTlzc34ElP) | [روائع التلاوات :: الجزء الثاني](https://open.spotify.com/album/3fRW33XwJ49r0juoVBI2dt) | 5:46 | 2022-05-26 | 2022-05-31 |
