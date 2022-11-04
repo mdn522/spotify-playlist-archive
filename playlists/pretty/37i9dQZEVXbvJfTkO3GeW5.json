@@ -6,10 +6,366 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "Mjc3ODE1NjAsMDAwMDAwMDBmOTMwZmM4ZDY5MDMwNjIzOTQ4NzE5ZjdjZjgzOTQ1MA==",
+    "snapshot_id": "Mjc3OTE2NDAsMDAwMDAwMDA5MmFkMDRjMTM4MzNmZTViNGFjOWUwNmE2MjBjZTNmYg==",
     "tracks": [
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Lovesick",
+                "url": "https://open.spotify.com/album/2WYETJesea0OP320GV0e3e"
+            },
+            "artists": [
+                {
+                    "name": "Alan Walker",
+                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+                },
+                {
+                    "name": "Sophie Simmons",
+                    "url": "https://open.spotify.com/artist/7AOCUMe3rKW4o3uADBNwVy"
+                }
+            ],
+            "duration_ms": 129024,
+            "name": "Lovesick",
+            "url": "https://open.spotify.com/track/5hB6UN3hxca8CP6dqs67On"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Alive",
+                "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
+            },
+            "artists": [
+                {
+                    "name": "Gryffin",
+                    "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+                },
+                {
+                    "name": "Matt Maeson",
+                    "url": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+                }
+            ],
+            "duration_ms": 211317,
+            "name": "Lose Your Love (with Matt Maeson)",
+            "url": "https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "I'll Be Home For Christmas",
+                "url": "https://open.spotify.com/album/1ykaX41VLZd7U0sxa33csX"
+            },
+            "artists": [
+                {
+                    "name": "Camila Cabello",
+                    "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                }
+            ],
+            "duration_ms": 178427,
+            "name": "I'll Be Home For Christmas",
+            "url": "https://open.spotify.com/track/6SiKqI0vm3N5NBjdgM2V9m"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "PSYCHO (feat. Aitch) [Majestic Remix]",
+                "url": "https://open.spotify.com/album/4wBSpW7WXuyiH068GT1WUG"
+            },
+            "artists": [
+                {
+                    "name": "Anne-Marie",
+                    "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+                },
+                {
+                    "name": "Majestic",
+                    "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+                },
+                {
+                    "name": "Aitch",
+                    "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+                }
+            ],
+            "duration_ms": 228387,
+            "name": "PSYCHO (feat. Aitch) - Majestic Remix",
+            "url": "https://open.spotify.com/track/3J4UasOTxVkNcubw9TidfD"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "My Mind & Me",
+                "url": "https://open.spotify.com/album/5quJSeTB33tFzfp2EZx9z5"
+            },
+            "artists": [
+                {
+                    "name": "Selena Gomez",
+                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                }
+            ],
+            "duration_ms": 147597,
+            "name": "My Mind & Me",
+            "url": "https://open.spotify.com/track/0XER3HPMx223xWaAgNKp4Y"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Live - An Epic Music Experience",
+                "url": "https://open.spotify.com/album/3TSyQXGRUFIOdq6MscHgdJ"
+            },
+            "artists": [
+                {
+                    "name": "Two Steps from Hell",
+                    "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+                },
+                {
+                    "name": "Thomas Bergersen",
+                    "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+                }
+            ],
+            "duration_ms": 314631,
+            "name": "Wings for Ukraine - Live",
+            "url": "https://open.spotify.com/track/6UoFlfMGA0WrD7jT5hPzg5"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Live - An Epic Music Experience",
+                "url": "https://open.spotify.com/album/3TSyQXGRUFIOdq6MscHgdJ"
+            },
+            "artists": [
+                {
+                    "name": "Two Steps from Hell",
+                    "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+                },
+                {
+                    "name": "Thomas Bergersen",
+                    "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+                }
+            ],
+            "duration_ms": 338423,
+            "name": "Remember Me - Live",
+            "url": "https://open.spotify.com/track/78kMy9NRlZH2kqUIvYeJmb"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Sweat (with Arem Ozguc & Arman Aydin)",
+                "url": "https://open.spotify.com/album/1yNxeJqNkNw0K20uEVD4zw"
+            },
+            "artists": [
+                {
+                    "name": "Alina Eremia",
+                    "url": "https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3"
+                },
+                {
+                    "name": "Arem Ozguc",
+                    "url": "https://open.spotify.com/artist/5JJc8is4VzgOz8ZanDj18J"
+                },
+                {
+                    "name": "Arman Aydin",
+                    "url": "https://open.spotify.com/artist/4xklx5DAtVru5uf3vSXTgf"
+                }
+            ],
+            "duration_ms": 162701,
+            "name": "Sweat (with Arem Ozguc & Arman Aydin)",
+            "url": "https://open.spotify.com/track/6XusVpt0FYE5g2oPsOF1oH"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Lift Me Up (From Black Panther: Wakanda Forever - Music From and Inspired By)",
+                "url": "https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h"
+            },
+            "artists": [
+                {
+                    "name": "Rihanna",
+                    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+                }
+            ],
+            "duration_ms": 196519,
+            "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
+            "url": "https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "You Can’t Change Me (feat. Raye)",
+                "url": "https://open.spotify.com/album/5OSSa4lPIbnn1VGtwlojCx"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "MORTEN",
+                    "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+                },
+                {
+                    "name": "RAYE",
+                    "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                }
+            ],
+            "duration_ms": 170859,
+            "name": "You Can’t Change Me (feat. Raye)",
+            "url": "https://open.spotify.com/track/4HjLBWJ7AKZQcmupi1NSM5"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Nandeyanen",
+                "url": "https://open.spotify.com/album/3goFR5ZV3FlyPW0Bk56gc8"
+            },
+            "artists": [
+                {
+                    "name": "NoctisMusic",
+                    "url": "https://open.spotify.com/artist/07q6M1Fp0Q7CrYh01zFuqo"
+                },
+                {
+                    "name": "Magic Music Record",
+                    "url": "https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG"
+                },
+                {
+                    "name": "Disfigure",
+                    "url": "https://open.spotify.com/artist/6qS98hCc0GWwq1AShPNl2w"
+                }
+            ],
+            "duration_ms": 73691,
+            "name": "Nandeyanen",
+            "url": "https://open.spotify.com/track/3wFle4sy78pnDyvXygjVqS"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Nightbird",
+                "url": "https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx"
+            },
+            "artists": [
+                {
+                    "name": "DJ Snake",
+                    "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+                }
+            ],
+            "duration_ms": 156190,
+            "name": "Nightbird",
+            "url": "https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "La nevedere",
+                "url": "https://open.spotify.com/album/2JAV46kerV34tgOkuUn0fn"
+            },
+            "artists": [
+                {
+                    "name": "Andia",
+                    "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
+                }
+            ],
+            "duration_ms": 190801,
+            "name": "La nevedere",
+            "url": "https://open.spotify.com/track/2Eh3mKeLBrmiyAQUOLI0bW"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Hold Me Closer (Pink Panda Remix)",
+                "url": "https://open.spotify.com/album/748pBvlgmjNQUkydydu6RO"
+            },
+            "artists": [
+                {
+                    "name": "Elton John",
+                    "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+                },
+                {
+                    "name": "Britney Spears",
+                    "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+                },
+                {
+                    "name": "Pink Panda",
+                    "url": "https://open.spotify.com/artist/4DBNGKCWVHaxuDNBAgTiJH"
+                }
+            ],
+            "duration_ms": 181928,
+            "name": "Hold Me Closer - Pink Panda Remix",
+            "url": "https://open.spotify.com/track/2VOdp7fjqj5tJeOxgFKGEq"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Vähän enemmän",
+                "url": "https://open.spotify.com/album/4w5JuWdJuPZcWMaTpagKmu"
+            },
+            "artists": [
+                {
+                    "name": "Nelli Matula",
+                    "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+                }
+            ],
+            "duration_ms": 186726,
+            "name": "Vähän enemmän",
+            "url": "https://open.spotify.com/track/3GD93v1BzKfxZDnakDqZT0"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "LET THIS BE CLOSURE",
+                "url": "https://open.spotify.com/album/4h8U4blnYv450jVKVfuRCE"
+            },
+            "artists": [
+                {
+                    "name": "Ana Grosh",
+                    "url": "https://open.spotify.com/artist/1EHA30IXQPf3PXKZ8mNHD6"
+                }
+            ],
+            "duration_ms": 300638,
+            "name": "Hurt You Back",
+            "url": "https://open.spotify.com/track/5Xr6FJUGYw1FwbzuTxNWWK"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Roohedaariyaan",
+                "url": "https://open.spotify.com/album/2V4UJdU8ytJ8Ml7wFB1s1i"
+            },
+            "artists": [
+                {
+                    "name": "B Praak",
+                    "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+                },
+                {
+                    "name": "Neeti Mohan",
+                    "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+                }
+            ],
+            "duration_ms": 245590,
+            "name": "Roohedaariyaan",
+            "url": "https://open.spotify.com/track/5ZTBRXpK5P4dl74ygqGjiQ"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Чи разом?",
+                "url": "https://open.spotify.com/album/5qMpIUmFFiQD5D2fVFTpA1"
+            },
+            "artists": [
+                {
+                    "name": "voxeaa",
+                    "url": "https://open.spotify.com/artist/1SRpYy6lUdjsPA8UItAyTk"
+                },
+                {
+                    "name": "nicebeatzprod.",
+                    "url": "https://open.spotify.com/artist/5Jcubl6XIYxYIQothI4JsZ"
+                },
+                {
+                    "name": "KOLA",
+                    "url": "https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq"
+                }
+            ],
+            "duration_ms": 217861,
+            "name": "Чи разом?",
+            "url": "https://open.spotify.com/track/7glqmNgEnwWy05NMkgCJPy"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Virtual Happiness",
                 "url": "https://open.spotify.com/album/7AtwHeGlbQD6lkXaWMbZSi"
@@ -25,27 +381,7 @@
             "url": "https://open.spotify.com/track/5Jr1l0zsv4tj9cWRp6mjYl"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Forever",
-                "url": "https://open.spotify.com/album/6zWBIAHjffwgPY5llFnjUp"
-            },
-            "artists": [
-                {
-                    "name": "Gryffin",
-                    "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-                },
-                {
-                    "name": "Elley Duhé",
-                    "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-                }
-            ],
-            "duration_ms": 187384,
-            "name": "Forever (feat. Elley Duhé)",
-            "url": "https://open.spotify.com/track/1vpGxJpPyJocizv7i1CyDC"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Million Dollar Baby (COASTR. Remix)",
                 "url": "https://open.spotify.com/album/1W6YuZscOskXa4ygKGcYwq"
@@ -65,7 +401,7 @@
             "url": "https://open.spotify.com/track/4zxaUt8KcUom90Sl2QEnDs"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Electro Fun",
                 "url": "https://open.spotify.com/album/4Lo7pwKSPvdXxrIiz49wqp"
@@ -81,7 +417,7 @@
             "url": "https://open.spotify.com/track/0yPZMzzfTWgtbZ0BqhrOY3"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Unstoppable (The Remixes)",
                 "url": "https://open.spotify.com/album/0o83iaAMM8MAPQ1LivQbtU"
@@ -101,7 +437,7 @@
             "url": "https://open.spotify.com/track/6UvgVaHDtycFqUM1LPxhxu"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Alusion",
                 "url": "https://open.spotify.com/album/4S3Ni1cjylc66haDCtw7ZZ"
@@ -117,7 +453,7 @@
             "url": "https://open.spotify.com/track/4sfGxtenCMYbwh2EYeOHTw"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Elements",
                 "url": "https://open.spotify.com/album/3a8RMIshIaGLHdQEULCrrk"
@@ -133,7 +469,7 @@
             "url": "https://open.spotify.com/track/1CpeoK33nT6pIWfl645Tpb"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "I'm Good (Blue) [Remixes #2]",
                 "url": "https://open.spotify.com/album/45nWM57RNLs7IclA88FJEf"
@@ -148,16 +484,16 @@
                     "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
                 },
                 {
-                    "name": "Oliver Heldens",
-                    "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
                 }
             ],
-            "duration_ms": 186328,
-            "name": "I'm Good (Blue) - Oliver Heldens Remix",
-            "url": "https://open.spotify.com/track/04zZiHAk0a4Nj179CLK7cD"
+            "duration_ms": 167578,
+            "name": "I'm Good (Blue) - R3HAB Remix",
+            "url": "https://open.spotify.com/track/2SqNiRR8Z4ltcufsi8CWyz"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Downtown Funk",
                 "url": "https://open.spotify.com/album/4EvJKBaySzdzW26kT9KePR"
@@ -181,7 +517,7 @@
             "url": "https://open.spotify.com/track/1oxfFl67vB8w5iiBCKHsoR"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Sad Robot (Lofi Version)",
                 "url": "https://open.spotify.com/album/4neeWH5cGp8MTmBSGXqQ9M"
@@ -197,7 +533,7 @@
             "url": "https://open.spotify.com/track/1rIzDzUNYa2kChQGqfs0wj"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Chemical High (Remix Pack)",
                 "url": "https://open.spotify.com/album/31XCyHeqHVTFQXwpMoLTTF"
@@ -213,7 +549,7 @@
             "url": "https://open.spotify.com/track/2hx2aaCXj7qaU480Wy7UzX"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Mad Man",
                 "url": "https://open.spotify.com/album/638oH17A5K0MdRyMaxiyf3"
@@ -233,7 +569,7 @@
             "url": "https://open.spotify.com/track/25rX52y3yDPFKDjvnCsl9g"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Nasha (Hindi)",
                 "url": "https://open.spotify.com/album/7rHN5dMMVYLUl5jEU2qa40"
@@ -249,7 +585,7 @@
             "url": "https://open.spotify.com/track/2hamd3e5IQHw5fWXKNQWJV"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Black Balloons",
                 "url": "https://open.spotify.com/album/2k3bXOQ542UprP5ZQcNS6b"
@@ -265,23 +601,7 @@
             "url": "https://open.spotify.com/track/3CrmsiGWaLpFVltY6BiXOq"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "100 Days",
-                "url": "https://open.spotify.com/album/1P1WPxUEcDfzT9onbH3jo4"
-            },
-            "artists": [
-                {
-                    "name": "Ana Grosh",
-                    "url": "https://open.spotify.com/artist/1EHA30IXQPf3PXKZ8mNHD6"
-                }
-            ],
-            "duration_ms": 300638,
-            "name": "Hurt You Back",
-            "url": "https://open.spotify.com/track/5sGX4gjOmRXcFwNrYCM17h"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Alive and Unwell",
                 "url": "https://open.spotify.com/album/3LiuUi849agq0ZVwLBIup8"
@@ -297,7 +617,7 @@
             "url": "https://open.spotify.com/track/7ffThXwGKRO4KRM1rVyXGJ"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "الحمد لله الملك الكبير",
                 "url": "https://open.spotify.com/album/5xUkvPGTpH8789suYiYELV"
@@ -313,7 +633,7 @@
             "url": "https://open.spotify.com/track/3q2hVoHIeUmoA7KuPMEh7k"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Clean Break",
                 "url": "https://open.spotify.com/album/5P5zoDRaqk5X3wZvcuZdYK"
@@ -329,31 +649,7 @@
             "url": "https://open.spotify.com/track/4d1WoQ6dW7feMW9dGchNyL"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "PSYCHO (feat. Aitch) [The Wild Remix]",
-                "url": "https://open.spotify.com/album/34LBztopnmwy5hDeAmo9Aj"
-            },
-            "artists": [
-                {
-                    "name": "Anne-Marie",
-                    "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-                },
-                {
-                    "name": "The Wild",
-                    "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
-                },
-                {
-                    "name": "Aitch",
-                    "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-                }
-            ],
-            "duration_ms": 190664,
-            "name": "PSYCHO (feat. Aitch) - The Wild Remix",
-            "url": "https://open.spotify.com/track/6EzWKhqPcFtGKLFmE6Qpxs"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Worst Day",
                 "url": "https://open.spotify.com/album/4E87ZGUzJWicBr4Ab9wmxe"
@@ -373,7 +669,7 @@
             "url": "https://open.spotify.com/track/7Bx0oBgnEfVR2bCs6Aul0X"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "16 Ani",
                 "url": "https://open.spotify.com/album/4OTCGmrxnkfI9dTMWHb84Y"
@@ -393,27 +689,27 @@
             "url": "https://open.spotify.com/track/0W9uRDfkVorkDE5BuccjvJ"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
-                "name": "Wings for Ukraine (Live)",
-                "url": "https://open.spotify.com/album/5fJYLgNoLTo82P1yHtFQ5G"
+                "name": "In Our Blood",
+                "url": "https://open.spotify.com/album/57yZxJI7E0U2jmFreGLsSH"
             },
             "artists": [
                 {
-                    "name": "Two Steps from Hell",
-                    "url": "https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp"
+                    "name": "Jim Yosef",
+                    "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
                 },
                 {
-                    "name": "Thomas Bergersen",
-                    "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+                    "name": "Diandra Faye",
+                    "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
                 }
             ],
-            "duration_ms": 314631,
-            "name": "Wings for Ukraine - Live",
-            "url": "https://open.spotify.com/track/7zHLiGML4jgpSKiQPxiGia"
+            "duration_ms": 175295,
+            "name": "In Our Blood",
+            "url": "https://open.spotify.com/track/266BQnr6ADykM4hb9Y3GHq"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Remember (Versions)",
                 "url": "https://open.spotify.com/album/1W4wUg63K4DeYuXSfp8YDC"
@@ -433,7 +729,7 @@
             "url": "https://open.spotify.com/track/0vwF1PVvU7EJpKKGRDgdaQ"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Supervolcanoes",
                 "url": "https://open.spotify.com/album/53OGC1WSlJIQY4XK6V4ZDR"
@@ -449,23 +745,7 @@
             "url": "https://open.spotify.com/track/08hBo3I3s1iOav40TQ9oxC"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Cadaver Heart",
-                "url": "https://open.spotify.com/album/3YVQkz9O4XBsHRwF3Iuwgc"
-            },
-            "artists": [
-                {
-                    "name": "Anna Thompson",
-                    "url": "https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC"
-                }
-            ],
-            "duration_ms": 154028,
-            "name": "Cadaver Heart",
-            "url": "https://open.spotify.com/track/54glwAT0uddOkl3ufcU0sB"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Monotonía",
                 "url": "https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe"
@@ -485,7 +765,23 @@
             "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
+            "album": {
+                "name": "Cadaver Heart",
+                "url": "https://open.spotify.com/album/3YVQkz9O4XBsHRwF3Iuwgc"
+            },
+            "artists": [
+                {
+                    "name": "Anna Thompson",
+                    "url": "https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC"
+                }
+            ],
+            "duration_ms": 154028,
+            "name": "Cadaver Heart",
+            "url": "https://open.spotify.com/track/54glwAT0uddOkl3ufcU0sB"
+        },
+        {
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Together Forever",
                 "url": "https://open.spotify.com/album/7q3J5Z39LFEq1HEdOkfdD9"
@@ -501,59 +797,7 @@
             "url": "https://open.spotify.com/track/2YMlGrhVHdbXeDejv0R77R"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Hold Me Closer (Purple Disco Machine Remix)",
-                "url": "https://open.spotify.com/album/5xqpkbZzHhsR5KOrAzhWGU"
-            },
-            "artists": [
-                {
-                    "name": "Elton John",
-                    "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-                },
-                {
-                    "name": "Britney Spears",
-                    "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-                },
-                {
-                    "name": "Purple Disco Machine",
-                    "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-                }
-            ],
-            "duration_ms": 354920,
-            "name": "Hold Me Closer - Purple Disco Machine Extended Mix",
-            "url": "https://open.spotify.com/track/3zbKrkqZyv2TnL8kwv9UjO"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Power (Remember Who You Are) [Flippersworld Remix]",
-                "url": "https://open.spotify.com/album/5Bt9MK5ShhrBPAC2otxX56"
-            },
-            "artists": [
-                {
-                    "name": "SPINALL",
-                    "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-                },
-                {
-                    "name": "Äyanna",
-                    "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-                },
-                {
-                    "name": "DJ Snake",
-                    "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-                },
-                {
-                    "name": "Summer Walker",
-                    "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-                }
-            ],
-            "duration_ms": 230918,
-            "name": "Power (Remember Who You Are) - Flippersworld Remix",
-            "url": "https://open.spotify.com/track/47dk2gAViRkU76yB45VPk2"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "We Want It",
                 "url": "https://open.spotify.com/album/3Le4NjUjsjLKvggDXo0xBo"
@@ -569,7 +813,7 @@
             "url": "https://open.spotify.com/track/4mc1vOCyS2EEq7VCuiDRJQ"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Stories",
                 "url": "https://open.spotify.com/album/7LbXcatSXWj750APLbZbOW"
@@ -589,7 +833,7 @@
             "url": "https://open.spotify.com/track/5BKzCUmyoURfEZkcKuq8Cg"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Showed Me (How I Fell In Love With You)",
                 "url": "https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR"
@@ -605,7 +849,7 @@
             "url": "https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "THIS IS GON' GET MESSY",
                 "url": "https://open.spotify.com/album/3InjNRIR1N0kjlmPYZkhVL"
@@ -621,23 +865,7 @@
             "url": "https://open.spotify.com/track/7cOum6SuMdlmUiUW9IhLU5"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "We Will Rise (Arknights Soundtrack)",
-                "url": "https://open.spotify.com/album/5INa7MOsLir2U3srMW4UXN"
-            },
-            "artists": [
-                {
-                    "name": "LIZ",
-                    "url": "https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6"
-                }
-            ],
-            "duration_ms": 172987,
-            "name": "We Will Rise (Arknights Soundtrack)",
-            "url": "https://open.spotify.com/track/7zHL1OYrxUuxHxpCdHea4v"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "CALM",
                 "url": "https://open.spotify.com/album/210G5V01OiRLcQKp03zMne"
@@ -657,7 +885,7 @@
             "url": "https://open.spotify.com/track/0IrC9vu2CygBOT9gXVAbPd"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Red Zone",
                 "url": "https://open.spotify.com/album/6B2odR8wKOMnGGfJrcZSMj"
@@ -681,27 +909,7 @@
             "url": "https://open.spotify.com/track/2jpjZgMwtKNMw8w4bh3cE2"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "My City’s On Fire (Tiësto Remix)",
-                "url": "https://open.spotify.com/album/4YcIHURDogM3fNg5e11YeP"
-            },
-            "artists": [
-                {
-                    "name": "Jimi Jules",
-                    "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 141666,
-            "name": "My City’s On Fire - Tiësto Remix",
-            "url": "https://open.spotify.com/track/7lCJbb2VDyle5quhXkngaU"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Dirt Femme",
                 "url": "https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF"
@@ -721,7 +929,7 @@
             "url": "https://open.spotify.com/track/08kSDRN3ZUB5V5ba2Rt5KB"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Ce fraieri",
                 "url": "https://open.spotify.com/album/3yZXTUTg5tVEI1gfIxDQ8g"
@@ -737,27 +945,27 @@
             "url": "https://open.spotify.com/track/1d2KsErIUEgH8GvBUtH7iS"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
-                "name": "Escapism. / The Thrill Is Gone.",
-                "url": "https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb"
+                "name": "I'll Carry on",
+                "url": "https://open.spotify.com/album/7ocqee5Wh7q2cvTq8bj17m"
             },
             "artists": [
                 {
-                    "name": "RAYE",
-                    "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                    "name": "希林娜依•高",
+                    "url": "https://open.spotify.com/artist/2BzEJybfRAL6DxCeYW2e7G"
                 },
                 {
-                    "name": "070 Shake",
-                    "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
+                    "name": "黄霄雲",
+                    "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
                 }
             ],
-            "duration_ms": 272373,
-            "name": "Escapism.",
-            "url": "https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ"
+            "duration_ms": 236179,
+            "name": "I'll Carry on",
+            "url": "https://open.spotify.com/track/1e5aCkQxD0A64pijmzHIxf"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Future History",
                 "url": "https://open.spotify.com/album/2fKZ1KTYzFYdC9Fs5zKgGO"
@@ -773,7 +981,7 @@
             "url": "https://open.spotify.com/track/7cTsPIXO3F2FB3LEqAOiBE"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Help",
                 "url": "https://open.spotify.com/album/1lGyKZYPEK0K2oW9EaAF04"
@@ -789,27 +997,7 @@
             "url": "https://open.spotify.com/track/5V0TmRlyES6ABscIIJn6az"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Ce urmeaza (Dj Dark Remix)",
-                "url": "https://open.spotify.com/album/50LhYiqlvozP76L4LNlya9"
-            },
-            "artists": [
-                {
-                    "name": "Andia",
-                    "url": "https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn"
-                },
-                {
-                    "name": "DJ Dark",
-                    "url": "https://open.spotify.com/artist/6BYzZnQlExuzifkUhRX1XK"
-                }
-            ],
-            "duration_ms": 161739,
-            "name": "Ce urmeaza - Dj Dark Remix",
-            "url": "https://open.spotify.com/track/1WhkUvdoA0XylG1EIHFtQn"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Ordinary People",
                 "url": "https://open.spotify.com/album/4vtNjzYbmXNODsW9y9Chyp"
@@ -829,7 +1017,7 @@
             "url": "https://open.spotify.com/track/2rsEfDcLBM65ZgZRxyAUs0"
         },
         {
-            "added_at": "2022-10-27 18:00:00",
+            "added_at": "2022-11-03 18:00:00",
             "album": {
                 "name": "Damage x2",
                 "url": "https://open.spotify.com/album/6luRrEChKAJym46oxILspG"
@@ -843,30 +1031,6 @@
             "duration_ms": 185374,
             "name": "Damage x2",
             "url": "https://open.spotify.com/track/4bUW4s6Uf8JXBabDZOKmFx"
-        },
-        {
-            "added_at": "2022-10-27 18:00:00",
-            "album": {
-                "name": "Iss Baarish Mein (Lofi)",
-                "url": "https://open.spotify.com/album/6cXyxLbdQJrPtEIosDK16R"
-            },
-            "artists": [
-                {
-                    "name": "Sachin Gupta",
-                    "url": "https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq"
-                },
-                {
-                    "name": "Neeti Mohan",
-                    "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-                },
-                {
-                    "name": "Yasser Desai",
-                    "url": "https://open.spotify.com/artist/6RF8hEdlUKoLPQOHmBbHiM"
-                }
-            ],
-            "duration_ms": 211012,
-            "name": "Iss Baarish Mein (Lofi)",
-            "url": "https://open.spotify.com/track/63PgJwtyteAnsQFhXhYfuZ"
         }
     ],
     "unique_name": "Release Radar",

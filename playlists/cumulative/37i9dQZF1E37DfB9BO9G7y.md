@@ -4,7 +4,7 @@
 
 > Tobu, Ahxello, Elektronomia and more
 
-3,490 songs - 8 day 0 hr 17 min - not published yet
+3,491 songs - 8 day 0 hr 20 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@
 | [Carte Blanche \- KhoMha Remix](https://open.spotify.com/track/3FL7mu5Zb1Y7MsHN0mpM40) | [Veracocha](https://open.spotify.com/artist/1DT2WEMQmEJ3yRmTaqzrXd), [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Carte Blanche \(KhoMha Remix\)](https://open.spotify.com/album/0dOgicjsxDlxbKwfHQJ0T2) | 3:00 | 2022-08-25 | 2022-08-26 |
 | [Cartier](https://open.spotify.com/track/5Dg385wbg8UpFsPGF7mKSN) | [Caroline Dare](https://open.spotify.com/artist/729VtCqRPf0MwVTXAPz7wr) | [Cartier](https://open.spotify.com/album/5KKa4O8V0YmpcKdqDfBNZz) | 3:20 | 2022-10-27 | 2022-11-02 |
 | [Castele De Nisip](https://open.spotify.com/track/4pQyB85wk8OOv1O7rXkRh8) | [Nicoleta Nuca](https://open.spotify.com/artist/7BRYcgYwaw9fhVKX4VUiUA) | [Castele De Nisip](https://open.spotify.com/album/64KgWpbTGcRZkDxLzMMtLE) | 3:39 | 2022-10-15 | 2022-10-18 |
-| [Castle](https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Castle](https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH) | 2:38 | 2022-06-28 |  |
+| [Castle](https://open.spotify.com/track/7tUToegtVh5dodpcqaYrHo) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Harddope](https://open.spotify.com/artist/0wfl4Df1okXQp1cCxkHo6E) | [Castle](https://open.spotify.com/album/3bxvt8vyLXAC0ioYQ2IixH) | 2:38 | 2022-06-28 | 2022-11-04 |
 | [Castles \- Sam Feldt Remix](https://open.spotify.com/track/0AZJDOGsRHnR9GEMWqzOiP) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Castles \(Sam Feldt Remix\)](https://open.spotify.com/album/6ruvuVGAWDMD94djRnP7Mh) | 3:24 | 2022-10-16 | 2022-10-31 |
 | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/track/3qBqh2AVvAJCoY3IR3k1jF) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf) | [Catching A Dream \(Sam Feldt Remix\)](https://open.spotify.com/album/1VBJpDBrzGUyUmONeP0sDO) | 2:53 | 2022-08-23 | 2022-10-05 |
 | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/track/0sPrs9vLFdRRTllqlwL4v1) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Caught Up \(with Olivia O'Brien\)](https://open.spotify.com/album/39tWJL4zNgNhc8ndiUEaa6) | 2:53 | 2022-07-08 | 2022-07-09 |
@@ -1524,6 +1524,7 @@
 | [Lara](https://open.spotify.com/track/2F07PQfCKJfCoa4VKBTcZN) | [Glow](https://open.spotify.com/artist/1hUAitgVomOLe9ZBpoikLL), [Dep](https://open.spotify.com/artist/3AnxYbtQHw4Moch8co2tQg) | [Lara](https://open.spotify.com/album/0IEmJdqRlGx8JlWfbC66jB) | 3:12 | 2022-07-22 | 2022-09-08 |
 | [Last Dance](https://open.spotify.com/track/5eSVftEHhe9oWK3POAsoeu) | [Jade Key](https://open.spotify.com/artist/3gbNZrDSnpKK7PZ1x3i4hb), [BrillLion](https://open.spotify.com/artist/1hzTGiVMoHHDQwybbnUClq), [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf) | [Last Dance](https://open.spotify.com/album/4L7LHfxCmojThh4W4531If) | 3:38 | 2022-08-05 | 2022-08-06 |
 | [Last Goodbye](https://open.spotify.com/track/5YLajakY9egbhDUIGoaPN2) | [Luke Bond](https://open.spotify.com/artist/13jm4r5O79Vxjy3zzZ51j0), [BOND](https://open.spotify.com/artist/5Z2uHnS6Hv70H5v9oSzkhm) | [Last Goodbye](https://open.spotify.com/album/3XEcG2T2LITyH80xHUbdro) | 4:00 | 2022-07-26 | 2022-10-03 |
+| [Last Goodbye](https://open.spotify.com/track/5YxeD5e37dPqyqEWRRjtJc) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Last Goodbye](https://open.spotify.com/album/4KOcVrsHkEN1ebjQtF21EO) | 2:33 | 2022-11-04 |  |
 | [Last Mistake](https://open.spotify.com/track/6MSuWtve1rxsiul3SH4dMt) | [ADVENT](https://open.spotify.com/artist/6fOfSV7KcxCMt1Gol5DdIv), [Akacia](https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5) | [Last Mistake](https://open.spotify.com/album/7zcXjikz2ODeAsrugqg8Bb) | 3:21 | 2022-07-13 | 2022-07-14 |
 | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/track/62xA7Zhj8CQSecypWIfpZx) | [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy) | [Last Night \(feat\. HARLEE\)](https://open.spotify.com/album/2MYhUTVM7SeBuQX5uNjOam) | 2:32 | 2022-06-30 | 2022-10-30 |
 | [Last Summer](https://open.spotify.com/track/7pxRBbUWBcVoTWi3MiFl6V) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9), [Weird Genius](https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Last Summer](https://open.spotify.com/album/5YqT01E5PZytxp6Jeclu1J) | 2:52 | 2022-05-28 | 2022-05-30 |
