@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-505 songs - 1 day 12 hr 6 min - not published yet
+506 songs - 1 day 12 hr 8 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,6 +230,7 @@
 | [I'm Good \(Blue\) \[feat\. David Guetta & Bebe Rexha\] \- Bounce Projectz Remix](https://open.spotify.com/track/7ihNiq6gSmy4mlxOx7uIfn) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [Bounce Projectz](https://open.spotify.com/artist/3nQthw8h6ExuXWB7E6c3PQ), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\) \[feat\. David Guetta & Bebe Rexha\] \[Bounce Projectz Remix\]](https://open.spotify.com/album/5Zv4CAJyOKQJIjGg3gBl6k) | 3:25 | 2022-10-20 | 2022-10-28 |
 | [I'm Sorry](https://open.spotify.com/track/7Iwo0m1RFI4HXJAklNlfHE) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [I'm Sorry](https://open.spotify.com/album/4If0BISylxtZSwsRZvOke8) | 3:42 | 2022-07-14 | 2022-08-05 |
 | [Ibiza](https://open.spotify.com/track/006lXrVzSHplhiZZ3fzoiW) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ibiza](https://open.spotify.com/album/2Tn6eiTXHjKxCiINrejZ9U) | 2:29 | 2022-09-08 | 2022-09-17 |
+| [Ibiza \- Live](https://open.spotify.com/track/2bAalhHGTuyxVz1JqhoNE7) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ibiza](https://open.spotify.com/album/5k9LAUCTcK9ytiHmjzPdXd) | 2:24 | 2022-11-03 |  |
 | [Idlelife](https://open.spotify.com/track/7gzQp7lbA8SFIDyFgJVaWD) | [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [Idlelife](https://open.spotify.com/album/6EmOSnualJWmd46jPUtBn1) | 3:49 | 2022-09-22 | 2022-10-07 |
 | [If I Disappear](https://open.spotify.com/track/66tENrg2vef7mVXMvNK9co) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Tom Mårtensson](https://open.spotify.com/artist/43Rudxki6fpPr4tX8F7BeU) | [If I Disappear](https://open.spotify.com/album/3ZqUck8YbKFNhVgaCUGBTB) | 3:28 | 2022-05-19 | 2022-06-04 |
 | [Imagine](https://open.spotify.com/track/13k0lnSXFus6DX11EIemRU) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Imagine](https://open.spotify.com/album/7IopBqGXA0YjDzuQjkSzrt) | 2:46 | 2022-09-22 | 2022-10-07 |
