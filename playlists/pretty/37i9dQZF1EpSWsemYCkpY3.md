@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Beast](https://open.spotify.com/track/6LpwBgIU5emPlfZMXPECp9) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Beast](https://open.spotify.com/album/4l9spES6l6p6Us7Jq0OeUT) | 3:14 |
+| 1 | [Dreamer](https://open.spotify.com/track/1nTZaxitQCBDygfq7EUDo4) | [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Dreamer](https://open.spotify.com/album/1GhFSuxTZYpL2wITGRM4od) | 3:23 |
 | 2 | [Still Learning](https://open.spotify.com/track/3vqA0R4ENSlxAzEMVWlI2C) | [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Still Learning / Dancing on a Memory](https://open.spotify.com/album/37VtGZgoy3mMWpur7r4Y8Y) | 3:08 |
 | 3 | [Sugarcoat](https://open.spotify.com/track/0QZXe8qvnNNXPgxrgWxPAv) | [Melanie Wehbe](https://open.spotify.com/artist/1cLipMi0mKHQft01CiTuGn) | [Sugarcoat](https://open.spotify.com/album/3PxDqpm3zy3vS7WSpxQMuh) | 2:25 |
 | 4 | [Stereo Love](https://open.spotify.com/track/7CwcPYRLmLNV06fRRpsf1h) | [JOWST](https://open.spotify.com/artist/2m0y0cDl1US03sYgxv9r6s), [YNGA](https://open.spotify.com/artist/6rbqQ4C9bg3XTUHccqUo10), [Fifty.mp3](https://open.spotify.com/artist/1AjwGq6DUWlqsdcW5v32kZ) | [Stereo Love](https://open.spotify.com/album/1LtwXa3AMsDHDS3IQ7JyoX) | 3:05 |
@@ -37,6 +37,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 27 | [Teardrops](https://open.spotify.com/track/4PIPCsnwZMVllIbh19ADY0) | [NOVUM](https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv) | [Teardrops](https://open.spotify.com/album/6oB3pmhW2tgP0NE4MqIfOq) | 2:33 |
 | 28 | [Bang Bang](https://open.spotify.com/track/2mq1P9N8F2zVqM1FcJGia6) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Bang Bang](https://open.spotify.com/album/3JlZLUSr1NV4ODN16N9c6U) | 2:42 |
 | 29 | [Maria](https://open.spotify.com/track/4hBHlWlQFXNPVRXtbeOyHB) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [Maria](https://open.spotify.com/album/2JUGCex31LtoVZ58xPYkk3) | 2:42 |
-| 30 | [Sucker For That Love](https://open.spotify.com/track/7pqsNojJhZypPRAAifrK6m) | [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [Sucker For That Love](https://open.spotify.com/album/1E19a0qnONIJH6qMPD8XLQ) | 3:01 |
+| 30 | [From The Ashes \(with Skylar Grey\) \- Paul van Dyk Remix](https://open.spotify.com/track/54qt0W69bdDuWRimXd7gXt) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Skylar Grey](https://open.spotify.com/artist/4utLUGcTvOJFr6aqIJtYWV), [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR) | [From The Ashes \(with Skylar Grey\) \[Paul van Dyk Remix\]](https://open.spotify.com/album/0UrxfO3o2Rg7OvsHauoIba) | 4:13 |
 
-Snapshot ID: `MTY2NzM1ODQ2MCwwMDAwMDAwMGUyMGU0Yzk5YzdkNGY1OTFiYjQ2NGZiZTUxMzc5YmI4`
+Snapshot ID: `MTY2NzYyMDk5NCwwMDAwMDAwMDk4MmM4NzUwZTgxZThmNTBkMGIwM2M4ZGJkNWNhZTE0`
