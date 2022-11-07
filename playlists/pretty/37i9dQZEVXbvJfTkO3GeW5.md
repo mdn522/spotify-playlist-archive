@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 47 | [Stories](https://open.spotify.com/track/5BKzCUmyoURfEZkcKuq8Cg) | [Nightcore High](https://open.spotify.com/artist/1QKDZusfmkgL3rC9IpvxKk), [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Stories](https://open.spotify.com/album/7LbXcatSXWj750APLbZbOW) | 2:49 |
 | 48 | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/track/5Kq2GzvM6XE8zN4RAKKLSf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [Showed Me \(How I Fell In Love With You\)](https://open.spotify.com/album/78MbgfbZml1ZYJ0AUJB1HR) | 3:15 |
 | 49 | [Come As You Are](https://open.spotify.com/track/7cOum6SuMdlmUiUW9IhLU5) | [BELARO](https://open.spotify.com/artist/3XUsaUWtL1t1L2aAq2rwOd) | [THIS IS GON' GET MESSY](https://open.spotify.com/album/3InjNRIR1N0kjlmPYZkhVL) | 3:08 |
-| 50 | [CALM I](https://open.spotify.com/track/5UIAsWBJ11i6Yqfq2e8eVV) | [RELAX YOUR MIND music by Ikson™](https://open.spotify.com/artist/14xqhBm8gkYaCrz41856SO), [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [CALM](https://open.spotify.com/album/210G5V01OiRLcQKp03zMne) | 2:37 |
+| 50 | [CALM VI](https://open.spotify.com/track/0IrC9vu2CygBOT9gXVAbPd) | [RELAX YOUR MIND music by Ikson™](https://open.spotify.com/artist/14xqhBm8gkYaCrz41856SO), [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [CALM](https://open.spotify.com/album/210G5V01OiRLcQKp03zMne) | 4:05 |
 | 51 | [Red Zone](https://open.spotify.com/track/2jpjZgMwtKNMw8w4bh3cE2) | [PUBLIC NOISE](https://open.spotify.com/artist/2rGNEDGPnirB9j9gTYi81L), [F8](https://open.spotify.com/artist/1gv64sk3XGsAmh7B4QSCwa), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Red Zone](https://open.spotify.com/album/6B2odR8wKOMnGGfJrcZSMj) | 3:29 |
 | 52 | [Call on Me \(with SG Lewis\)](https://open.spotify.com/track/08kSDRN3ZUB5V5ba2Rt5KB) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:16 |
 | 53 | [Future History](https://open.spotify.com/track/7cTsPIXO3F2FB3LEqAOiBE) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Future History](https://open.spotify.com/album/2fKZ1KTYzFYdC9Fs5zKgGO) | 3:38 |
 | 54 | [Ordinary People](https://open.spotify.com/track/2rsEfDcLBM65ZgZRxyAUs0) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Ordinary People](https://open.spotify.com/album/4vtNjzYbmXNODsW9y9Chyp) | 2:53 |
 | 55 | [Damage x2](https://open.spotify.com/track/4bUW4s6Uf8JXBabDZOKmFx) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Damage x2](https://open.spotify.com/album/6luRrEChKAJym46oxILspG) | 3:05 |
 
-Snapshot ID: `Mjc3OTE2NDAsMDAwMDAwMDBjYWRjMzRmOWE2M2U5YzA4OWVkZTU4ZGQ0NGM1OWUzZA==`
+Snapshot ID: `Mjc3OTE2NDAsMDAwMDAwMDAwODAyNTYwZGZiMTBhY2NiY2Y3ZDFmOTFlMTFhYzkyMg==`
