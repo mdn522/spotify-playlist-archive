@@ -4,7 +4,7 @@
 
 > Cher Lloyd, Greyson Chance, Zara Larsson and more
 
-2,256 songs - 5 day 0 hr 55 min - not published yet
+2,257 songs - 5 day 0 hr 59 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1374,7 +1374,7 @@
 | [No Ego](https://open.spotify.com/track/5vry5PGDwyFvc6z8l5vqM7) | [Citizen Queen](https://open.spotify.com/artist/2z7BqfKvVlkr8KVAOTBKcz) | [No Ego](https://open.spotify.com/album/1iKLcBxUQM0pYKM8LrP9Pv) | 2:54 | 2022-11-05 | 2022-11-06 |
 | [No Escape](https://open.spotify.com/track/5p7NEjbdm06JY8Ea2yQHNI) | [Stahl](https://open.spotify.com/artist/1Yc7C8ld8ndzPNKh3kUmWU), [Ahxello](https://open.spotify.com/artist/3avjTKhr5ZAxRVGMDs9AeX) | [No Escape](https://open.spotify.com/album/2RMfeyfVhOeR2X0YRO2tMq) | 3:22 | 2022-10-07 | 2022-10-08 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-06-25 | 2022-06-26 |
-| [No Eyes On Me](https://open.spotify.com/track/1C9a3oqFtRfuvtbKG26eqQ) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [No Eyes On Me](https://open.spotify.com/album/2Qr8b8JPgggWtCJbsU9gfB) | 3:21 | 2022-11-06 |  |
+| [No Eyes On Me](https://open.spotify.com/track/1C9a3oqFtRfuvtbKG26eqQ) | [Justin Caruso](https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m) | [No Eyes On Me](https://open.spotify.com/album/2Qr8b8JPgggWtCJbsU9gfB) | 3:21 | 2022-11-06 | 2022-11-11 |
 | [No Good](https://open.spotify.com/track/7j2jFc1LlQLNPRwbjrgXuv) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [No Good](https://open.spotify.com/album/4roqYaI40M8uIbDJd69ZHj) | 3:11 | 2022-07-06 | 2022-11-10 |
 | [No One Compares To You](https://open.spotify.com/track/4cZ3UsiKd1kUQIaq4BFIj2) | [Jack & Jack](https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq) | [A Good Friend Is Nice](https://open.spotify.com/album/0mjAkDF5xXelx7EOUthdRk) | 3:02 | 2022-07-19 | 2022-07-20 |
 | [No Other Way](https://open.spotify.com/track/13uSW8TZFAWfK4MpiKEt9X) | [Celesy](https://open.spotify.com/artist/33bLlvscmHVGCBCJf4630P), [J A](https://open.spotify.com/artist/3scNYbZmtgaCcKrHaUP4JE) | [Spherical Life](https://open.spotify.com/album/2C8fXGN2SIYcsuDGGgL8Va) | 3:28 | 2022-06-02 | 2022-06-20 |
@@ -1601,6 +1601,7 @@
 | [Rhythm & Music](https://open.spotify.com/track/76IDM0eQ6SaxCsSmkVcfZm) | [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Rainbow Boy](https://open.spotify.com/album/4iTf7XzGnEKJkwWmJ5pbYN) | 3:45 | 2022-10-20 | 2022-10-21 |
 | [Ride It \- Nippandab Remix](https://open.spotify.com/track/1HIUUtL86xWbwtFkC8AaNz) | [Jay Sean](https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H), [Nippandab](https://open.spotify.com/artist/6Yti5KSZWOxrpOX9w8qAz0) | [Ride It \(Nippandab Remix\)](https://open.spotify.com/album/7zT8NFJyRwtxiwpisMx49z) | 2:37 | 2022-09-01 | 2022-09-02 |
 | [Right Back](https://open.spotify.com/track/13lUhE5ppZ8srSnaLoK2ky) | [Alexander Popov](https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2), [Whiteout](https://open.spotify.com/artist/35wRsBUrfQziBPzvJTr9bt) | [Right Back](https://open.spotify.com/album/0xIILg9WfVx8mv3rJ68ScU) | 3:29 | 2022-07-30 | 2022-07-31 |
+| [Right Now](https://open.spotify.com/track/6AQkEQ3eszATtw17E0TYQe) | [Nyman](https://open.spotify.com/artist/5uUtgag4eH1FrlbGUz3XgT), [Edgar Sandoval Jr](https://open.spotify.com/artist/1Q8pPoJYMxI69UkONXODr4) | [Right Now](https://open.spotify.com/album/4q9dgSOybyEANfQGEQNuro) | 3:17 | 2022-11-11 |  |
 | [Right There](https://open.spotify.com/track/3PcHDaxSs2WVFedqCIPRiD) | [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Right There](https://open.spotify.com/album/4lUOz5EWkDFrQspIXcRNQo) | 3:14 | 2022-05-24 | 2022-05-25 |
 | [RIP To Us](https://open.spotify.com/track/52gczhu2uZy1nA5Algwlb9) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf), [Willa](https://open.spotify.com/artist/2YE9xDQHXzmnwE8qq6Gqg8) | [RIP To Us](https://open.spotify.com/album/2QxT6vvUDYvqPWCRwFqiyM) | 2:34 | 2022-10-28 | 2022-11-07 |
 | [RIP, Love](https://open.spotify.com/track/4pDenOoD01LCPgkzJgu437) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [CITIZENS](https://open.spotify.com/album/3nh4uK04eRkHyrxIDWEfkp) | 2:53 | 2022-07-04 | 2022-07-10 |

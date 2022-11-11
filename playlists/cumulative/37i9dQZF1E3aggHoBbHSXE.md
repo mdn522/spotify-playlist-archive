@@ -4,7 +4,7 @@
 
 > Varien, Mr FijiWiji, Alex Kade and more
 
-2,455 songs - 5 day 12 hr 14 min - not published yet
+2,456 songs - 5 day 12 hr 17 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -482,7 +482,7 @@
 | [DEAD](https://open.spotify.com/track/4FPZ6Uvme1pfbz58SuqxDC) | [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Faceless](https://open.spotify.com/album/4c0WhpvNSbSSlElNQOqlzU) | 3:29 | 2022-08-24 | 2022-08-25 |
 | [DEAD!NAME](https://open.spotify.com/track/4zcmIKqbkbqcjxuDA42Dgm) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [DEAD!NAME](https://open.spotify.com/album/5ulULGBMg03nfWcdkLp0DW) | 2:08 | 2022-10-29 | 2022-10-30 |
 | [Decay](https://open.spotify.com/track/00dgWfejbYcuwwOJMPMSGC) | [Evalk](https://open.spotify.com/artist/7lDGTfzDEQ8FDkdcV3NtYV) | [Decay](https://open.spotify.com/album/51Como5WzLiixjcyOZ9UBK) | 3:05 | 2022-09-07 | 2022-09-08 |
-| [Deep End](https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:28 | 2022-09-10 |  |
+| [Deep End](https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX) | [William Black](https://open.spotify.com/artist/7d5SfGXKpgS3JK8BFIq59h) | [Pieces](https://open.spotify.com/album/2Mzaihfp9i7m6UO5HSRtHb) | 3:28 | 2022-09-10 | 2022-11-11 |
 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 | 2022-10-19 | 2022-11-08 |
 | [Deeper](https://open.spotify.com/track/4gw7WcP6Fm67jU6nmFrAaD) | [ZIDA](https://open.spotify.com/artist/7nfMjFOi7usk7HzVnSvU1T), [Rat City](https://open.spotify.com/artist/6VSMAVF00xwG8Adoqnbqy6) | [Deeper](https://open.spotify.com/album/63tuC3E9UhHVBMRA2YQjw1) | 2:35 | 2022-08-19 | 2022-08-24 |
 | [Deja Vu](https://open.spotify.com/track/3vmaMeh7wS9zMTkCvRRohE) | [Alissa Janine](https://open.spotify.com/artist/0AgnNnHK0NfGn5CCm1tlbL) | [Deja Vu](https://open.spotify.com/album/30kikXCKHfKlriW4VhZkz1) | 3:22 | 2022-11-05 | 2022-11-06 |
@@ -1013,6 +1013,7 @@
 | [I'm Bad](https://open.spotify.com/track/6fMn1v2wptlNm7xxXZnhI9) | [Mickey Valen](https://open.spotify.com/artist/2tLI4kPsmsxQQv6zr2jbgt), [Sophie Rose](https://open.spotify.com/artist/7zVoS1SW2Btj5qRbtlKuyp) | [I'm Bad](https://open.spotify.com/album/725QsQpibLNe5GkLdXPO7F) | 3:13 | 2022-08-31 | 2022-10-06 |
 | [I'm Coming](https://open.spotify.com/track/4C6EPWGYM3K3IIv4xzPL2X) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Studio It’s Hits](https://open.spotify.com/album/7drDl79PNee5k9jR4R0EOr) | 3:16 | 2022-07-05 | 2022-07-06 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/5xk3iZlyYSurXmanrktlgs) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/0wrlgAW7tetQG2L3sy2wkN) | 2:55 | 2022-09-15 | 2022-09-19 |
+| [I'm Good \(Blue\) \- R3HAB Remix](https://open.spotify.com/track/4NPJY8yFbu6YpgsgsKiEu1) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [I'm Good \(Blue\) \[R3HAB Remix\]](https://open.spotify.com/album/6AfmSVeDixYeFopfuJK0DH) | 2:47 | 2022-11-11 |  |
 | [I'm In Love](https://open.spotify.com/track/5HIZRbVjnt6JmGcuBOU2JI) | [TYABA](https://open.spotify.com/artist/4Qr5wQSvtOSnzRu9nqNqNQ), [AVADOX](https://open.spotify.com/artist/4onh4VusnrHG1sUP3G2shd) | [I'm In Love](https://open.spotify.com/album/4iDrscsKSxbsiFkTpvmHGx) | 2:56 | 2022-08-10 | 2022-08-11 |
 | [I'm In Love With A German Film Star](https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81) | [The Passions](https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3) | [Thirty Thousand Feet Over China](https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH) | 4:01 | 2022-07-13 | 2022-07-14 |
 | [I'm In Love With a Monster](https://open.spotify.com/track/0hO71r8vbnrXSaXVrR9ptF) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [I'm In Love With a Monster](https://open.spotify.com/album/2dtuSIjyjRU6ynxCxayLbO) | 3:31 | 2022-07-29 | 2022-07-30 |
