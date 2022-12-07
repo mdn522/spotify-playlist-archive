@@ -108,6 +108,32 @@
         },
         {
             "album": {
+                "name": "Mal De Amores",
+                "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+            },
+            "artists": [
+                {
+                    "name": "Sofia Reyes",
+                    "url": "https://open.spotify.com/artist/0LdGzhvflp0SgBGf9K4Vkf"
+                },
+                {
+                    "name": "Jason Derulo",
+                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+                },
+                {
+                    "name": "De La Ghetto",
+                    "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+                }
+            ],
+            "date_added": "2022-07-18",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 201526,
+            "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+            "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
+        },
+        {
+            "album": {
                 "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
                 "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
             },
@@ -131,32 +157,6 @@
             "duration_ms": 201526,
             "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
             "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
-        },
-        {
-            "album": {
-                "name": "Mal De Amores",
-                "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-            },
-            "artists": [
-                {
-                    "name": "Sofía Reyes",
-                    "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-                },
-                {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-                },
-                {
-                    "name": "De La Ghetto",
-                    "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-                }
-            ],
-            "date_added": "2022-07-18",
-            "date_added_asterisk": false,
-            "date_removed": null,
-            "duration_ms": 201526,
-            "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-            "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
         },
         {
             "album": {
@@ -339,7 +339,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 194824,
             "name": "A Contracorriente",
             "url": "https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk"
@@ -445,7 +445,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-05",
+            "date_removed": null,
             "duration_ms": 167218,
             "name": "Acércate",
             "url": "https://open.spotify.com/track/26lQpQ4qsnVrH6QjDwrzUZ"
@@ -517,7 +517,7 @@
             ],
             "date_added": "2022-06-07",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-02",
+            "date_removed": null,
             "duration_ms": 130143,
             "name": "Adiós",
             "url": "https://open.spotify.com/track/5MUZhMWlbypeWFeRY4sE2l"
@@ -557,7 +557,7 @@
             ],
             "date_added": "2022-09-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 177626,
             "name": "Aeropuerto",
             "url": "https://open.spotify.com/track/4v7riPZWyAclrOfUSwD0zp"
@@ -915,7 +915,7 @@
             ],
             "date_added": "2022-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 146133,
             "name": "Amigos",
             "url": "https://open.spotify.com/track/0opSeJdqFHa0iNGqJ3DtmE"
@@ -1089,7 +1089,7 @@
             ],
             "date_added": "2022-06-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 128432,
             "name": "Aquí Estoy",
             "url": "https://open.spotify.com/track/0AjWPhrgNzEAO7FTnQIlEf"
@@ -1587,7 +1587,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-04",
+            "date_removed": null,
             "duration_ms": 161880,
             "name": "BAILÉ CON MI EX",
             "url": "https://open.spotify.com/track/2Td8H23gwQZqKubcUOyCSI"
@@ -1627,7 +1627,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 170862,
             "name": "Baloncito Viejo",
             "url": "https://open.spotify.com/track/0lJHI1i4EQyTsf3uVTU3sq"
@@ -1787,7 +1787,7 @@
             ],
             "date_added": "2022-08-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-03",
+            "date_removed": null,
             "duration_ms": 154020,
             "name": "BBB",
             "url": "https://open.spotify.com/track/6210ziGEzjh0YY2y9JlGfi"
@@ -1827,7 +1827,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 160177,
             "name": "Bella Ciao",
             "url": "https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl"
@@ -1939,7 +1939,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-06-25",
+            "date_removed": null,
             "duration_ms": 203631,
             "name": "Beso",
             "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
@@ -2079,7 +2079,7 @@
             ],
             "date_added": "2022-06-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 224760,
             "name": "BOBO",
             "url": "https://open.spotify.com/track/52wspfpsfPcsw7pw8dnQyM"
@@ -2097,7 +2097,7 @@
             ],
             "date_added": "2022-12-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 172626,
             "name": "Bonita",
             "url": "https://open.spotify.com/track/6XwtI61NZnkhmclCwC4hbu"
@@ -2223,7 +2223,7 @@
             ],
             "date_added": "2022-08-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 219750,
             "name": "Borracho",
             "url": "https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns"
@@ -2343,7 +2343,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 158173,
             "name": "BUEN DIA",
             "url": "https://open.spotify.com/track/3kI2StwSS4yAl7wdeIXZ8x"
@@ -2713,7 +2713,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 245755,
             "name": "Cambia el Paso",
             "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
@@ -3009,7 +3009,7 @@
             ],
             "date_added": "2022-07-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 203160,
             "name": "Casi Nada - Nando Pro Remix",
             "url": "https://open.spotify.com/track/4Km94jtgvJXPOAfXZxLBJM"
@@ -4215,7 +4215,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-05",
+            "date_removed": null,
             "duration_ms": 155956,
             "name": "De Una Vez",
             "url": "https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu"
@@ -4259,7 +4259,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 214506,
             "name": "Del Mar",
             "url": "https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8"
@@ -5337,7 +5337,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-05",
+            "date_removed": null,
             "duration_ms": 184134,
             "name": "Dámelo To’ (feat. Myke Towers)",
             "url": "https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl"
@@ -5641,7 +5641,7 @@
             ],
             "date_added": "2022-08-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 170396,
             "name": "El Que Espera",
             "url": "https://open.spotify.com/track/5fgbdhfoZMFgqdWUZR81lZ"
@@ -5947,7 +5947,7 @@
             ],
             "date_added": "2022-11-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-21",
+            "date_removed": null,
             "duration_ms": 148577,
             "name": "Faking Love (feat. Saweetie)",
             "url": "https://open.spotify.com/track/63IC8gaszSBCasV9THojiT"
@@ -6109,7 +6109,7 @@
             ],
             "date_added": "2022-10-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-05",
+            "date_removed": null,
             "duration_ms": 187480,
             "name": "Ferrari",
             "url": "https://open.spotify.com/track/3Ydc6aIUWfsL7Kf618lA2e"
@@ -6613,7 +6613,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-11",
+            "date_removed": null,
             "duration_ms": 220659,
             "name": "GIRL LIKE ME",
             "url": "https://open.spotify.com/track/2vBET2pmrQqafaS6zIaYta"
@@ -7054,6 +7054,36 @@
         },
         {
             "album": {
+                "name": "Hayabusa",
+                "url": "https://open.spotify.com/album/6BCk0tyiyoBnMrpZHl7OEv"
+            },
+            "artists": [
+                {
+                    "name": "Nicole Manzo",
+                    "url": "https://open.spotify.com/artist/2xMWVkr64dpJLZY8LRGUdb"
+                },
+                {
+                    "name": "Dixson Waz",
+                    "url": "https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt"
+                },
+                {
+                    "name": "DaChoyce",
+                    "url": "https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl"
+                },
+                {
+                    "name": "Morry",
+                    "url": "https://open.spotify.com/artist/1CXa8YMTen75u0n1rvtk0u"
+                }
+            ],
+            "date_added": "2022-12-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 187706,
+            "name": "Hayabusa",
+            "url": "https://open.spotify.com/track/5PSnKbioUF82HIEJct1ZQz"
+        },
+        {
+            "album": {
                 "name": "Euphoria (Standard US/Latin version)",
                 "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
             },
@@ -7205,7 +7235,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-04",
+            "date_removed": null,
             "duration_ms": 218093,
             "name": "Hips Don't Lie (feat. Wyclef Jean)",
             "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -8083,7 +8113,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 162637,
             "name": "La Bachata",
             "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
@@ -8127,7 +8157,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-03",
+            "date_removed": null,
             "duration_ms": 178266,
             "name": "La Cintura (feat. Flo Rida & Tini) - Remix",
             "url": "https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX"
@@ -8479,7 +8509,7 @@
             ],
             "date_added": "2022-07-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 204414,
             "name": "La Niña de la Escuela",
             "url": "https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj"
@@ -8689,7 +8719,7 @@
             ],
             "date_added": "2022-09-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 220666,
             "name": "Las de la Intuición",
             "url": "https://open.spotify.com/track/3uU6dqBjVKRTPis0RrTaT4"
@@ -9779,7 +9809,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 188333,
             "name": "Mal de Amores",
             "url": "https://open.spotify.com/track/4AzTk75T9EQtHaGNWU3UY5"
@@ -9841,7 +9871,7 @@
             ],
             "date_added": "2022-10-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-22",
+            "date_removed": null,
             "duration_ms": 165180,
             "name": "Mala Memoria",
             "url": "https://open.spotify.com/track/0VrNhgWBopuPQfJXCKlltI"
@@ -10013,7 +10043,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-06",
+            "date_removed": null,
             "duration_ms": 204064,
             "name": "Mamacita (feat. Farruko)",
             "url": "https://open.spotify.com/track/7iwhbx1YQcQ675DTj6AmAb"
@@ -10419,7 +10449,7 @@
             ],
             "date_added": "2022-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 163500,
             "name": "Me Estoy Pillando",
             "url": "https://open.spotify.com/track/6ePpBknmBL6dUcjbbUgoUi"
@@ -10507,7 +10537,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-26",
+            "date_removed": null,
             "duration_ms": 181573,
             "name": "ME PASE (feat. Farruko)",
             "url": "https://open.spotify.com/track/3mB3WRpKN8tTX7bI9qJIJb"
@@ -12117,7 +12147,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 209883,
             "name": "Nostálgico",
             "url": "https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e"
@@ -12223,7 +12253,7 @@
             ],
             "date_added": "2022-07-13",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-18",
+            "date_removed": null,
             "duration_ms": 203680,
             "name": "Nunca y Pico",
             "url": "https://open.spotify.com/track/0GcToAAsQocPVkbVvsORj1"
@@ -12267,7 +12297,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 203652,
             "name": "Oh Na Na",
             "url": "https://open.spotify.com/track/03NqHNdG3Ur6kciQWK6e8V"
@@ -12391,7 +12421,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 152110,
             "name": "Ojos Rojos",
             "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
@@ -12929,7 +12959,7 @@
             ],
             "date_added": "2022-08-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 204695,
             "name": "Paro",
             "url": "https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR"
@@ -13107,7 +13137,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-04",
+            "date_removed": null,
             "duration_ms": 287120,
             "name": "Pepas",
             "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
@@ -13505,7 +13535,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-06",
+            "date_removed": null,
             "duration_ms": 184506,
             "name": "PROBLEMA",
             "url": "https://open.spotify.com/track/2dl5K2ScW7jYhAhuem06cm"
@@ -13897,7 +13927,7 @@
             ],
             "date_added": "2022-07-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 218274,
             "name": "Qué Rico Fuera",
             "url": "https://open.spotify.com/track/7Bd1mIvqRkIXTPAzw2wBmT"
@@ -14363,7 +14393,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 201940,
             "name": "Rotate",
             "url": "https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs"
@@ -14787,7 +14817,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-04",
+            "date_removed": null,
             "duration_ms": 168648,
             "name": "Selfish Love (with Selena Gomez)",
             "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
@@ -14813,7 +14843,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 153442,
             "name": "Selfish Love (with Selena Gomez) - Tiësto Remix",
             "url": "https://open.spotify.com/track/2IDBh3Nuej2wFUk2JmWEmQ"
@@ -15129,7 +15159,7 @@
             ],
             "date_added": "2022-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 153493,
             "name": "Si una Vez",
             "url": "https://open.spotify.com/track/6vrVXV89q3LKQtUhedVLOZ"
@@ -15203,7 +15233,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-05",
+            "date_removed": null,
             "duration_ms": 159386,
             "name": "Sigue",
             "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
@@ -15243,7 +15273,7 @@
             ],
             "date_added": "2022-09-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 234666,
             "name": "Sin Fin",
             "url": "https://open.spotify.com/track/4BBTalxG6c1Aoai1x1EA5g"
@@ -15499,7 +15529,7 @@
             ],
             "date_added": "2022-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 218865,
             "name": "Soy Yo",
             "url": "https://open.spotify.com/track/20Ca0pIyUwu9jIUJ2sr5cg"
@@ -15740,6 +15770,24 @@
         },
         {
             "album": {
+                "name": "Sol",
+                "url": "https://open.spotify.com/album/2cizw1XcPbsvih0hfJ8ydi"
+            },
+            "artists": [
+                {
+                    "name": "¿Téo?",
+                    "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+                }
+            ],
+            "date_added": "2022-12-07",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 152967,
+            "name": "Suplicar",
+            "url": "https://open.spotify.com/track/286XkmMVdnPWMvQu0F9XjK"
+        },
+        {
+            "album": {
                 "name": "Sus Huellas",
                 "url": "https://open.spotify.com/album/3dlSb1l960OG7kjmPvirXU"
             },
@@ -15871,7 +15919,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-06",
+            "date_removed": null,
             "duration_ms": 189333,
             "name": "Tacones Rojos",
             "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
@@ -16177,7 +16225,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-03",
+            "date_removed": null,
             "duration_ms": 246850,
             "name": "Te Espero",
             "url": "https://open.spotify.com/track/46GsFW8AFIvi8TUDlYRlXR"
@@ -16529,7 +16577,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-03",
+            "date_removed": null,
             "duration_ms": 165818,
             "name": "The Carnival",
             "url": "https://open.spotify.com/track/1A7lwaWzcPtflW1bvrrvDJ"
@@ -16581,7 +16629,7 @@
             ],
             "date_added": "2022-10-27",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-29",
+            "date_removed": null,
             "duration_ms": 226120,
             "name": "Tiempo",
             "url": "https://open.spotify.com/track/79wZgmcWFMYPjV6Ty58t8b"
@@ -17471,7 +17519,7 @@
             ],
             "date_added": "2022-11-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-11-19",
+            "date_removed": null,
             "duration_ms": 203840,
             "name": "Un Reel",
             "url": "https://open.spotify.com/track/5br09BQU134gRX5M6HMnmr"
@@ -17693,7 +17741,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-01",
+            "date_removed": null,
             "duration_ms": 155013,
             "name": "Vacaciones",
             "url": "https://open.spotify.com/track/467430y6SLd7RXLzBWivQv"
@@ -17889,7 +17937,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-07",
             "duration_ms": 160141,
             "name": "Vicio",
             "url": "https://open.spotify.com/track/3fi1xpGiyg5bRs64gJSak5"
@@ -18027,7 +18075,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-06",
+            "date_removed": null,
             "duration_ms": 198130,
             "name": "Voodoo (with J Balvin & Tainy)",
             "url": "https://open.spotify.com/track/4OUAXw3SXI7bUiNtKC7ErW"
@@ -18227,7 +18275,7 @@
             ],
             "date_added": "2022-07-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-03",
+            "date_removed": null,
             "duration_ms": 156633,
             "name": "Whenever, Wherever - Pepsi Super Bowl LIV Halftime Show Remix",
             "url": "https://open.spotify.com/track/59QI3gSnv576kHyV4Jqt36"
