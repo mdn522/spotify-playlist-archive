@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 6 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 |
 | 7 | [Dove Machine](https://open.spotify.com/track/4EmBeqpvfiox2LfXd64gOI) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Dove Machine](https://open.spotify.com/album/7c6HGep00Z7lWBvEuA8Pza) | 3:22 |
 | 8 | [White Lights](https://open.spotify.com/track/3M7SVSK8CzNqjPB2lYczHf) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [White Lights](https://open.spotify.com/album/0KIyjnOKQYx2W0Ho9ixvlZ) | 3:11 |
-| 9 | [Stargazing](https://open.spotify.com/track/5ExTuq6ITEuqjLyaTRdGV9) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Stargazing](https://open.spotify.com/album/75Mm8057FW9n50wJgQ5EFS) | 3:44 |
+| 9 | [Burn Them All](https://open.spotify.com/track/08hddBiquag9StEQ6TqGEk) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat VIII](https://open.spotify.com/album/3UPEs0DZHkiNPG96WpQi38) | 4:31 |
 | 10 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 |
 | 11 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 |
 | 12 | [Follow \- Danny Burg Remix](https://open.spotify.com/track/49w6u11Uht4EjWt1Cmg8B6) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf) | [Follow \(Danny Burg Remix\)](https://open.spotify.com/album/5jzVxHfOjfiIcqdtatA2p1) | 2:41 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 39 | [Human Touch](https://open.spotify.com/track/14nKLsG6r0gzPM0DxdThxU) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Human Touch](https://open.spotify.com/album/0yU4jCNMcueYmeCkADsl7i) | 3:17 |
 | 40 | [Hold Me Closer \- Acoustic](https://open.spotify.com/track/5kXZv2JwuZ0qgqNalgwvJt) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Hold Me Closer \(Acoustic\)](https://open.spotify.com/album/1vN546nWNaesS0pAAL017l) | 3:22 |
 
-Snapshot ID: `Mjc4NDIwNDAsMDAwMDAwMDAzNjRiM2VjMDQ4Njc5NGVlZTk2YmYxNDI3ODYzNmI1Ng==`
+Snapshot ID: `Mjc4NDIwNDAsMDAwMDAwMDBlMWRjYjU2YzMzYjc5ZWY4NTQxNGNmYWUyNjJmM2Y3ZA==`
