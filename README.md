@@ -24,6 +24,7 @@
 - [Happy Mix](/playlists/pretty/37i9dQZF1EVJSvZp5AOML2.md)
 - [Hindi Mix](/playlists/pretty/37i9dQZF1EQr37EUzZ1Yhg.md)
 - [House Mix](/playlists/pretty/37i9dQZF1EQpoj8u9Hn81e.md)
+- [Indie Mix](/playlists/pretty/37i9dQZF1EQqkOPvHGajmW.md)
 - [J\-Pop Mix](/playlists/pretty/37i9dQZF1EQoowv2cDraCW.md)
 - [K\-Pop Mix](/playlists/pretty/37i9dQZF1EQpesGsmIyqcW.md)
 - [Latin Mix](/playlists/pretty/37i9dQZF1EQmK1rjZuPGDt.md)
