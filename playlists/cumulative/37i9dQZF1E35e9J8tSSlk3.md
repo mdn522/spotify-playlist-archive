@@ -4,7 +4,7 @@
 
 > Alexandra Stan, Holy Molly, Andrei Vitan and more
 
-3,477 songs - 7 day 22 hr 41 min - not published yet
+3,478 songs - 7 day 22 hr 45 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -722,6 +722,7 @@
 | [Demons \(ft\. Georgia Ku\)](https://open.spotify.com/track/365ekCu1sHeqcHUmck4etz) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Demons \(ft\. Georgia Ku\)](https://open.spotify.com/album/21T8IkyyGZR80GXfHDcfpz) | 2:46 | 2022-10-14 | 2022-10-15 |
 | [Den Ehi Sidera I Kardia Sou](https://open.spotify.com/track/2jvv8kMmxYgZKH0bhJ25J5) | [Sakis Rouvas](https://open.spotify.com/artist/0VuyN0xzSqykiDB2MxihTe) | [Kati Apo Mena](https://open.spotify.com/album/04gq9BQjhC9VPuqbNRCxjG) | 3:35 | 2022-07-06 | 2022-07-07 |
 | [Departure to the Front Lines of Our Heart](https://open.spotify.com/track/4WPNCbXvTR6OtyTvq7Fkq8) | [Aurora B.Polaris](https://open.spotify.com/artist/5ijyJAflvGUkt5ctox73gf) | [The Vault](https://open.spotify.com/album/0Y3ErWvQUMCtyGV6k1rv2n) | 4:35 | 2022-10-04 | 2022-12-13 |
+| [Dependent](https://open.spotify.com/track/3UKUckFUg3r2tgjFdXMRwc) | [Deepcentral](https://open.spotify.com/artist/3nb1Shr27xrUiZoTW8J3vy) | [Dependent](https://open.spotify.com/album/1uV5EQS79cLX2lt8ljYYLo) | 3:25 | 2022-12-24 |  |
 | [Dependența Mea](https://open.spotify.com/track/0LbiJlmdNm41C1HwuIVn2v) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Déjà Vu](https://open.spotify.com/album/5DtBZqKrq957kMpWr08nlq) | 3:03 | 2022-06-19 | 2022-06-20 |
 | [Deriva](https://open.spotify.com/track/4wRQqBWPaqH6HhcdWNPbM2) | [Seredinschi](https://open.spotify.com/artist/4NMtBs4MtGabW06bo0JlMN), [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy) | [Deriva](https://open.spotify.com/album/5vxajXTM4qDtP4wp8SkA82) | 2:41 | 2022-06-06 | 2022-06-07 |
 | [Descriptions](https://open.spotify.com/track/2lw0GB56pFGBD5SguWLL6s) | [RYYZN](https://open.spotify.com/artist/54YpMpAIJC7FV2toZvVo5f) | [Descriptions](https://open.spotify.com/album/2BiOo3dYjCpYXjkrSKKVuN) | 2:54 | 2022-07-28 | 2022-07-29 |
@@ -3061,7 +3062,7 @@
 | [To The Weekend](https://open.spotify.com/track/1kQRnSPcb9BH8ksgXDidEU) | [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [To The Weekend](https://open.spotify.com/album/75YUzIWyg0p5v8AThcLVvm) | 3:57 | 2022-09-10 | 2022-09-11 |
 | [Toata noaptea](https://open.spotify.com/track/4lC2rmlMug4B4FeaeZ2Ya1) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Toata noaptea](https://open.spotify.com/album/3fv0w88F34D9g8R7pvdXnd) | 2:46 | 2022-06-09 | 2022-12-23 |
 | [Toata noaptea \- Speed Up Version](https://open.spotify.com/track/1oC66EklXMiASkqHwXBsQU) | [Juno](https://open.spotify.com/artist/2oCQSda6vA1t27B5RWXYwb), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Toata noaptea \(Speed Up Version\)](https://open.spotify.com/album/4bx8OGgOEw7OKYT7OCW4uv) | 2:33 | 2022-10-29 | 2022-10-30 |
-| [Toate piesele de dragoste \- From "Romina VTM" The Movie](https://open.spotify.com/track/5tkhfHxxnRXnaV0k0uPYXv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Toate piesele de dragoste \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/6PQtTXxUrCsJnfOBZ0GrX9) | 2:54 | 2022-12-23 |  |
+| [Toate piesele de dragoste \- From "Romina VTM" The Movie](https://open.spotify.com/track/5tkhfHxxnRXnaV0k0uPYXv) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Toate piesele de dragoste \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/6PQtTXxUrCsJnfOBZ0GrX9) | 2:54 | 2022-12-23 | 2022-12-24 |
 | [Token](https://open.spotify.com/track/1nei1kX6dmWSNMZYGFMSIz) | [Roma Radz](https://open.spotify.com/artist/0jMSOegqRuQmeHo2EAZtud) | [Token](https://open.spotify.com/album/6bWwQVghkoqH6dh0qeL5gV) | 3:13 | 2022-07-16 | 2022-07-17 |
 | [Tokyo](https://open.spotify.com/track/3nYfOeJJ3HJ6kmZW8OR6aS) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Rainbows](https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm) | 3:02 | 2022-08-22 |  |
 | [Tokyo](https://open.spotify.com/track/4ML8cSuk6T0dFFbgfY0BiA) | [Caroline Kole](https://open.spotify.com/artist/3kmXbS3akWikVvZNGpYEvu) | [QUEEN](https://open.spotify.com/album/2JIKEfeHQDXIdlcV70tCWu) | 2:50 | 2022-06-02 | 2022-10-18 |
