@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 45 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 45 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 4 | [Call On Me \(with Tove Lo\) \- SG's Dub Edit](https://open.spotify.com/track/4cAESz6WLbrrpTvR3Confo) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Call On Me \(with Tove Lo\) \[SG's Dub Edit\]](https://open.spotify.com/album/2Vv75hiDNkC3Te9FEUMRIC) | 5:49 |
 | 5 | [Atmos](https://open.spotify.com/track/4xU6ffjSMcVAbzmHTlqTfv) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat XVIII](https://open.spotify.com/album/5Un8Z6OvTjj2DKLoBWdFMP) | 5:17 |
 | 6 | [Sunt a nimănui \- Live @ Carusel](https://open.spotify.com/track/0ABUwgh3vXAVEQdL5mKwig) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Live @ Carusel](https://open.spotify.com/album/1OFrNqTOdzmDOkiCt2Gl8h) | 4:09 |
-| 7 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 |
+| 7 | [The Songcord](https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b) | [Zoe Saldana](https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 3:19 |
 | 8 | [christmas song \(sad\)](https://open.spotify.com/track/3fVLR4r0E8oUkaYfXSLBMA) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [christmas song \(sad\)](https://open.spotify.com/album/7smtGPlk6iNv4K266LASKJ) | 3:06 |
 | 9 | [Toate piesele de dragoste \- From "Romina VTM" The Movie](https://open.spotify.com/track/1WaHFZWgBMEpNhWK9ACIgn) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Nopțile nedormite \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/5dd4l3jUXFMZZlGAwAWPsa) | 2:54 |
 | 10 | [Lullaby](https://open.spotify.com/track/2vRnhvtOabg5VB62GNL1Yt) | [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu) | [Lullaby](https://open.spotify.com/album/3Z2uL5tXj888cAHmmjX16j) | 3:20 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 44 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 |
 | 45 | [Dirty](https://open.spotify.com/track/5lQUBAFpXGFxw5BQTkm5XC) | [BELARO](https://open.spotify.com/artist/3XUsaUWtL1t1L2aAq2rwOd) | [Dirty](https://open.spotify.com/album/6cZgbtu2aTocvmwogYnhcx) | 2:27 |
 
-Snapshot ID: `Mjc4NjIyMDAsMDAwMDAwMDBlYmQyMTc4ZDVjNzM3MWUyODYwODA5MjhhYjc2MDYzOA==`
+Snapshot ID: `Mjc4NjIyMDAsMDAwMDAwMDBlY2RlNzNhM2I1MjEyNmY4NGI0NjFjNTg4ZTA5M2EzNQ==`

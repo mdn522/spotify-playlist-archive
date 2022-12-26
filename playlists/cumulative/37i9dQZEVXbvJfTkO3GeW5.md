@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-679 songs - 1 day 21 hr 55 min - not published yet
+680 songs - 1 day 21 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Not Another Rockstar](https://open.spotify.com/track/43pulC9QdGwabXUtVHYnjY) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Not Another Rockstar](https://open.spotify.com/album/1kiowmIzvFyO1hXi1Wyqkn) | 2:29 | 2022-10-06 | 2022-10-14 |
 | [Not Out Of My Mind](https://open.spotify.com/track/48olh1fkdeJ969VReS4Dpm) | [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Not Out Of My Mind](https://open.spotify.com/album/4k28iXssKcndhpwdvNhyeu) | 2:34 | 2022-08-11 | 2022-09-02 |
 | [Nothing Compares 2 U \- Live Session](https://open.spotify.com/track/6IRNyX0pyy8yfty0jkRMDY) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT) | [Nothing Compares 2 U \(Live Session\)](https://open.spotify.com/album/7BUYABPKmG8h4r0zP9E5Av) | 2:56 | 2022-05-26 | 2022-06-25 |
-| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-22 |  |
+| [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 | 2022-12-22 | 2022-12-26 |
 | [Nothing to Lose](https://open.spotify.com/track/5OpEhKpaybK0hRwrq1yXEE) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [Nothing to Lose](https://open.spotify.com/album/1uCGYnhs8ZtHHzkI5ribT2) | 3:02 | 2022-10-20 | 2022-10-28 |
 | [Now](https://open.spotify.com/track/63UPfd5dpbpUdOdIBndtqw) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Now](https://open.spotify.com/album/1ffgA3s4Bb0A9MJj85QFIw) | 3:40 | 2022-09-15 | 2022-09-25 |
 | [Now That You're Gone \- Kaskobi Remix](https://open.spotify.com/track/28sVx0TwxaUkatk5nvIkvW) | [Noisestorm](https://open.spotify.com/artist/4WCPtOijUESdegVr4sjEhl), [Kaskobi](https://open.spotify.com/artist/0l2p1rwzUqwb8VvkGTxfUS), [CRT Weekend](https://open.spotify.com/artist/01KY2VuEVkpeuZl5kpKZjz) | [Now That You're Gone](https://open.spotify.com/album/4oDnyXYzj0Fxgy23XzYKJD) | 3:07 | 2022-10-20 | 2022-10-22 |
@@ -586,6 +586,7 @@
 | [The One](https://open.spotify.com/track/5dAInHdF68htTEY2ZHwYCE) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [The One](https://open.spotify.com/album/6nYcfNF5D8bFm6Ie8CRvKe) | 3:03 | 2022-06-16 | 2022-07-16 |
 | [The One \- Bastone & Burnz Radio Mix](https://open.spotify.com/track/2119XWjjc2pyg4LxHxpTF8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Then \(20th Anniversary Edition\)](https://open.spotify.com/album/1V55l3MrGqxsAjN74uGGD5) | 3:47 | 2022-11-24 | 2022-12-09 |
 | [The Smallest Thing](https://open.spotify.com/track/1tACfBRItwgU4fki7BZ7RT) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [The Smallest Thing](https://open.spotify.com/album/5wYIhCjLymUSKysOGr59Vc) | 6:41 | 2022-10-06 | 2022-10-08 |
+| [The Songcord](https://open.spotify.com/track/43uFqqDlSL5YhKcPnzJi4b) | [Zoe Saldana](https://open.spotify.com/artist/6p59yGapoBAiuGKKu7Plw1) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 3:19 | 2022-12-22 |  |
 | [The Sun & The Ocean](https://open.spotify.com/track/7v7LJMBbvWOtBWP26B0b8u) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [The Sun & The Ocean](https://open.spotify.com/album/0mlUjuOPReK0brnRD3QPLz) | 3:14 | 2022-06-30 | 2022-07-31 |
 | [The Universe Sings to Me in Northern Lights](https://open.spotify.com/track/5khM7xHoqYwH2fQf1CNRtn) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [The Universe Sings to Me in Northern Lights](https://open.spotify.com/album/1kigmEiPQtN72iwA3w1nog) | 9:40 | 2022-10-06 | 2022-10-14 |
 | [The Way Of Life](https://open.spotify.com/track/254VuN6rzjvd0DsEubgIsh) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [The Way Of Life](https://open.spotify.com/album/3aOASwgWaXqTy8vm2CVpZR) | 4:08 | 2022-11-24 | 2022-12-09 |

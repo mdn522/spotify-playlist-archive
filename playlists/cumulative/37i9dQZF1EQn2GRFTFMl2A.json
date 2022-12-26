@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIY3EwqYdTyae>Darude</a>, <a href=spotify:playlist:37i9dQZF1EIZvbvrhfHXQ5>Daft Punk</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZvbvrhfHXQ5>Daft Punk</a>, <a href=spotify:playlist:37i9dQZF1EIY3EwqYdTyae>Darude</a> and more",
     "name": "90s Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -277,7 +277,7 @@
             ],
             "date_added": "2022-10-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-18",
+            "date_removed": null,
             "duration_ms": 231000,
             "name": "2 Times",
             "url": "https://open.spotify.com/track/4abEcEslcRjBS6xSZh9naQ"
@@ -371,7 +371,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 193906,
             "name": "9 PM (Till I Come)",
             "url": "https://open.spotify.com/track/57RA0OQtgapOijr0C4f0Bg"
@@ -639,7 +639,7 @@
             ],
             "date_added": "2022-12-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 243493,
             "name": "A Whole New World (Aladdin's Theme)",
             "url": "https://open.spotify.com/track/4tS8xQfyPGc7f4lJ1JP6BX"
@@ -1221,7 +1221,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-24",
+            "date_removed": null,
             "duration_ms": 312306,
             "name": "All By Myself",
             "url": "https://open.spotify.com/track/0gsl92EMIScPGV1AU35nuD"
@@ -3275,7 +3275,7 @@
             ],
             "date_added": "2022-10-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-11",
+            "date_removed": null,
             "duration_ms": 221186,
             "name": "Beautiful Life",
             "url": "https://open.spotify.com/track/74jTexO94dFGyXGyeu8krd"
@@ -3315,7 +3315,7 @@
             ],
             "date_added": "2022-12-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 249240,
             "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
             "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
@@ -3413,7 +3413,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 397133,
             "name": "Beep Street",
             "url": "https://open.spotify.com/track/4ygcdmPyBFEaf25SEEsKrz"
@@ -3591,7 +3591,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 214883,
             "name": "Better Off Alone",
             "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
@@ -3851,7 +3851,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 255546,
             "name": "Bla Bla Bla",
             "url": "https://open.spotify.com/track/04zrPERrSO4CfyargthKJ9"
@@ -3999,7 +3999,7 @@
             ],
             "date_added": "2022-10-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 283747,
             "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
             "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
@@ -4992,6 +4992,24 @@
         },
         {
             "album": {
+                "name": "The Mission",
+                "url": "https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB"
+            },
+            "artists": [
+                {
+                    "name": "Captain Jack",
+                    "url": "https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 248533,
+            "name": "Captain Jack - Short Mix",
+            "url": "https://open.spotify.com/track/2L5FEDC0MU2a6OEkLjByEd"
+        },
+        {
+            "album": {
                 "name": "Caribbean Blue",
                 "url": "https://open.spotify.com/album/0drAXE2TkbZhrj2HBB4bOc"
             },
@@ -5431,7 +5449,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-19",
+            "date_removed": null,
             "duration_ms": 243266,
             "name": "Children",
             "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
@@ -6798,6 +6816,24 @@
         },
         {
             "album": {
+                "name": "Das Boot",
+                "url": "https://open.spotify.com/album/182zfpTz3imgGrnli7vrfc"
+            },
+            "artists": [
+                {
+                    "name": "U96",
+                    "url": "https://open.spotify.com/artist/0RhnKJThw36HFitqY6dYgd"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 314000,
+            "name": "Das Boot",
+            "url": "https://open.spotify.com/track/5A3IdgGphzKS2etiGFB73S"
+        },
+        {
+            "album": {
                 "name": "Das Boot (V2)",
                 "url": "https://open.spotify.com/album/5JY9tfepIv1QaDUMRLUfWc"
             },
@@ -7835,7 +7871,7 @@
             ],
             "date_added": "2022-10-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 240666,
             "name": "Doo Wop (That Thing) - Edit",
             "url": "https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls"
@@ -8863,7 +8899,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 219866,
             "name": "Every Morning",
             "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
@@ -9734,6 +9770,24 @@
         },
         {
             "album": {
+                "name": "The Fat of the Land",
+                "url": "https://open.spotify.com/album/3mhYFpalEuPsDlGC9kJBlZ"
+            },
+            "artists": [
+                {
+                    "name": "The Prodigy",
+                    "url": "https://open.spotify.com/artist/4k1ELeJKT1ISyDv8JivPpB"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 279800,
+            "name": "Firestarter",
+            "url": "https://open.spotify.com/track/0jfIKxadwiOFFvgjShOXaA"
+        },
+        {
+            "album": {
                 "name": "First Love",
                 "url": "https://open.spotify.com/album/29U9LtzSF0ftWiLNNw1CP6"
             },
@@ -9977,7 +10031,7 @@
             ],
             "date_added": "2022-10-04",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-11",
+            "date_removed": null,
             "duration_ms": 226933,
             "name": "Flying High - Radio Mix",
             "url": "https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa"
@@ -10143,7 +10197,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 407133,
             "name": "Forget About The World - Daft Punk Mix",
             "url": "https://open.spotify.com/track/5hTZLevoOrR0dGyVqURLNn"
@@ -10467,7 +10521,7 @@
             ],
             "date_added": "2022-12-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-23",
+            "date_removed": null,
             "duration_ms": 276346,
             "name": "From a Distance",
             "url": "https://open.spotify.com/track/48eiLW57CqSmCYNZRM2J8M"
@@ -10507,7 +10561,7 @@
             ],
             "date_added": "2022-12-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 235106,
             "name": "From This Moment On - Pop On-Tour Version",
             "url": "https://open.spotify.com/track/0vswnzoKvhNkT1ehc0Tt19"
@@ -10547,7 +10601,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 120157,
             "name": "Frozen",
             "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
@@ -10927,6 +10981,24 @@
             "duration_ms": 222911,
             "name": "Get Ready",
             "url": "https://open.spotify.com/track/4tvOVmc2jorV20Z2hFDtDg"
+        },
+        {
+            "album": {
+                "name": "Get Ready",
+                "url": "https://open.spotify.com/album/6NhL15fEltVRFpld3hvaWV"
+            },
+            "artists": [
+                {
+                    "name": "2 Unlimited",
+                    "url": "https://open.spotify.com/artist/18JD8DVlD1fakDAw7E9LFC"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 326557,
+            "name": "Get Ready - Orchestral Mix",
+            "url": "https://open.spotify.com/track/4Lt2joCvb5Y1hI3ze2Gz0d"
         },
         {
             "album": {
@@ -11663,7 +11735,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 222013,
             "name": "Hand in My Pocket - 2015 Remaster",
             "url": "https://open.spotify.com/track/2lE7oRoKssULAtbWViL385"
@@ -12547,7 +12619,7 @@
             ],
             "date_added": "2022-12-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 266866,
             "name": "Hold On",
             "url": "https://open.spotify.com/track/4VZDv8sASBS8UruUBGTFdk"
@@ -12793,7 +12865,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 224200,
             "name": "How Bizarre",
             "url": "https://open.spotify.com/track/0wJyFu6JHwUoKQN5X3uzVe"
@@ -12811,7 +12883,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-17",
+            "date_removed": null,
             "duration_ms": 274800,
             "name": "How Can I Not Love You",
             "url": "https://open.spotify.com/track/6Igqirc43qPvQra699Rk4g"
@@ -13133,7 +13205,7 @@
             ],
             "date_added": "2022-10-07",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 250360,
             "name": "I Knew I Loved You",
             "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
@@ -13185,7 +13257,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-20",
+            "date_removed": null,
             "duration_ms": 230760,
             "name": "I Like To Move It (feat. The Mad Stuntman) - Erick \"More\" Album Mix",
             "url": "https://open.spotify.com/track/6dHTkQYY3zdR9i9Nj0IGVW"
@@ -13301,7 +13373,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 259853,
             "name": "I Swear",
             "url": "https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS"
@@ -13749,7 +13821,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-24",
+            "date_removed": null,
             "duration_ms": 240760,
             "name": "I'll Stand by You",
             "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
@@ -14371,7 +14443,7 @@
             ],
             "date_added": "2022-12-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 250893,
             "name": "Immortality (feat. Bee Gees)",
             "url": "https://open.spotify.com/track/0HuNPrWCyZpCx59pu9ON99"
@@ -14691,7 +14763,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 518221,
             "name": "Insomnia - Monster Mix",
             "url": "https://open.spotify.com/track/2FH3BLTMhJlCH1Dmkua5DW"
@@ -14709,7 +14781,7 @@
             ],
             "date_added": "2022-12-23",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-24",
+            "date_removed": null,
             "duration_ms": 213546,
             "name": "Insomnia - Radio Edit",
             "url": "https://open.spotify.com/track/0OPSrinxlwPaT3rh8KhWdc"
@@ -15111,7 +15183,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-19",
+            "date_removed": null,
             "duration_ms": 309786,
             "name": "It's Hard To Say Goodbye (with Céline Dion)",
             "url": "https://open.spotify.com/track/6DxcImTJ4zZFKBJ57LiLDc"
@@ -15469,7 +15541,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 218546,
             "name": "Jump Around - 30 Years Remaster",
             "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq"
@@ -15957,7 +16029,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 198066,
             "name": "Keep On Movin'",
             "url": "https://open.spotify.com/track/0MjMqYIYzcCteAs4c0BZGy"
@@ -17465,7 +17537,7 @@
             ],
             "date_added": "2022-12-18",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-22",
+            "date_removed": null,
             "duration_ms": 246240,
             "name": "Love Is All Around - From \"Four Weddings And A Funeral\"",
             "url": "https://open.spotify.com/track/0PCGfA36HrVPmsBZJ57zOU"
@@ -18093,7 +18165,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 307200,
             "name": "Man Of The Year",
             "url": "https://open.spotify.com/track/3MYKdxoX5awyhQRxE6Ie0I"
@@ -18597,7 +18669,7 @@
             ],
             "date_added": "2022-10-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 268653,
             "name": "MMMBop",
             "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
@@ -18847,7 +18919,7 @@
             ],
             "date_added": "2022-12-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 272293,
             "name": "Mr. Jones",
             "url": "https://open.spotify.com/track/5DiXcVovI0FcY2s0icWWUu"
@@ -20013,7 +20085,7 @@
             ],
             "date_added": "2022-10-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-19",
+            "date_removed": null,
             "duration_ms": 224220,
             "name": "No Limit",
             "url": "https://open.spotify.com/track/7voHUmPNDuYZ1SW1mwRu26"
@@ -20031,7 +20103,7 @@
             ],
             "date_added": "2022-10-07",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 274266,
             "name": "No Matter What",
             "url": "https://open.spotify.com/track/5KVPav34JaKkXwBTJHnPgo"
@@ -20277,7 +20349,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 214826,
             "name": "Now And Forever",
             "url": "https://open.spotify.com/track/2V2pxcEfn5zs79sE7qcewA"
@@ -20967,7 +21039,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 169760,
             "name": "One Week",
             "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
@@ -22121,7 +22193,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 232666,
             "name": "Quit Playing Games (With My Heart)",
             "url": "https://open.spotify.com/track/0Uqs7ilt5kGX9NzFDWTBrP"
@@ -22139,7 +22211,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 233533,
             "name": "Quit Playing Games (With My Heart)",
             "url": "https://open.spotify.com/track/1nRwyxNsqCLeA17qR8Nfxx"
@@ -22721,7 +22793,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-22",
+            "date_removed": null,
             "duration_ms": 225882,
             "name": "Rhythm Is A Dancer - 7\" Edit",
             "url": "https://open.spotify.com/track/4RADreHMvMkZwsPgPr9z5c"
@@ -23480,6 +23552,24 @@
         },
         {
             "album": {
+                "name": "Greatest Hits",
+                "url": "https://open.spotify.com/album/0GhZOr1iwUiY70ylweD9f7"
+            },
+            "artists": [
+                {
+                    "name": "Whigfield",
+                    "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 224213,
+            "name": "Saturday Night - Radio Edit",
+            "url": "https://open.spotify.com/track/6YjrCy3a12jUGk43EASJvi"
+        },
+        {
+            "album": {
                 "name": "The Comfort Zone",
                 "url": "https://open.spotify.com/album/0ksxzYuZtQz1kYrZEhXDjV"
             },
@@ -23491,7 +23581,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 218733,
             "name": "Save The Best For Last",
             "url": "https://open.spotify.com/track/7okbmgA8lRBGl5limZ7LFM"
@@ -23791,7 +23881,7 @@
             ],
             "date_added": "2022-12-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 268360,
             "name": "Semi-Charmed Life",
             "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
@@ -24477,7 +24567,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 234960,
             "name": "Show Me the Meaning of Being Lonely",
             "url": "https://open.spotify.com/track/3BsaRV5QIulYz2lV9WWa8T"
@@ -25291,7 +25381,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 121160,
             "name": "Song 2 - 2012 Remaster",
             "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
@@ -25353,7 +25443,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-22",
+            "date_removed": null,
             "duration_ms": 211293,
             "name": "Sous le vent",
             "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
@@ -25419,6 +25509,24 @@
             "duration_ms": 192176,
             "name": "Spao Ta Rologia - Themis Georgantas Mad Vma Remix",
             "url": "https://open.spotify.com/track/0SPoFLKJI78yLzqEnCkY23"
+        },
+        {
+            "album": {
+                "name": "Joyride (Deluxe Version)",
+                "url": "https://open.spotify.com/album/5SwZnq5e3u7DkkNnSNHp5R"
+            },
+            "artists": [
+                {
+                    "name": "Roxette",
+                    "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 275666,
+            "name": "Spending My Time",
+            "url": "https://open.spotify.com/track/47PQWnMc01EmIH0PD2UuGb"
         },
         {
             "album": {
@@ -27305,7 +27413,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 218866,
             "name": "That Don't Impress Me Much",
             "url": "https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu"
@@ -27349,6 +27457,42 @@
             "duration_ms": 250960,
             "name": "That's The Way Love Goes - CJ R&B 7'' Mix",
             "url": "https://open.spotify.com/track/4Q0Xyp5tA0wBMXG6tSK8bY"
+        },
+        {
+            "album": {
+                "name": "Strange Foreign Beauty",
+                "url": "https://open.spotify.com/album/1dW7iWMMhRzMLLGrLjL6tO"
+            },
+            "artists": [
+                {
+                    "name": "Michael Learns To Rock",
+                    "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 253093,
+            "name": "That's Why You Go Away",
+            "url": "https://open.spotify.com/track/2ccW4vFSVKRgVjkZzvdjRw"
+        },
+        {
+            "album": {
+                "name": "Michael Learns To Rock (1991)",
+                "url": "https://open.spotify.com/album/4GxVVO2T9r3pf0WzseGyYR"
+            },
+            "artists": [
+                {
+                    "name": "Michael Learns To Rock",
+                    "url": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 273600,
+            "name": "The Actor",
+            "url": "https://open.spotify.com/track/7prFpeH9fXA7cL6ZZWLePs"
         },
         {
             "album": {
@@ -27439,7 +27583,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 212015,
             "name": "The Awakening - 2020 Edit",
             "url": "https://open.spotify.com/track/1oOOiIOR4OXntHkpSvytwb"
@@ -28328,6 +28472,24 @@
         },
         {
             "album": {
+                "name": "The Rockafeller Skank",
+                "url": "https://open.spotify.com/album/3Q4pPaHsv4Dy5v3Y0AQXdK"
+            },
+            "artists": [
+                {
+                    "name": "Fatboy Slim",
+                    "url": "https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 241466,
+            "name": "The Rockafeller Skank - Short Edit",
+            "url": "https://open.spotify.com/track/6QuBlKmaadzwQn21IUTPPX"
+        },
+        {
+            "album": {
                 "name": "Butterfly: 25th Anniversary Expanded Edition",
                 "url": "https://open.spotify.com/album/3VOqo81Nwyx8rcZEc2l379"
             },
@@ -28631,7 +28793,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 186066,
             "name": "The Way You Love Me",
             "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
@@ -29153,6 +29315,24 @@
             "duration_ms": 196960,
             "name": "To Love You More - Live at TD Garden, Boston, Massachusetts - 2008",
             "url": "https://open.spotify.com/track/1vbJnm46DssJKGrKF7Txjx"
+        },
+        {
+            "album": {
+                "name": "Live à Paris",
+                "url": "https://open.spotify.com/album/0mXmpNs70razpUGj8NEu4u"
+            },
+            "artists": [
+                {
+                    "name": "Céline Dion",
+                    "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 328040,
+            "name": "To Love You More - Live à Paris",
+            "url": "https://open.spotify.com/track/6cPqFUnF05Kxc7DLoI2EZM"
         },
         {
             "album": {
@@ -30076,6 +30256,24 @@
         },
         {
             "album": {
+                "name": "U got 2 know album",
+                "url": "https://open.spotify.com/album/5xA73n1xmSkC6S44muzOFJ"
+            },
+            "artists": [
+                {
+                    "name": "Cappella",
+                    "url": "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg"
+                }
+            ],
+            "date_added": "2022-12-26",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 330213,
+            "name": "U Got 2 Let The Music",
+            "url": "https://open.spotify.com/track/79zbbqdbNXtRY6govKU8Z9"
+        },
+        {
+            "album": {
                 "name": "Where I Wanna Be",
                 "url": "https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph"
             },
@@ -30233,7 +30431,7 @@
             ],
             "date_added": "2022-12-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 209813,
             "name": "Unbelievable",
             "url": "https://open.spotify.com/track/5VYTKiOnHw4iTrB9pG3yum"
@@ -30399,7 +30597,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 254226,
             "name": "Until the Time Is Through",
             "url": "https://open.spotify.com/track/3GeCFI9U20IEA30gHgi83k"
@@ -30615,7 +30813,7 @@
             ],
             "date_added": "2022-07-25",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-09",
+            "date_removed": null,
             "duration_ms": 310666,
             "name": "Viva Forever",
             "url": "https://open.spotify.com/track/6BPDPcnbDMDf58srVzbfX9"
@@ -30947,7 +31145,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 207786,
             "name": "Walkin' On The Sun",
             "url": "https://open.spotify.com/track/4TQeNHx85xcP9YRkvJC6K1"
@@ -32617,7 +32815,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 239640,
             "name": "You Learn - 2015 Remaster",
             "url": "https://open.spotify.com/track/4l7YIni9bAiGwWMqK5wvgV"
@@ -32819,7 +33017,7 @@
             ],
             "date_added": "2022-12-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2022-12-26",
             "duration_ms": 209760,
             "name": "You've Got A Way",
             "url": "https://open.spotify.com/track/4FpYzosLDCvIuX7mS6qX3q"
