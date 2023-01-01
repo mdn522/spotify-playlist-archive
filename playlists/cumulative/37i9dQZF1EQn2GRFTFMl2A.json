@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIY3EwqYdTyae>Darude</a>, <a href=spotify:playlist:37i9dQZF1EIZvbvrhfHXQ5>Daft Punk</a>, <a href=spotify:playlist:37i9dQZF1EIUBcYDRmu0Ua>Alice Deejay</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZvbvrhfHXQ5>Daft Punk</a>, <a href=spotify:playlist:37i9dQZF1EIY3EwqYdTyae>Darude</a>, <a href=spotify:playlist:37i9dQZF1EIUBcYDRmu0Ua>Alice Deejay</a> and more",
     "name": "90s Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -215,7 +215,7 @@
             ],
             "date_added": "2022-12-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-31",
+            "date_removed": null,
             "duration_ms": 211066,
             "name": "...Baby One More Time",
             "url": "https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa"
@@ -295,7 +295,7 @@
             ],
             "date_added": "2022-10-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 231000,
             "name": "2 Times",
             "url": "https://open.spotify.com/track/4abEcEslcRjBS6xSZh9naQ"
@@ -1123,7 +1123,7 @@
             ],
             "date_added": "2022-12-08",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 245360,
             "name": "Ain't It Funny",
             "url": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
@@ -1541,7 +1541,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 211213,
             "name": "All That She Wants",
             "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9"
@@ -2007,7 +2007,7 @@
             ],
             "date_added": "2022-10-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 236933,
             "name": "Another Night",
             "url": "https://open.spotify.com/track/0gggjVyUJd90tYzAnmBjFV"
@@ -2217,7 +2217,7 @@
             ],
             "date_added": "2022-12-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 358080,
             "name": "Aquarius",
             "url": "https://open.spotify.com/track/4ZX7QjwBqZTelll7to0d5S"
@@ -2401,7 +2401,7 @@
             ],
             "date_added": "2022-12-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-30",
+            "date_removed": null,
             "duration_ms": 215506,
             "name": "Around the World (La La La La La) - Radio Version",
             "url": "https://open.spotify.com/track/6inVHhmG2qEhwFR2eiWXjH"
@@ -3281,7 +3281,7 @@
             ],
             "date_added": "2022-12-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-31",
+            "date_removed": null,
             "duration_ms": 240266,
             "name": "Be My Lover",
             "url": "https://open.spotify.com/track/7FoUzKTSQp25oe32pY9z5p"
@@ -3427,7 +3427,7 @@
             ],
             "date_added": "2022-12-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 249240,
             "name": "Beauty and the Beast - from the Soundtrack \"Beauty and the Beast\"",
             "url": "https://open.spotify.com/track/7B3UAPLYAbwXVgbHSKEaTw"
@@ -3579,7 +3579,7 @@
             ],
             "date_added": "2022-10-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 239026,
             "name": "Believe",
             "url": "https://open.spotify.com/track/2goLsvvODILDzeeiT4dAoR"
@@ -4129,7 +4129,7 @@
             ],
             "date_added": "2022-10-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 283747,
             "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
             "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
@@ -4347,7 +4347,7 @@
             ],
             "date_added": "2022-12-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 382373,
             "name": "Brace Yourself Jason",
             "url": "https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi"
@@ -4495,7 +4495,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-17",
+            "date_removed": null,
             "duration_ms": 214400,
             "name": "Bring It All Back",
             "url": "https://open.spotify.com/track/3v0uXfyMEZ1lGvBOv1Y4ar"
@@ -4821,6 +4821,24 @@
             "duration_ms": 200960,
             "name": "Bye-Bye",
             "url": "https://open.spotify.com/track/5FxgRnXBHMM0q4stwqrjjM"
+        },
+        {
+            "album": {
+                "name": "C'est la Vie: The Collection",
+                "url": "https://open.spotify.com/album/1zrWYaf1JGvFpRLfp8nDyn"
+            },
+            "artists": [
+                {
+                    "name": "B*Witched",
+                    "url": "https://open.spotify.com/artist/72eP0W3rIhkxd0NHGg4w4u"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 173693,
+            "name": "C'est La Vie",
+            "url": "https://open.spotify.com/track/0P6CPJrNJ1Zt755CQTWg3S"
         },
         {
             "album": {
@@ -5633,7 +5651,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 243266,
             "name": "Children",
             "url": "https://open.spotify.com/track/4wtR6HB3XekEengMX17cpc"
@@ -5713,6 +5731,24 @@
             "duration_ms": 69960,
             "name": "Children (Mixed) - Dream Version",
             "url": "https://open.spotify.com/track/70bJgwHByQT4aOT9nDPoT7"
+        },
+        {
+            "album": {
+                "name": "Children (Dance Vault Mixes)",
+                "url": "https://open.spotify.com/album/5vwm8dEf7xGTqUAas8zGdC"
+            },
+            "artists": [
+                {
+                    "name": "Robert Miles",
+                    "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 453400,
+            "name": "Children - Full Length",
+            "url": "https://open.spotify.com/track/4d6HyxARNCeUEw3sDntLb5"
         },
         {
             "album": {
@@ -6557,7 +6593,7 @@
             ],
             "date_added": "2022-10-05",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-21",
+            "date_removed": null,
             "duration_ms": 193826,
             "name": "Cotton Eye Joe",
             "url": "https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe"
@@ -7907,7 +7943,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-30",
+            "date_removed": null,
             "duration_ms": 203440,
             "name": "Doctor Jones",
             "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
@@ -8255,7 +8291,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 264000,
             "name": "Dreams (Will Come Alive)",
             "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
@@ -9275,7 +9311,7 @@
             ],
             "date_added": "2022-12-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 183733,
             "name": "Everybody Get Up - Radio Edit",
             "url": "https://open.spotify.com/track/0WGn8xhpPumX73lECUY5Yo"
@@ -10701,7 +10737,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-20",
+            "date_removed": null,
             "duration_ms": 214000,
             "name": "Freed from Desire",
             "url": "https://open.spotify.com/track/3Ucr6hQQuY8cZ0UqXV8uO2"
@@ -11193,7 +11229,7 @@
             ],
             "date_added": "2022-10-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 217573,
             "name": "Genie In a Bottle",
             "url": "https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP"
@@ -13471,7 +13507,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 299760,
             "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
             "url": "https://open.spotify.com/track/6lEuFGrUqR9Yc6hSsHPnYP"
@@ -13879,7 +13915,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 213306,
             "name": "I Want It That Way",
             "url": "https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya"
@@ -13940,6 +13976,24 @@
         },
         {
             "album": {
+                "name": "'N Sync UK Version",
+                "url": "https://open.spotify.com/album/7K5qlneuWF1CcY6ERzwkLB"
+            },
+            "artists": [
+                {
+                    "name": "*NSYNC",
+                    "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 200440,
+            "name": "I Want You Back - Radio Edit",
+            "url": "https://open.spotify.com/track/221LRlPHPuevgE1tuUlof9"
+        },
+        {
+            "album": {
                 "name": "The Bodyguard - Original Soundtrack Album",
                 "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
             },
@@ -13951,7 +14005,7 @@
             ],
             "date_added": "2022-12-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 271093,
             "name": "I Will Always Love You",
             "url": "https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm"
@@ -14259,7 +14313,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-29",
+            "date_removed": null,
             "duration_ms": 196795,
             "name": "I'm Outta Love - CARSTN & Nicolas Haelg Remix",
             "url": "https://open.spotify.com/track/6HuXA4NSQsKRzwEOxAwxw3"
@@ -14331,7 +14385,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-10-10",
+            "date_removed": null,
             "duration_ms": 170493,
             "name": "I'm Too Sexy",
             "url": "https://open.spotify.com/track/2wmnubOPY1hyR4fSaZ9o1T"
@@ -14585,7 +14639,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-25",
+            "date_removed": null,
             "duration_ms": 264893,
             "name": "If You Had My Love",
             "url": "https://open.spotify.com/track/3wvg3Jpee5NzpSBZhBqFdE"
@@ -16967,7 +17021,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-22",
+            "date_removed": null,
             "duration_ms": 242053,
             "name": "L'Amour Toujours",
             "url": "https://open.spotify.com/track/52LJ3hyknOijCrE5gCD0rE"
@@ -17644,6 +17698,24 @@
         },
         {
             "album": {
+                "name": "Aquarium (Special Edition)",
+                "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
+            },
+            "artists": [
+                {
+                    "name": "Aqua",
+                    "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 216626,
+            "name": "Lollipop (Candyman)",
+            "url": "https://open.spotify.com/track/7hIKkllltXJFgGfUZbVazE"
+        },
+        {
+            "album": {
                 "name": "Lonely",
                 "url": "https://open.spotify.com/album/5upP4Cno3qUizeQ1QXeFUv"
             },
@@ -17739,7 +17811,7 @@
             ],
             "date_added": "2022-12-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 272160,
             "name": "Look at Me",
             "url": "https://open.spotify.com/track/7jsYlbbaAzP2VHkLGlfn6r"
@@ -18234,6 +18306,24 @@
         },
         {
             "album": {
+                "name": "Macarena (EP)",
+                "url": "https://open.spotify.com/album/1anwf7hhIur6jnVg70pXGc"
+            },
+            "artists": [
+                {
+                    "name": "Los Del Rio",
+                    "url": "https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 224626,
+            "name": "Macarena - Bayside Boys Remix",
+            "url": "https://open.spotify.com/track/07DcH2UllHvVRKjD2HEJuC"
+        },
+        {
+            "album": {
                 "name": "Madan (King)",
                 "url": "https://open.spotify.com/album/11JYg34EBPsGBnvvYc8wrU"
             },
@@ -18551,7 +18641,7 @@
             ],
             "date_added": "2022-12-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 223426,
             "name": "Mamma Mia - Radio Version",
             "url": "https://open.spotify.com/track/0i2UIuXKAoDrK1LzI5qUcd"
@@ -18587,7 +18677,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 234493,
             "name": "Man! I Feel Like A Woman!",
             "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
@@ -19359,7 +19449,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-28",
+            "date_removed": null,
             "duration_ms": 257466,
             "name": "Mr. Vain - Original Radio Edit",
             "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
@@ -20709,7 +20799,7 @@
             ],
             "date_added": "2022-12-31",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 203480,
             "name": "Not That Kind",
             "url": "https://open.spotify.com/track/3ajXw2sHPIO5yEqISZRTFN"
@@ -22353,7 +22443,7 @@
             ],
             "date_added": "2022-12-28",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-29",
+            "date_removed": null,
             "duration_ms": 409240,
             "name": "Port Rhombus",
             "url": "https://open.spotify.com/track/0pJwMBxLU6NVW68REFKWo2"
@@ -23403,7 +23493,7 @@
             ],
             "date_added": "2022-10-06",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-28",
+            "date_removed": null,
             "duration_ms": 316138,
             "name": "Rhythm Is A Dancer - 12'' Version",
             "url": "https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq"
@@ -24317,7 +24407,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-17",
+            "date_removed": null,
             "duration_ms": 235973,
             "name": "Say You'll Be There",
             "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
@@ -24371,7 +24461,7 @@
             ],
             "date_added": "2022-10-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 215973,
             "name": "Scatman (ski-ba-bop-ba-dop-bop)",
             "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
@@ -25721,7 +25811,7 @@
             ],
             "date_added": "2022-12-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-31",
+            "date_removed": null,
             "duration_ms": 381106,
             "name": "Slip",
             "url": "https://open.spotify.com/track/6jn8hd5UABzdI9pLAYsOrp"
@@ -26161,7 +26251,7 @@
             ],
             "date_added": "2022-12-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 211293,
             "name": "Sous le vent",
             "url": "https://open.spotify.com/track/6VZB0ttlqGjpGMAcaomXh9"
@@ -26937,7 +27027,7 @@
             ],
             "date_added": "2022-06-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 224000,
             "name": "Strong Enough",
             "url": "https://open.spotify.com/track/144JMbvbR5txNzoZ112wo4"
@@ -27282,6 +27372,24 @@
         },
         {
             "album": {
+                "name": "Super Heroes",
+                "url": "https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp"
+            },
+            "artists": [
+                {
+                    "name": "Daze",
+                    "url": "https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 204733,
+            "name": "Superhero",
+            "url": "https://open.spotify.com/track/5w24xZUicD68LjnZvtougC"
+        },
+        {
+            "album": {
                 "name": "Superman: The Animated Series (Main and End Titles)",
                 "url": "https://open.spotify.com/album/2szp3F8vAmgu88k3VqNa98"
             },
@@ -27355,6 +27463,24 @@
             "duration_ms": 144020,
             "name": "Superstring - Aftershock Remix",
             "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+        },
+        {
+            "album": {
+                "name": "Sweet Dreams",
+                "url": "https://open.spotify.com/album/4adqftIYavKgrnLyOD5gxZ"
+            },
+            "artists": [
+                {
+                    "name": "La Bouche",
+                    "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 205840,
+            "name": "Sweet Dreams - Radio Version",
+            "url": "https://open.spotify.com/track/2xU1sCRaEBJujPuwMb2EyQ"
         },
         {
             "album": {
@@ -27925,7 +28051,7 @@
             ],
             "date_added": "2022-12-30",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-31",
+            "date_removed": null,
             "duration_ms": 209400,
             "name": "Tearin' up My Heart - Radio Edit",
             "url": "https://open.spotify.com/track/73q3FpQVXWk5eSUnyo83E4"
@@ -27983,6 +28109,24 @@
             "duration_ms": 207106,
             "name": "Tele",
             "url": "https://open.spotify.com/track/3MVd5oU1OCNhOBuNZDpAU1"
+        },
+        {
+            "album": {
+                "name": "Music Has The Right To Children",
+                "url": "https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a"
+            },
+            "artists": [
+                {
+                    "name": "Boards of Canada",
+                    "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
+                }
+            ],
+            "date_added": "2023-01-01",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 395480,
+            "name": "Telephasic Workshop",
+            "url": "https://open.spotify.com/track/5B5nloaA2UpNrjweosqVe3"
         },
         {
             "album": {
@@ -28337,7 +28481,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 212015,
             "name": "The Awakening - 2020 Edit",
             "url": "https://open.spotify.com/track/1oOOiIOR4OXntHkpSvytwb"
@@ -29671,7 +29815,7 @@
             ],
             "date_added": "2022-12-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 248600,
             "name": "Then You Look at Me",
             "url": "https://open.spotify.com/track/7eZwbWXbttb0gPjru0zPm2"
@@ -31895,7 +32039,7 @@
             ],
             "date_added": "2022-10-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 245333,
             "name": "Waiting for Tonight",
             "url": "https://open.spotify.com/track/1ffslNl0FbbFvorcEVLUFL"
@@ -32203,7 +32347,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-29",
+            "date_removed": null,
             "duration_ms": 279506,
             "name": "Waterfalls",
             "url": "https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY"
@@ -32861,7 +33005,7 @@
             ],
             "date_added": "2022-11-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 240706,
             "name": "Who Do You Think You Are",
             "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
@@ -33807,7 +33951,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-01-01",
             "duration_ms": 212200,
             "name": "You're Still The One",
             "url": "https://open.spotify.com/track/1wb4P4F0sxAQ2KXrRvsx6n"
