@@ -4,7 +4,7 @@
 
 > Alan Walker, VINAI, Praise Cats and more
 
-3,954 songs - 9 day 0 hr 43 min - not published yet
+3,955 songs - 9 day 0 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Beautiful](https://open.spotify.com/track/6B33X2Z78UAsb8zI9gxj5a) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C), [Sansol the Artist](https://open.spotify.com/artist/5AXMzlQxmVl6FKVqdxzs44) | [Beautiful](https://open.spotify.com/album/4NfSCtF4CrODB30kg4sQCO) | 3:29 | 2022-10-18 | 2022-11-24 |
 | [beautiful \(night 4 a\) breakdown](https://open.spotify.com/track/40HeVbQw3hvruF8rvOeAi5) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Red 4 Filth](https://open.spotify.com/album/75NGRcf2CujAAw90C39lOB) | 3:34 | 2022-11-01 | 2022-11-02 |
 | [Beautiful \- 1999 Mix](https://open.spotify.com/track/59ktkd4Y30uNOeuxJhBN5e) | [Matt Darey](https://open.spotify.com/artist/20IiZT2AHU5GwnzncwJX6S), [Marcella Woods](https://open.spotify.com/artist/3fX4ESsQJXkOXSGW4FsB1c) | [Retrospective \(25 Years\)](https://open.spotify.com/album/6mO3TRyalkTmGM2LhI75F4) | 3:39 | 2022-12-22 | 2022-12-23 |
+| [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/track/2YnYiZH6D3iXRmMmmiOE6a) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Alva Grape](https://open.spotify.com/artist/0OjqFU8D3AQXS83rOcN0le) | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/album/2ir98xhvZrbBCsfT0xP8Ss) | 2:43 | 2023-01-02 |  |
 | [Beautiful Mistakes \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zFglKYiknIxks8geR8rcL) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:47 | 2022-05-22 | 2022-08-24 |
 | [Beautiful Nothing \- Radio Edit](https://open.spotify.com/track/5WflvvuT3IbkfhE2T7yPA4) | [Radion6](https://open.spotify.com/artist/2AyyZ8mU5Kmsz2ibu2FP8h), [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv) | [Beautiful Vocal Trance](https://open.spotify.com/album/2yVokvAcG5xm4il6nk0YYX) | 2:59 | 2022-12-30 | 2022-12-31 |
 | [Beautiful Saga](https://open.spotify.com/track/0BXGB0yeGKpQ62dtdlryAq) | [Vories](https://open.spotify.com/artist/78V5g3Sr9L4GSRJfHvDuMR) | [Beautiful Saga](https://open.spotify.com/album/3zlYMP0U969prsAQUMC4OI) | 3:14 | 2022-08-11 | 2022-08-12 |
@@ -1795,7 +1796,7 @@
 | [Karma Tattoo](https://open.spotify.com/track/5FTjLndj7qIKAs4LvKn1eK) | [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Karma Tattoo](https://open.spotify.com/album/7bkLCqGXctIlTUIKo4UBqO) | 3:16 | 2022-12-21 | 2022-12-25 |
 | [Kattegat Celebrates the Fallen](https://open.spotify.com/track/532qOxcVFGjd1jKNpxhWIL) | [Trevor Morris](https://open.spotify.com/artist/5ikWl4mjoiFlLPvkFRZETq) | [The Vikings Final Season \(Music from the TV Series\)](https://open.spotify.com/album/0J8D2wbioOFsWSI3W2FjJK) | 1:52 | 2022-09-09 | 2022-10-05 |
 | [Keep It Complicated](https://open.spotify.com/track/7geS7hzMmSiJXCsASnLKms) | [Midnight Kids](https://open.spotify.com/artist/5w39eY1aNDybnDGTNgVt3r) | [Keep It Complicated](https://open.spotify.com/album/3KGzWeQg8or7eMhspuuwSO) | 3:40 | 2022-11-21 | 2022-11-22 |
-| [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-11-07 |  |
+| [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2022-11-07 | 2023-01-02 |
 | [Keep Running](https://open.spotify.com/track/4Vcnn7WlcagL8EzC5d6v20) | [Markvard](https://open.spotify.com/artist/6T5HsXQfkZAYRdytUcvd0U) | [Keep Running](https://open.spotify.com/album/1GjEP32nFlFHQ01smik9WP) | 2:46 | 2022-08-10 | 2022-08-24 |
 | [Keep The Fire \- Radio Edit](https://open.spotify.com/track/2oNdARyA6j4IovxfeUPp4B) | [Ashley Wallbridge](https://open.spotify.com/artist/4hNpdlfPY7R51u4FEkBxJG), [Elleah](https://open.spotify.com/artist/42DPwNQW3wug2mLiDxTGY4) | [Keep The Fire](https://open.spotify.com/album/4gbYCpqQbGlyH852uSlZgN) | 4:19 | 2022-07-13 | 2022-08-29 |
 | [Keep You](https://open.spotify.com/track/79qOs49qSotfX46OGByR0M) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW), [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp) | [Keep You](https://open.spotify.com/album/5GWXqrUGRrPeU1WO28yaya) | 2:34 | 2022-07-12 | 2022-08-01 |
