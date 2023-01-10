@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 35 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1 like - 35 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 24 | [Sunt a nimănui \- Live @ Carusel](https://open.spotify.com/track/0ABUwgh3vXAVEQdL5mKwig) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Live @ Carusel](https://open.spotify.com/album/1OFrNqTOdzmDOkiCt2Gl8h) | 4:09 |
 | 25 | [Nothing Is Lost \(You Give Me Strength\)](https://open.spotify.com/track/1DzJbVkBELu6jDu6q0T0tk) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Avatar: The Way of Water \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4M2Mf4pmARKGVT9MLCe3HA) | 4:27 |
 | 26 | [christmas song \(sad\)](https://open.spotify.com/track/3fVLR4r0E8oUkaYfXSLBMA) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [christmas song \(sad\)](https://open.spotify.com/album/7smtGPlk6iNv4K266LASKJ) | 3:06 |
-| 27 | [Toate piesele de dragoste \- From "Romina VTM" The Movie](https://open.spotify.com/track/1WaHFZWgBMEpNhWK9ACIgn) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Nopțile nedormite \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/5dd4l3jUXFMZZlGAwAWPsa) | 2:54 |
+| 27 | [Nopțile nedormite \- From "Romina VTM" The Movie](https://open.spotify.com/track/2PCOQPxZyF69PvJvUmTT5c) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9) | [Nopțile nedormite \(From "Romina VTM" The Movie\)](https://open.spotify.com/album/5dd4l3jUXFMZZlGAwAWPsa) | 3:09 |
 | 28 | [Shut Up](https://open.spotify.com/track/4OvAutMwVCBfGspBieI9i0) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Shut Up](https://open.spotify.com/album/5X5JXRfEoYD0TJF6XEUVft) | 2:25 |
 | 29 | [Guddi Riddim](https://open.spotify.com/track/5yN3wXc6fvM5SPTFjL6c4G) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [Guddi Riddim](https://open.spotify.com/album/5LzVNj3OCqcPbYV9eV9CaN) | 3:30 |
 | 30 | [Worst Day \- Stripped Version](https://open.spotify.com/track/7dWVYMBp1sAECRjWKh3ySp) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Worst Day \(Stripped Version\)](https://open.spotify.com/album/1DYJdrMj7pXgVzj8HD5b51) | 2:48 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 34 | [La Viflaim Colo\-n Jos](https://open.spotify.com/track/6AG93Gfrs4YiPcTLUYnNrC) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Colinde Romanesti](https://open.spotify.com/album/1vz8Uubz6liu0jmNaJAuHG) | 2:12 |
 | 35 | [Crazy What Love Can Do \(feat\. Becky Hill & Ella Henderson\) \- KOLIDESCOPES Remix](https://open.spotify.com/track/4s2l8gSkWT5FG268gPXLqL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do \(feat\. Becky Hill & Ella Henderson\) \[KOLIDESCOPES Remix\]](https://open.spotify.com/album/1PE2aZAsNQbJcyQb3TOlrC) | 3:36 |
 
-Snapshot ID: `Mjc4ODIzNjAsMDAwMDAwMDAwY2FjNjQ5ZTlhZmYwMTZmMDZhYWRkNTk3YWI1OTViZg==`
+Snapshot ID: `Mjc4ODIzNjAsMDAwMDAwMDBlZTFiZjY0OGJjZDg0YjViMWU4YzIxNzY0ZjcxNDkxZA==`
