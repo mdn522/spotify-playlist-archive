@@ -4,7 +4,7 @@
 
 > The Veronicas, Bella Goldwin, Allie X and more
 
-3,243 songs - 7 day 6 hr 25 min - not published yet
+3,244 songs - 7 day 6 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Bad At Hating You](https://open.spotify.com/track/0d0udWMdLWefHV2jpva87b) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Rainbows](https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm) | 3:21 | 2022-11-15 | 2022-12-04 |
 | [Bad Dreams](https://open.spotify.com/track/6TXp6aywpTfYh9BAXbnMXt) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Self\-Preservation](https://open.spotify.com/album/6rTAY5UXXQYu00sOGK9ZIt) | 3:29 | 2022-11-16 | 2022-11-17 |
 | [Bad Girls Go to Heaven](https://open.spotify.com/track/0q74Fu3U8tjtm8oB1J4Ssq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Eden xo](https://open.spotify.com/artist/4ZEHm819BPEhaYNeC2LLeI) | [Bad Girls Go to Heaven](https://open.spotify.com/album/78LxQKn0fS0wPQtK2LjGmP) | 2:53 | 2022-05-31 | 2022-06-06 |
+| [Bad Habit](https://open.spotify.com/track/06wjqfv04KIujAShcz1L23) | [Sofia Karlberg](https://open.spotify.com/artist/2msPoIYdnKVeuOOM960FC2) | [Bad Habit](https://open.spotify.com/album/27UhoXNgvLzxESPMJp0ce8) | 3:04 | 2023-01-21 |  |
 | [Bad Habits](https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:50 | 2022-06-02 | 2022-06-19 |
 | [Bad Highs](https://open.spotify.com/track/1bUFROMGJB7jmHIbpu7erv) | [Frederico](https://open.spotify.com/artist/51oSEWt72CjJkCYIOQRzbN), [Nethy Aber](https://open.spotify.com/artist/4tqEIuplzwTXtKp9jnvZ3O) | [Bad Highs](https://open.spotify.com/album/0yMNnSSEU9kqFhZKqazfps) | 2:35 | 2022-08-18 | 2022-09-20 |
 | [Bad Luck](https://open.spotify.com/track/2lcapVdJDedPx2GYGtKxwz) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Kiz Keyz](https://open.spotify.com/artist/7GAnVRGrOJIUhOQKEehgFS) | [Bad Luck](https://open.spotify.com/album/3VjDetfhWUDHNNSawdk81Q) | 2:51 | 2022-08-31 | 2022-09-12 |
@@ -2900,7 +2901,7 @@
 | [Triste](https://open.spotify.com/track/3dMGtiYcwJ3dRlTyukqjWm) | [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [Triste](https://open.spotify.com/album/5AJJa8zzuwMRPJp0VPl67C) | 2:54 | 2022-11-25 | 2022-12-26 |
 | [Tropical Love](https://open.spotify.com/track/0qyrp5gh4IkvkqKhTka3A6) | [Nadro](https://open.spotify.com/artist/4lV6ppZdgWaAH75QRVhlha), [Timmy Commerford](https://open.spotify.com/artist/0Y0r9IKRjfC62MAYMDEMZO) | [Tropical Love](https://open.spotify.com/album/25tIc4riEyTXBitf5GU1CE) | 3:13 | 2022-05-27 | 2022-05-28 |
 | [Trouble \(with Georgia Ku\)](https://open.spotify.com/track/6oAIU5z6CaRobCQ2V9yBVc) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:19 | 2023-01-18 | 2023-01-19 |
-| [True Colors](https://open.spotify.com/track/1AHG4FZDjLyZ3TBLwNeYm7) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [True Colors](https://open.spotify.com/album/3y8Z2XbIfVxRUpvM2OKBlH) | 2:55 | 2022-11-12 |  |
+| [True Colors](https://open.spotify.com/track/1AHG4FZDjLyZ3TBLwNeYm7) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [True Colors](https://open.spotify.com/album/3y8Z2XbIfVxRUpvM2OKBlH) | 2:55 | 2022-11-12 | 2023-01-21 |
 | [True Happiness \(Lokah Samastah\)](https://open.spotify.com/track/3TK63ZpQlyMq6FEOZnNbQ5) | [Katty Heath](https://open.spotify.com/artist/31cvPCTwxqNl84W1pMYUtv), [The Peaceful Trees](https://open.spotify.com/artist/5KK15vi41MVfNlaBeGVATu) | [True Happiness \(Lokah Samastah\)](https://open.spotify.com/album/4h91aos8rzR8Xmm8FcVj4x) | 4:56 | 2023-01-05 | 2023-01-11 |
 | [Trust Issues](https://open.spotify.com/track/4zhhUAth6T2zM1EkbSBqAQ) | [WRAYA](https://open.spotify.com/artist/75HFBU7IxOt15gbgSM4IYV) | [11:11](https://open.spotify.com/album/7u4fzlWAGPHodLj0lPDuyD) | 2:14 | 2022-07-10 |  |
 | [Trust Me](https://open.spotify.com/track/0PwEdxIWPZWWxTZZuDcb7A) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [Gloria Kim](https://open.spotify.com/artist/1DUd25ybTBglvAohsXTmBx) | [Trust Me](https://open.spotify.com/album/2ACKBmcwhB1LyztyDM02WR) | 3:08 | 2022-05-30 | 2022-11-25 |

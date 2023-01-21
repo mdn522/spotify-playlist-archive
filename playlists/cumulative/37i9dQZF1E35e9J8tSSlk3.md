@@ -4,7 +4,7 @@
 
 > Silent City, Markus Steinberg, Farsjön and more
 
-3,867 songs - 8 day 19 hr 32 min - not published yet
+3,869 songs - 8 day 19 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Asa de frumos](https://open.spotify.com/track/60vdPr0GkTIAtC0T0alXmh) | [Andreea Balan](https://open.spotify.com/artist/0EzdKL71gSNlSxnAmEQeGV), [Silviu](https://open.spotify.com/artist/5K8kPwPT3vJq8tpeht9O8w) | [Asa de frumos](https://open.spotify.com/album/4deQtag9ffYV60zLc0zXSw) | 3:18 | 2022-12-19 | 2022-12-20 |
 | [Ascension](https://open.spotify.com/track/42djLHwo6rfCahdrXQaZG0) | [Blackmill](https://open.spotify.com/artist/4kjWnaLfIRcLJ1Dy4Wr6tY), [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N) | [Ascension](https://open.spotify.com/album/7rCbqfNpoqRsZvgO62dhwZ) | 4:55 | 2022-09-13 | 2022-09-14 |
 | [Ask Me Anything](https://open.spotify.com/track/7zoDnBklnyNpF3HbVoLUp0) | [Aurosonic](https://open.spotify.com/artist/1UkK91RiLw3FonVedbAVA1), [Ana Criado](https://open.spotify.com/artist/74wwiRVGGmTpYiU2l1olVU) | [30 Vocal Trance Hits](https://open.spotify.com/album/3QBjKfYdO8nJdd7UJhPTxL) | 3:10 | 2023-01-07 | 2023-01-14 |
-| [Ask Me Anything](https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf) | [Joseph Seabolt](https://open.spotify.com/artist/3DBTOIFpBevoljTuKMfmHS) | [Ask Me Anything](https://open.spotify.com/album/0aNWplsJgFaWTHjp33JWj6) | 2:23 | 2023-01-11 |  |
+| [Ask Me Anything](https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf) | [Joseph Seabolt](https://open.spotify.com/artist/3DBTOIFpBevoljTuKMfmHS) | [Ask Me Anything](https://open.spotify.com/album/0aNWplsJgFaWTHjp33JWj6) | 2:23 | 2023-01-11 | 2023-01-21 |
 | [ask me twice](https://open.spotify.com/track/4OQLDz187y2vHGAtAqv4iN) | [NATIIVE](https://open.spotify.com/artist/7iHTJPF1k1e9SF1BwqbAe0), [Effie Passero](https://open.spotify.com/artist/5HzfRqqnfSqdHp9h7UOavm) | [ask me twice](https://open.spotify.com/album/2igYO1uCeYyBBUrPCUeFCc) | 2:56 | 2022-07-17 | 2022-07-18 |
 | [Asteroids](https://open.spotify.com/track/0x6M3BCcAVfDkiOpEyhj9o) | [Leonade](https://open.spotify.com/artist/7HBZTq1lIbSD6xMd6RiefE) | [Asteroids](https://open.spotify.com/album/64hKikEjNFU0BWtwMOi3ZU) | 2:42 | 2022-07-23 | 2022-07-24 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/02SYgGfAb4sD5JiPfu8JKk) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42) | [Astronaut In The Ocean](https://open.spotify.com/album/4QxNGi6jYv1kGGluY7jqa7) | 3:01 | 2022-05-22 | 2022-06-25 |
@@ -325,7 +325,7 @@
 | [Be You](https://open.spotify.com/track/0q14mJ6Km7NFSiUdpF5Ezj) | [Crush Toast](https://open.spotify.com/artist/5VFmjwzAdyG5JZnfbzUS0z) | [Be You](https://open.spotify.com/album/45CpUAc6zUK8a2N5TLdqyc) | 3:03 | 2022-10-21 | 2022-11-02 |
 | [Be Your Light](https://open.spotify.com/track/7GQ1UVk9Gnpc7pKjTcCAUs) | [SlYder](https://open.spotify.com/artist/6OsWmFTDIjwvZbXTC5J6HD), [Garry Ocean](https://open.spotify.com/artist/6ytzTF1R726yfZevqHD3R4) | [Be Your Light](https://open.spotify.com/album/5FRRS72OqgKboeeMJXOqg4) | 3:08 | 2023-01-12 | 2023-01-13 |
 | [Be Yourself](https://open.spotify.com/track/1bdtCCoirNd5QeSj1bhiVZ) | [KØLEEN](https://open.spotify.com/artist/59d8yAQE0AxnNLrm4gaOgZ) | [Be Yourself](https://open.spotify.com/album/6xY4RB2CzrLMKJczZ0oqxi) | 3:01 | 2022-07-23 | 2022-08-27 |
-| [Bear with Me](https://open.spotify.com/track/6Leg46Z311A5E1uA4FrOjG) | [Art Lounge](https://open.spotify.com/artist/6QOB2WcWBCY3NUbPckI1vS) | [Bear with Me](https://open.spotify.com/album/6EeJ2V7tVebT3zgRHiKAgl) | 2:40 | 2023-01-17 |  |
+| [Bear with Me](https://open.spotify.com/track/6Leg46Z311A5E1uA4FrOjG) | [Art Lounge](https://open.spotify.com/artist/6QOB2WcWBCY3NUbPckI1vS) | [Bear with Me](https://open.spotify.com/album/6EeJ2V7tVebT3zgRHiKAgl) | 2:40 | 2023-01-17 | 2023-01-21 |
 | [Beast](https://open.spotify.com/track/6LpwBgIU5emPlfZMXPECp9) | [David Archuleta](https://open.spotify.com/artist/2C9n4tQgNLhHPhSCmdsQnk) | [Beast](https://open.spotify.com/album/4l9spES6l6p6Us7Jq0OeUT) | 3:14 | 2022-08-17 | 2022-12-31 |
 | [Beautiful](https://open.spotify.com/track/3RjL8AnKslWWPmlNLTJsAU) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Therapy](https://open.spotify.com/album/4AeowfpQNCScPBpPhnovKM) | 3:14 | 2022-06-12 | 2022-10-04 |
 | [Beautiful](https://open.spotify.com/track/6B33X2Z78UAsb8zI9gxj5a) | [SVRCINA](https://open.spotify.com/artist/3wRt3iJpZDOg73CTUkfv5C), [Sansol the Artist](https://open.spotify.com/artist/5AXMzlQxmVl6FKVqdxzs44) | [Beautiful](https://open.spotify.com/album/4NfSCtF4CrODB30kg4sQCO) | 3:29 | 2022-10-13 | 2022-11-26 |
@@ -1240,6 +1240,7 @@
 | [GDL \- Yoshi & Razner Remix](https://open.spotify.com/track/5az8BaEROoZRg1LoZWtTZO) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR), [Yoshi & Razner](https://open.spotify.com/artist/7EXEzZ7o5XKdbzEW6etnHl) | [GDL \(Yoshi & Razner Remix\)](https://open.spotify.com/album/3B7VDhSdy3ZGkXyIcE0z6K) | 3:18 | 2022-06-07 | 2022-09-02 |
 | [Genesis](https://open.spotify.com/track/4wSmqFg31t6LsQWtzYAJob) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 3:54 | 2023-01-04 | 2023-01-05 |
 | [Genie In a Bottle](https://open.spotify.com/track/11mwFrKvLXCbcVGNxffGyP) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 3:37 | 2022-07-01 | 2022-07-03 |
+| [Gentle Stir](https://open.spotify.com/track/43gzo5RNf3HP1OLoJQsmQG) | [McCadden](https://open.spotify.com/artist/5EdcxBjQTVWZ1WN3S9L02i) | [Gentle Stir](https://open.spotify.com/album/0MUXkBjytOAusBIhPgX4ch) | 2:39 | 2023-01-21 |  |
 | [Get Away](https://open.spotify.com/track/36ooWJfTWhm5rXXXAF75yd) | [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Get Away](https://open.spotify.com/album/5yFBkUPdfPre7msZoy6xdG) | 2:54 | 2022-09-24 | 2022-09-25 |
 | [GET GET DOWN](https://open.spotify.com/track/1lrfnDcU9fm3fEcp6uLtjF) | [CRISPIE](https://open.spotify.com/artist/0FsniWxk7B9Y5rOYxRrqiL), [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [GET GET DOWN](https://open.spotify.com/album/59ViUAFNUzjSUHeM5Dmg1F) | 2:34 | 2022-10-02 | 2022-10-27 |
 | [Get Loud](https://open.spotify.com/track/3yOIaz4snsT37sAyTgKtWK) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Cookie Jar](https://open.spotify.com/album/28vUvTX8Gco15qKKNSfhkZ) | 2:52 | 2022-10-19 | 2022-10-27 |
@@ -2226,6 +2227,7 @@
 | [Mysterious Girl](https://open.spotify.com/track/69Ggwq5jXW6Uf0h6SC4pJP) | [Sunrise Inc](https://open.spotify.com/artist/1aLsE45EFRhjEWMQ73FKRe) | [Mysterious Girl](https://open.spotify.com/album/0hhW1tMiAnnkOeLxjuGuPB) | 3:37 | 2022-05-28 | 2022-12-23 |
 | [Mysterious Times](https://open.spotify.com/track/75ohEbOgZ2l34wJebixHGm) | [Bobina](https://open.spotify.com/artist/7H63wD8xWXAKdYVjZmE90B), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Mysterious Times](https://open.spotify.com/album/2fBgkieub6nTVPEY5x7F2y) | 3:49 | 2023-01-06 | 2023-01-14 |
 | [Mystery](https://open.spotify.com/track/69ZdNv7ophVx0sS7Lhmwqt) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Mystery](https://open.spotify.com/album/7j2TldeDQMgDf2Sul1pHIN) | 3:29 | 2022-06-21 | 2022-06-24 |
+| [Möja](https://open.spotify.com/track/5iff6pbfxolRgcYyh0z0eO) | [Four Robes](https://open.spotify.com/artist/4HXMcKK5KjlXNODUYu6KaC) | [Möja](https://open.spotify.com/album/6blmtjv7vElFMQvGDagtcH) | 1:20 | 2023-01-21 |  |
 | [Mă omoară](https://open.spotify.com/track/0jna2IelMLAY3hj0Vi7SRX) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Mă omoară](https://open.spotify.com/album/1C2s0Z0BGw0UmEW4iStRfc) | 3:32 | 2022-06-30 | 2022-07-01 |
 | [N\-avem timp](https://open.spotify.com/track/30U6dxXpQfJVvsiGIrmP3H) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [N\-avem timp](https://open.spotify.com/album/5b2AgL4GZgAZAkvnYZjVNL) | 3:05 | 2022-07-22 | 2022-09-02 |
 | [NAKED](https://open.spotify.com/track/4hBKWHY1PLnBj4UZCxQE4P) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [NAKED](https://open.spotify.com/album/73ILkPxuIv9Mr7SiNtQee8) | 2:59 | 2022-11-10 | 2022-11-12 |
