@@ -4,7 +4,7 @@
 
 > Silent City, The Magic Box, Four Robes and more
 
-3,873 songs - 8 day 19 hr 44 min - not published yet
+3,874 songs - 8 day 19 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,7 +966,7 @@
 | [Electro Fun](https://open.spotify.com/track/0yPZMzzfTWgtbZ0BqhrOY3) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Electro Fun](https://open.spotify.com/album/4Lo7pwKSPvdXxrIiz49wqp) | 3:46 | 2022-11-14 | 2022-11-23 |
 | [Electro Funk](https://open.spotify.com/track/3MCS2tgHyN2yqt1ZxSRf1S) | [The Noisy Freaks](https://open.spotify.com/artist/60sodhodkZh9N9pMudJnfa), [Televisor](https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC), [Funky Findings](https://open.spotify.com/artist/7wlUql0ZjXNR0y3guJ3z83) | [Electro Funk](https://open.spotify.com/album/4Oo6KQRWlat1Zy9cGXPDGM) | 3:24 | 2022-11-12 | 2022-12-13 |
 | [Elements](https://open.spotify.com/track/1CpeoK33nT6pIWfl645Tpb) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Elements](https://open.spotify.com/album/3a8RMIshIaGLHdQEULCrrk) | 4:25 | 2022-11-14 | 2022-12-12 |
-| [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 | 2023-01-11 | 2023-01-12 |
+| [Ellebori](https://open.spotify.com/track/1j7pycxTWD6vyiKJout75p) | [Alvize Fantacone](https://open.spotify.com/artist/4sew4Q0f9agKwtwW6EpMH1) | [Ellebori](https://open.spotify.com/album/1Gzq0KGnmDKcF2jwPM83rS) | 2:59 | 2023-01-11 |  |
 | [Eloise](https://open.spotify.com/track/7liZY5pEPPfOhZ5QtnT20L) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Eloise](https://open.spotify.com/album/6h8gT1uqOIadq5KRL1eA6P) | 2:54 | 2022-08-23 | 2022-08-24 |
 | [Elskaði](https://open.spotify.com/track/6Pm6hmH3tcxVlZzelFqtmS) | [Guðmundur Helgason](https://open.spotify.com/artist/5enIukwt5q9TDbdmUmRPdz) | [Elskaði](https://open.spotify.com/album/5LMW0Vj3rQYkWTbvdosrsL) | 2:33 | 2023-01-15 | 2023-01-17 |
 | [Ember](https://open.spotify.com/track/7m7vDaC4Kpq42AeW9Sm51L) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I), [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Ember](https://open.spotify.com/album/1dnCJ011mQLdSoONNFzKho) | 3:26 | 2022-10-12 | 2022-10-13 |
@@ -2171,7 +2171,7 @@
 | [Monster \(Rework\)](https://open.spotify.com/track/4LfryUF6KUoJNPoOhSsV7z) | [DotEXE](https://open.spotify.com/artist/2S2RMiHABGxAQqdqwUN5qF) | [Monster \(Rework\)](https://open.spotify.com/album/0LjWA1D2xmqWl90yDAhpfU) | 3:41 | 2022-12-11 | 2022-12-12 |
 | [Monsters](https://open.spotify.com/track/5nEilWBes69DddmknTqJ1x) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Monsters \(Acoustic Version\)](https://open.spotify.com/album/108vaI7ptHNeK3YjGRU0zp) | 3:20 | 2023-01-03 | 2023-01-04 |
 | [Monte Carlo](https://open.spotify.com/track/1ihYZGQYoS39VPajctYMRB) | [Sandra N.](https://open.spotify.com/artist/0UrGage3kU3APQxGDFhc9L) | [Monte Carlo](https://open.spotify.com/album/3pk571K01GnImAJmnxlJyu) | 2:59 | 2022-06-10 | 2022-06-11 |
-| [Monte Viso](https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Monte Viso](https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya) | 1:35 | 2023-01-11 |  |
+| [Monte Viso](https://open.spotify.com/track/2PPYHVE2EqwC8GASDE5Qzi) | [Gente di Toscana](https://open.spotify.com/artist/3O8REjW84wRHnhTtc2bI4Q) | [Monte Viso](https://open.spotify.com/album/3TeppbYQnOGDMo1uloj3Ya) | 1:35 | 2023-01-11 | 2023-01-23 |
 | [Monument Valley](https://open.spotify.com/track/0hdwByRwt345Z5nbtkFZc5) | [Leviro](https://open.spotify.com/artist/50rU4gBfyrar1G08tnxdTl) | [Monument Valley](https://open.spotify.com/album/3G8O3mZwVIZHsCWuv6hQs6) | 2:01 | 2022-06-01 | 2022-06-02 |
 | [Mood Swing](https://open.spotify.com/track/0C4yubVphjxkU2s8mdgnWu) | [LEX](https://open.spotify.com/artist/73R7pkwL1kz9gqVScbbjab) | [Mood Swing](https://open.spotify.com/album/4nIkHzobq4rsN55Hpy7bHM) | 3:07 | 2022-09-10 | 2022-09-23 |
 | [Moody](https://open.spotify.com/track/3shC46YOFThDw9VPAhjq8Y) | [Savannah Sgro](https://open.spotify.com/artist/5aj9AKqFL0JpL2sQ8Q2irp) | [Moody](https://open.spotify.com/album/7gSi4VqXiEH1cb4RYFsNk2) | 3:09 | 2022-07-05 | 2022-07-22 |
@@ -2228,7 +2228,7 @@
 | [Mysterious Girl](https://open.spotify.com/track/69Ggwq5jXW6Uf0h6SC4pJP) | [Sunrise Inc](https://open.spotify.com/artist/1aLsE45EFRhjEWMQ73FKRe) | [Mysterious Girl](https://open.spotify.com/album/0hhW1tMiAnnkOeLxjuGuPB) | 3:37 | 2022-05-28 | 2022-12-23 |
 | [Mysterious Times](https://open.spotify.com/track/75ohEbOgZ2l34wJebixHGm) | [Bobina](https://open.spotify.com/artist/7H63wD8xWXAKdYVjZmE90B), [Christina Novelli](https://open.spotify.com/artist/1dbzT291PCwwYJK0l3Tr1n) | [Mysterious Times](https://open.spotify.com/album/2fBgkieub6nTVPEY5x7F2y) | 3:49 | 2023-01-06 | 2023-01-14 |
 | [Mystery](https://open.spotify.com/track/69ZdNv7ophVx0sS7Lhmwqt) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Mystery](https://open.spotify.com/album/7j2TldeDQMgDf2Sul1pHIN) | 3:29 | 2022-06-21 | 2022-06-24 |
-| [Möja](https://open.spotify.com/track/5iff6pbfxolRgcYyh0z0eO) | [Four Robes](https://open.spotify.com/artist/4HXMcKK5KjlXNODUYu6KaC) | [Möja](https://open.spotify.com/album/6blmtjv7vElFMQvGDagtcH) | 1:20 | 2023-01-21 |  |
+| [Möja](https://open.spotify.com/track/5iff6pbfxolRgcYyh0z0eO) | [Four Robes](https://open.spotify.com/artist/4HXMcKK5KjlXNODUYu6KaC) | [Möja](https://open.spotify.com/album/6blmtjv7vElFMQvGDagtcH) | 1:20 | 2023-01-21 | 2023-01-23 |
 | [Mă omoară](https://open.spotify.com/track/0jna2IelMLAY3hj0Vi7SRX) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Mă omoară](https://open.spotify.com/album/1C2s0Z0BGw0UmEW4iStRfc) | 3:32 | 2022-06-30 | 2022-07-01 |
 | [N\-avem timp](https://open.spotify.com/track/30U6dxXpQfJVvsiGIrmP3H) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [N\-avem timp](https://open.spotify.com/album/5b2AgL4GZgAZAkvnYZjVNL) | 3:05 | 2022-07-22 | 2022-09-02 |
 | [NAKED](https://open.spotify.com/track/4hBKWHY1PLnBj4UZCxQE4P) | [Michael Medrano](https://open.spotify.com/artist/1m19wFvOFvPm15no62SlAD) | [NAKED](https://open.spotify.com/album/73ILkPxuIv9Mr7SiNtQee8) | 2:59 | 2022-11-10 | 2022-11-12 |
@@ -2960,6 +2960,7 @@
 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 | 2022-07-14 | 2022-11-26 |
 | [So Good To Me](https://open.spotify.com/track/3Qt4d1IoO5yhQFAUFsTXSK) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO) | [So Good To Me](https://open.spotify.com/album/3qFfusBUAlH5hfZfm5Kq38) | 3:36 | 2022-09-17 | 2022-09-18 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-06-26 | 2022-08-02 |
+| [So Long](https://open.spotify.com/track/1HHepfGnbd75q6VMDZbW8J) | [Nils Klein](https://open.spotify.com/artist/6GCEsZ31bXy5aSlaWODuLE) | [So Long](https://open.spotify.com/album/5W01yVtU8dAsTHF7aH2AAX) | 1:39 | 2023-01-23 |  |
 | [Sober](https://open.spotify.com/track/42cUHHFn4NVZUq0K8CAQiv) | [Johnny Manuel](https://open.spotify.com/artist/5U8Xyp22AsF2SX5Fi7x9KC) | [Sober](https://open.spotify.com/album/176d2E2Gpoz6x7TvxC2qDf) | 3:00 | 2022-07-01 | 2022-12-31 |
 | [Softly Spoken](https://open.spotify.com/track/6Jyc8YdessoEIA0VB8qEjQ) | [Blusher](https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N) | [Softly Spoken](https://open.spotify.com/album/2ZQSbqkciW3zJrlbuOqdrs) | 2:41 | 2022-11-15 | 2022-12-28 |
 | [Soir de Grêle](https://open.spotify.com/track/3FpAujkWU06N26q7kVPv2i) | [Amandine Moulin](https://open.spotify.com/artist/0sVyGAiXwDz3NKBLpwY69j) | [La Vie](https://open.spotify.com/album/7xmt9O9FKI2sLhQuA3ON2o) | 2:03 | 2023-01-22 |  |
