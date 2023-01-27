@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [STAY](https://open.spotify.com/track/25SlO2uOW2Q5h0me2DVHV6) | [Franciys](https://open.spotify.com/artist/4T9J1q5Efc8yobMU3adFUq) | [STAY](https://open.spotify.com/album/3HZPs3zLf0LIVAm4YGkTTm) | 3:05 |
 | 30 | [Bright Lights](https://open.spotify.com/track/3sWfD3Xv9Zu3O6UHRv4u5h) | [HERMANN](https://open.spotify.com/artist/39nfOPNks3gAIk1jIbVVGJ) | [Bright Lights](https://open.spotify.com/album/1MAP4538Y3KAUb1KK5dhB8) | 3:03 |
 
-Snapshot ID: `MCwwMDAwMDAwMGRkOTU1MDM3MmE4NDcxOGNkOTBkOWFkNzhmYjg4M2M1`
+Snapshot ID: `MCwwMDAwMDAwMDU2ZDU3ZjMwZWU1MDMwOWFiZjRkZjQ3ZTEwNjllYTVi`
