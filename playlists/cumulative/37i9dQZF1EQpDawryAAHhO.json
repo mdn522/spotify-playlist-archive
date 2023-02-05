@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-12-01",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIVKsolglGKRe>LUDMILLA</a>, <a href=spotify:playlist:37i9dQZF1EIWMCfdkuRbbE>Grupo Revelação</a>, <a href=spotify:playlist:37i9dQZF1EIZmIUWe724zt>Ferrugem</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIVKsolglGKRe>LUDMILLA</a>, <a href=spotify:playlist:37i9dQZF1EIZmIUWe724zt>Ferrugem</a>, <a href=spotify:playlist:37i9dQZF1EIWMCfdkuRbbE>Grupo Revelação</a> and more",
     "name": "Samba Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -39,7 +39,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 147166,
             "name": "212",
             "url": "https://open.spotify.com/track/5JBfpl0FGadGwawYry0HoV"
@@ -441,7 +441,7 @@
             ],
             "date_added": "2023-01-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 78500,
             "name": "Abertura Numanice - Ao Vivo",
             "url": "https://open.spotify.com/track/6Cz9Qx3vijGkNjuBqB9Uli"
@@ -477,7 +477,7 @@
             ],
             "date_added": "2022-12-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 315986,
             "name": "Acelera / Faz Tanto Tempo / Uber / Teu Sorriso",
             "url": "https://open.spotify.com/track/4ML359VKhPrAkcLfBHJEVa"
@@ -661,7 +661,7 @@
             ],
             "date_added": "2022-12-26",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 304866,
             "name": "Alguém Me Avisou/Acreditar/Sonho Meu",
             "url": "https://open.spotify.com/track/6YJIXLfsDa9sR5iTmlCkoX"
@@ -781,10 +781,28 @@
             ],
             "date_added": "2022-12-09",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-14",
+            "date_removed": null,
             "duration_ms": 337819,
             "name": "Amarguras / Ai Que Saudade do Meu Amor / Se Eu For Falar de Tristeza",
             "url": "https://open.spotify.com/track/6iItThBHJPM3H7JOHx9gn6"
+        },
+        {
+            "album": {
+                "name": "Receita pra Amar",
+                "url": "https://open.spotify.com/album/2zKCNyZnUp7gKRKTmvYtbp"
+            },
+            "artists": [
+                {
+                    "name": "João Martins",
+                    "url": "https://open.spotify.com/artist/0ZBKwIYmjUoE27KisHeb2q"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 242693,
+            "name": "Amor Calmo",
+            "url": "https://open.spotify.com/track/5vdqXjugO539pdJbky8Acm"
         },
         {
             "album": {
@@ -949,7 +967,7 @@
             ],
             "date_added": "2022-12-09",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-04",
+            "date_removed": null,
             "duration_ms": 223266,
             "name": "Andança",
             "url": "https://open.spotify.com/track/2XCF9zbOTpv4VfuQxahluA"
@@ -1007,6 +1025,24 @@
             "duration_ms": 189965,
             "name": "Aperta o Pause",
             "url": "https://open.spotify.com/track/1R2qlJCKHYt9F4iFWOjNEs"
+        },
+        {
+            "album": {
+                "name": "Argumento - Spotify Singles",
+                "url": "https://open.spotify.com/album/2XMNn5bkQO21DiVmwSFZ0w"
+            },
+            "artists": [
+                {
+                    "name": "Criolo",
+                    "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 203319,
+            "name": "Argumento - Spotify Singles",
+            "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
         },
         {
             "album": {
@@ -1101,6 +1137,40 @@
             "duration_ms": 111706,
             "name": "As Rosas Não Falam",
             "url": "https://open.spotify.com/track/0TIfUAWtfg14lCSW1sLzll"
+        },
+        {
+            "album": {
+                "name": "Sambas de Enredo Rio Carnaval 2023",
+                "url": "https://open.spotify.com/album/6QzCTxiOqN5Wx2N4REcU73"
+            },
+            "artists": [
+                {
+                    "name": "Rio Carnaval",
+                    "url": "https://open.spotify.com/artist/74e1KteYpnPnRM4SiTJt9v"
+                },
+                {
+                    "name": "De Mangueira",
+                    "url": "https://open.spotify.com/artist/7CVagBI0GkY4VnqcLkr4pj"
+                },
+                {
+                    "name": "Marquinho Art'Samba",
+                    "url": "https://open.spotify.com/artist/4uN2YBC6SzGVvEFuuqhALh"
+                },
+                {
+                    "name": "Margareth Menezes",
+                    "url": "https://open.spotify.com/artist/1ehJzJeAbLiS4l0PIWd9MD"
+                },
+                {
+                    "name": "Dowglas Diniz",
+                    "url": "https://open.spotify.com/artist/5zycZ0c1QH348xRxmgFf4T"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 368647,
+            "name": "As Áfricas Que a Bahia Canta",
+            "url": "https://open.spotify.com/track/4qWCdtPWJoDDeNpdHDL5dE"
         },
         {
             "album": {
@@ -1391,7 +1461,7 @@
             ],
             "date_added": "2022-12-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 216818,
             "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
             "url": "https://open.spotify.com/track/1N19UVD4GRBFT6UrDaX6rk"
@@ -1591,7 +1661,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 130205,
             "name": "Boys Go Marching",
             "url": "https://open.spotify.com/track/0SGPs0mTNRcmXVo8FuIoIh"
@@ -1689,7 +1759,7 @@
             ],
             "date_added": "2022-12-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 217333,
             "name": "Cabelos Brancos",
             "url": "https://open.spotify.com/track/4AxQF7F3zKsxO8nhTYiD6Z"
@@ -1743,7 +1813,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-26",
+            "date_removed": null,
             "duration_ms": 202626,
             "name": "Cabô, Meu Pai",
             "url": "https://open.spotify.com/track/5BSflJ1ehYRK7cqn9hrYGd"
@@ -1813,6 +1883,24 @@
             "duration_ms": 210173,
             "name": "Cai No Samba - Ao Vivo Em Brasil/2007",
             "url": "https://open.spotify.com/track/1cTEXAHKB72ela5dXbesG8"
+        },
+        {
+            "album": {
+                "name": "Acústico, Vol. 1",
+                "url": "https://open.spotify.com/album/3QeFJAUakvi7WY3CFSsJpj"
+            },
+            "artists": [
+                {
+                    "name": "Vinny Santa Fé",
+                    "url": "https://open.spotify.com/artist/19A5pgqDMOLR3hHZ1Piv8d"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 115323,
+            "name": "Caixeiro Viajante",
+            "url": "https://open.spotify.com/track/362T849IwkIzdjiiFGjYl1"
         },
         {
             "album": {
@@ -2255,10 +2343,28 @@
             ],
             "date_added": "2023-01-10",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-11",
+            "date_removed": null,
             "duration_ms": 192253,
             "name": "Canto De Rainha - Ao Vivo",
             "url": "https://open.spotify.com/track/5TB6hQCVrMaK3zPxr2dKkg"
+        },
+        {
+            "album": {
+                "name": "Canto Para Ogum",
+                "url": "https://open.spotify.com/album/0XQvonBpC3cJxHwMMmsod0"
+            },
+            "artists": [
+                {
+                    "name": "Mariene De Castro",
+                    "url": "https://open.spotify.com/artist/2MaqyTrc7HzuYvLnvfhxIN"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 355280,
+            "name": "Canto Para Ogum",
+            "url": "https://open.spotify.com/track/3GOk96iLkDb9ri039wMrO9"
         },
         {
             "album": {
@@ -3111,7 +3217,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-01",
+            "date_removed": null,
             "duration_ms": 154522,
             "name": "Coração de Gelo",
             "url": "https://open.spotify.com/track/5tx0bbEsMwk7luBItngfrX"
@@ -3237,7 +3343,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 203579,
             "name": "Coração Leviano - Ao Vivo",
             "url": "https://open.spotify.com/track/68a1PNlHfiQqUlCrUIyOoH"
@@ -3707,7 +3813,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 144612,
             "name": "Deixa o Menino Jogar - Ao Vivo",
             "url": "https://open.spotify.com/track/4phUOzsqUNjZ5EY8zTAhTv"
@@ -4169,7 +4275,7 @@
             ],
             "date_added": "2022-12-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 298685,
             "name": "Doador",
             "url": "https://open.spotify.com/track/54RFWfT3ewJu0JSxarRzft"
@@ -4275,7 +4381,7 @@
             ],
             "date_added": "2022-12-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 231283,
             "name": "Dorme com Deus / Fica - Ao Vivo",
             "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
@@ -4311,7 +4417,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 161482,
             "name": "Duas - Ao Vivo",
             "url": "https://open.spotify.com/track/4JBMy8YLcz3zPQUh0qVBXy"
@@ -4329,7 +4435,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 148953,
             "name": "E a Vida Mudou - Ao Vivo",
             "url": "https://open.spotify.com/track/2CZLccIdehBoPdyqhiDz1O"
@@ -4391,7 +4497,7 @@
             ],
             "date_added": "2022-12-06",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-31",
+            "date_removed": null,
             "duration_ms": 226437,
             "name": "E Eu?",
             "url": "https://open.spotify.com/track/4JY8IJOrFXJYEfucMY4yts"
@@ -4525,7 +4631,7 @@
             ],
             "date_added": "2022-12-10",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-20",
+            "date_removed": null,
             "duration_ms": 282401,
             "name": "Encontro Marcado",
             "url": "https://open.spotify.com/track/5VgFJaOH1qioBhopvu1r7B"
@@ -4569,7 +4675,7 @@
             ],
             "date_added": "2023-01-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 198360,
             "name": "Encrenca / Pós-Graduado - Ao Vivo",
             "url": "https://open.spotify.com/track/5NlsrZPXqngRsoZHI6dzqg"
@@ -4587,7 +4693,7 @@
             ],
             "date_added": "2022-12-07",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-28",
+            "date_removed": null,
             "duration_ms": 320754,
             "name": "Encrespou o Mar / Só no Balanço / Nossas Raízes - Ao Vivo",
             "url": "https://open.spotify.com/track/4g8kUbWmzXpeq6mmsKWdk6"
@@ -4635,7 +4741,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 419231,
             "name": "Engano / Eu Tenho Muito Mais / Mina de Fé / Duas Paixões",
             "url": "https://open.spotify.com/track/6ETzTRYx8f44W3LJXTvli3"
@@ -4917,7 +5023,7 @@
             ],
             "date_added": "2022-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 154443,
             "name": "Eu Estive Aqui",
             "url": "https://open.spotify.com/track/3eJr8W943UaUEagkR6JySY"
@@ -5327,7 +5433,7 @@
             ],
             "date_added": "2022-12-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 228413,
             "name": "Falsa consideração - Ao vivo",
             "url": "https://open.spotify.com/track/3ITKjAINIrsm72X8YUHDGH"
@@ -5381,7 +5487,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 220437,
             "name": "Falta Você",
             "url": "https://open.spotify.com/track/14uWxelOuAUajP8fDvc0Ct"
@@ -5723,7 +5829,7 @@
             ],
             "date_added": "2022-12-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 202181,
             "name": "Flagrante",
             "url": "https://open.spotify.com/track/2eKnbyLM6e0loHzTmg5OvD"
@@ -5871,7 +5977,7 @@
             ],
             "date_added": "2022-12-07",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-08",
+            "date_removed": null,
             "duration_ms": 147089,
             "name": "Fora de Si - Ao Vivo",
             "url": "https://open.spotify.com/track/3ojDttdAfpz1UhnFVLSG3s"
@@ -5991,7 +6097,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 230533,
             "name": "Fé Em Deus - Live From Brazil/2007",
             "url": "https://open.spotify.com/track/3XgLyBDVXEl9IcEQl8AL8S"
@@ -6114,6 +6220,24 @@
         },
         {
             "album": {
+                "name": "Gratidão",
+                "url": "https://open.spotify.com/album/2dO3FHnCYczt1qhoSKMe1E"
+            },
+            "artists": [
+                {
+                    "name": "Xande De Pilares",
+                    "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 243071,
+            "name": "Gratidão",
+            "url": "https://open.spotify.com/track/0TdVVky1bm2HnamYfkk8X7"
+        },
+        {
+            "album": {
                 "name": "Pagode Do Pericão II, Pt. 2 (Ao Vivo)",
                 "url": "https://open.spotify.com/album/65vNfWkaQhnrT7ndLZQ0Z0"
             },
@@ -6227,7 +6351,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 172389,
             "name": "Identidade",
             "url": "https://open.spotify.com/track/1YUH1Cr3OYNE1tEWWCQ9zT"
@@ -6457,7 +6581,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 215252,
             "name": "Invisível - Ao Vivo",
             "url": "https://open.spotify.com/track/5gIU2Uj85NWsqJasz0gphd"
@@ -6653,7 +6777,7 @@
             ],
             "date_added": "2022-12-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 224733,
             "name": "Já é - Ao vivo",
             "url": "https://open.spotify.com/track/5208LKuihL0farASiFLxEl"
@@ -6755,7 +6879,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 181048,
             "name": "Lance Livre - Ao vivo",
             "url": "https://open.spotify.com/track/6LBDtzlM7s9XGB7diqpB8z"
@@ -6843,10 +6967,28 @@
             ],
             "date_added": "2023-01-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-01",
+            "date_removed": null,
             "duration_ms": 192043,
             "name": "Lembrança - Ao Vivo",
             "url": "https://open.spotify.com/track/6r8vriJvJEkVF3v8TGTGx2"
+        },
+        {
+            "album": {
+                "name": "Samba Social Clube Nova Geração (Ao Vivo)",
+                "url": "https://open.spotify.com/album/1anvzyQX38sfh8Dp9CLoS0"
+            },
+            "artists": [
+                {
+                    "name": "João Martins",
+                    "url": "https://open.spotify.com/artist/0ZBKwIYmjUoE27KisHeb2q"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 254426,
+            "name": "Lendas Da Mata - Ao Vivo",
+            "url": "https://open.spotify.com/track/53vgazIrnCSc2ZhaC9d3Bm"
         },
         {
             "album": {
@@ -6959,7 +7101,7 @@
             ],
             "date_added": "2022-12-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 200716,
             "name": "Louco Apaixonado - Ao Vivo",
             "url": "https://open.spotify.com/track/3W3IY5TNgLjxzUi3p26x3z"
@@ -7133,7 +7275,7 @@
             ],
             "date_added": "2022-12-09",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 191053,
             "name": "Malandro",
             "url": "https://open.spotify.com/track/4QKBTRNlO2JhK16ZvTjlhU"
@@ -7459,7 +7601,7 @@
             ],
             "date_added": "2022-12-09",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-30",
+            "date_removed": null,
             "duration_ms": 299746,
             "name": "Me Leva - Ao Vivo Em Vivo Rio,Brasil/2010",
             "url": "https://open.spotify.com/track/7eagn7sy1HS26VGz4lYmr1"
@@ -7747,7 +7889,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-30",
+            "date_removed": null,
             "duration_ms": 175130,
             "name": "Mensagem Apagada",
             "url": "https://open.spotify.com/track/7xoW9ae2eFXgzw2JFkttmq"
@@ -7917,7 +8059,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 406920,
             "name": "Meu Lugar - Ao Vivo",
             "url": "https://open.spotify.com/track/2XcL0EUugd9IyDy3ajxbRd"
@@ -8069,7 +8211,7 @@
             ],
             "date_added": "2022-12-08",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-31",
+            "date_removed": null,
             "duration_ms": 184680,
             "name": "Minha Fé - Ao Vivo / Bonus Track",
             "url": "https://open.spotify.com/track/0IReDxRfKXiD07k4hyclAX"
@@ -8149,7 +8291,7 @@
             ],
             "date_added": "2022-12-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 220619,
             "name": "Moleque Atrevido - Ao Vivo",
             "url": "https://open.spotify.com/track/7gip0LcKJuuS4pfg7Ya8gD"
@@ -8573,7 +8715,7 @@
             ],
             "date_added": "2022-12-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 167474,
             "name": "Night & Day",
             "url": "https://open.spotify.com/track/1ZvRqTEI0mIXfHudsYdk4x"
@@ -8703,7 +8845,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 174285,
             "name": "Nosso Amor Quer Paz - Ao Vivo",
             "url": "https://open.spotify.com/track/6styQIEeflfqXDljJLzcen"
@@ -8721,7 +8863,7 @@
             ],
             "date_added": "2022-12-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 122551,
             "name": "Nosso Dia a Dia - Ao Vivo",
             "url": "https://open.spotify.com/track/4SuJMlj5SrrpIQcieo2vR0"
@@ -8779,7 +8921,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-27",
+            "date_removed": null,
             "duration_ms": 144186,
             "name": "Nosso Grito",
             "url": "https://open.spotify.com/track/5KReogEW4oBWjHHYzO7DKh"
@@ -8837,7 +8979,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 529585,
             "name": "Numanice Lud Session - Modo Avião / A Tua Voz / 700 Por Hora / Radar / A Música Mais Triste do Ano - Ao vivo",
             "url": "https://open.spotify.com/track/3hXCANK2ys6D2HZE3kuDfz"
@@ -8913,7 +9055,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 224817,
             "name": "Não Pensar Com o Coração - Ao Vivo",
             "url": "https://open.spotify.com/track/5HuNRvirtnUnYwH8BI1f2G"
@@ -9199,7 +9341,7 @@
             ],
             "date_added": "2022-12-11",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 176642,
             "name": "O Mundo Dá Voltas",
             "url": "https://open.spotify.com/track/72Dd1GTMVp8EaJof85xICq"
@@ -9952,6 +10094,24 @@
         },
         {
             "album": {
+                "name": "Samba É A Nossa Cara",
+                "url": "https://open.spotify.com/album/2VIMlk8hkyuyurXtVhxnIp"
+            },
+            "artists": [
+                {
+                    "name": "Arlindo Cruz & Sombrinha",
+                    "url": "https://open.spotify.com/artist/01eLJvqYzaz2V1wMCu0wXE"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 211960,
+            "name": "Papo de Homem e Mulher",
+            "url": "https://open.spotify.com/track/15i5BlFXvSlHzm51UDxkf2"
+        },
+        {
+            "album": {
                 "name": "Meu Ziriguidum",
                 "url": "https://open.spotify.com/album/4HdK1Z4HoPq5P9X22KfZMC"
             },
@@ -10167,7 +10327,7 @@
             ],
             "date_added": "2023-01-29",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-30",
+            "date_removed": null,
             "duration_ms": 92626,
             "name": "Pela Madrugada",
             "url": "https://open.spotify.com/track/4eNiTdJbUCnLMpA5KTq1y8"
@@ -10396,6 +10556,28 @@
         },
         {
             "album": {
+                "name": "Pode Parar (Ao Vivo)",
+                "url": "https://open.spotify.com/album/41gmULd3H7o8rlzyZdCRxd"
+            },
+            "artists": [
+                {
+                    "name": "Alexandre Pires",
+                    "url": "https://open.spotify.com/artist/0Rrl4hJQjRAbGtiEwAqS5N"
+                },
+                {
+                    "name": "Jorge",
+                    "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 190208,
+            "name": "Pode Parar (Ao Vivo)",
+            "url": "https://open.spotify.com/track/70eXh7zzWolEWs0X05mL40"
+        },
+        {
+            "album": {
                 "name": "Ao vivo",
                 "url": "https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA"
             },
@@ -10407,7 +10589,7 @@
             ],
             "date_added": "2022-12-13",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-11",
+            "date_removed": null,
             "duration_ms": 180933,
             "name": "Ponta de dor - Ao vivo",
             "url": "https://open.spotify.com/track/13WxzbRxMtdv4IfJlwX5K5"
@@ -10425,7 +10607,7 @@
             ],
             "date_added": "2022-12-15",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 202533,
             "name": "Ponto de Vista",
             "url": "https://open.spotify.com/track/2o95xNRQni6A28MD2PUcFr"
@@ -10443,7 +10625,7 @@
             ],
             "date_added": "2022-12-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 273082,
             "name": "Por causa de você / Baby / 1 minuto - Ao Vivo",
             "url": "https://open.spotify.com/track/4KjHcvzmFeYo2ebthgKoJk"
@@ -10479,7 +10661,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-31",
+            "date_removed": null,
             "duration_ms": 171024,
             "name": "Porre",
             "url": "https://open.spotify.com/track/1puUIxbtzRoyY6MjR2WgaD"
@@ -10835,7 +11017,7 @@
             ],
             "date_added": "2022-12-29",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 203894,
             "name": "Pra você acreditar - Ao vivo",
             "url": "https://open.spotify.com/track/5KNi9XFap48ry4puG7rvqv"
@@ -10875,7 +11057,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 88142,
             "name": "Preciso Desse Mel",
             "url": "https://open.spotify.com/track/4Y8b5dLUPwsfg5irrMxpdG"
@@ -11159,7 +11341,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 220866,
             "name": "Pé Na Areia",
             "url": "https://open.spotify.com/track/1b0qrz3GCfvlpo05Dso8Re"
@@ -11297,7 +11479,7 @@
             ],
             "date_added": "2023-01-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 166813,
             "name": "Põe Na Balança - Ao Vivo",
             "url": "https://open.spotify.com/track/4Qu7ThpD4vnl9s9zosHnjz"
@@ -11315,7 +11497,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 223400,
             "name": "Qualquer Dia Desses",
             "url": "https://open.spotify.com/track/58z2aKzdaB6pjjHyqHT0n0"
@@ -11435,7 +11617,7 @@
             ],
             "date_added": "2022-12-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-14",
+            "date_removed": null,
             "duration_ms": 222160,
             "name": "Quando Falo de Amor - Ao Vivo",
             "url": "https://open.spotify.com/track/2WMvRmO3XnrgCiLYkk5wCp"
@@ -11735,7 +11917,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 213292,
             "name": "Questão de Momento",
             "url": "https://open.spotify.com/track/6kr1poo4pEEzTQ9PpkIrVF"
@@ -11791,7 +11973,7 @@
             ],
             "date_added": "2022-12-11",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-03",
+            "date_removed": null,
             "duration_ms": 155293,
             "name": "Reflexão - Ao Vivo",
             "url": "https://open.spotify.com/track/4mdsh8FzvsxG9vhdGO4rYK"
@@ -12219,7 +12401,7 @@
             ],
             "date_added": "2023-01-25",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-28",
+            "date_removed": null,
             "duration_ms": 202500,
             "name": "Samba",
             "url": "https://open.spotify.com/track/3mkPjUDZ0TrJVzAU0xC9GF"
@@ -13106,6 +13288,28 @@
         },
         {
             "album": {
+                "name": "A Força do Nosso Som (Ao Vivo)",
+                "url": "https://open.spotify.com/album/33fQpB1WXyAufTtgGBTZik"
+            },
+            "artists": [
+                {
+                    "name": "Vou pro Sereno",
+                    "url": "https://open.spotify.com/artist/6LWehyU6oi1UVgwp2PhVEZ"
+                },
+                {
+                    "name": "Reinaldo",
+                    "url": "https://open.spotify.com/artist/3C46KtMg8M2HXzjSWEq2QE"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 228175,
+            "name": "Sonhos (feat. Reinaldo) - Ao Vivo",
+            "url": "https://open.spotify.com/track/4mAWSvlGSBf9KzNIORHSVt"
+        },
+        {
+            "album": {
                 "name": "Sorriso Aberto",
                 "url": "https://open.spotify.com/album/46XHYYtuUy3EjtJLSWcgwc"
             },
@@ -13139,7 +13343,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 179730,
             "name": "Sorriso e Dilsinho",
             "url": "https://open.spotify.com/track/13ihwsXOGQ2DbFkZMI8tpH"
@@ -13563,7 +13767,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 208040,
             "name": "Só Pro Meu Prazer - Ao Vivo",
             "url": "https://open.spotify.com/track/6QdZ5mPfq42MkLoXxX4E2x"
@@ -13581,7 +13785,7 @@
             ],
             "date_added": "2023-01-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 141388,
             "name": "Só um Pagode - Ao Vivo",
             "url": "https://open.spotify.com/track/0kIhdc2rN4TCBzvZ1MtVmz"
@@ -13617,7 +13821,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 225765,
             "name": "Talismã - Ao Vivo no Noites Cariocas",
             "url": "https://open.spotify.com/track/1ugZDlr7EzVTGzcEKs7RTG"
@@ -13897,7 +14101,7 @@
             ],
             "date_added": "2022-12-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-30",
+            "date_removed": null,
             "duration_ms": 355403,
             "name": "Toalha de Mesa / Pedrinha de Cor / Idade de Fazer Bobagem / Marina / Balada Nº 7 / O Neguinho e a Senhorita / Volta por Cima",
             "url": "https://open.spotify.com/track/2z9wlKb31r8uquVb5KuSfH"
@@ -14223,7 +14427,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 166250,
             "name": "Turma Da Espuma",
             "url": "https://open.spotify.com/track/6tkSGQ6iYP9iVNJvs49jGM"
@@ -14498,6 +14702,24 @@
         },
         {
             "album": {
+                "name": "Pedaços",
+                "url": "https://open.spotify.com/album/3Kio2MgcyFofAVIDz06sSj"
+            },
+            "artists": [
+                {
+                    "name": "Simone",
+                    "url": "https://open.spotify.com/artist/0sgV4klGs1Y1dgbBi28JlD"
+                }
+            ],
+            "date_added": "2023-02-05",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 238200,
+            "name": "Tô Voltando",
+            "url": "https://open.spotify.com/track/7rVvt8t21yAfgo4e4Cxj05"
+        },
+        {
+            "album": {
                 "name": "Um Papo na Sala: Intenção / Deixa Tudo Como Tá / A Fila Anda / Para / Vai Passar (Ao Vivo)",
                 "url": "https://open.spotify.com/album/6i06gLxEpgjQ1UgxNqvtoc"
             },
@@ -14665,7 +14887,7 @@
             ],
             "date_added": "2022-12-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 222360,
             "name": "Vai e Chora - Ao Vivo",
             "url": "https://open.spotify.com/track/0RkiZkoUlVUF56VW3rWWGf"
@@ -14741,7 +14963,7 @@
             ],
             "date_added": "2022-12-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 275822,
             "name": "Vai por Mim / Deixa Essa Onda - Ao Vivo",
             "url": "https://open.spotify.com/track/3cX0WaLXTznWurFhng0ZMR"
@@ -14799,7 +15021,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 142284,
             "name": "Varandinha",
             "url": "https://open.spotify.com/track/4Qt53JYPvgW44kwzDv4EKr"
@@ -14995,7 +15217,7 @@
             ],
             "date_added": "2022-12-17",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 147799,
             "name": "Vocabulário de um Partideiro",
             "url": "https://open.spotify.com/track/56cMLTzrhD9XFkL2I9h5ld"
@@ -15013,7 +15235,7 @@
             ],
             "date_added": "2022-12-01",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-01",
+            "date_removed": null,
             "duration_ms": 147258,
             "name": "Você Me Usava",
             "url": "https://open.spotify.com/track/5dNONpavHtcY8qFq0t7hjE"
@@ -15035,7 +15257,7 @@
             ],
             "date_added": "2023-02-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 330214,
             "name": "Você Me Vira A Cabeça (Me Tira Do Sério) / Depois Do Prazer - Ao Vivo",
             "url": "https://open.spotify.com/track/0qA748lp4sQSrXzxj7KrFq"
@@ -15315,7 +15537,7 @@
             ],
             "date_added": "2023-01-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 175584,
             "name": "Vulnerável",
             "url": "https://open.spotify.com/track/4tiGinJH9efnLtXGJDlql9"
@@ -15355,7 +15577,7 @@
             ],
             "date_added": "2023-01-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-05",
             "duration_ms": 159616,
             "name": "Wait",
             "url": "https://open.spotify.com/track/6IY729hQ6PzJQKp3gmND9m"
@@ -15471,7 +15693,7 @@
             ],
             "date_added": "2022-12-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 176777,
             "name": "É Dor Que Não Passa - Ao Vivo",
             "url": "https://open.spotify.com/track/4aeAcTTJSeUGYkFcFCDUkW"
