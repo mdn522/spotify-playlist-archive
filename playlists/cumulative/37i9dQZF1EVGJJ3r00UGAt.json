@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIWVWJ0sX7MRL>Bleeding Fingers</a>, <a href=spotify:playlist:37i9dQZF1EIZwUk01Q7v9E>The Born Love</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>The Ghosts of Liberty</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>The Ghosts of Liberty</a>, <a href=spotify:playlist:37i9dQZF1EIWVWJ0sX7MRL>Bleeding Fingers</a>, <a href=spotify:playlist:37i9dQZF1EIUBliPVlyvI0>Sonny Wern</a> and more",
     "name": "Romantic Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -293,8 +293,8 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2022-08-12",
-            "duration_ms": 291604,
+            "date_removed": null,
+            "duration_ms": 352026,
             "name": "Aahista Aahista",
             "url": "https://open.spotify.com/track/6yrIAJ4yMPzq8Vsu1d3CXg"
         },
@@ -663,7 +663,7 @@
             ],
             "date_added": "2022-06-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 272000,
             "name": "Adiye - From \"Bachelor\"",
             "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
@@ -1216,6 +1216,24 @@
         },
         {
             "album": {
+                "name": "Solo",
+                "url": "https://open.spotify.com/album/20jzOl6wKNK5KB7Kj1WU58"
+            },
+            "artists": [
+                {
+                    "name": "Laureano Brizuela",
+                    "url": "https://open.spotify.com/artist/5388C04OP0Fc6xqbvct7kv"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 234546,
+            "name": "Amandote",
+            "url": "https://open.spotify.com/track/4FNzQAFYz8A2a7k5cyn3E2"
+        },
+        {
+            "album": {
                 "name": "Amay Deko Eka Bikele - Networker Baire",
                 "url": "https://open.spotify.com/album/6ZJfcTaMaYqGBm1ZBC77p2"
             },
@@ -1659,6 +1677,24 @@
             "duration_ms": 61544,
             "name": "Awaargi",
             "url": "https://open.spotify.com/track/1kJFunv8Fa1tCMsc3BSk7Y"
+        },
+        {
+            "album": {
+                "name": "Colección definitiva. 25 Aniversario",
+                "url": "https://open.spotify.com/album/3pkLKgHCNfci94sXtE5na7"
+            },
+            "artists": [
+                {
+                    "name": "Ella Baila Sola",
+                    "url": "https://open.spotify.com/artist/6xvRfsmnwd0qcDUomtlmAt"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 230026,
+            "name": "Ay de ti, ay de mí",
+            "url": "https://open.spotify.com/track/4C27iOm7izW63iMWQCtCSP"
         },
         {
             "album": {
@@ -2121,7 +2157,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-02",
+            "date_removed": null,
             "duration_ms": 230185,
             "name": "Barbaadiyan",
             "url": "https://open.spotify.com/track/6qZyM6JV8ohLC4S2EL5sFh"
@@ -2623,6 +2659,44 @@
             "duration_ms": 187266,
             "name": "Beqaaboo",
             "url": "https://open.spotify.com/track/1U8rhryVYw9gWZ6zvw4Orc"
+        },
+        {
+            "album": {
+                "name": "Besharam Rang (From \"Pathaan\")",
+                "url": "https://open.spotify.com/album/5CvI5ppsG522pV554VLezD"
+            },
+            "artists": [
+                {
+                    "name": "Vishal-Shekhar",
+                    "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+                },
+                {
+                    "name": "Shilpa Rao",
+                    "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+                },
+                {
+                    "name": "Caralisa Monteiro",
+                    "url": "https://open.spotify.com/artist/2Yf4MRVpt0rcAd5y5h5ph1"
+                },
+                {
+                    "name": "Vishal Dadlani",
+                    "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+                },
+                {
+                    "name": "Shekhar Ravjiani",
+                    "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+                },
+                {
+                    "name": "Kumaar",
+                    "url": "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 258472,
+            "name": "Besharam Rang (From \"Pathaan\")",
+            "url": "https://open.spotify.com/track/0CtZpaOhtzvLV3FfcsVpQo"
         },
         {
             "album": {
@@ -4603,7 +4677,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-25",
+            "date_removed": null,
             "duration_ms": 233720,
             "name": "Dandelions",
             "url": "https://open.spotify.com/track/2eAvDnpXP5W0cVtiI0PUxV"
@@ -4991,7 +5065,7 @@
             ],
             "date_added": "2022-08-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 309149,
             "name": "Dil (From \"Ek Villain Returns\")",
             "url": "https://open.spotify.com/track/043SPVu75TXbs94ZfM9dfn"
@@ -5183,7 +5257,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 231486,
             "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
             "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -5619,7 +5693,7 @@
             ],
             "date_added": "2022-05-25",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-04",
+            "date_removed": null,
             "duration_ms": 219686,
             "name": "Doobey",
             "url": "https://open.spotify.com/track/7k6QR9YHyW258yVN6FHO1T"
@@ -6280,6 +6354,24 @@
         },
         {
             "album": {
+                "name": "Descanso Dominical (Bonus Tracks Edition)",
+                "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+            },
+            "artists": [
+                {
+                    "name": "Mecano",
+                    "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 326626,
+            "name": "Eugenio Salvador Dali",
+            "url": "https://open.spotify.com/track/30bh7PAubInTPmq82JdmoX"
+        },
+        {
+            "album": {
                 "name": "Everyone Needs Someone",
                 "url": "https://open.spotify.com/album/6qzGMS5GM9fM1Ib9ZKZU2r"
             },
@@ -6687,7 +6779,7 @@
             ],
             "date_added": "2022-08-26",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-04",
+            "date_removed": null,
             "duration_ms": 308459,
             "name": "Fitoor",
             "url": "https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM"
@@ -6993,7 +7085,7 @@
             ],
             "date_added": "2022-12-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 350011,
             "name": "Galliyan Returns",
             "url": "https://open.spotify.com/track/61ntLJxtXFf9ZkQr67rUrL"
@@ -7429,7 +7521,7 @@
             ],
             "date_added": "2023-01-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 185250,
             "name": "Goldrush",
             "url": "https://open.spotify.com/track/5JNoY52T9wcVYCxuCy9XwU"
@@ -8047,7 +8139,7 @@
             ],
             "date_added": "2023-01-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 158174,
             "name": "Have We Met Before (with Eric Nam)",
             "url": "https://open.spotify.com/track/7eCpXVlWnTVEE8twb3P8m5"
@@ -8083,7 +8175,7 @@
             ],
             "date_added": "2022-06-06",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-18",
+            "date_removed": null,
             "duration_ms": 171987,
             "name": "Hawa Banke",
             "url": "https://open.spotify.com/track/1L3Nsi7YXtBxTdnbqektia"
@@ -8265,7 +8357,7 @@
             ],
             "date_added": "2023-02-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 223107,
             "name": "Heer Ranjha",
             "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
@@ -8690,6 +8782,24 @@
         },
         {
             "album": {
+                "name": "Cousas De Meigas",
+                "url": "https://open.spotify.com/album/3g79x9ZqemoCTaMUQpRQnB"
+            },
+            "artists": [
+                {
+                    "name": "Cómplices",
+                    "url": "https://open.spotify.com/artist/4VIU80QkcrMEdKoiWmnWvr"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 230586,
+            "name": "Hoy necesito",
+            "url": "https://open.spotify.com/track/1cZIQ4lNrZZxZb6dYp4nAK"
+        },
+        {
+            "album": {
                 "name": "2016 Shinning Star - Armaan Malik",
                 "url": "https://open.spotify.com/album/2Z5Dq0EmYGI7yUTIgRnuSY"
             },
@@ -8771,7 +8881,7 @@
             ],
             "date_added": "2022-06-13",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-28",
+            "date_removed": null,
             "duration_ms": 238252,
             "name": "Hum Nashe Mein Toh Nahin",
             "url": "https://open.spotify.com/track/5L70RGPJEdooqtrgR7vd6U"
@@ -8811,7 +8921,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 328992,
             "name": "Humnava Mere",
             "url": "https://open.spotify.com/track/0loZn1c5heXie7OAtvK6nH"
@@ -9414,6 +9524,24 @@
         },
         {
             "album": {
+                "name": "I Wish I Never Said I Love You",
+                "url": "https://open.spotify.com/album/0R6GD17OPt3Si0O9FlQ3xi"
+            },
+            "artists": [
+                {
+                    "name": "Morgan M-James",
+                    "url": "https://open.spotify.com/artist/4TrkuShoMuKaGa2gH6BnNz"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 191335,
+            "name": "I Wish I Never Said I Love You",
+            "url": "https://open.spotify.com/track/2cP0pohqWUIR3LR75AAYVo"
+        },
+        {
+            "album": {
                 "name": "Greetings from Supertropicali (Chapter 1)",
                 "url": "https://open.spotify.com/album/2DzKrMXPHnCHHBp4vCompi"
             },
@@ -9483,7 +9611,7 @@
             ],
             "date_added": "2023-02-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 209589,
             "name": "I'll Stay",
             "url": "https://open.spotify.com/track/0FIMeo2Q1kp5MYvEg1G5bY"
@@ -9501,7 +9629,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 210226,
             "name": "I'm Alive",
             "url": "https://open.spotify.com/track/2FTZeRHQ4gRPViPMpWL9uX"
@@ -9523,7 +9651,7 @@
             ],
             "date_added": "2023-02-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 184125,
             "name": "I'm Falling In Love",
             "url": "https://open.spotify.com/track/0gFfBRTeZKsSAVzVSUgHNK"
@@ -10303,7 +10431,7 @@
             ],
             "date_added": "2022-06-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 177893,
             "name": "Ishq de Fanniyar - Female",
             "url": "https://open.spotify.com/track/6ni6sP88opXUrgC14VeyCQ"
@@ -10949,7 +11077,7 @@
             ],
             "date_added": "2022-07-13",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 298986,
             "name": "Jhoom - R&B Mix",
             "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
@@ -11085,7 +11213,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 199174,
             "name": "Jug Jug Jeeve",
             "url": "https://open.spotify.com/track/0tjnLIbuF8mwLUKq3CNIdH"
@@ -12789,7 +12917,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-28",
+            "date_removed": null,
             "duration_ms": 280369,
             "name": "Lat Lag Gayee",
             "url": "https://open.spotify.com/track/5XsoDbDt98b0FkFLOhsJuS"
@@ -13321,7 +13449,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-03",
+            "date_removed": null,
             "duration_ms": 226954,
             "name": "love is just a word",
             "url": "https://open.spotify.com/track/5ozaEo4KGNnJgdzChs7FQi"
@@ -13339,7 +13467,7 @@
             ],
             "date_added": "2022-10-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 212076,
             "name": "Love Is The Answer",
             "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
@@ -13771,7 +13899,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 203220,
             "name": "Loving This Moment",
             "url": "https://open.spotify.com/track/3XToqObgJRCpZIUN0ucl9t"
@@ -13811,7 +13939,7 @@
             ],
             "date_added": "2023-02-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 189100,
             "name": "lust to love",
             "url": "https://open.spotify.com/track/6cOELYSuqe3OjJ1qjjIlqz"
@@ -15945,7 +16073,7 @@
             ],
             "date_added": "2022-10-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 190052,
             "name": "mona lisa",
             "url": "https://open.spotify.com/track/5Nc3vGiiHFyQegUNjsboj9"
@@ -16163,7 +16291,7 @@
             ],
             "date_added": "2022-05-23",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 263066,
             "name": "Mujhko Barsaat Bana Lo (From \"Junooniyat\")",
             "url": "https://open.spotify.com/track/5w8r50E1tZ9YGgAA02pqwO"
@@ -18071,7 +18199,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-30",
+            "date_removed": null,
             "duration_ms": 298771,
             "name": "Pehli Dafa",
             "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
@@ -19105,7 +19233,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-02-04",
+            "date_removed": null,
             "duration_ms": 228855,
             "name": "Ranjha (From \"Shershaah\")",
             "url": "https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j"
@@ -20246,6 +20374,24 @@
         },
         {
             "album": {
+                "name": "Un Mar De Confianza",
+                "url": "https://open.spotify.com/album/7zUsr3qCJxdnZRCeAmKWzg"
+            },
+            "artists": [
+                {
+                    "name": "Luz Casal",
+                    "url": "https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 251600,
+            "name": "Sentir",
+            "url": "https://open.spotify.com/track/6EOBcSciQtw8RvxqQAVEsb"
+        },
+        {
+            "album": {
                 "name": "21",
                 "url": "https://open.spotify.com/album/4HYlttFwVHZaz7gguxaN9H"
             },
@@ -21231,7 +21377,7 @@
             ],
             "date_added": "2023-01-06",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-10",
+            "date_removed": null,
             "duration_ms": 288696,
             "name": "Subha Hone Na De",
             "url": "https://open.spotify.com/track/6WediUhXDfm8FR3wlM0r3G"
@@ -21305,6 +21451,28 @@
             "duration_ms": 262731,
             "name": "Sun Bhi Le",
             "url": "https://open.spotify.com/track/7C2hyN0hWnAidYAS6EPA2b"
+        },
+        {
+            "album": {
+                "name": "Sun Maahi",
+                "url": "https://open.spotify.com/album/4EoDmQSqtj9lJKUu8vjKbR"
+            },
+            "artists": [
+                {
+                    "name": "Armaan Malik",
+                    "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+                },
+                {
+                    "name": "Amaal Mallik",
+                    "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 169404,
+            "name": "Sun Maahi",
+            "url": "https://open.spotify.com/track/0tE3kaT3c9tjSiOqZJnM1X"
         },
         {
             "album": {
@@ -21505,7 +21673,7 @@
             ],
             "date_added": "2023-02-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 184159,
             "name": "Sweet Baby",
             "url": "https://open.spotify.com/track/5ZHjjyuxyAy93zs0XvVUcv"
@@ -21913,7 +22081,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2022-12-10",
+            "date_removed": null,
             "duration_ms": 253500,
             "name": "Tera Hua (From \"Cash\")",
             "url": "https://open.spotify.com/track/6HDBzDFSDYSmKzadobMr7e"
@@ -22013,7 +22181,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 292000,
             "name": "Tera Mera Rishta",
             "url": "https://open.spotify.com/track/1XJxfmKVIddQhlaTkAnJui"
@@ -22777,7 +22945,7 @@
             ],
             "date_added": "2023-01-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 283226,
             "name": "The Portrait",
             "url": "https://open.spotify.com/track/0yIM3MDx8UTwueyoZJobsb"
@@ -22947,7 +23115,7 @@
             ],
             "date_added": "2023-02-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 174586,
             "name": "this is how you fall in love",
             "url": "https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS"
@@ -22983,7 +23151,7 @@
             ],
             "date_added": "2023-02-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 192041,
             "name": "this is what falling in love feels like",
             "url": "https://open.spotify.com/track/4FO0nfyM5t2ODDlUzr3pkV"
@@ -23071,7 +23239,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2023-01-31",
+            "date_removed": null,
             "duration_ms": 244724,
             "name": "Thoda Thoda Pyaar",
             "url": "https://open.spotify.com/track/5nsET7aVWXu017lsQjRFCV"
@@ -23271,6 +23439,24 @@
             "duration_ms": 211000,
             "name": "Tonight I Celebrate My Love",
             "url": "https://open.spotify.com/track/7JOyY9GA3P2Evx50oetDKb"
+        },
+        {
+            "album": {
+                "name": "Háblame como la lluvia",
+                "url": "https://open.spotify.com/album/5RES7mxuojL0l57T9Csibj"
+            },
+            "artists": [
+                {
+                    "name": "Benny",
+                    "url": "https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 256706,
+            "name": "Tonto corazón",
+            "url": "https://open.spotify.com/track/0XYhQALMe09FDF8gki1XPN"
         },
         {
             "album": {
@@ -25103,7 +25289,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 198380,
             "name": "Valentine's Mashup 2021",
             "url": "https://open.spotify.com/track/1jkNF7kVO0tzNiGXzpC6fQ"
@@ -25477,7 +25663,7 @@
             ],
             "date_added": "2022-10-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-02-06",
             "duration_ms": 208500,
             "name": "When I Really Come Alive",
             "url": "https://open.spotify.com/track/3wduVdjaQPUHuMM2gCBa8k"
@@ -26379,6 +26565,24 @@
             "duration_ms": 265520,
             "name": "Zara Zara",
             "url": "https://open.spotify.com/track/2LEXnbXE6yqdAWblAzFUL0"
+        },
+        {
+            "album": {
+                "name": "Zara Zara - MTV Unwind",
+                "url": "https://open.spotify.com/album/2AQXHeeiHSxhptNmUZdwkU"
+            },
+            "artists": [
+                {
+                    "name": "Arjun Kanungo",
+                    "url": "https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa"
+                }
+            ],
+            "date_added": "2023-02-06",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 208320,
+            "name": "Zara Zara - MTV Unwind",
+            "url": "https://open.spotify.com/track/6anGj4SX83j5DyG3aZOzqc"
         },
         {
             "album": {
