@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [10:35 \(feat\. Tate McRae\) \- Pajane Remix](https://open.spotify.com/track/3LEn9BtosyUSvQRfMlAcFE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Pajane](https://open.spotify.com/artist/2o4A9oTZPZJXTR9VIRVHQ4) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 2:08 |
+| 1 | [10:35 \(feat\. Tate McRae\) \- PAJANE Remix](https://open.spotify.com/track/3LEn9BtosyUSvQRfMlAcFE) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym), [Pajane](https://open.spotify.com/artist/2o4A9oTZPZJXTR9VIRVHQ4) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 2:08 |
 | 2 | [BLUE](https://open.spotify.com/track/2ZQJafOSFoY7j5OJq2IL2l) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [BLUE](https://open.spotify.com/album/79IS6cKjxvWGNzjARThHht) | 3:45 |
 | 3 | [Powerplay](https://open.spotify.com/track/7LL3hlhfrumxAS0vOGO2Ia) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN) | [Powerplay](https://open.spotify.com/album/3OXUzQBV9M1vssUSPHjVi9) | 3:30 |
 | 4 | [Borderline](https://open.spotify.com/track/164QjgWOxnSZYHQghRKeC0) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Borderline](https://open.spotify.com/album/71bAwRaSVv4NIHmY61UutA) | 3:13 |
