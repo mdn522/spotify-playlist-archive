@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-527 songs - 1 day 3 hr 53 min - not published yet
+528 songs - 1 day 3 hr 58 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Gold Skies](https://open.spotify.com/track/70tH0H89ljxQqQEdHLKGao) | [Watson](https://open.spotify.com/artist/6e2GHiq4Px7JXwxfW084d6), [Drew Schueler](https://open.spotify.com/artist/1F2PBVC03y1a9PCszIxJhI) | [Gold Skies](https://open.spotify.com/album/2cKMnX2Yp2vAi3ozzNup8F) | 2:48 | 2022-06-19 | 2022-07-03 |
 | [Golden Hour](https://open.spotify.com/track/2Ai0y2kNlrBDoWhUv6GwpR) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 2:55 | 2022-08-01 | 2022-08-14 |
 | [Golden Nights \- Dark Heart Remix](https://open.spotify.com/track/1FcTHaKdX03FDhFjYISlIP) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt), [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Dark Heart](https://open.spotify.com/artist/1k7Cc2WGh6LAE1TUh6dsiy) | [Golden Nights \(Dark Heart Remix\)](https://open.spotify.com/album/5QiBdJFyIDt3qE1FDzDOOp) | 2:35 | 2022-12-30 | 2023-02-20 |
-| [Good Enough](https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Good Enough](https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr) | 2:39 | 2022-12-30 |  |
+| [Good Enough](https://open.spotify.com/track/6tPYz05avJHydJ4gv8JAmn) | [Marcus James](https://open.spotify.com/artist/3VEzgR55OpqT9SyPeOwrQ4), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Good Enough](https://open.spotify.com/album/0WIwvSVJ7kcFOsrjuzd2Lr) | 2:39 | 2022-12-30 | 2023-02-26 |
 | [Good on You](https://open.spotify.com/track/3Skzc6bYZur8BWZhfUpAP1) | [Alex Hobson](https://open.spotify.com/artist/6LgR7bFuOxzCtVyHRg4OLa), [Talia Mar](https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay) | [Good on You](https://open.spotify.com/album/6FhKty9OrWtsrmfOmkyO6t) | 2:58 | 2022-11-30 | 2022-12-04 |
 | [Good Times](https://open.spotify.com/track/68CTT6OdVoqjku9GYRzauW) | [Soundland](https://open.spotify.com/artist/6WiHmeWEMdFy7iOiDsKqCG), [Ana Whiterose](https://open.spotify.com/artist/5bDFSUlxpPBZW64dXn7kr8) | [Good Times](https://open.spotify.com/album/7IqASdh1tyCR7dMOcOZPK9) | 3:25 | 2022-07-14 | 2022-10-07 |
 | [GOOSEBUMPS](https://open.spotify.com/track/1TFyCXnz7KPDv7qceFJDbp) | [Ross Harris](https://open.spotify.com/artist/0y5FoMTIPsSiC4QFRrFxxC) | [GOOSEBUMPS](https://open.spotify.com/album/2V8AOuSCfmLde4W1wrXg7p) | 3:03 | 2022-06-04 | 2022-06-08 |
@@ -362,6 +362,7 @@
 | [Quiet Storm](https://open.spotify.com/track/1QIsVlaCz3U5GfsEJE9O8L) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Quiet Storm](https://open.spotify.com/album/7bPPEnIPRKGOYuMQ7RaOVK) | 2:04 | 2022-11-15 | 2022-12-07 |
 | [Random Ass White Girl](https://open.spotify.com/track/3tYHTry64mf5t7ZfVA2TjD) | [SHALA](https://open.spotify.com/artist/31AVG9bHuhmmeySvS4buzD) | [Random Ass White Girl](https://open.spotify.com/album/2UyA2FImWSpAfoK87xdKXY) | 1:00 | 2022-10-03 | 2022-10-10 |
 | [Rapture](https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Rapture](https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz) | 3:21 | 2022-12-27 | 2022-12-31 |
+| [Razor Sharp](https://open.spotify.com/track/1C7jwcMQQtzUxfaS9OmmZA) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat \- Best of 2013](https://open.spotify.com/album/76cX37uc6ebY9Ie34sbpBW) | 4:41 | 2023-02-25 |  |
 | [Ready Set Go](https://open.spotify.com/track/5YGqM0z5A6APBDNW677hrG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:35 | 2022-07-02 | 2022-07-06 |
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2022-11-27 | 2022-12-10 |
 | [Rebecca](https://open.spotify.com/track/1me6Y2SOImPJs5vk4xzPJu) | [EMM](https://open.spotify.com/artist/1pYPWJEmCbWjcqnxw3qcyo) | [SAPPHIRE](https://open.spotify.com/album/3MuxfSWhqMLrXyeDoaJjXQ) | 2:49 | 2022-06-01 | 2022-06-12 |
