@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-528 songs - 1 day 3 hr 58 min - not published yet
+529 songs - 1 day 4 hr 1 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -291,7 +291,7 @@
 | [Made to Shine](https://open.spotify.com/track/6f1ioGJk89gSCC2iV8mUC8) | [Shelly Fairchild](https://open.spotify.com/artist/4FALuPoXjPUK7GZrghbSjm), [Silverberg](https://open.spotify.com/artist/3lpVtJYZ57FvUVDzECu4UY) | [Made to Shine](https://open.spotify.com/album/4a43kKUQvnMJUSkb6HXuuC) | 3:30 | 2022-06-19 | 2022-06-27 |
 | [Magic \- Cubicore Remix](https://open.spotify.com/track/2OjucvmWonQwIplzn7uihF) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp), [Cubicore](https://open.spotify.com/artist/44APJiQpJhK4CWuLC9gGrx) | [Magic \(Cubicore Remix\)](https://open.spotify.com/album/7fH9xIakbardKowp3K3B1A) | 2:47 | 2023-02-19 |  |
 | [Maja's Miracle](https://open.spotify.com/track/357UXnSLfG3RTRrRMc7YiU) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [Maja's Miracle](https://open.spotify.com/album/2rwHW5rHNhGIEPokFQCrHk) | 2:03 | 2023-01-20 | 2023-01-27 |
-| [Make You Cry \(Tritonia 346\)](https://open.spotify.com/track/4dscKp0qk0UMORQvLrtdCV) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Tritonia 346](https://open.spotify.com/album/2JDE3zpJ7INUqoMCuKSa7z) | 4:06 | 2023-02-22 |  |
+| [Make You Cry \(Tritonia 346\)](https://open.spotify.com/track/4dscKp0qk0UMORQvLrtdCV) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Tritonia 346](https://open.spotify.com/album/2JDE3zpJ7INUqoMCuKSa7z) | 4:06 | 2023-02-22 | 2023-03-01 |
 | [Malibu](https://open.spotify.com/track/4O9Adse1FxKPtCFBSk96kM) | [Illustrated](https://open.spotify.com/artist/3UaZ2HKslGQdOJ2X7ePVEq) | [Malibu](https://open.spotify.com/album/1z4MeGoBjpsCRxpqbh6tGI) | 3:45 | 2022-10-09 | 2022-10-13 |
 | [Malin 1](https://open.spotify.com/track/49rlIN0XGY8jRlKgIBKvJe) | [Galaxy River](https://open.spotify.com/artist/368DFiSRV82OfD2QC0HUkC) | [Cygnus A](https://open.spotify.com/album/0D4vISbqnNZPeEl9lEN2Dc) | 3:16 | 2023-01-17 | 2023-01-24 |
 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 | 2022-10-18 | 2022-12-10 |
@@ -371,6 +371,7 @@
 | [Red Sun](https://open.spotify.com/track/4NIc5c6Y8s9gMkkgPwA2QW) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Red Sun](https://open.spotify.com/album/1XwYWZUx3UytpvCeIYXXWv) | 2:24 | 2022-05-26 | 2022-06-20 |
 | [Reforget \(feat\. Violet Days\)](https://open.spotify.com/track/6pQ5OouO6NwU7gjM8kTJvt) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Violet Days](https://open.spotify.com/artist/4uNv6RD2YXwoaKgHfJZkkL) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:28 | 2022-07-02 | 2022-07-15 |
 | [Release Me \(feat\. Gallie Fisher\)](https://open.spotify.com/track/0fT5D9xLafMdtzS36N1vy6) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Gallie Fisher](https://open.spotify.com/artist/4aTYZNNuByNhd8QLrLMpo3) | [Constellations](https://open.spotify.com/album/7uNRnXAfrV0cGSmMIDgHIn) | 5:00 | 2022-08-16 | 2022-10-10 |
+| [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s) | [Ummet Ozcan](https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [Karra](https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU) | [Remember the Summer \(feat\. Karra\)](https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3) | 2:50 | 2023-02-28 |  |
 | [Rest Now](https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp) | [Gemma Casimaty](https://open.spotify.com/artist/4i2qe6NHlNFfwcQpi6dpFC) | [Rest Now](https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7) | 2:42 | 2023-01-17 | 2023-01-27 |
 | [Robot](https://open.spotify.com/track/4crj4dYB3TrDqEdVH13K7g) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [Robot](https://open.spotify.com/album/3qg8brK10PXWr39utKpCmZ) | 2:41 | 2022-07-05 | 2022-07-08 |
 | [Room for Two](https://open.spotify.com/track/2Wb7cfgUCj3C95H5vCrsGg) | [Moe Aly](https://open.spotify.com/artist/0v9F2WtCvWVrs367iT5Gix), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr) | [Room for Two](https://open.spotify.com/album/6ZIuGnWaIbnA7kcxiZP9aH) | 3:21 | 2022-10-09 | 2022-12-16 |
