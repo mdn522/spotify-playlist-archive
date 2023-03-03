@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-529 songs - 1 day 4 hr 1 min - not published yet
+530 songs - 1 day 4 hr 4 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -267,7 +267,7 @@
 | [Like The Sun \- XiJaro & Pitch Remix](https://open.spotify.com/track/7Mbu4q1s8VhnPvfSjAZCmu) | [Arctic Moon](https://open.spotify.com/artist/1uAQR5uku7pQGEiaG7VqiE), [Jessica Lawrence](https://open.spotify.com/artist/39RiGfEJOKzgRoWYcZil5F), [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK) | [Like The Sun \(XiJaro & Pitch Remix\)](https://open.spotify.com/album/2jFoZ9hzPAqMCVGaY6rgO7) | 3:45 | 2022-12-06 | 2022-12-13 |
 | [Limbo](https://open.spotify.com/track/4ztv7vWfB1v4fW6dtxDnnl) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Kiltti tyttö](https://open.spotify.com/album/3qSL7YCnMIRV3jWqWxnir7) | 3:28 | 2022-08-01 | 2022-08-23 |
 | [Linked](https://open.spotify.com/track/2Jk4yhc7clBfAukLeDLqtp) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Anna Yvette](https://open.spotify.com/artist/2Ndq6RparrhEoceel7LC4Z) | [NCS: The Best of 2017](https://open.spotify.com/album/2PlGxPWo5eTYVnYs0vNY5I) | 3:43 | 2022-11-27 | 2022-12-04 |
-| [Live And Die Together](https://open.spotify.com/track/3JeaPFm9uSisDgEgFXEiHF) | [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Live And Die Together](https://open.spotify.com/album/4PG6pRMTxBGpHOtmeUxVhd) | 2:42 | 2022-12-30 |  |
+| [Live And Die Together](https://open.spotify.com/track/3JeaPFm9uSisDgEgFXEiHF) | [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Live And Die Together](https://open.spotify.com/album/4PG6pRMTxBGpHOtmeUxVhd) | 2:42 | 2022-12-30 | 2023-03-03 |
 | [Locked In](https://open.spotify.com/track/7CTcpzlvGIAOhE0ESO2mVJ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Earth Signs](https://open.spotify.com/album/7sqAuwtX9WY7yTqEu2UPHu) | 3:00 | 2022-06-04 | 2022-06-14 |
 | [Losing You](https://open.spotify.com/track/3JC7UABWAy8SBt9lPNGTog) | [Cerberuh](https://open.spotify.com/artist/6vYSj8UGQKDTwIvraBXwE9) | [Losing You](https://open.spotify.com/album/6q0uPcjpgFmdHUJkGTs1aK) | 2:40 | 2022-08-01 | 2022-08-07 |
 | [Lost Then Found](https://open.spotify.com/track/1RmcjmCu2ov84MlHpZaBZb) | [Clover Cage](https://open.spotify.com/artist/6u3C1GwSk4L55DdXHnGKdT) | [Lost Then Found](https://open.spotify.com/album/6gSCV7uUnqAjdTanMg4lku) | 2:24 | 2022-05-29 | 2022-06-05 |
@@ -323,6 +323,7 @@
 | [My Oh My](https://open.spotify.com/track/0lEz9eKrVwFCJ7DMbR433x) | [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [My Oh My](https://open.spotify.com/album/4qnL9HQlKfDWtdP94Rf2jI) | 2:30 | 2022-06-19 | 2022-07-03 |
 | [Mă dezîndrăgostesc](https://open.spotify.com/track/2Xrf8BzttAwsHWKy07Ncqk) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Mă dezîndrăgostesc](https://open.spotify.com/album/0mo15pPTQeTOlssx4zk9Xp) | 3:31 | 2022-09-14 | 2022-12-16 |
 | [Nea Some Say \- Mayfar Remix](https://open.spotify.com/track/6oKakE6xrIc1dbf2E2VvU0) | [Mayfar](https://open.spotify.com/artist/7sAkp9eiYKgwbVh5QhgUvh) | [Nea Some Say \(Mayfar Remix\)](https://open.spotify.com/album/5HvehcXmIwHl4Rhy6IHtZ2) | 3:23 | 2022-11-18 | 2022-11-22 |
+| [Never Say Never](https://open.spotify.com/track/74k6dqls5mOzAT4UK37ZIc) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Never Say Never](https://open.spotify.com/album/3BCeYG6bNppLCHIEK5C3xK) | 3:40 | 2023-03-02 |  |
 | [New Me](https://open.spotify.com/track/64zUfXPRniUl7qKaUtpqeS) | [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [New Me](https://open.spotify.com/album/16FfsigPMI9Zb4GqF0XlBS) | 3:15 | 2022-10-27 | 2022-11-06 |
 | [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2022-10-27 | 2022-12-19 |
 | [No](https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 3:03 | 2022-06-29 | 2022-07-06 |
