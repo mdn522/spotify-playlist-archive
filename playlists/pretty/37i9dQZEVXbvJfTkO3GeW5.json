@@ -1,12 +1,12 @@
 {
     "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
-    "num_followers": 1,
+    "num_followers": 0,
     "original_name": "Release Radar",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "Mjc5NjMwMDAsMDAwMDAwMDA3MjFmZGUwOGEzODU0Y2JlYTQwZTVlNzAwZmYzZTkxMQ==",
+    "snapshot_id": "Mjc5NjMwMDAsMDAwMDAwMDAwZDc1ZmJmMjQzNTgwZTA0OWFlYWMwOGM5ZjZkODQ1Mg==",
     "tracks": [
         {
             "added_at": "2023-03-02 18:00:00",
@@ -175,6 +175,22 @@
         {
             "added_at": "2023-03-02 18:00:00",
             "album": {
+                "name": "Beauty",
+                "url": "https://open.spotify.com/album/45qjYVPZGBLS4SGO5a3rfn"
+            },
+            "artists": [
+                {
+                    "name": "Amadeus",
+                    "url": "https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU"
+                }
+            ],
+            "duration_ms": 263485,
+            "name": "Beauty",
+            "url": "https://open.spotify.com/track/0OiTVXQhGJjeONr8R0iEEd"
+        },
+        {
+            "added_at": "2023-03-02 18:00:00",
+            "album": {
                 "name": "I Go Dancing (feat. Ella Henderson) [Joel Corry Remix]",
                 "url": "https://open.spotify.com/album/5rOCUxXjUK0XnoNqBY17US"
             },
@@ -231,7 +247,7 @@
         {
             "added_at": "2023-03-02 18:00:00",
             "album": {
-                "name": "After Hours (Live At SoFi Stadium)",
+                "name": "Live At SoFi Stadium",
                 "url": "https://open.spotify.com/album/1OARrXe5sB0gyy3MhQ8h92"
             },
             "artists": [
@@ -267,8 +283,8 @@
         {
             "added_at": "2023-03-02 18:00:00",
             "album": {
-                "name": "HEALING WITH SELF LOVE (Guided Meditation)",
-                "url": "https://open.spotify.com/album/2dVYREhYka6JTmAzqhuM2K"
+                "name": "DIVINE PRESENCE",
+                "url": "https://open.spotify.com/album/4lVHgZVHWfoA1iyK3GFlx9"
             },
             "artists": [
                 {
@@ -276,17 +292,17 @@
                     "url": "https://open.spotify.com/artist/0Nfr5f8rhhP04vt0U8kC28"
                 },
                 {
-                    "name": "Born I",
-                    "url": "https://open.spotify.com/artist/6VaCJv2KP3kU8uZiezGkgM"
+                    "name": "Ashley Bennett",
+                    "url": "https://open.spotify.com/artist/08OS8gr4ZPj6cAnX3H92k5"
                 },
                 {
                     "name": "LSDREAM",
                     "url": "https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND"
                 }
             ],
-            "duration_ms": 1290322,
-            "name": "HEALING WITH SELF LOVE (Guided Meditation)",
-            "url": "https://open.spotify.com/track/1DBYalPUODe9acSuuOLwLb"
+            "duration_ms": 1288133,
+            "name": "DIVINE PRESENCE",
+            "url": "https://open.spotify.com/track/1inmycya7NkSfQ7VB5T4tS"
         },
         {
             "added_at": "2023-03-02 18:00:00",
@@ -1124,9 +1140,9 @@
                     "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
                 }
             ],
-            "duration_ms": 248733,
-            "name": "Ice Cream Man.",
-            "url": "https://open.spotify.com/track/60KvZItTS7PpROovaNVQcy"
+            "duration_ms": 201373,
+            "name": "Flip A Switch.",
+            "url": "https://open.spotify.com/track/252ZECHopILLs10pMfE76N"
         }
     ],
     "unique_name": "Release Radar",

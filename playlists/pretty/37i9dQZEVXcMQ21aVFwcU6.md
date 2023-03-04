@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1 like - 30 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Come With Me](https://open.spotify.com/track/2778ucz8lkSP0Efmol7VO0) | [Padé](https://open.spotify.com/artist/6blWAoncmeneII62o38gdj) | [Come With Me](https://open.spotify.com/album/5DqD3yuOiuaWyArTzCErwl) | 3:02 |
 | 30 | [Fall For You](https://open.spotify.com/track/0YLOhts5QF7EHVmwnqlKjV) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [William Segerdahl](https://open.spotify.com/artist/7h3jPDAAlfXOhid0q360Hh) | [Fall For You](https://open.spotify.com/album/3cuU9xtOxhWoeUYAsSLei8) | 2:58 |
 
-Snapshot ID: `MCwwMDAwMDAwMGZhNGVmOWMwMGEyN2EwMGI2MDdmMTI3MzkzMjQ1ZThi`
+Snapshot ID: `MCwwMDAwMDAwMDFhODBjODdkZWFlNjJkMmU2YjMzYzI0MTA5YzUwNmIw`
