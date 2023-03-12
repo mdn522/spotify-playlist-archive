@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 64 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,15 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 52 | [Împreună separat](https://open.spotify.com/track/4YJ7dBby7SJp2vlnBtXCsb) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Împreună separat](https://open.spotify.com/album/3selhBM6lZlDgnuAXOai77) | 2:51 |
 | 53 | [One And Only](https://open.spotify.com/track/5Fj3oUTbus2TH6wp2BQYGt) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [Money For Nothing](https://open.spotify.com/artist/3t2mi62L2FO64CmplSZddY) | [One And Only](https://open.spotify.com/album/6XvmItzLcJdD3eWyVhboph) | 2:03 |
 | 54 | [The Plan](https://open.spotify.com/track/2JVIkeqngQMtVVNyqOyFbk) | [Romanian House Mafia](https://open.spotify.com/artist/1yrbUI83lngelg9iQ82L0S), [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [The Plan](https://open.spotify.com/album/0wY4L06D2r6PrcibDDYL5r) | 2:42 |
-| 55 | [MBTI](https://open.spotify.com/track/4gL2l52LcrcC4NNIDbCUU5) | [JUST B](https://open.spotify.com/artist/2f0bPttugNpkg34HIxBIWe), [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU) | [JUST Be with you Pt\. 1](https://open.spotify.com/album/6h6BESB2BPRq59Q6YN4qlB) | 3:14 |
-| 56 | [love u](https://open.spotify.com/track/33gxCGZuswkRKZRrs3TJ7q) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [love u](https://open.spotify.com/album/7lhnYwCPruuhgDhQVP0qgG) | 2:30 |
-| 57 | [You Only Love Me \- Shift K3Y Remix](https://open.spotify.com/track/2ROiwPRPiUzrS1fRNX5z8Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [You Only Love Me \(Shift K3Y Remix\)](https://open.spotify.com/album/5iyHHHVkXMwu0apCuk1VCl) | 2:23 |
-| 58 | [Side Effects](https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Side Effects](https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg) | 2:17 |
-| 59 | [Strawberry Heart](https://open.spotify.com/track/6KACYpLdEnQLh0WWR3M47n) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Strawberry Heart](https://open.spotify.com/album/6sKbLQFatgGj6d24hpLKHs) | 3:23 |
-| 60 | [R.I.P.](https://open.spotify.com/track/4i8BxJjQfC1ctzlgcGsrNm) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [R.I.P.](https://open.spotify.com/album/1Fv21CuRrPOntRPACXV12F) | 3:16 |
-| 61 | [Mind](https://open.spotify.com/track/2VP2Ios3C3j8z6POtBbHeQ) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [Mind](https://open.spotify.com/album/2pItGEntYSVAhbigAXuWr4) | 2:15 |
-| 62 | [Thunderlike \- Slowed & Reverbed](https://open.spotify.com/track/0TPdxPNUN5r4KyT9CQlHci) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Thunderlike \(Slowed & Reverbed\)](https://open.spotify.com/album/1D8zyPpv4EBdbh2b7EbX2q) | 3:30 |
-| 63 | [Free My Mind](https://open.spotify.com/track/3tR4Vqy9OxEauFFDnN5LHG) | [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k), [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Free My Mind](https://open.spotify.com/album/3iZDGJOmtX6C8LUVnIeClB) | 3:54 |
-| 64 | [Daring To Love \- Asteroid Remix](https://open.spotify.com/track/0wCHys665L3AYPLKFTsgn1) | [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Asteroid](https://open.spotify.com/artist/7x3GRBRhJ7qQfDoOwVSoL4) | [Daring To Love \(Asteroid Remix\)](https://open.spotify.com/album/6NOjTC9X40RuF6uIq1BWkB) | 3:49 |
+| 55 | [Side Effects](https://open.spotify.com/track/0gZDQIiAbdgrCmnzStPFZG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Side Effects](https://open.spotify.com/album/7y50mqfewihvF4P0iwgcTg) | 2:17 |
+| 56 | [Strawberry Heart](https://open.spotify.com/track/6KACYpLdEnQLh0WWR3M47n) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Strawberry Heart](https://open.spotify.com/album/6sKbLQFatgGj6d24hpLKHs) | 3:23 |
+| 57 | [R.I.P.](https://open.spotify.com/track/4i8BxJjQfC1ctzlgcGsrNm) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [R.I.P.](https://open.spotify.com/album/1Fv21CuRrPOntRPACXV12F) | 3:16 |
+| 58 | [Mind](https://open.spotify.com/track/2VP2Ios3C3j8z6POtBbHeQ) | [Anna Thompson](https://open.spotify.com/artist/27CLGjeqClcaoBcr46Y0XC) | [Mind](https://open.spotify.com/album/2pItGEntYSVAhbigAXuWr4) | 2:15 |
+| 59 | [Thunderlike \- Slowed & Reverbed](https://open.spotify.com/track/0TPdxPNUN5r4KyT9CQlHci) | [Kate Linn](https://open.spotify.com/artist/2b01rwtcqW5LyfVBMzIFQ4) | [Thunderlike \(Slowed & Reverbed\)](https://open.spotify.com/album/1D8zyPpv4EBdbh2b7EbX2q) | 3:30 |
+| 60 | [Free My Mind](https://open.spotify.com/track/3tR4Vqy9OxEauFFDnN5LHG) | [Tonal Graffiti](https://open.spotify.com/artist/1nd45Z3rbwZTh7CLAEBW4k), [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Free My Mind](https://open.spotify.com/album/3iZDGJOmtX6C8LUVnIeClB) | 3:54 |
 
-Snapshot ID: `Mjc5NzMwODAsMDAwMDAwMDAzMTYxMGZhMjU4MDcyYTZhMGJmMzQ5ZDM2ODQ2ZDdiMg==`
+Snapshot ID: `Mjc5NzMwODAsMDAwMDAwMDBmNGQyNDBmODE2MTJmMDBhYmUwN2QxOThmNmJlMGE5Mg==`
