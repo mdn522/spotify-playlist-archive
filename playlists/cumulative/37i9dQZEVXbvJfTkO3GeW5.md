@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-904 songs - 2 day 12 hr 31 min - not published yet
+905 songs - 2 day 12 hr 33 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [\_WORLD](https://open.spotify.com/track/2kDrUAONMhG6CbDGBkhdrY) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [\_WORLD](https://open.spotify.com/album/63oE2Ew3Mud2Md9TXBjeKw) | 2:58 | 2022-08-25 | 2022-09-16 |
 | [A Boy Named Stargazer](https://open.spotify.com/track/37aRWm5iWKIPYfyRRmnadx) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [A Boy Named Stargazer](https://open.spotify.com/album/33lCIle7k8gU2sUw1OifIZ) | 3:01 | 2022-12-15 | 2023-01-15 |
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2022-12-08 | 2023-01-01 |
-| [Abhi Abhi \(Lofi\)](https://open.spotify.com/track/0FgiD3Cbn0oa1yaAfOqprt) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Abhi Abhi \(Lofi\) \- Single](https://open.spotify.com/album/628ltZSzw8Mz3r0JwIxY5p) | 3:05 | 2023-02-23 |  |
+| [Abhi Abhi \(Lofi\)](https://open.spotify.com/track/0FgiD3Cbn0oa1yaAfOqprt) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Abhi Abhi \(Lofi\) \- Single](https://open.spotify.com/album/628ltZSzw8Mz3r0JwIxY5p) | 3:05 | 2023-02-23 | 2023-03-16 |
 | [Acasă \- Radio Edit](https://open.spotify.com/track/6lIXBVNJqNzwk0CjFTyzbT) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Acasă \(Radio Edit\)](https://open.spotify.com/album/0eVr3Q0wbP4m17pDXjFykc) | 3:33 | 2022-08-25 | 2022-09-18 |
 | [Aether](https://open.spotify.com/track/3htGHWqx2B5kGVb98piF0o) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Aether](https://open.spotify.com/album/6TPlpmC3PnyrItRPFUv3Bl) | 2:45 | 2023-01-19 | 2023-02-12 |
 | [Affection](https://open.spotify.com/track/1fLbXvIyEUKicyDAp3uwJE) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Alora](https://open.spotify.com/artist/5R3XIbPisM8yZmZWtRrvzE), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Affection](https://open.spotify.com/album/6DvBEimQ55NGAj9ErSAsgx) | 4:34 | 2023-01-12 | 2023-02-10 |
@@ -687,6 +687,7 @@
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/2I5Jd7nPJWxsA3BGQHTEIa) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\) \[Clean\]](https://open.spotify.com/album/5t0CpzMvclzJ5jQOVXof9u) | 2:41 | 2023-02-02 | 2023-02-19 |
 | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/track/51ZORoK6CjR2QO60CBPTIX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV), [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RIGHT OR WRONG \(HYPNOSIS\)](https://open.spotify.com/album/2MWH9q4GXkZJldxtFaBJHG) | 2:41 | 2023-01-19 | 2023-02-05 |
 | [RIP, Love \- Acoustic Live](https://open.spotify.com/track/0MFeZeXX0WXFZdVqDT3r21) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love \(Acoustic Live\)](https://open.spotify.com/album/6VUioI8UxSqN4GG4CM83EY) | 2:59 | 2022-09-22 | 2022-10-21 |
+| [Roar Macha Delhi Capitals Official Anthem \(Female Version\)](https://open.spotify.com/track/6bHCDCLselaKoOk74H76F1) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Roar Macha Delhi Capitals Official Anthem \(Female Version\)](https://open.spotify.com/album/3b9KnrRh7tzoAalxuAnook) | 2:16 | 2023-03-09 |  |
 | [Roohedaariyaan](https://open.spotify.com/track/5ZTBRXpK5P4dl74ygqGjiQ) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Roohedaariyaan](https://open.spotify.com/album/2V4UJdU8ytJ8Ml7wFB1s1i) | 4:05 | 2022-11-03 | 2022-11-11 |
 | [Ropes](https://open.spotify.com/track/3Laq5MNrN9lwu8tJk900xp) | [Luciana Zogbi](https://open.spotify.com/artist/4ijejASaFZOolpZwK0XO9O) | [Ropes](https://open.spotify.com/album/1t6v0knMys97FXYqAV7GXK) | 3:05 | 2022-10-06 | 2022-10-14 |
 | [Rotation](https://open.spotify.com/track/41YNd4HrITJqpothWWXcxf) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Rotation](https://open.spotify.com/album/3uZFlPT1l4mhe4BlC2wN3h) | 2:36 | 2023-01-12 | 2023-02-05 |
