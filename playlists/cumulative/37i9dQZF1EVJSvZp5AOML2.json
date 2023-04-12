@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIUOXkMTMpDX5>TheFatRat</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIUUFnJi0sR2l>Carly Rae Jepsen</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a>, <a href=spotify:playlist:37i9dQZF1EIXoKerfDK0te>Clean Bandit</a>, <a href=spotify:playlist:37i9dQZF1EIXaM7pM75t92>Dagny</a> and more",
     "name": "Happy Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -431,7 +431,7 @@
             ],
             "date_added": "2022-07-15",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-11",
+            "date_removed": null,
             "duration_ms": 156327,
             "name": "All My Life (feat. Nea)",
             "url": "https://open.spotify.com/track/3fjlSzfjCknoHMMmJcXwAM"
@@ -2849,7 +2849,7 @@
             ],
             "date_added": "2022-08-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 215689,
             "name": "Cursed",
             "url": "https://open.spotify.com/track/0LvNh4L0th5dD8003eszeS"
@@ -3787,7 +3787,7 @@
             ],
             "date_added": "2023-04-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 176448,
             "name": "Everybody's Moving to LA - Radio Version",
             "url": "https://open.spotify.com/track/1iFxuv7DgRfTmFLkrxIPDy"
@@ -3973,6 +3973,36 @@
             "duration_ms": 216504,
             "name": "Fallin’ (Adrenaline)",
             "url": "https://open.spotify.com/track/6nfqlFOMiWthaOEa53uU0v"
+        },
+        {
+            "album": {
+                "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+                "url": "https://open.spotify.com/album/1O3wGX19uKgXZZuW7uKb9l"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Bebe Rexha",
+                    "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+                },
+                {
+                    "name": "Ty Dolla $ign",
+                    "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                },
+                {
+                    "name": "A Boogie Wit da Hoodie",
+                    "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+                }
+            ],
+            "date_added": "2023-04-12",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 158994,
+            "name": "Family (feat. Bebe Rexha, Ty Dolla $ign & A Boogie Wit da Hoodie)",
+            "url": "https://open.spotify.com/track/0HLhptvI8NozbOHRLNniFz"
         },
         {
             "album": {
@@ -4549,7 +4579,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-08",
+            "date_removed": null,
             "duration_ms": 201666,
             "name": "Get To Know You",
             "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
@@ -4719,7 +4749,7 @@
             ],
             "date_added": "2023-03-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-10",
+            "date_removed": null,
             "duration_ms": 170370,
             "name": "Gold",
             "url": "https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s"
@@ -4857,6 +4887,28 @@
             "duration_ms": 218973,
             "name": "Good Day",
             "url": "https://open.spotify.com/track/49X8pWDpmFpAITVUaudkcN"
+        },
+        {
+            "album": {
+                "name": "Strong",
+                "url": "https://open.spotify.com/album/0VCsCFcOMJfUwa2Zuluiq4"
+            },
+            "artists": [
+                {
+                    "name": "Strive to Be",
+                    "url": "https://open.spotify.com/artist/66YzHdK0FWCQSKMlXf3Rbj"
+                },
+                {
+                    "name": "Liahona Olayan",
+                    "url": "https://open.spotify.com/artist/2mDhHH4fB6g1dSgmHlqN3Z"
+                }
+            ],
+            "date_added": "2023-04-12",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 168646,
+            "name": "Good Day",
+            "url": "https://open.spotify.com/track/5EOxWjVqnImaK8gnvFCFTt"
         },
         {
             "album": {
@@ -5071,7 +5123,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-11",
+            "date_removed": null,
             "duration_ms": 193354,
             "name": "Hailey",
             "url": "https://open.spotify.com/track/23EquxExXkNmGCCY96P0Iu"
@@ -5275,7 +5327,7 @@
             ],
             "date_added": "2023-04-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 190006,
             "name": "Happy Robot",
             "url": "https://open.spotify.com/track/5hrLUNNLdupMvoXk53cyJO"
@@ -5711,7 +5763,7 @@
             ],
             "date_added": "2023-02-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 148120,
             "name": "I Ain't Worried",
             "url": "https://open.spotify.com/track/4fYte8ZvTK14NEhAOZocBi"
@@ -5843,7 +5895,7 @@
             ],
             "date_added": "2023-03-09",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-10",
+            "date_removed": null,
             "duration_ms": 175928,
             "name": "I Knew It Was You",
             "url": "https://open.spotify.com/track/7kQusuDe5nkQqqa6xMKFGF"
@@ -7123,7 +7175,7 @@
             ],
             "date_added": "2022-12-04",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-06",
+            "date_removed": null,
             "duration_ms": 211010,
             "name": "Life's Too Short",
             "url": "https://open.spotify.com/track/326yOKaTPs91elL1KW794F"
@@ -7269,7 +7321,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-11",
+            "date_removed": null,
             "duration_ms": 170000,
             "name": "Like I Do",
             "url": "https://open.spotify.com/track/72yOVhxkfd9lgp4Q0EaJTK"
@@ -7705,7 +7757,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 177731,
             "name": "Love To Lose",
             "url": "https://open.spotify.com/track/11lFSEnkj3810ojPLj53RO"
@@ -8235,7 +8287,7 @@
             ],
             "date_added": "2023-03-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 197648,
             "name": "Midnight Rapture",
             "url": "https://open.spotify.com/track/1c5sVhqoQvLHTXTYJTb98i"
@@ -8975,7 +9027,7 @@
             ],
             "date_added": "2022-07-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 133714,
             "name": "No Regrets",
             "url": "https://open.spotify.com/track/4Q6b6mAjV9cEECioJ9thlE"
@@ -9607,7 +9659,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 174100,
             "name": "Pick Me Up",
             "url": "https://open.spotify.com/track/6VYIVgVqEIwzRwpJz5rMa4"
@@ -10029,7 +10081,7 @@
             ],
             "date_added": "2022-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-04",
+            "date_removed": null,
             "duration_ms": 188852,
             "name": "Ready To Love",
             "url": "https://open.spotify.com/track/0cvMWzztDy1wNQkBqae8w4"
@@ -10091,7 +10143,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-11",
+            "date_removed": null,
             "duration_ms": 177142,
             "name": "Relight My Love",
             "url": "https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS"
@@ -10505,7 +10557,7 @@
             ],
             "date_added": "2022-11-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 170785,
             "name": "Rule The World",
             "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
@@ -10739,7 +10791,7 @@
             ],
             "date_added": "2023-03-27",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 161978,
             "name": "Sad Songs",
             "url": "https://open.spotify.com/track/4IFri3isbe64MPnY1sYp1i"
@@ -11305,7 +11357,7 @@
             ],
             "date_added": "2022-06-11",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-03",
+            "date_removed": null,
             "duration_ms": 193548,
             "name": "Slow Dance (feat. Ava Max) - Sam Feldt Remix",
             "url": "https://open.spotify.com/track/2wenGTypSYHXl1sN1pNC7X"
@@ -11381,7 +11433,7 @@
             ],
             "date_added": "2022-09-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 173413,
             "name": "SMILEY(Feat. BIBI)",
             "url": "https://open.spotify.com/track/4zCIxSnVWpGNghERX4uWZF"
@@ -12745,7 +12797,7 @@
             ],
             "date_added": "2023-03-22",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-10",
+            "date_removed": null,
             "duration_ms": 172863,
             "name": "The Funk",
             "url": "https://open.spotify.com/track/7vnKb4rhd90PDvGcCyyRGk"
@@ -12869,7 +12921,7 @@
             ],
             "date_added": "2022-07-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 187500,
             "name": "The Riddle (feat. Lateshift)",
             "url": "https://open.spotify.com/track/6r2lsLYBrnLj0nckwyv7vn"
@@ -13321,7 +13373,7 @@
             ],
             "date_added": "2023-03-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 175099,
             "name": "True Colors",
             "url": "https://open.spotify.com/track/1AHG4FZDjLyZ3TBLwNeYm7"
@@ -14007,7 +14059,7 @@
             ],
             "date_added": "2022-06-24",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-10",
+            "date_removed": null,
             "duration_ms": 166909,
             "name": "Weekend Vibe",
             "url": "https://open.spotify.com/track/5c0lWlmIyCq7hzBhpZasYL"
@@ -14135,7 +14187,7 @@
             ],
             "date_added": "2022-07-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 164150,
             "name": "When I'm Right",
             "url": "https://open.spotify.com/track/2CK74bmcRamAsB7DUBR4aJ"
@@ -14175,7 +14227,7 @@
             ],
             "date_added": "2022-12-07",
             "date_added_asterisk": false,
-            "date_removed": "2023-04-11",
+            "date_removed": null,
             "duration_ms": 208253,
             "name": "Who Do You Love",
             "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
@@ -14273,7 +14325,7 @@
             ],
             "date_added": "2022-11-20",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-04-12",
             "duration_ms": 146706,
             "name": "With My Friends",
             "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
