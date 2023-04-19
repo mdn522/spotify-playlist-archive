@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 63 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 57 | [Aaye Ram Mere](https://open.spotify.com/track/5rKdu2DL5dYV7JDiuYWVyB) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aaye Ram Mere](https://open.spotify.com/album/3Jc7vnybqpjKik9VAKZAiU) | 3:29 |
 | 58 | [Devil Call](https://open.spotify.com/track/0CGIpunt3t1UwadgzTHjXP) | [FutureExit](https://open.spotify.com/artist/6XICNhCH7FSsdoX3fDGUGm), [Stryer](https://open.spotify.com/artist/0bF1Nk4mVQlhDlvXq5P0ac), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Devil Call](https://open.spotify.com/album/3wQ3xVFD9aL7F8azXY5ykW) | 3:32 |
 | 59 | [SunKissing](https://open.spotify.com/track/5YbGrhQCpOT4aOTlFgACke) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [SunKissing](https://open.spotify.com/album/7lAb1k0oyiwz7WONpINl5A) | 2:57 |
-| 60 | [Lost in your eyes \- Danny Burg & Marc Rayen Remix](https://open.spotify.com/track/2PpVz23TCZltTg0pH4KXc9) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf), [Marc Reyen](https://open.spotify.com/artist/6OeJIT9vSUN2d4doROnoh2) | [Lost in Your Eyes \(Danny Burg & Marc Rayen Remix\)](https://open.spotify.com/album/3gq8IZ5Q9lJz2gzm6iZ8ZG) | 3:16 |
+| 60 | [Lost in your eyes \- Danny Burg & Marc Rayen Extended Remix](https://open.spotify.com/track/5Yxfj2AjMsGVWjtzSPbRPK) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf), [Marc Reyen](https://open.spotify.com/artist/6OeJIT9vSUN2d4doROnoh2) | [Lost in Your Eyes \(Danny Burg & Marc Rayen Remix\)](https://open.spotify.com/album/3gq8IZ5Q9lJz2gzm6iZ8ZG) | 4:20 |
 | 61 | [Yes Please](https://open.spotify.com/track/1EwaalnuBxcBnbIqEK2yNQ) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Yes Please](https://open.spotify.com/album/5buJ1a0qjOxVvBcjdvmtgT) | 3:20 |
 | 62 | [Memoria](https://open.spotify.com/track/4O2nZEIRHAZVFrtqWDLiKk) | [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq), [Merethe Soltvedt](https://open.spotify.com/artist/1i7a9nOCTM0yNCWgIDUeAC) | [Memoria](https://open.spotify.com/album/5XviOqyndzsU4dz2ARDY3L) | 4:17 |
 | 63 | [brokenboys&bitterbitches](https://open.spotify.com/track/7wX1A5JaAhBZyTSdfARBSE) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [brokenboys&bitterbitches](https://open.spotify.com/album/0Db14UCdRoie6qmMA5nPwv) | 2:46 |
 
-Snapshot ID: `MjgwMjM0ODAsMDAwMDAwMDAzYWFlNjI5MjA3MzZlNWY1NTIzZDc3ZWVlOTU5NzcxMw==`
+Snapshot ID: `MjgwMjM0ODAsMDAwMDAwMDBiZTJiZTJjYmIzMTY0YTdmNGVkZjdkYmY1ZjBmMDU1ZQ==`
