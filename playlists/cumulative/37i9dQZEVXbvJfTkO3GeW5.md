@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,061 songs - 2 day 21 hr 51 min - not published yet
+1,062 songs - 2 day 21 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -510,7 +510,7 @@
 | [It's My Life \- Pllws Remix](https://open.spotify.com/track/1iobBnFtqCZao6wZZmkhXt) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL), [Pllws](https://open.spotify.com/artist/1MFhgehbIObqmgnONpXeFq) | [It's My Life \(Pllws Remix\)](https://open.spotify.com/album/1ihEtInm1cYbXvGPY8JuaC) | 2:26 | 2022-12-15 | 2022-12-30 |
 | [It's Ours \- Short Mix](https://open.spotify.com/track/26RfGZj3z5Y25w6tQDcAyM) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [It's Ours](https://open.spotify.com/album/11Z7v788eMOAVcWvsKAMG8) | 3:20 | 2022-10-13 | 2022-10-21 |
 | [Iubirea mea](https://open.spotify.com/track/72UdFi2iarCLOrqZWeu0uh) | [DJ Project](https://open.spotify.com/artist/1oqThNqOfhev071PvmOwWQ), [Ana Baniciu](https://open.spotify.com/artist/4lOjt6Ae9uXap5XJmvXZYH) | [Iubirea mea](https://open.spotify.com/album/14ADDA2JvMGeiaJG8lf1in) | 3:18 | 2022-06-09 | 2022-07-03 |
-| [I’m Blue](https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I’m Blue](https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS) | 2:30 | 2023-04-13 |  |
+| [I’m Blue](https://open.spotify.com/track/7kIlkxmhj6AvR5gwKvcXZp) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [I’m Blue](https://open.spotify.com/album/5oerPhDkPTBfRj1O8gXZBS) | 2:30 | 2023-04-13 | 2023-04-22 |
 | [J1NGLEBELLZ](https://open.spotify.com/track/1W7CxP7wGzYGs7Y5NtcZhy) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [TRVPMAS](https://open.spotify.com/album/77GoSjnIRhQIg0QWJ29hge) | 2:55 | 2022-12-29 | 2023-01-22 |
 | [Jaam \- The Casino Song](https://open.spotify.com/track/1XscpHlfDoE6VV3HtOz7DJ) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Jaam \- The Casino Song](https://open.spotify.com/album/6wTLh0yYyBA9QPLygxOLH4) | 3:12 | 2022-11-24 | 2022-12-18 |
 | [Jaanu, Jaanu](https://open.spotify.com/track/79c2mFyep3tcQJF7ZaUd7t) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT) | [Jaanu, Jaanu](https://open.spotify.com/album/2Bb8dNZ2VdZYXvkWUcD4Yw) | 2:40 | 2023-04-06 |  |
@@ -739,6 +739,7 @@
 | [Only You \- From The McDonald’s Christmas Advert 2022](https://open.spotify.com/track/1mvfhBqEwBouLGSdcc7E4G) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You \(From The McDonald’s Christmas Advert 2022\)](https://open.spotify.com/album/5MzKklFbHDwi1MG79RWEHc) | 2:53 | 2022-11-10 | 2022-11-18 |
 | [Ordinary People](https://open.spotify.com/track/2rsEfDcLBM65ZgZRxyAUs0) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Menny Flores](https://open.spotify.com/artist/5iV6pocuYqWg9Cx5JQNyJV) | [Ordinary People](https://open.spotify.com/album/4vtNjzYbmXNODsW9y9Chyp) | 2:53 | 2022-10-13 | 2022-11-13 |
 | [oulala](https://open.spotify.com/track/5bhse1xGuBz4A0h6SS1O6R) | [Alexandra Panayotova](https://open.spotify.com/artist/2EQQzhnn2iTeBvzSSDhbhO) | [oulala](https://open.spotify.com/album/2ifCCSfRFZMYv08V7E8vUw) | 2:32 | 2023-03-16 | 2023-04-16 |
+| [oulala \- Balkan Version](https://open.spotify.com/track/5X6bRkIJre1xEcVTpF49xI) | [Alexandra Panayotova](https://open.spotify.com/artist/2EQQzhnn2iTeBvzSSDhbhO), [Balkanizatora](https://open.spotify.com/artist/2oO0ziCeYoAxbi1yHGjmdt) | [oulala \(Balkan Version\)](https://open.spotify.com/album/3uBB7APkdEGdhg2aJuaQP8) | 2:15 | 2023-04-20 |  |
 | [Out Of The Rain](https://open.spotify.com/track/27xLRjNOZM0vrLkiwMtAsA) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Out Of The Rain](https://open.spotify.com/album/2lz42JvrrwvTr4yKYpODLY) | 3:13 | 2023-04-06 |  |
 | [Overdrive \- Extended Version](https://open.spotify.com/track/3G3CMqLdwSElR7aoocnZbT) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Overdrive \- Remix EP](https://open.spotify.com/album/2Vfn4QX3991vkiDRlcbn7e) | 3:26 | 2022-09-15 | 2022-09-23 |
 | [Overthinking](https://open.spotify.com/track/1rQkqnN2ky1KmchT66eWFu) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Overthinking](https://open.spotify.com/album/73w5XKOuWg456VuawuUH47) | 2:54 | 2022-05-19 | 2022-06-18 |
