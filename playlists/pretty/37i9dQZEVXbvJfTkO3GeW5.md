@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 59 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 59 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 29 | [Darkest Hour \- Asim Azhar Version](https://open.spotify.com/track/6W8UyjragKGJ40siaZ2oKN) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS) | [Darkest Hour \(Asim Azhar Version\)](https://open.spotify.com/album/0XPSoFWnYLGteKJmPQcA2S) | 2:11 |
 | 30 | [Redemption](https://open.spotify.com/track/4Iy3VdGkbNPlHvwSZyqU0n) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat XXIII](https://open.spotify.com/album/61q0yPxdEGLE3tJr7BcrdI) | 3:09 |
 | 31 | [Praising You \(feat\. Fatboy Slim\) \- Fatboy Slim Remix](https://open.spotify.com/track/3haDtp8YobrDhg5meatwb2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Praising You \(feat\. Fatboy Slim\) \[Fatboy Slim Remix\]](https://open.spotify.com/album/4dYWppHZ7mhnANTjNzP3t7) | 4:20 |
-| 32 | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \- Hypaton & Giuseppe Ottaviani Remix Extended](https://open.spotify.com/track/3DYsjaum1M5OGwFxzfLgZI) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Hypaton](https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7), [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Anne\-Marie & Coi Leray\) \[Hypaton & Giuseppe Ottaviani Remix\]](https://open.spotify.com/album/0pxJtNNx443RTilEzl6sAz) | 4:51 |
+| 32 | [Baby Don't Hurt Me \(feat\. Coi Leray\) \- DJs From Mars Remix](https://open.spotify.com/track/6G7ipjxGyTmWXp0Na2QLYi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me \(feat\. Coi Leray\) \[DJs From Mars Remix\]](https://open.spotify.com/album/7g2y4BGJNh8BZyChGoeIcA) | 2:31 |
 | 33 | [After All \- Acoustic](https://open.spotify.com/track/1pcvmM20qId8woUhdPLZZh) | [Culture Code](https://open.spotify.com/artist/2FF8wcGpikv5RFbAK1rvdZ), [ARAYA](https://open.spotify.com/artist/1ckTqkZpqdla9J677XAstB), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [After All \(Acoustic\)](https://open.spotify.com/album/1aTqaZZpwPpfIzj1F5PLz7) | 3:42 |
 | 34 | [Leviathan](https://open.spotify.com/track/1wLbtBFPLaUZRMJbEIKW5E) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Caster](https://open.spotify.com/artist/4z7OnrBHTHdfpjNKl7NGox) | [Leviathan](https://open.spotify.com/album/35yPV8yfbuGWurMsjbf4b2) | 4:08 |
 | 35 | [mine \(Ty Sunderland Remix\)](https://open.spotify.com/track/2OsZ8lG6OkPLw6ePT5yJwc) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX), [Ty Sunderland](https://open.spotify.com/artist/31JqNN8V3p95rXgJ7WjeOI) | [mine \(Ty Sunderland Remix\)](https://open.spotify.com/album/6xCPQfspxJvK0WZfMw6eqf) | 4:01 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 58 | [Broken \- Lost Frequencies Cut](https://open.spotify.com/track/1C1zuA0hSfyNYFOTUddCzO) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Broken \(Lost Frequencies Cut\)](https://open.spotify.com/album/2aKRgqvnqmAJ0NxZ6VD9Jc) | 2:52 |
 | 59 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 |
 
-Snapshot ID: `MjgwNjM4MDAsMDAwMDAwMDBmNTFlNjFhZDBlZDJlOTM0M2RkMGIyODM0YjM3MmUyNw==`
+Snapshot ID: `MjgwNjM4MDAsMDAwMDAwMDBjZDY4MDkyMTNlMTZlZDJmYmNkY2Y1ODQ3NmE5ODIwZg==`

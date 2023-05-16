@@ -4,7 +4,7 @@
 
 > Alan Walker, Tchami, IDA and more
 
-4,191 songs - 9 day 9 hr 9 min - not published yet
+4,192 songs - 9 day 9 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2076,7 +2076,7 @@
 | [Lights Code](https://open.spotify.com/track/26suEPhwmZwfCzxPFo0fQ4) | [KhoMha](https://open.spotify.com/artist/4ngwbMFTQKrLkLfREBYrvW) | [Profundo](https://open.spotify.com/album/2wrPdjDbnu0W0Px5H2nhzd) | 2:34 | 2022-07-14 | 2022-07-15 |
 | [Lights On](https://open.spotify.com/track/5pT185xOuSJkpUCsEQFi3n) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 3:56 | 2022-07-10 | 2022-07-11 |
 | [Lightspeed](https://open.spotify.com/track/5UFtFHdr6GfM6x3bC9rhld) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Lightspeed](https://open.spotify.com/album/3PVq1YH9cIJf6LC0t7tWYi) | 2:53 | 2023-03-09 | 2023-04-14 |
-| [Like a Dream](https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Like a Dream](https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL) | 2:31 | 2023-05-15 |  |
+| [Like a Dream](https://open.spotify.com/track/6gOFS1DicuJRiLSB4ZDorp) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Like a Dream](https://open.spotify.com/album/4g5d8VnrJiTZiohvi4WUWL) | 2:31 | 2023-05-15 | 2023-05-16 |
 | [Like a Hurricane](https://open.spotify.com/track/77lknNk0KM4ECzr6nSU1bD) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [Frigga](https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC) | [Tell Me](https://open.spotify.com/album/6asoJJw7okL9DswlAjs167) | 3:15 | 2022-05-22 | 2022-07-09 |
 | [Like A Saviour](https://open.spotify.com/track/5Q2exnZkTvsIFzLiwEWtiO) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:40 | 2023-04-14 | 2023-04-15 |
 | [Like I Do](https://open.spotify.com/track/72yOVhxkfd9lgp4Q0EaJTK) | [Steve James](https://open.spotify.com/artist/2rYFy6vVM1YiECVIAHaJBY), [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Brooke Tomlinson](https://open.spotify.com/artist/5spaLjG6DJVXfqlYSskx9C) | [Like I Do](https://open.spotify.com/album/08pYrUzqYdf4kJjtsHTEjc) | 2:50 | 2023-01-06 | 2023-01-07 |
@@ -4176,6 +4176,7 @@
 | [Your Dark Power](https://open.spotify.com/track/6QCc2XchOw2VhpkssJl6UB) | [JB Stark](https://open.spotify.com/artist/0wDQ0wyB5XgsYkLaXsyNqm), [Kestra](https://open.spotify.com/artist/7udzSgwVGJxs3AyFnBD41K) | [Your Dark Power](https://open.spotify.com/album/4oO3PLYALZO9PQuVZrdVG6) | 3:04 | 2022-07-29 | 2022-08-21 |
 | [Your Eyes](https://open.spotify.com/track/2eKmjqBEYPdVkzyLHvPIIT) | [Roman Messer](https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR), [NoMosk](https://open.spotify.com/artist/4vxZWI0BIvfEPY4wLpWIzi), [Airwalk3r](https://open.spotify.com/artist/5SpGGsQ5xlAeq9jf5Eblyw) | [Your Eyes](https://open.spotify.com/album/5EXEImPatYHX1D0eOZQg7j) | 3:23 | 2023-01-10 | 2023-01-11 |
 | [Your Gravity](https://open.spotify.com/track/1cnEl4fL2OQBknqWJHEieM) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Casey Cook](https://open.spotify.com/artist/3tG47C60La9mzGXfsIHTBl) | [Your Gravity](https://open.spotify.com/album/5q6RUW2z1nr9LjWsUvZj0K) | 3:40 | 2022-09-21 | 2022-09-22 |
+| [Your Love](https://open.spotify.com/track/6lKPJjD6xiutiehLjoSaMU) | [Siks](https://open.spotify.com/artist/0m6mgQ6oL0vNUXCuwjOmxY) | [Your Love](https://open.spotify.com/album/4ncfqD07FcW5Pp4RCB1dPx) | 2:29 | 2023-05-16 |  |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-06-14 | 2022-06-15 |
 | [Your Love Is A Cigarette](https://open.spotify.com/track/6WHepNmWzPCeTomUtD87qo) | [Hillside Outlaws](https://open.spotify.com/artist/05IOmK3klm0i1TQf0kibZl), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Your Love Is A Cigarette](https://open.spotify.com/album/6vvkVD9nuelYWuAVCLsatd) | 2:59 | 2023-05-05 | 2023-05-12 |
 | [Your Next Fantasy](https://open.spotify.com/track/26CflH7v3cVdx28OcoSXb7) | [Pierse](https://open.spotify.com/artist/6RaXGK6k9dt5lMJasbOHeg) | [Your Next Fantasy](https://open.spotify.com/album/3JijKuxQaR07MlDXSCaJtx) | 2:24 | 2022-10-25 | 2022-11-20 |
