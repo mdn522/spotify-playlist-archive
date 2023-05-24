@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hero \(feat\. Sasha Alex Sloan\) \[VIP Mix\]](https://open.spotify.com/track/5901axjICIWGy6x6mxE5t1) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero \(feat\. Sasha Alex Sloan\) \[VIP Mix\]](https://open.spotify.com/album/5SFtqpLtyN3mAAql271EiK) | 3:10 |
+| 1 | [Hero \[VIP Mix\]](https://open.spotify.com/track/5901axjICIWGy6x6mxE5t1) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hero \[VIP Mix\]](https://open.spotify.com/album/5SFtqpLtyN3mAAql271EiK) | 3:10 |
 | 2 | [Feel Your Ghost](https://open.spotify.com/track/64HfvrHpMhaPArBsmo5QTf) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [Feel Your Ghost](https://open.spotify.com/album/1CTxgZIYbDoSltqjBmwxyK) | 3:25 |
 | 3 | [The Game](https://open.spotify.com/track/3hqrbR4pDX414hmfp402Xq) | [GR\-M](https://open.spotify.com/artist/45YCAc9oyPLKXtDZDoDEV4), [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [The Game](https://open.spotify.com/album/6u02EUGQGacQfW4H2JFQVR) | 2:29 |
 | 4 | [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 |
