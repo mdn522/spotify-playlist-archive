@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 61 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 61 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 23 | [The Game](https://open.spotify.com/track/3hqrbR4pDX414hmfp402Xq) | [GR\-M](https://open.spotify.com/artist/45YCAc9oyPLKXtDZDoDEV4), [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [The Game](https://open.spotify.com/album/6u02EUGQGacQfW4H2JFQVR) | 2:29 |
 | 24 | [Narcissist](https://open.spotify.com/track/2eex5KqwwPLtPJY8mxeSxd) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Narcissist](https://open.spotify.com/album/4M5eI9WILJTXNeAxhdsgqZ) | 3:12 |
 | 25 | [Only Love Can Save Us Now](https://open.spotify.com/track/3sSDCpbg9ju2bqKDfcPTzm) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5hOFWwfkeWetTEnMTbX4q9) | 2:34 |
-| 26 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:03 |
+| 26 | [End Of Time](https://open.spotify.com/track/5ttodnEIaCGDuBbvJctUfc) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [End Of Time](https://open.spotify.com/album/5qIq5q9nx9fymmk5JyKmsB) | 3:29 |
 | 27 | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/track/2doTn2LWTKN1Z0lZJG2WQw) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [UNHEALTHY \(feat\. Shania Twain\)](https://open.spotify.com/album/6QEbEpz7fWR5N3HoIiSHFo) | 2:29 |
 | 28 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 |
 | 29 | [GO](https://open.spotify.com/track/05048MahYKu7SziRdGR4Ei) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [GO](https://open.spotify.com/album/5l2gBaz8M5pjNg6p9g9h9y) | 2:45 |
