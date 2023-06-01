@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,189 songs - 3 day 5 hr 6 min - not published yet
+1,190 songs - 3 day 5 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-14 | 2022-08-13 |
 | [Becoming the Protagonist](https://open.spotify.com/track/6xJfQzX3d9fWhahJKMKjEY) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Becoming the Protagonist](https://open.spotify.com/album/1TZt1SbWxD9ytlJJupyB0I) | 4:41 | 2023-03-23 | 2023-03-31 |
 | [Beer Khole \(From "Miami Seh New York"\)](https://open.spotify.com/track/3H9txIJnNc4VfW90it0gav) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tonny Kakkar](https://open.spotify.com/artist/0fviZFhTCQDRlI1Xh44usD) | [Beer Khole \(From "Miami Seh New York"\)](https://open.spotify.com/album/4RGSGDW6vzRUPhGzjZGaCB) | 2:51 | 2022-07-28 | 2022-08-21 |
+| [Bella](https://open.spotify.com/track/1XNmxkvPw181vjTPxyymgj) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Bella](https://open.spotify.com/album/4YpSsUkth03ZrMmqXrMWIi) | 2:48 | 2023-05-25 |  |
 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 | 2022-08-11 | 2022-09-02 |
 | [Better Days](https://open.spotify.com/track/5MH0GrepZiJi4lE53eAArz) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Wholm](https://open.spotify.com/artist/6yIboctPwsCT9uirl4WESO) | [Better Days](https://open.spotify.com/album/6vGnMxsV0KsbHbyZeRNVHn) | 3:22 | 2023-04-13 | 2023-05-14 |
 | [Better Man](https://open.spotify.com/track/3zOSrvPFXtoN1jDZ8mVlD0) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/1hi0S2MamER2ibExnHVQX5) | 2:52 | 2023-04-06 | 2023-04-28 |
