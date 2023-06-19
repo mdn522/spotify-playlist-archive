@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,266 songs - 3 day 9 hr 23 min - not published yet
+1,267 songs - 3 day 9 hr 27 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,7 +441,8 @@
 | [Ghost Light](https://open.spotify.com/track/4po8VeO6NLNkUjmOGS0uSv) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light \(Nightcore\)](https://open.spotify.com/album/1Tvqo51sVAQRBOGU3BqrA4) | 3:11 | 2022-11-24 | 2022-12-01 |
 | [Ghost Light \- Korean](https://open.spotify.com/track/0mk7F66a74tOPkO1pYbW8B) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Ghost Light \(Korean\)](https://open.spotify.com/album/52cC9igs2O1XVSRzF5gaSk) | 3:11 | 2022-12-01 | 2023-01-01 |
 | [Ghost Symphony](https://open.spotify.com/track/6wa8isEkbPAUccaQLjx4CW) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Ghost Symphony](https://open.spotify.com/album/6KemGmMj3QUhHpD82BG8aB) | 6:30 | 2023-03-30 | 2023-04-14 |
-| [Girls Like Girls \- Teil 012](https://open.spotify.com/track/0obcjkhGfHI2Yto68jzIhe) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Katharina von Daake](https://open.spotify.com/artist/5l8UnAHtMeKXvsdliiWw35) | [Girls Like Girls](https://open.spotify.com/album/1mcK4dZBXxbPm9EC8nq3ho) | 3:00 | 2023-06-15 |  |
+| [Girls Like Girls \- Teil 012](https://open.spotify.com/track/0obcjkhGfHI2Yto68jzIhe) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Katharina von Daake](https://open.spotify.com/artist/5l8UnAHtMeKXvsdliiWw35) | [Girls Like Girls](https://open.spotify.com/album/1mcK4dZBXxbPm9EC8nq3ho) | 3:00 | 2023-06-15 | 2023-06-19 |
+| [Girls Like Girls \- Teil 170](https://open.spotify.com/track/0EqtXGLwz7WfNfBpJJrXsu) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Katharina von Daake](https://open.spotify.com/artist/5l8UnAHtMeKXvsdliiWw35) | [Girls Like Girls](https://open.spotify.com/album/1mcK4dZBXxbPm9EC8nq3ho) | 3:52 | 2023-06-15 |  |
 | [GIVE IT ALL UP \- Erol Alkan's Stripped Rework](https://open.spotify.com/track/5V4FmuLzCrYuOPQglrxeYW) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Erol Alkan](https://open.spotify.com/artist/3jQ8hpdQo3TCEnb5gmOtH5) | [GIVE IT ALL UP \(feat\. Tove Lo\) \[Erol Alkan's Rework\]](https://open.spotify.com/album/6RfTFddwoofT9344DwGzYU) | 8:15 | 2022-11-10 | 2022-11-18 |
 | [Give It Away](https://open.spotify.com/track/7yIfySgSwmabL38fbq4NOY) | [Nightfreaks](https://open.spotify.com/artist/3maJmnKDZEvUet333wFYd3), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Give It Away](https://open.spotify.com/album/5TZurOBXVeZ8jXczV17G2v) | 3:03 | 2022-11-03 | 2022-11-11 |
 | [Giá Như Mà](https://open.spotify.com/track/4o8cdyPwMXWpT77BxDxA41) | [Peakrozes](https://open.spotify.com/artist/7kdaxyNyACi5ZVN0hQ9dMg), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Giá Như Mà](https://open.spotify.com/album/2XK993id5BVnr1udcyQ5nS) | 4:30 | 2023-06-08 | 2023-06-10 |
