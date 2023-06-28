@@ -8,6 +8,7 @@
 
 - [2000s Mix](/playlists/pretty/37i9dQZF1EQn4jwNIohw50.md)
 - [2010s Mix](/playlists/pretty/37i9dQZF1EQqedj0y9Uwvu.md)
+- [50s Mix](/playlists/pretty/37i9dQZF1EQqMLgxRRiCOd.md)
 - [80s Mix](/playlists/pretty/37i9dQZF1EQqZlCxLOykhS.md)
 - [90s Mix](/playlists/pretty/37i9dQZF1EQn2GRFTFMl2A.md)
 - [Cappa Mix](/playlists/pretty/37i9dQZF1EIXtSmp4zGkpf.md)
