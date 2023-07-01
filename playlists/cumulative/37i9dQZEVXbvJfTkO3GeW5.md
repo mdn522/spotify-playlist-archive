@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,321 songs - 3 day 12 hr 27 min - not published yet
+1,322 songs - 3 day 12 hr 31 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1088,7 +1088,8 @@
 | [Stargazing](https://open.spotify.com/track/5ExTuq6ITEuqjLyaTRdGV9) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Stargazing](https://open.spotify.com/album/75Mm8057FW9n50wJgQ5EFS) | 3:44 | 2022-12-08 | 2022-12-16 |
 | [Starry Eyes \- MIKE DEAN Remix](https://open.spotify.com/track/5ONnknPrFf58QVxCBRcofB) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Starry Eyes \(MIKE DEAN Remix\)](https://open.spotify.com/album/6vJRxj9GnmwXT7mKJqE61n) | 3:18 | 2022-07-07 | 2022-07-15 |
 | [Stars](https://open.spotify.com/track/2fNaMBJBFpv1PQ1zXkxIcO) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/2Ow9GPsc5afUdPrLZBT6Uo) | 2:51 | 2023-05-25 | 2023-06-02 |
-| [Stars \- Jaded Remix](https://open.spotify.com/track/00xzTCL1sdHftN5QBVgwVh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Stars](https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj) | 3:34 | 2023-06-29 |  |
+| [Stars \- Jaded Remix](https://open.spotify.com/track/00xzTCL1sdHftN5QBVgwVh) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf) | [Stars](https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj) | 3:34 | 2023-06-29 | 2023-07-01 |
+| [Stars \- Kungs Remix](https://open.spotify.com/track/64iBq4It6ILp7ly6aPnK0p) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Stars](https://open.spotify.com/album/7KNcS4dHvYfjFfJfP6rVpj) | 3:21 | 2023-06-29 |  |
 | [Stay](https://open.spotify.com/track/6BOnew0PBJceByOv0RnP29) | [Jey Vazz](https://open.spotify.com/artist/3UUa5nO3gumI0Ld4bapvhu), [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Stay](https://open.spotify.com/album/5gu39Vb0FBzFgZyVEAf8EG) | 3:18 | 2022-11-17 | 2022-11-25 |
 | [Stay As You Are](https://open.spotify.com/track/2O4ov2UO1dhtyrfUw72hOT) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Stay As You Are](https://open.spotify.com/album/5r2NPxFBa2DyVRPJbQJUV9) | 2:26 | 2023-04-13 | 2023-05-14 |
 | [Stay Up \(sped up\)](https://open.spotify.com/track/1OPNA1w4fakzswMHyn3sMF) | [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1), [sped up](https://open.spotify.com/artist/4p7fWI6chrdwq6gEAEl6va) | [Stay Up \(slowed + sped up\)](https://open.spotify.com/album/5GmFTeik7Zig7BTMDRfYVr) | 2:49 | 2023-03-09 | 2023-04-09 |
