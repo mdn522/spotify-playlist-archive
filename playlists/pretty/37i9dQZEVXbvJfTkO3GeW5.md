@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 29 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 |
 | 30 | [somewhere between the sand and the stardust](https://open.spotify.com/track/3inSwrNUWkoCyCwzKezkwF) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [somewhere between the sand and the stardust](https://open.spotify.com/album/1GffidSIS7j1j4cM5pX8hY) | 3:30 |
 | 31 | [Red Flags \(feat\. Alex Skrindo & Langhoff\) \- REMIX](https://open.spotify.com/track/0TcldAcP3ky3mx0dDiDsHL) | [Balken](https://open.spotify.com/artist/6HSzwxpDlQc3ysjM6HcTeF), [Englando](https://open.spotify.com/artist/2bvjuwumvVePZDZjIFu1jA), [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P), [Langhoff](https://open.spotify.com/artist/4DwnFzvrHtEbmaD4dUTiKO) | [Red Flags REMIX \(feat\. Alex Skrindo & Langhoff\)](https://open.spotify.com/album/2GhMngJbhYKaLvQYLtyAWi) | 2:52 |
-| 32 | [Dr\. Morbius](https://open.spotify.com/track/5nuIi9FtZDHWUBPh4qBi6j) | [Nick Phoenix](https://open.spotify.com/artist/3EvzCyNmY3kbUkMawjsndF), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Uyanga Bold](https://open.spotify.com/artist/5QHsYrw5ruvDilUamo9qzq) | [Dr\. Morbius](https://open.spotify.com/album/1PU7ZKbVhycZPeMb1NJhJW) | 4:58 |
-| 33 | [Kai Veesi \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/0cePbm6twXPowXvykgiFmf) | [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Gayathry Rajiv](https://open.spotify.com/artist/1C3jeSsmZvfTHvoNlLuchi) | [Kai Veesi \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/1VfUilahSPQOkralt4VRk9) | 2:53 |
+| 32 | [Kai Veesi \(Rendition\) \- SKODA Deccan Beats](https://open.spotify.com/track/0cePbm6twXPowXvykgiFmf) | [Karthick Devaraj](https://open.spotify.com/artist/3ddyHcnuLRbU4EhCOvEI1N), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Gayathry Rajiv](https://open.spotify.com/artist/1C3jeSsmZvfTHvoNlLuchi) | [Kai Veesi \(Rendition\) \[SKODA Deccan Beats\]](https://open.spotify.com/album/1VfUilahSPQOkralt4VRk9) | 2:53 |
+| 33 | [The Woodsman](https://open.spotify.com/track/0UBY3nVHp9ztx3wWe6e4Dh) | [Nick Phoenix](https://open.spotify.com/artist/3EvzCyNmY3kbUkMawjsndF), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Dr\. Morbius](https://open.spotify.com/album/1PU7ZKbVhycZPeMb1NJhJW) | 2:59 |
 | 34 | [Pretty In The Dark](https://open.spotify.com/track/3iuk1CB6yWPZDQ08WVOUjB) | [Ashley Sienna](https://open.spotify.com/artist/2dfNhCW7cElnUBvmDvKGGi), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [Pretty In The Dark](https://open.spotify.com/album/3rH35zsxg2ppSufxr57UPw) | 2:56 |
 | 35 | [rock hudson](https://open.spotify.com/track/45hEUx8ywENLrB13nEfntt) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry](https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye) | 3:22 |
 | 36 | [Run](https://open.spotify.com/track/6mlht8uraBsyvWMLMVaU2G) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 2:49 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 54 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 55 | [Iris](https://open.spotify.com/track/6YHufo0BvEPHo8vXe6OTHB) | [Tommee Profitt](https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU), [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Iris](https://open.spotify.com/album/1it5p9Z5eljDNs6XTSC6vz) | 4:07 |
 
-Snapshot ID: `MjgxMzQzNjAsMDAwMDAwMDA4OGU2ZjM0ZWJjMTExMDU1MmJhMDdlNTU4ZjQyYjliZA==`
+Snapshot ID: `MjgxMzQzNjAsMDAwMDAwMDBiZjg0NTg2YzI1ZjdlNTBlYzU0ZWMwNzdjYzVmMjY1NA==`
