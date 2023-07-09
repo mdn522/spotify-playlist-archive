@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Last \- Moonego Remix](https://open.spotify.com/track/4kyvwQLFiZ1umjLAzqeKaB) | [PLATON & JOOLAY](https://open.spotify.com/artist/64VJVYszqCeTac1EKYMqKZ) | [Last \(Remixes\)](https://open.spotify.com/album/6AzH649dsQMv0SsHxBwmJN) | 4:56 |
 | 30 | [Infinity](https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Infinity](https://open.spotify.com/album/0z34Mg3doQ3WbE3eztyupv) | 3:25 |
 
-Snapshot ID: `MCwwMDAwMDAwMGI0MDNhOGQ4NzUxZjM1YzdjNzU0MjU5M2E4ZjIxOTZj`
+Snapshot ID: `MCwwMDAwMDAwMDcyMmVhZDBiYTlhY2E4MjExNzQyNjNkODMxNzhlMzQz`
