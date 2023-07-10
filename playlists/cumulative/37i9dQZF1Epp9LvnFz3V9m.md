@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-686 songs - 1 day 12 hr 25 min - not published yet
+687 songs - 1 day 12 hr 28 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,7 +319,7 @@
 | [Kills Me Just the Same](https://open.spotify.com/track/4rS8NzslE23GHmUnE4HBHu) | [Cimorelli](https://open.spotify.com/artist/4988ULVP4X7nco6pLh1PA2) | [Kills Me Just the Same](https://open.spotify.com/album/4I4PCUEpJkbuV5FT22l8kl) | 3:39 | 2022-08-22 | 2022-09-01 |
 | [Kissing the Ambience](https://open.spotify.com/track/3ge3sVwiK7csDa3QKb9Xqm) | [Mind Explorer](https://open.spotify.com/artist/22v0hyVYFwW9gLflr83IF8) | [Kissing the Ambience](https://open.spotify.com/album/5POHqBiKAdGSvvLtIE8AZP) | 3:06 | 2023-01-17 | 2023-01-24 |
 | [Kyynelii](https://open.spotify.com/track/3YgOwQsqjzXIWzTwPPQz98) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM) | [Kyynelii](https://open.spotify.com/album/0JAzHnRgLF5gT9TfDLyAGz) | 3:23 | 2022-08-01 | 2022-08-17 |
-| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2023-05-31 |  |
+| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2023-05-31 | 2023-07-10 |
 | [La la la](https://open.spotify.com/track/1zlpCemDDrSE73TOagzsgv) | [The Dane](https://open.spotify.com/artist/5pzAVycSfXcQ1wNM38Vzgc), [Paris Carney](https://open.spotify.com/artist/5iPejwhyVLpYikcdxb3ePh) | [La la la](https://open.spotify.com/album/797Ph4okAY9GhvHzAu6Hbu) | 2:53 | 2022-05-26 | 2022-06-02 |
 | [La nevedere](https://open.spotify.com/track/2Eh3mKeLBrmiyAQUOLI0bW) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [La nevedere](https://open.spotify.com/album/2JAV46kerV34tgOkuUn0fn) | 3:10 | 2022-11-09 | 2022-12-16 |
 | [Lacatul si femeia \- Arty Violin Remix](https://open.spotify.com/track/2d1UaPw4ua8AM91H968kiB) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Lacatul si femeia](https://open.spotify.com/album/2ao1Y3kcT5q9bN9AQIZ4vU) | 3:46 | 2022-06-16 | 2022-06-27 |
@@ -420,6 +420,7 @@
 | [No](https://open.spotify.com/track/0ONFGnOEErh2tL0HY39F3V) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 3:03 | 2022-06-29 | 2022-07-06 |
 | [No](https://open.spotify.com/track/7reG3QYhefsJNpcVJq4BZr) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(Deluxe Version\)](https://open.spotify.com/album/6XNrM2YkzSXyQ9hekFOgLN) | 3:03 | 2022-07-07 | 2022-07-15 |
 | [No Regrets](https://open.spotify.com/track/0UzGVWTmURL3F3Y1wgzFtJ) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [No Regrets](https://open.spotify.com/album/2JO9ocFahCA7zpSObO39bR) | 2:50 | 2022-06-26 | 2022-12-07 |
+| [Not A Friend](https://open.spotify.com/track/4HEevHV7V3J3R0hNOE3SdP) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [Not A Friend](https://open.spotify.com/album/01zWIecBsNp4MjncbkzF13) | 2:27 | 2023-07-09 |  |
 | [Not Afraid to Love](https://open.spotify.com/track/2rLdl9mRMugCKgKv0jG9QJ) | [Flux Vortex](https://open.spotify.com/artist/1MNQjRAMxv130gsVbIbR0H) | [Not Afraid To Love](https://open.spotify.com/album/1n3kNcclkJxohxbTzO2YYz) | 3:40 | 2023-03-26 | 2023-04-02 |
 | [Not Giving Up](https://open.spotify.com/track/6iBZUBMIcBp6xtY56NQmOV) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/5lwFrWCu2ay6zOzOF8kpyd) | 3:18 | 2023-05-01 | 2023-05-14 |
 | [Not Like Them](https://open.spotify.com/track/4ZDD6m9Y1JMyT0w43qkn0f) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5), [Jeremy Estes](https://open.spotify.com/artist/4fwQLCrMNK1TcoiBjl7a5r) | [Not Like Them](https://open.spotify.com/album/5Z5S3RViUMFosoTKJFqmyv) | 3:49 | 2022-08-22 | 2022-11-22 |
