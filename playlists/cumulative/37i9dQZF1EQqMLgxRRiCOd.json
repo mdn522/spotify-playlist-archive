@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2023-06-28",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIZijMaKYYMzE>Little Richard</a>, <a href=spotify:playlist:37i9dQZF1EIZKt8Jk2STWz>Jerry Lee Lewis</a>, <a href=spotify:playlist:37i9dQZF1EIZddyIP8Vib2>Johnny Cash</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZijMaKYYMzE>Little Richard</a>, <a href=spotify:playlist:37i9dQZF1EIXUVDweJ4wAc>framed</a>, <a href=spotify:playlist:37i9dQZF1EIZKt8Jk2STWz>Jerry Lee Lewis</a> and more",
     "name": "50s Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -35,7 +35,7 @@
             ],
             "date_added": "2023-07-13",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-16",
+            "date_removed": null,
             "duration_ms": 156546,
             "name": "(How Little It Matters) How Little We Know",
             "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
@@ -93,7 +93,7 @@
             ],
             "date_added": "2023-07-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 296013,
             "name": "6 Moments musicaux, Op. 94, D. 780: No. 4 Moderato",
             "url": "https://open.spotify.com/track/170u0CiUZOZzt8nBhNtdFg"
@@ -441,7 +441,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-07",
+            "date_removed": null,
             "duration_ms": 132180,
             "name": "Aaja Sanam Madhur Chandni Men (SRT MIX Trap)",
             "url": "https://open.spotify.com/track/3nwRgrV15ma7vQH4omFo7S"
@@ -481,7 +481,7 @@
             ],
             "date_added": "2023-07-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 196350,
             "name": "Aap Kyon Roye Jo Hamne Dastan Apni (From \"Woh Kaun Thi\")",
             "url": "https://open.spotify.com/track/4s0x5SpmWFt0svQG9aANnE"
@@ -529,7 +529,7 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 207733,
             "name": "Achha Ji Main Haari Chalo",
             "url": "https://open.spotify.com/track/5ceKyCGIpjceDJhOT9pE7r"
@@ -591,7 +591,7 @@
             ],
             "date_added": "2023-07-07",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-14",
+            "date_removed": null,
             "duration_ms": 315613,
             "name": "Ajib Dastan Hai Yeh (From \"Dil Apna Aur Preet Parai\")",
             "url": "https://open.spotify.com/track/5VGNtow5pqQXFa0a1QAIBb"
@@ -1067,7 +1067,7 @@
             ],
             "date_added": "2023-07-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 63813,
             "name": "Aria variata alla maniera italiana in A minor, BWV 989 - Excerpt",
             "url": "https://open.spotify.com/track/5Gc5XDRZRER5AHfZfeBDyB"
@@ -1161,10 +1161,28 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 183706,
             "name": "Autumn Leaves (with Paul Weston & His Music From Hollywood)",
             "url": "https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki"
+        },
+        {
+            "album": {
+                "name": "Abd El Halim Hafez",
+                "url": "https://open.spotify.com/album/6q0VqJM4FYiS4oscbgkVaw"
+            },
+            "artists": [
+                {
+                    "name": "Abdel Halim Hafez",
+                    "url": "https://open.spotify.com/artist/6IW026WCYU8L1WF79dfwss"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 219599,
+            "name": "Awel Mara",
+            "url": "https://open.spotify.com/track/6TbxWXPwXo8hclWtsP3eWP"
         },
         {
             "album": {
@@ -1267,6 +1285,24 @@
             "duration_ms": 146076,
             "name": "Bangle Ke Peechhe - Lofi",
             "url": "https://open.spotify.com/track/3h5lLRQmozD0FuzMf9yLx9"
+        },
+        {
+            "album": {
+                "name": "Os 16 Grandes Sucessos de Os Mirins - Série +",
+                "url": "https://open.spotify.com/album/202RXAwpbLVLdmsPs9ZRhv"
+            },
+            "artists": [
+                {
+                    "name": "Os Mirins",
+                    "url": "https://open.spotify.com/artist/09Tr1aAAWGfsuUmcn7YGWI"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 227226,
+            "name": "Barbaridade",
+            "url": "https://open.spotify.com/track/6advRH10vKcANtlya6qRZp"
         },
         {
             "album": {
@@ -1437,7 +1473,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 184000,
             "name": "Bombeyaatavayya",
             "url": "https://open.spotify.com/track/1LBLrYmKZgLgtKWUkN5vff"
@@ -1535,7 +1571,7 @@
             ],
             "date_added": "2023-07-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 411866,
             "name": "Broadway Melody Ballet",
             "url": "https://open.spotify.com/track/5k7C5x4njsKt9PVwnzNE1B"
@@ -1622,6 +1658,24 @@
         },
         {
             "album": {
+                "name": "45 Anos De Exitos",
+                "url": "https://open.spotify.com/album/3OwlCqdi85JnzFeaPnyHZE"
+            },
+            "artists": [
+                {
+                    "name": "Las Jilguerillas",
+                    "url": "https://open.spotify.com/artist/0eeAs1exNZKyZNSFTVYInV"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 195266,
+            "name": "Busca Otro Amor (1968)",
+            "url": "https://open.spotify.com/track/2nnw5l4JCsIFvwl63Z6hFO"
+        },
+        {
+            "album": {
                 "name": "Airy Fancy",
                 "url": "https://open.spotify.com/album/7G0jdE1sN2qJxWtWKfIYNI"
             },
@@ -1677,7 +1731,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 183520,
             "name": "C'est à Hambourg",
             "url": "https://open.spotify.com/track/7rKyIhcSBjFugDuBQUaPne"
@@ -1695,7 +1749,7 @@
             ],
             "date_added": "2023-07-11",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-19",
+            "date_removed": null,
             "duration_ms": 100008,
             "name": "CAKÂL - AŞK OLSUN",
             "url": "https://open.spotify.com/track/6RhtcymzxgvfRaRLVGEiAp"
@@ -2051,10 +2105,28 @@
             ],
             "date_added": "2023-07-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-14",
+            "date_removed": null,
             "duration_ms": 120306,
             "name": "Crying in the Rain",
             "url": "https://open.spotify.com/track/3lWuagNhAzcqOikD5KnBku"
+        },
+        {
+            "album": {
+                "name": "Rock with Sedaka (Expanded Edition)",
+                "url": "https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO"
+            },
+            "artists": [
+                {
+                    "name": "Neil Sedaka",
+                    "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 133626,
+            "name": "Crying My Heart Out for You",
+            "url": "https://open.spotify.com/track/1AkvPKQtV0IaHbMlw0cF8p"
         },
         {
             "album": {
@@ -2171,7 +2243,7 @@
             ],
             "date_added": "2023-06-30",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-06",
+            "date_removed": null,
             "duration_ms": 298186,
             "name": "Dheere Dheere Bol Koi Sun Na Le",
             "url": "https://open.spotify.com/track/1MGNL2esIOY05cV4MkAaMz"
@@ -2737,7 +2809,7 @@
             ],
             "date_added": "2023-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 172316,
             "name": "Ek Ladki Bheegi Bhaagi Si - Trap Mix",
             "url": "https://open.spotify.com/track/7rcOMgfDec1WEg3AWzTFMm"
@@ -2817,7 +2889,7 @@
             ],
             "date_added": "2023-07-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 204826,
             "name": "Engal Dravida Pon Nade",
             "url": "https://open.spotify.com/track/1ogfvLhr3iBEEMgwvDUoK6"
@@ -2835,7 +2907,7 @@
             ],
             "date_added": "2023-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-17",
+            "date_removed": null,
             "duration_ms": 130199,
             "name": "Estúpido Cupido",
             "url": "https://open.spotify.com/track/7AHcq1TTLsgbnspP1TsP9U"
@@ -2871,7 +2943,7 @@
             ],
             "date_added": "2023-07-07",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-16",
+            "date_removed": null,
             "duration_ms": 183013,
             "name": "Every Baby Needs a Da Da Daddy",
             "url": "https://open.spotify.com/track/4QVVkxM0VnanJNUkvnkQIl"
@@ -2889,7 +2961,7 @@
             ],
             "date_added": "2023-06-29",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-14",
+            "date_removed": null,
             "duration_ms": 427080,
             "name": "Everything Happens To Me",
             "url": "https://open.spotify.com/track/1PTO7kJi8AhIdZURGnM1Zj"
@@ -2943,7 +3015,7 @@
             ],
             "date_added": "2023-07-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 140906,
             "name": "Fascination",
             "url": "https://open.spotify.com/track/2xj9MflB27lyKVnr8rv655"
@@ -2965,10 +3037,28 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 186012,
             "name": "Fever",
             "url": "https://open.spotify.com/track/4DeLgHoZs34j9p1n62YBRC"
+        },
+        {
+            "album": {
+                "name": "Originalinspelningar 1955-1980",
+                "url": "https://open.spotify.com/album/5TuEfnye4yxrttbXhO4Ee9"
+            },
+            "artists": [
+                {
+                    "name": "Siw Malmkvist",
+                    "url": "https://open.spotify.com/artist/2VWX6ZalDVTp1KMGN6JDSl"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 132293,
+            "name": "Flickor bak i bilen",
+            "url": "https://open.spotify.com/track/1FmhMxnbJ1wGQ2gARKK79C"
         },
         {
             "album": {
@@ -3049,7 +3139,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 168554,
             "name": "Folsom Prison Blues",
             "url": "https://open.spotify.com/track/121sjkub4p4zcFNozkKnQD"
@@ -3103,7 +3193,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 417320,
             "name": "Foolin' Myself",
             "url": "https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk"
@@ -3219,7 +3309,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 326320,
             "name": "Ghana Ghana Sundara",
             "url": "https://open.spotify.com/track/5NnwOEgHKNNjC3dFyG6iyv"
@@ -3309,7 +3399,7 @@
             ],
             "date_added": "2023-07-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 215493,
             "name": "Goin' Co'tin'",
             "url": "https://open.spotify.com/track/6iN8azvr6WZJj6IkDqlYDb"
@@ -3403,7 +3493,7 @@
             ],
             "date_added": "2023-06-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 111535,
             "name": "Great Balls Of Fire",
             "url": "https://open.spotify.com/track/64VP3skE86iTvdOlbzuIcO"
@@ -3553,7 +3643,7 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-18",
+            "date_removed": null,
             "duration_ms": 149973,
             "name": "Hallelujah, I Love Him So",
             "url": "https://open.spotify.com/track/40nrWl50UBdApF58cxR66G"
@@ -3607,7 +3697,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 197973,
             "name": "Heureuse",
             "url": "https://open.spotify.com/track/5NvtYYIYViQ2uV0fzoBTIi"
@@ -3643,7 +3733,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 205680,
             "name": "How Was It for You",
             "url": "https://open.spotify.com/track/7xYtcav5HKL9E7k9vprxPT"
@@ -3833,7 +3923,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 117786,
             "name": "I Want to Go Home",
             "url": "https://open.spotify.com/track/5rpiz7FJrMpPPnoLIezrLq"
@@ -3851,7 +3941,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 74440,
             "name": "I Was the One - August 12 - Midnight Show",
             "url": "https://open.spotify.com/track/1DiHTjkIn6zULufSZUqlmQ"
@@ -4003,7 +4093,7 @@
             ],
             "date_added": "2023-07-15",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-19",
+            "date_removed": null,
             "duration_ms": 219160,
             "name": "I've Told Ev'ry Little Star",
             "url": "https://open.spotify.com/track/2wfLEFTytRTwmMgSDlOrap"
@@ -4263,7 +4353,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 219713,
             "name": "Jane Na Nazar Pehchane Jigar",
             "url": "https://open.spotify.com/track/1cpaDNciPGlC39qPs4RkMU"
@@ -4351,7 +4441,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 183640,
             "name": "Jeevithame Saphalamu",
             "url": "https://open.spotify.com/track/58RQ7Jtatu0UBeby61bclU"
@@ -4461,7 +4551,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 179946,
             "name": "Just One Of Those Things",
             "url": "https://open.spotify.com/track/0Kdtya9rpac1Da89XBZ52O"
@@ -4585,7 +4675,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-04",
+            "date_removed": null,
             "duration_ms": 201280,
             "name": "Kannum Pooti Urangu",
             "url": "https://open.spotify.com/track/5r0CH7VHvi50AxeCwPLPPK"
@@ -4917,7 +5007,7 @@
             ],
             "date_added": "2023-07-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 184253,
             "name": "Libiamo Ne' Lieti Calici (Brindisi) - la Traviata Atto I",
             "url": "https://open.spotify.com/track/1uIHc8oPOKPeoGuncGUxFY"
@@ -4957,7 +5047,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 188960,
             "name": "Line For Lyons",
             "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
@@ -4975,7 +5065,7 @@
             ],
             "date_added": "2023-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-16",
+            "date_removed": null,
             "duration_ms": 139613,
             "name": "Lipstick On Your Collar",
             "url": "https://open.spotify.com/track/6k9j9Fn10bsv107KJtDJnh"
@@ -5105,7 +5195,7 @@
             ],
             "date_added": "2023-07-08",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-09",
+            "date_removed": null,
             "duration_ms": 164840,
             "name": "Love For Sale - 1959 Version",
             "url": "https://open.spotify.com/track/43hj7RjOE5vXtgnqPidEv4"
@@ -5291,7 +5381,7 @@
             ],
             "date_added": "2023-07-08",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-11",
+            "date_removed": null,
             "duration_ms": 347271,
             "name": "Main Sitaron Ka Tarana - Paanch Rupaiya Baara Aana",
             "url": "https://open.spotify.com/track/00sKvehDiGZkeaf7FKFNs7"
@@ -5421,7 +5511,7 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-18",
+            "date_removed": null,
             "duration_ms": 193093,
             "name": "Mera Dil Yeh Pukare Aaja",
             "url": "https://open.spotify.com/track/10qfuMs3MlQClbjc2aV0ez"
@@ -5551,7 +5641,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 134800,
             "name": "Money Honey - Remastered",
             "url": "https://open.spotify.com/track/1RLDhFignuYJaUyREhh1gM"
@@ -5740,6 +5830,24 @@
         },
         {
             "album": {
+                "name": "Prem Nagar",
+                "url": "https://open.spotify.com/album/0xJdpDAIqOY2WLiq0vsive"
+            },
+            "artists": [
+                {
+                    "name": "Ghantasala",
+                    "url": "https://open.spotify.com/artist/2spmKkD1aaIwksnFrAghRL"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 270960,
+            "name": "Nenu Puttanu",
+            "url": "https://open.spotify.com/track/0FYN8cr9mRRlAOZ1OaGApH"
+        },
+        {
+            "album": {
                 "name": "Classic Revival Hits Volume 01 - Tamil",
                 "url": "https://open.spotify.com/album/1ScRIkkgbMpbj2v7XCukft"
             },
@@ -5921,7 +6029,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 268533,
             "name": "O Mere Sanam",
             "url": "https://open.spotify.com/track/49AuPmipQ4GlXLDYxCqINv"
@@ -5943,6 +6051,24 @@
             "duration_ms": 191040,
             "name": "Ogo Nirupama",
             "url": "https://open.spotify.com/track/57Yy9X0vH37UFxUKx60jL4"
+        },
+        {
+            "album": {
+                "name": "Porgy And Bess",
+                "url": "https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz"
+            },
+            "artists": [
+                {
+                    "name": "Miles Davis",
+                    "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 268160,
+            "name": "Oh Bess, Oh Where's my Bess",
+            "url": "https://open.spotify.com/track/4IOKwJDBhxBakj6mD6EJjY"
         },
         {
             "album": {
@@ -6157,10 +6283,32 @@
             ],
             "date_added": "2023-07-05",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-12",
+            "date_removed": null,
             "duration_ms": 273107,
             "name": "Panchhi Banoon Udti Phiroon",
             "url": "https://open.spotify.com/track/55p5IprHtmzMfv8oIp2fRC"
+        },
+        {
+            "album": {
+                "name": "Glenn Gould plays Bach: 6 Partitas BWV 825-830; Chromatic Fantasy BWV 903; Italian Concerto BWV 971; The Art of the Fugue BWV 1080 (excerpts); Preludes, Fugues & Fantasies",
+                "url": "https://open.spotify.com/album/61UszrMDhufhN6bGF7Rpb1"
+            },
+            "artists": [
+                {
+                    "name": "Johann Sebastian Bach",
+                    "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+                },
+                {
+                    "name": "Glenn Gould",
+                    "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 108640,
+            "name": "Partita No. 5 in G Major, BWV 829: I. Praeambulum",
+            "url": "https://open.spotify.com/track/3CspX97yD0H59XOjPNGcbe"
         },
         {
             "album": {
@@ -6285,7 +6433,7 @@
             ],
             "date_added": "2023-07-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 378145,
             "name": "Piano Concerto No. 2 in B-Flat Major, Op. 19: III. Rondo. Molto allegro",
             "url": "https://open.spotify.com/track/4FcL0BhJZvWradpPw2uz9K"
@@ -6355,7 +6503,7 @@
             ],
             "date_added": "2023-06-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 211364,
             "name": "Pikit-Mata",
             "url": "https://open.spotify.com/track/1VjFMXCwijcaBbTsMMObyt"
@@ -6425,7 +6573,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 172346,
             "name": "Por un Puñado de Oro (feat. Marisela)",
             "url": "https://open.spotify.com/track/3zGUW83w8ts1yRnCCsM0HI"
@@ -6563,7 +6711,7 @@
             ],
             "date_added": "2023-07-10",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-14",
+            "date_removed": null,
             "duration_ms": 235287,
             "name": "Que lloro - En Vivo",
             "url": "https://open.spotify.com/track/5dA9UjVs9F5CtN1gYaZQ5v"
@@ -6599,7 +6747,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-12",
+            "date_removed": null,
             "duration_ms": 265773,
             "name": "Rahen Na Rahen",
             "url": "https://open.spotify.com/track/0QdkxzOZ5x8SCCdPMGtziq"
@@ -6707,7 +6855,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 141400,
             "name": "Rip It Up",
             "url": "https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD"
@@ -6779,7 +6927,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 251346,
             "name": "Ruk Ja Raat",
             "url": "https://open.spotify.com/track/3q63dkW8JjC5W4wEF3CaiY"
@@ -6837,7 +6985,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 229720,
             "name": "Saiyan Dil Mein Aana Re",
             "url": "https://open.spotify.com/track/3G1E6laHEv2CLGVl5tdgUJ"
@@ -6855,7 +7003,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 223386,
             "name": "Sajan Re Jhoot Mat Bolo",
             "url": "https://open.spotify.com/track/1YbyDO9YfIpz24xgF5DXMI"
@@ -7251,7 +7399,7 @@
             ],
             "date_added": "2023-07-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 131719,
             "name": "Splish Splash",
             "url": "https://open.spotify.com/track/40fD7ct05FvQHLdQTgJelG"
@@ -7269,7 +7417,7 @@
             ],
             "date_added": "2023-07-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 161200,
             "name": "Stairway To Heaven",
             "url": "https://open.spotify.com/track/1CnvWiq28dXmSdGTMGj2b4"
@@ -7515,7 +7663,7 @@
             ],
             "date_added": "2023-07-18",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-19",
+            "date_removed": null,
             "duration_ms": 470853,
             "name": "Symphony No. 8 in F Major, Op. 93: IV. Allegro vivace",
             "url": "https://open.spotify.com/track/1vRHugondOkbauIAi7outr"
@@ -7919,7 +8067,7 @@
             ],
             "date_added": "2023-07-03",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-11",
+            "date_removed": null,
             "duration_ms": 186640,
             "name": "The Very Thought Of You",
             "url": "https://open.spotify.com/track/42EWlWPab7ronmotBC0LtJ"
@@ -8053,7 +8201,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 158866,
             "name": "Toccata - Version 88",
             "url": "https://open.spotify.com/track/2ppQ10qRPX9ObL0JKtGlVA"
@@ -8129,7 +8277,7 @@
             ],
             "date_added": "2023-07-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 252360,
             "name": "Tum Aa Gaye Ho Noor Aa Gaya (From \"Aandhi\")",
             "url": "https://open.spotify.com/track/46vtbOdgiQHYQgBRwn1sYr"
@@ -8201,7 +8349,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-18",
+            "date_removed": null,
             "duration_ms": 144226,
             "name": "Tutti Frutti",
             "url": "https://open.spotify.com/track/2iXcvnD3d1gfLBum0cE5Eg"
@@ -8241,7 +8389,7 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 331266,
             "name": "Two Not One",
             "url": "https://open.spotify.com/track/3bYBPyLGsa1unDrVaNzN4y"
@@ -8281,7 +8429,7 @@
             ],
             "date_added": "2023-07-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 295926,
             "name": "Uden Jab Jab Zulfen Teri",
             "url": "https://open.spotify.com/track/0xDdcB0gypop2DwJU2O1xG"
@@ -8299,7 +8447,7 @@
             ],
             "date_added": "2023-06-29",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-13",
+            "date_removed": null,
             "duration_ms": 83947,
             "name": "uhh",
             "url": "https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en"
@@ -8353,7 +8501,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-12",
+            "date_removed": null,
             "duration_ms": 132906,
             "name": "Unbirthday Song",
             "url": "https://open.spotify.com/track/0W8jtYipop2puuuLaoRQbn"
@@ -8567,7 +8715,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 144200,
             "name": "Walk On By",
             "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
@@ -8665,7 +8813,7 @@
             ],
             "date_added": "2023-07-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 136853,
             "name": "Well I'm Your Man",
             "url": "https://open.spotify.com/track/31SjnUVtuhanaSs3gbbtGQ"
@@ -8755,7 +8903,7 @@
             ],
             "date_added": "2023-06-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-07-15",
+            "date_removed": null,
             "duration_ms": 172400,
             "name": "Whole Lot of Shakin' Going On",
             "url": "https://open.spotify.com/track/6wO13Xb3EdHUNixFOEJ0KV"
@@ -8777,7 +8925,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 264730,
             "name": "Woh Chand Khila Woh Tare Hanse",
             "url": "https://open.spotify.com/track/3ql8mvRXXEUJYLaqtPQkwU"
@@ -8795,7 +8943,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 423568,
             "name": "Yeh Duniya Yeh Mehfil",
             "url": "https://open.spotify.com/track/3NOJjYWYpmBEqK2nVz7xiN"
@@ -8853,7 +9001,7 @@
             ],
             "date_added": "2023-07-19",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 157186,
             "name": "You Aim To Please",
             "url": "https://open.spotify.com/track/6U4vKBLClXqYyi8dKDQGhm"
@@ -8951,6 +9099,24 @@
             "duration_ms": 228133,
             "name": "You Don't Know What Love Is",
             "url": "https://open.spotify.com/track/5UPJdlkMWG2G2UwTfGSjOe"
+        },
+        {
+            "album": {
+                "name": "Ricky Sings Again (Expanded Edition / Remastered)",
+                "url": "https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg"
+            },
+            "artists": [
+                {
+                    "name": "Ricky Nelson",
+                    "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 141600,
+            "name": "You Tear Me Up - Remastered",
+            "url": "https://open.spotify.com/track/2X2XeD6Sae5MyxocujI4qP"
         },
         {
             "album": {
@@ -9084,6 +9250,24 @@
         },
         {
             "album": {
+                "name": "Ascenseur pour l'échafaud",
+                "url": "https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2"
+            },
+            "artists": [
+                {
+                    "name": "Miles Davis",
+                    "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+                }
+            ],
+            "date_added": "2023-07-20",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 117632,
+            "name": "Évasion de Julien - Take 2 - Bande originale du film \"Ascenseur pour l'échafaud\"",
+            "url": "https://open.spotify.com/track/3NPF5sd7kYexB86pUTbVCp"
+        },
+        {
+            "album": {
                 "name": "خدا بود یارت",
                 "url": "https://open.spotify.com/album/7D6bzvRMrsfyVo8M8U2yEu"
             },
@@ -9149,7 +9333,7 @@
             ],
             "date_added": "2023-07-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2023-07-20",
             "duration_ms": 281133,
             "name": "해후",
             "url": "https://open.spotify.com/track/6pmaYVS7RYSampMASIfvVr"
