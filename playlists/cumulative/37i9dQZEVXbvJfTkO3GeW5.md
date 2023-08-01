@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,414 songs - 3 day 17 hr 33 min - not published yet
+1,415 songs - 3 day 17 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -756,6 +756,7 @@
 | [Loop](https://open.spotify.com/track/4HdL1mrY71kcU8Xn21agFW) | [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Loop](https://open.spotify.com/album/6rBXo9Byf6Bt9zcVrnlXKI) | 3:32 | 2022-06-23 | 2022-07-24 |
 | [Lose Your Love \(with Matt Maeson\)](https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:31 | 2022-11-03 | 2022-11-11 |
 | [Losing Sleep](https://open.spotify.com/track/10X0AaEeddF9a5CGekyL1f) | [voxeaa](https://open.spotify.com/artist/1SRpYy6lUdjsPA8UItAyTk) | [Mayday](https://open.spotify.com/album/4paU25LXCPjId6K2z8iZSO) | 2:35 | 2022-11-17 | 2022-12-02 |
+| [Loss of Love](https://open.spotify.com/track/03xfztAOfOwzZn7bQX3gty) | [NoctisMusic](https://open.spotify.com/artist/07q6M1Fp0Q7CrYh01zFuqo), [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [Loss of Love](https://open.spotify.com/album/3GZ70GXwA1KT48S8NLlrzt) | 3:39 | 2023-07-27 |  |
 | [Lost](https://open.spotify.com/track/1GJNn7weRj8gU97J8zs1KH) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Lost](https://open.spotify.com/album/3I0q9f3ukiBx0kAFz3n6bS) | 3:56 | 2022-09-22 | 2022-10-07 |
 | [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2023-07-06 |  |
 | [Lost in Your Eyes](https://open.spotify.com/track/1IfUIHWcAuvfvQst3FR0mO) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Lost in Your Eyes](https://open.spotify.com/album/0bIH1ASxpKI1jPtziTjYkX) | 3:01 | 2023-02-23 | 2023-03-25 |
