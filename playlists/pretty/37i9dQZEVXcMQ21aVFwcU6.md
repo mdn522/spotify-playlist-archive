@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [青印](https://open.spotify.com/track/73RjRbu74HuPHiryAj4cHu) | [张德伊玲](https://open.spotify.com/artist/4fh8NEhlHPEEcwKnfiMIKt) | [青印](https://open.spotify.com/album/4blrt7DEYEGXhGABUN0Jcy) | 3:11 |
 | 30 | [Lonely Together \(feat\. Dagny\)](https://open.spotify.com/track/0dfOAWQfRVFYpLnm9OTpxv) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Thrill Of The Chase](https://open.spotify.com/album/2lVpgsdtPiXE01gL5mApyn) | 2:58 |
 
-Snapshot ID: `MCwwMDAwMDAwMDQ2NjlhYWFhYjRlMjdiYWRlZWUyMjUyNmU5YWIwYzg5`
+Snapshot ID: `MCwwMDAwMDAwMDcwODU1MzEwNWY5NGVhODU3MTZlN2U2OGI0YmZlZjhi`
