@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-730 songs - 1 day 14 hr 49 min - not published yet
+731 songs - 1 day 14 hr 53 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Bring Me Back](https://open.spotify.com/track/0pzGsgrMvEtHZW6XzpY6Cs) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [Claire Ridgely](https://open.spotify.com/artist/0OE65qjIKHqSyU7YWpOQrv) | [Bring Me Back](https://open.spotify.com/album/5sIfNTG9Yp5bzYPcWxgEWo) | 3:39 | 2022-09-21 | 2022-10-31 |
 | [Broken](https://open.spotify.com/track/4XekqmR99y37dm56E49sfb) | [Fotiz Liberis](https://open.spotify.com/artist/7I0sQFPGijT9YIl0UFVZfI) | [Broken](https://open.spotify.com/album/2cR4jpycCd3GKkzQQ9OSFy) | 3:30 | 2022-07-14 | 2022-08-02 |
 | [Broken Glass](https://open.spotify.com/track/2PnQicmxjD9DGm790aLqNp) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Merseh](https://open.spotify.com/artist/4taljiOosjIdeX91ScbQj2) | [Broken Glass](https://open.spotify.com/album/5mETU0u6GjGpVdBWQhSwc7) | 3:24 | 2022-09-21 | 2022-10-31 |
+| [Brokenhearted](https://open.spotify.com/track/4urcG6Nfubqsuqy3juMjBi) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:47 | 2023-08-26 |  |
 | [Bum Bum](https://open.spotify.com/track/6s68X8CfWBSjqrmLCj8BhD) | [Bodybangers](https://open.spotify.com/artist/7koJQAjVzXoUpH6pXrihXA), [Alex Parker](https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX), [Alis Shuka](https://open.spotify.com/artist/7DGb3jb4ac27QqsGIbRTBK) | [Bum Bum](https://open.spotify.com/album/4CPd5YDMgd3WWDR8QnaR75) | 2:12 | 2022-12-30 | 2023-05-11 |
 | [By My Side \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [By My Side \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y) | 2:45 | 2022-12-30 | 2023-03-30 |
 | [by now.](https://open.spotify.com/track/1vwfNbiJGxrVOtvwM5tyOT) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [parris mitchell](https://open.spotify.com/album/2AUh8VGQuONcMLyWxUXxN4) | 3:11 | 2022-06-19 | 2022-07-03 |
@@ -488,7 +489,7 @@
 | [Pity Party](https://open.spotify.com/track/3hmjSgK0gSytIf3sbCFShk) | [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT) | [Pity Party](https://open.spotify.com/album/2yMHiLYBnrMsdUCUL3bFkU) | 3:10 | 2022-10-06 |  |
 | [plz don't waste my youth](https://open.spotify.com/track/3acJw53672cWOK1kZSLM7X) | [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [plz don't waste my youth](https://open.spotify.com/album/3VpkorL453Wksq34OWy5Rp) | 3:03 | 2022-07-14 | 2022-08-02 |
 | [Poison \- Club Mix](https://open.spotify.com/track/6z1p5JMwxh595u945CfsTC) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Jaime Deraz](https://open.spotify.com/artist/4J7ascv32yT6yE75KRCktv) | [Poison](https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n) | 3:21 | 2023-07-27 | 2023-08-06 |
-| [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2023-08-02 |  |
+| [Pourquoi](https://open.spotify.com/track/23DPhQu9w09Vc4PkAd3zv2) | [Hector VallÇe](https://open.spotify.com/artist/2KlGXtQBlBpqBOt4WnVH4M) | [Pourquoi](https://open.spotify.com/album/1OWuvV6W1ajl6Lp0Lncp4Z) | 2:58 | 2023-08-02 | 2023-08-27 |
 | [Power](https://open.spotify.com/track/0lUSd7TCG8srh6HpIAEIWL) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:07 | 2023-07-03 |  |
 | [Pretty](https://open.spotify.com/track/4c2FHHtnHFMWs5vpbGXr6i) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Pretty](https://open.spotify.com/album/4bonCpNW4OlAAPNbSklCpf) | 2:55 | 2022-12-24 | 2022-12-28 |
 | [Pretty Girl \- Cheat Codes X CADE Remix](https://open.spotify.com/track/1NDxZ7cFAo481dtYWdrUnR) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [CADE](https://open.spotify.com/artist/0CEK8AzyeD5ZUdUloB6yQV) | [Pretty Girl \(Cheat Codes X CADE Remix\)](https://open.spotify.com/album/1XYA8eDvomdYTbQBzk0jT1) | 3:13 | 2022-12-24 | 2022-12-28 |
