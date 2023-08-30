@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 13 | [JUMPIN \- Timmy Trumpet Remix](https://open.spotify.com/track/527d6VKNmBHr22HhprrEm2) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [JUMPIN \(Timmy Trumpet Remix\)](https://open.spotify.com/album/5N10HsZvBZFjzMMJvNp5Gv) | 2:44 |
 | 14 | [Paper Moon](https://open.spotify.com/track/039YOD9BWNzeuCjwhVfelY) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [ARE WE DREAMING](https://open.spotify.com/artist/2MJKhrFApwgCRUyA2zTcNa) | [Paper Moon](https://open.spotify.com/album/0LeTmym7v1KcCeE3txG0RV) | 3:45 |
 | 15 | [Trains](https://open.spotify.com/track/04XEuIyUkgpE1SK5iPQvai) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [All right](https://open.spotify.com/album/0bZkAni3IqL1zgNYL5Qu5i) | 4:33 |
-| 16 | [Pyar Bhail Powar Star Se](https://open.spotify.com/track/34f60H6B2xJ6pxvm0mkbLl) | [Rishu Raj](https://open.spotify.com/artist/5DLXTmIDsMEwSlsLey8940), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Pyar Bhail Powar Star Se](https://open.spotify.com/album/57xkIC6ntWTzLOvPcA0CyJ) | 1:27 |
+| 16 | [Saawan Aa Gaya](https://open.spotify.com/track/3DfWvj4uyO49r6jT65q4zK) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8), [Samay](https://open.spotify.com/artist/6TOSyTilnA2kieWziVH8Bl) | [Saawan Aa Gaya](https://open.spotify.com/album/6fumgvojJALJyVofOgwG8D) | 3:42 |
 | 17 | [Comet Esperanza](https://open.spotify.com/track/4geXcuLy0KJhA94KA1Ccip) | [Meteor Sightseeing](https://open.spotify.com/artist/3WsGXqwXeqbZcjVKzlXOpT), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Comet Esperanza](https://open.spotify.com/album/1Mq5ubTnIAq5t6N5gKSPqn) | 2:50 |
 | 18 | [Rewind](https://open.spotify.com/track/4r0sQPSwBAbOIf1tbFWvJY) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Rewind](https://open.spotify.com/album/2xhndAPxkWX9oLEZz2fhCd) | 3:57 |
 | 19 | [Aș vrea să mă las de tine](https://open.spotify.com/track/4NG9Mj3K4XBlpzM8NUNhUp) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Aș vrea să mă las de tine](https://open.spotify.com/album/04u40lYCzkwH476JbhVnQI) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 59 | [Over You](https://open.spotify.com/track/1ApCl3P5nxFqUnY6iu5sxV) | [Scapegoat Sunday](https://open.spotify.com/artist/6F6g07Qr9ZVG6d2eRyg71P), [Televisor](https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC) | [Over You](https://open.spotify.com/album/62zjBuBbz2fSDefd7LcsyE) | 2:50 |
 | 60 | [If I Found You](https://open.spotify.com/track/7uYMnw5A8wemg2M0Y5oHVh) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [If I Found You](https://open.spotify.com/album/6NvA0Fn4tb4VKkcEyPJ4Mw) | 3:36 |
 
-Snapshot ID: `MjgyMTUwMDAsMDAwMDAwMDBkMzFhZWJlYzJlMzg2YTg1OTU1NjRlNTNjMTY2ZjdlMg==`
+Snapshot ID: `MjgyMTUwMDAsMDAwMDAwMDAxYTVjMGRhNWRkZTFjZjY2MDYwMjA0NDk0YjgzNWZhOA==`
