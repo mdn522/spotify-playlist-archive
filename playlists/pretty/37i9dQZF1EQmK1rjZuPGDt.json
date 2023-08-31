@@ -6,7 +6,7 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTY5MzI4ODgwMCwwMDAwMDAwMDFjZDI5YTUyNzMxYTNmYzBhMGNmNTYzMjRlNTY5YjZk",
+    "snapshot_id": "MTY5MzM3NTIwMCwwMDAwMDAwMDAzOTk0ZWEwZDg3MzM2YWZiMjU1ZGQ0MTkwZGFlNTNi",
     "tracks": [
         {
             "added_at": null,
@@ -27,6 +27,26 @@
             "duration_ms": 179774,
             "name": "Tabú",
             "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Low Key (feat. Tyga)",
+                "url": "https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH"
+            },
+            "artists": [
+                {
+                    "name": "Ally Brooke",
+                    "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+                },
+                {
+                    "name": "Tyga",
+                    "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+                }
+            ],
+            "duration_ms": 201385,
+            "name": "Low Key (feat. Tyga)",
+            "url": "https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn"
         },
         {
             "added_at": null,
@@ -55,150 +75,338 @@
         {
             "added_at": null,
             "album": {
-                "name": "Energía",
-                "url": "https://open.spotify.com/album/4cGc9Eeb3Gjff2Aq5ILLEf"
+                "name": "Entre Mi Vida y la Tuya",
+                "url": "https://open.spotify.com/album/27dGt4dTXCcuoe3WkmjE2T"
             },
             "artists": [
+                {
+                    "name": "Fonseca",
+                    "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+                }
+            ],
+            "duration_ms": 176195,
+            "name": "Entre Mi Vida y la Tuya",
+            "url": "https://open.spotify.com/track/5zGUkWPODGQzPR0DooeRO2"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "3MEN2 KBRN",
+                "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+            },
+            "artists": [
+                {
+                    "name": "Eladio Carrion",
+                    "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+                },
+                {
+                    "name": "Fivio Foreign",
+                    "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+                }
+            ],
+            "duration_ms": 192345,
+            "name": "M3",
+            "url": "https://open.spotify.com/track/4WDRKKpJiEZ6DK6FFM3pkZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "DATA",
+                "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+            },
+            "artists": [
+                {
+                    "name": "Tainy",
+                    "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+                },
+                {
+                    "name": "Mora",
+                    "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+                },
+                {
+                    "name": "Zion",
+                    "url": "https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu"
+                }
+            ],
+            "duration_ms": 118857,
+            "name": "BUENOS AIRES",
+            "url": "https://open.spotify.com/track/1VCMkNBJtt1obiqIGRvla5"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "LA VIDA ES UNA",
+                "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+            },
+            "artists": [
+                {
+                    "name": "Myke Towers",
+                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+                }
+            ],
+            "duration_ms": 167175,
+            "name": "AGUARDIENTE",
+            "url": "https://open.spotify.com/track/3Z0l8qwMuC376pcutLVsY8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Quien Contra Mi 2",
+                "url": "https://open.spotify.com/album/1UqfVKRwKsOqyxIbgA4iAy"
+            },
+            "artists": [
+                {
+                    "name": "Yandel",
+                    "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+                },
+                {
+                    "name": "Anuel AA",
+                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                }
+            ],
+            "duration_ms": 214919,
+            "name": "Por Mi Reggae Muero 2020",
+            "url": "https://open.spotify.com/track/09yuQ2v1mHGWZVrpQB1Oj4"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "FINAL (Vol.1)",
+                "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
+            },
+            "artists": [
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                },
+                {
+                    "name": "Wisin",
+                    "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+                }
+            ],
+            "duration_ms": 199693,
+            "name": "DUELE EL CORAZON",
+            "url": "https://open.spotify.com/track/5adqS3stLaSPAEOszOnpXG"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "1 of 1",
+                "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+            },
+            "artists": [
+                {
+                    "name": "Sech",
+                    "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+                }
+            ],
+            "duration_ms": 184254,
+            "name": "Relación",
+            "url": "https://open.spotify.com/track/3ZG8N7aWw2meb6UrI5ZmnZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
+            },
+            "artists": [
+                {
+                    "name": "Tainy",
+                    "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+                },
                 {
                     "name": "J Balvin",
                     "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
                 }
             ],
-            "duration_ms": 171093,
-            "name": "Ginza",
-            "url": "https://open.spotify.com/track/2C2TGgFzrTRIOdQS1vUN5h"
+            "duration_ms": 159665,
+            "name": "Agua (with J Balvin)",
+            "url": "https://open.spotify.com/track/7CtbxAGq2P0jtYh6SH9DMR"
         },
         {
             "added_at": null,
             "album": {
-                "name": "La Tierra del Olvido",
-                "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
+                "name": "Cuerpecito",
+                "url": "https://open.spotify.com/album/10C7yBcN3lezb79Dcznwad"
             },
             "artists": [
                 {
-                    "name": "Carlos Vives",
-                    "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+                    "name": "Jhayco",
+                    "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
                 }
             ],
-            "duration_ms": 265800,
-            "name": "La Tierra del Olvido",
-            "url": "https://open.spotify.com/track/1TPZ028i7BWWS5xW4UN9ss"
+            "duration_ms": 195333,
+            "name": "Cuerpecito",
+            "url": "https://open.spotify.com/track/79euszUrA1kga1kK5PRmDo"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Emmanuel",
-                "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+                "name": "3MEN2 KBRN",
+                "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+            },
+            "artists": [
+                {
+                    "name": "Eladio Carrion",
+                    "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+                }
+            ],
+            "duration_ms": 155750,
+            "name": "¿Qué Carajos Quieres Tú Ahora?",
+            "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Lost and Found",
+                "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
+            },
+            "artists": [
+                {
+                    "name": "Buena Vista Social Club",
+                    "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+                },
+                {
+                    "name": "Jesús Ramos",
+                    "url": "https://open.spotify.com/artist/4LBYT2HzUast9xZoiAc7hi"
+                }
+            ],
+            "duration_ms": 261144,
+            "name": "Guajira en F (feat. Jesús Ramos)",
+            "url": "https://open.spotify.com/track/14AzRctwIdAs8xTZkfcpko"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Las Leyendas Nunca Mueren",
+                "url": "https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA"
             },
             "artists": [
                 {
                     "name": "Anuel AA",
                     "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                }
+            ],
+            "duration_ms": 236914,
+            "name": "Rick Flair",
+            "url": "https://open.spotify.com/track/2PkRgnDUP0ED3xHjCNMJk4"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "A Band And Their Music: Campeones",
+                "url": "https://open.spotify.com/album/4qKhAuom2JYxGkVw8fzFbp"
+            },
+            "artists": [
+                {
+                    "name": "Fania All Stars",
+                    "url": "https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u"
                 },
                 {
-                    "name": "Tego Calderón",
-                    "url": "https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP"
-                }
-            ],
-            "duration_ms": 231745,
-            "name": "Jangueo",
-            "url": "https://open.spotify.com/track/7KKh0ujp8agIiCrkiJhf81"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Don Don",
-                "url": "https://open.spotify.com/album/5xBO97P4jYEn69VzV06503"
-            },
-            "artists": [
-                {
-                    "name": "Daddy Yankee",
-                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+                    "name": "Ismael Miranda",
+                    "url": "https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq"
                 },
                 {
-                    "name": "Anuel AA",
-                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                    "name": "Santos Colón",
+                    "url": "https://open.spotify.com/artist/3RTLdhg8OTJebOdXZ1oQsz"
                 },
                 {
-                    "name": "Kendo Kaponi",
-                    "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
-                }
-            ],
-            "duration_ms": 275893,
-            "name": "Don Don",
-            "url": "https://open.spotify.com/track/3kml9ZdpT7UYk1ugkjqOzt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Un Canto Caribeño",
-                "url": "https://open.spotify.com/album/6F9yJwO5FdMarbsSlZeQsC"
-            },
-            "artists": [
-                {
-                    "name": "Mauricio & PalodeAgua",
-                    "url": "https://open.spotify.com/artist/3odWGV3m6MfdawwEXIyyhr"
-                }
-            ],
-            "duration_ms": 252040,
-            "name": "Niña",
-            "url": "https://open.spotify.com/track/6hHxqj04s5BbpoNGz25GUm"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Love?",
-                "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
-            },
-            "artists": [
-                {
-                    "name": "Jennifer Lopez",
-                    "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                    "name": "Johnny Pacheco",
+                    "url": "https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o"
                 },
                 {
-                    "name": "Pitbull",
-                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-                }
-            ],
-            "duration_ms": 284866,
-            "name": "On The Floor",
-            "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Todo Lo Que Quieres Es Bailar (feat. Descemer Bueno)",
-                "url": "https://open.spotify.com/album/0Btk5K2SqvIlOufbD1wk8k"
-            },
-            "artists": [
-                {
-                    "name": "Jorge Villamizar",
-                    "url": "https://open.spotify.com/artist/3zPWcnruZBNnrd22uS8UBy"
-                }
-            ],
-            "duration_ms": 233016,
-            "name": "Todo Lo Que Quieres Es Bailar (feat. Descemer Bueno)",
-            "url": "https://open.spotify.com/track/5mwkN6uECjhgmIS19ctXO1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The 'Brillante' Best",
-                "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
-            },
-            "artists": [
-                {
-                    "name": "Celia Cruz",
-                    "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+                    "name": "Adalberto Santiago",
+                    "url": "https://open.spotify.com/artist/6tZxUxheS7w3953cQFOXkd"
                 },
                 {
                     "name": "Willie Colón",
                     "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+                },
+                {
+                    "name": "Héctor Lavoe",
+                    "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+                },
+                {
+                    "name": "José Feliciano",
+                    "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+                },
+                {
+                    "name": "Pete \"El Conde\" Rodriguez",
+                    "url": "https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa"
                 }
             ],
-            "duration_ms": 259000,
-            "name": "Usted Abusó",
-            "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
+            "duration_ms": 331720,
+            "name": "Quítate Tú - Live",
+            "url": "https://open.spotify.com/track/1rijHA5veEZDV5CrGLpex6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Sweet & Sour",
+                "url": "https://open.spotify.com/album/006vB71xTBRqzQREjfYREf"
+            },
+            "artists": [
+                {
+                    "name": "Myke Towers",
+                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+                }
+            ],
+            "duration_ms": 163360,
+            "name": "Los Angeles",
+            "url": "https://open.spotify.com/track/4UZCqJJ0m4BpA9HCLgws5o"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "PORFA Remix ( Feat. Maluma, Nicky Jam, Sech)",
+                "url": "https://open.spotify.com/album/5cLb4vSQukBpYmox3UKa4M"
+            },
+            "artists": [
+                {
+                    "name": "Feid",
+                    "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+                },
+                {
+                    "name": "J Balvin",
+                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                },
+                {
+                    "name": "Maluma",
+                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                },
+                {
+                    "name": "Nicky Jam",
+                    "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+                },
+                {
+                    "name": "Sech",
+                    "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+                },
+                {
+                    "name": "Justin Quiles",
+                    "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+                }
+            ],
+            "duration_ms": 333800,
+            "name": "PORFA Remix ( Feat. Maluma, Nicky Jam, Sech) - Remix",
+            "url": "https://open.spotify.com/track/7lUdbnz7wsv3C9zzf4WHl9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "UFF!",
+                "url": "https://open.spotify.com/album/4M30pH4JxT439p0kxXSqqO"
+            },
+            "artists": [
+                {
+                    "name": "E'FEMME",
+                    "url": "https://open.spotify.com/artist/2Ok9pTjpqc5GjSrOOtmw3i"
+                }
+            ],
+            "duration_ms": 183711,
+            "name": "UFF!",
+            "url": "https://open.spotify.com/track/5Gl0CrqjaIW6MmaerZxjF1"
         },
         {
             "added_at": null,
@@ -243,182 +451,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Dejame Entrar",
-                "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
+                "name": "Romance",
+                "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
             },
             "artists": [
                 {
-                    "name": "Carlos Vives",
-                    "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+                    "name": "Luis Miguel",
+                    "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
                 }
             ],
-            "duration_ms": 218440,
-            "name": "Carito",
-            "url": "https://open.spotify.com/track/5czkBkWogUvTf2jleGyHaQ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "UFF!",
-                "url": "https://open.spotify.com/album/4M30pH4JxT439p0kxXSqqO"
-            },
-            "artists": [
-                {
-                    "name": "E'FEMME",
-                    "url": "https://open.spotify.com/artist/2Ok9pTjpqc5GjSrOOtmw3i"
-                }
-            ],
-            "duration_ms": 183711,
-            "name": "UFF!",
-            "url": "https://open.spotify.com/track/5Gl0CrqjaIW6MmaerZxjF1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Michael Myers",
-                "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
-            },
-            "artists": [
-                {
-                    "name": "Myke Towers",
-                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-                }
-            ],
-            "duration_ms": 251533,
-            "name": "Michael Myers",
-            "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Lost and Found",
-                "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
-            },
-            "artists": [
-                {
-                    "name": "Buena Vista Social Club",
-                    "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-                },
-                {
-                    "name": "Jesús Ramos",
-                    "url": "https://open.spotify.com/artist/4LBYT2HzUast9xZoiAc7hi"
-                }
-            ],
-            "duration_ms": 261144,
-            "name": "Guajira en F (feat. Jesús Ramos)",
-            "url": "https://open.spotify.com/track/14AzRctwIdAs8xTZkfcpko"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Emmanuel",
-                "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
-            },
-            "artists": [
-                {
-                    "name": "Anuel AA",
-                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                }
-            ],
-            "duration_ms": 257017,
-            "name": "Estrés Postraumático",
-            "url": "https://open.spotify.com/track/3QNh1pSglpiumBHtU8XnQe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Falta Amor",
-                "url": "https://open.spotify.com/album/0umE2yr7H5jo91x7xhjoXY"
-            },
-            "artists": [
-                {
-                    "name": "Maná",
-                    "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-                }
-            ],
-            "duration_ms": 252960,
-            "name": "Perdido en Un Barco",
-            "url": "https://open.spotify.com/track/5bNWrwkz74Z6H78Zhh9ISl"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "La Tierra del Olvido",
-                "url": "https://open.spotify.com/album/5laSrhYFBn1OxVZKCK2B9Y"
-            },
-            "artists": [
-                {
-                    "name": "Carlos Vives",
-                    "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-                }
-            ],
-            "duration_ms": 188720,
-            "name": "Pa' Mayte",
-            "url": "https://open.spotify.com/track/00gAVWgRJy92PCAHFzVu83"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "PAPI JUANCHO",
-                "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-            },
-            "artists": [
-                {
-                    "name": "Maluma",
-                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                }
-            ],
-            "duration_ms": 199112,
-            "name": "Hawái",
-            "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Visualízate",
-                "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-            },
-            "artists": [
-                {
-                    "name": "Gente De Zona",
-                    "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-                }
-            ],
-            "duration_ms": 209280,
-            "name": "Algo Contigo",
-            "url": "https://open.spotify.com/track/5l390fUPNwGSi6ECobpc20"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "LA VIDA ES UNA",
-                "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-            },
-            "artists": [
-                {
-                    "name": "Myke Towers",
-                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-                }
-            ],
-            "duration_ms": 202306,
-            "name": "EL CALENTÓN",
-            "url": "https://open.spotify.com/track/4qdaqybEKlRHZnI6RoDFmt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ENOC",
-                "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
-            },
-            "artists": [
-                {
-                    "name": "Ozuna",
-                    "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-                }
-            ],
-            "duration_ms": 217240,
-            "name": "Caramelo",
-            "url": "https://open.spotify.com/track/5Jm4w8jmPEBTLjI9vH4fXo"
+            "duration_ms": 199266,
+            "name": "La Puerta",
+            "url": "https://open.spotify.com/track/5dlNzEPBCM7HgmhfaK0xph"
         },
         {
             "added_at": null,
@@ -439,114 +483,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Dejame Entrar",
-                "url": "https://open.spotify.com/album/7qRqrZOCvzZLsNlOawHURC"
+                "name": "VIDA",
+                "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
             },
             "artists": [
                 {
-                    "name": "Carlos Vives",
-                    "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-                }
-            ],
-            "duration_ms": 240760,
-            "name": "Dejame Entrar",
-            "url": "https://open.spotify.com/track/2jNqxXMkVVpEvjvvwvUDDD"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "LLNM2",
-                "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
-            },
-            "artists": [
-                {
-                    "name": "Anuel AA",
-                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                    "name": "Luis Fonsi",
+                    "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
                 },
                 {
-                    "name": "Kodak Black",
-                    "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
-                },
-                {
-                    "name": "Ñengo Flow",
-                    "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+                    "name": "Daddy Yankee",
+                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
                 }
             ],
-            "duration_ms": 276835,
-            "name": "Sufro",
-            "url": "https://open.spotify.com/track/5KaOhT7vF4XdVtJ4eY3QF4"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Lost and Found",
-                "url": "https://open.spotify.com/album/3y7CeywdF5PUHpDJriC9tC"
-            },
-            "artists": [
-                {
-                    "name": "Buena Vista Social Club",
-                    "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-                },
-                {
-                    "name": "Omara Portuondo",
-                    "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-                }
-            ],
-            "duration_ms": 197888,
-            "name": "Tiene Sabor (feat. Omara Portuondo)",
-            "url": "https://open.spotify.com/track/659r0xM5pXvb5sUQG3Yl28"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Visualízate",
-                "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
-            },
-            "artists": [
-                {
-                    "name": "Gente De Zona",
-                    "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-                },
-                {
-                    "name": "Marc Anthony",
-                    "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-                }
-            ],
-            "duration_ms": 203160,
-            "name": "La Gozadera (feat. Marc Anthony)",
-            "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "3MEN2 KBRN",
-                "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-            },
-            "artists": [
-                {
-                    "name": "Eladio Carrion",
-                    "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-                }
-            ],
-            "duration_ms": 155750,
-            "name": "¿Qué Carajos Quieres Tú Ahora?",
-            "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Don Juan",
-                "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-            },
-            "artists": [
-                {
-                    "name": "Maluma",
-                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                }
-            ],
-            "duration_ms": 145160,
-            "name": "Porsche",
-            "url": "https://open.spotify.com/track/1HfgxilGdoMGuSr85ID0mX"
+            "duration_ms": 229360,
+            "name": "Despacito",
+            "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
         },
         {
             "added_at": null,
@@ -558,291 +510,287 @@
                 {
                     "name": "Anuel AA",
                     "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                }
-            ],
-            "duration_ms": 259250,
-            "name": "Narcos",
-            "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "LA VIDA ES UNA",
-                "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-            },
-            "artists": [
-                {
-                    "name": "Myke Towers",
-                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-                }
-            ],
-            "duration_ms": 152301,
-            "name": "NO SALGO",
-            "url": "https://open.spotify.com/track/540VOu1aQ9TqENgWAC82Rz"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "El Sonido de Venezuela",
-                "url": "https://open.spotify.com/album/660hUQkYXJClhswIpsVo8C"
-            },
-            "artists": [
-                {
-                    "name": "Guaco",
-                    "url": "https://open.spotify.com/artist/5v3TYN6Mmi5vxV2uSOfXot"
-                }
-            ],
-            "duration_ms": 230556,
-            "name": "Pídeme",
-            "url": "https://open.spotify.com/track/6VfdXxzdvhRU7SUJkkerac"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Relación (Remix)",
-                "url": "https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX"
-            },
-            "artists": [
-                {
-                    "name": "Sech",
-                    "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
                 },
                 {
-                    "name": "Daddy Yankee",
-                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+                    "name": "Kendo Kaponi",
+                    "url": "https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS"
                 },
                 {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                },
-                {
-                    "name": "ROSALÍA",
-                    "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-                },
-                {
-                    "name": "Farruko",
-                    "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-                }
-            ],
-            "duration_ms": 247308,
-            "name": "Relación - Remix",
-            "url": "https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tuyo (Narcos Theme) [A Netflix Original Series Soundtrack]",
-                "url": "https://open.spotify.com/album/3GelLDk6XCrXCT4ok0jjGU"
-            },
-            "artists": [
-                {
-                    "name": "Rodrigo Amarante",
-                    "url": "https://open.spotify.com/artist/0UOrkpzPED604dKzxgfJqg"
-                }
-            ],
-            "duration_ms": 89293,
-            "name": "Tuyo (Narcos Theme) - A Netflix Original Series Soundtrack",
-            "url": "https://open.spotify.com/track/6Dc2tCivms1s2X9myWe4ni"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "PAPI JUANCHO",
-                "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv"
-            },
-            "artists": [
-                {
-                    "name": "Maluma",
-                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                    "name": "Yandel",
+                    "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
                 },
                 {
                     "name": "Ñengo Flow",
                     "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-                },
-                {
-                    "name": "Jory Boy",
-                    "url": "https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT"
                 }
             ],
-            "duration_ms": 237655,
-            "name": "Mai Mai (feat. Ñengo Flow & Jory Boy)",
-            "url": "https://open.spotify.com/track/3Mje1Tsr45PnoS42Tsddo7"
+            "duration_ms": 414819,
+            "name": "Antes y Después",
+            "url": "https://open.spotify.com/track/0YbXuCsQwrsh5x0hgnED6z"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Sauce Boyz 2",
-                "url": "https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI"
+                "name": "FINAL (Vol.1)",
+                "url": "https://open.spotify.com/album/61a4XyIj98CGrUnKy8Hu4Z"
             },
             "artists": [
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                },
+                {
+                    "name": "Descemer Bueno",
+                    "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+                },
+                {
+                    "name": "Zion & Lennox",
+                    "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+                }
+            ],
+            "duration_ms": 207680,
+            "name": "SUBEME LA RADIO",
+            "url": "https://open.spotify.com/track/0mnAmQX1pciMncT2qFCNmK"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Glizzy Walk 2.5",
+                "url": "https://open.spotify.com/album/65ebh116sDPSsxm2eXExyK"
+            },
+            "artists": [
+                {
+                    "name": "YOVNGCHIMI",
+                    "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+                },
                 {
                     "name": "Eladio Carrion",
                     "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-                }
-            ],
-            "duration_ms": 140224,
-            "name": "Quienes Son Ustedes",
-            "url": "https://open.spotify.com/track/4qdJeQlPfs2sKSHWUVchpi"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fruko el Grande",
-                "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
-            },
-            "artists": [
-                {
-                    "name": "Fruko Y Sus Tesos",
-                    "url": "https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob"
                 },
                 {
-                    "name": "Wilson \"Saoko\" Manyoma",
-                    "url": "https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0"
+                    "name": "Hydro",
+                    "url": "https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg"
                 }
             ],
-            "duration_ms": 294000,
-            "name": "El Preso",
-            "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+            "duration_ms": 224248,
+            "name": "Glizzy Walk 2.5",
+            "url": "https://open.spotify.com/track/3O6dtQDB3MTYFPxlXn7zww"
         },
         {
             "added_at": null,
             "album": {
-                "name": "LA VIDA ES UNA",
-                "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+                "name": "DATA",
+                "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
             },
             "artists": [
                 {
-                    "name": "Myke Towers",
-                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-                }
-            ],
-            "duration_ms": 167644,
-            "name": "CENIZAS QUEDAN",
-            "url": "https://open.spotify.com/track/3Rdqhtt2srhdV5n0hPwveI"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Shaky Shaky",
-                "url": "https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn"
-            },
-            "artists": [
-                {
-                    "name": "Daddy Yankee",
-                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                }
-            ],
-            "duration_ms": 234320,
-            "name": "Shaky Shaky",
-            "url": "https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Aries",
-                "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-            },
-            "artists": [
-                {
-                    "name": "Luis Miguel",
-                    "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-                }
-            ],
-            "duration_ms": 301933,
-            "name": "Luz Verde",
-            "url": "https://open.spotify.com/track/0FpYqjOx9Q4khUauXDrVtj"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Don Juan",
-                "url": "https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA"
-            },
-            "artists": [
-                {
-                    "name": "Maluma",
-                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-                }
-            ],
-            "duration_ms": 164893,
-            "name": "Bikini",
-            "url": "https://open.spotify.com/track/0eoPf8ZDGF9lOaUFruwEkJ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Primera Cita",
-                "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
-            },
-            "artists": [
-                {
-                    "name": "CNCO",
-                    "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-                }
-            ],
-            "duration_ms": 222560,
-            "name": "Reggaetón Lento (Bailemos)",
-            "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Colores",
-                "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-            },
-            "artists": [
-                {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                    "name": "Tainy",
+                    "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
                 },
                 {
-                    "name": "Sky Rompiendo",
-                    "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+                    "name": "Arcángel",
+                    "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
                 }
             ],
-            "duration_ms": 142546,
-            "name": "Verde",
-            "url": "https://open.spotify.com/track/3HTbI3yUJQw3fP0Po8qLcD"
+            "duration_ms": 201642,
+            "name": "me jodi...",
+            "url": "https://open.spotify.com/track/6xntXCix5SxiEtv9zH7pXF"
         },
         {
             "added_at": null,
             "album": {
-                "name": "The King Is Back (#LatinIBIZAte)",
-                "url": "https://open.spotify.com/album/19hfZem3HWzQsPEUlQSKdC"
+                "name": "+Conexión",
+                "url": "https://open.spotify.com/album/6okmlu5xWIKQiRWukN8YYp"
             },
             "artists": [
                 {
-                    "name": "Juan Magán",
-                    "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-                },
-                {
-                    "name": "Gente De Zona",
-                    "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+                    "name": "Fonseca",
+                    "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
                 }
             ],
-            "duration_ms": 218880,
-            "name": "He Llorado (Como Un Niño)",
-            "url": "https://open.spotify.com/track/72iOihHEQp0LA0hZcjfLaA"
+            "duration_ms": 250909,
+            "name": "Vine a Buscarte",
+            "url": "https://open.spotify.com/track/5CMPODRZtVlgQDy4r0HL9r"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Follow",
-                "url": "https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi"
+                "name": "LLNM2",
+                "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
             },
             "artists": [
-                {
-                    "name": "KAROL G",
-                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-                },
                 {
                     "name": "Anuel AA",
                     "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                 }
             ],
-            "duration_ms": 203093,
-            "name": "Follow",
-            "url": "https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw"
+            "duration_ms": 192000,
+            "name": "Ascensor",
+            "url": "https://open.spotify.com/track/0C4UEONd2UXucUZM1r821G"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Easy Money Baby",
+                "url": "https://open.spotify.com/album/3dM5WCvdXdNqLE14d16GmJ"
+            },
+            "artists": [
+                {
+                    "name": "Myke Towers",
+                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+                }
+            ],
+            "duration_ms": 141550,
+            "name": "LVCC",
+            "url": "https://open.spotify.com/track/6Vz73JS65SbTUr046H1Hmr"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "F.A.M.E.",
+                "url": "https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx"
+            },
+            "artists": [
+                {
+                    "name": "Maluma",
+                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                }
+            ],
+            "duration_ms": 219600,
+            "name": "El Préstamo",
+            "url": "https://open.spotify.com/track/2XVilv6s9GETnw9PG4T9Mz"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Fénix",
+                "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+            },
+            "artists": [
+                {
+                    "name": "Nicky Jam",
+                    "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+                }
+            ],
+            "duration_ms": 219506,
+            "name": "El Amante",
+            "url": "https://open.spotify.com/track/3umS4y3uQDkqekNjVpiRUs"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Aura",
+                "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+            },
+            "artists": [
+                {
+                    "name": "Ozuna",
+                    "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+                }
+            ],
+            "duration_ms": 218386,
+            "name": "Unica",
+            "url": "https://open.spotify.com/track/33b2wX9d0kxqxhi7lcsC1A"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "DATA",
+                "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+            },
+            "artists": [
+                {
+                    "name": "Tainy",
+                    "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+                },
+                {
+                    "name": "Sech",
+                    "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+                },
+                {
+                    "name": "E.VAX",
+                    "url": "https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr"
+                }
+            ],
+            "duration_ms": 196701,
+            "name": "11 Y ONCE",
+            "url": "https://open.spotify.com/track/1YUTTfAThKaxEYP9Zfv21V"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Bella (Remix)",
+                "url": "https://open.spotify.com/album/4cEUisPsjbps3zDPV3pcnm"
+            },
+            "artists": [
+                {
+                    "name": "Wolfine",
+                    "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+                },
+                {
+                    "name": "Maluma",
+                    "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+                }
+            ],
+            "duration_ms": 218360,
+            "name": "Bella - Remix",
+            "url": "https://open.spotify.com/track/78nLeZtgvDeKygduWsgeUk"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Love?",
+                "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                },
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                }
+            ],
+            "duration_ms": 284866,
+            "name": "On The Floor",
+            "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Real Hasta la Muerte",
+                "url": "https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4"
+            },
+            "artists": [
+                {
+                    "name": "Anuel AA",
+                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                }
+            ],
+            "duration_ms": 220500,
+            "name": "Modo de Avión",
+            "url": "https://open.spotify.com/track/2sR8ZcBWTUVxLVbbqMPmLD"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "De Pies A Cabeza",
+                "url": "https://open.spotify.com/album/6efrJuQzniYmb1SAuaKjTO"
+            },
+            "artists": [
+                {
+                    "name": "Maná",
+                    "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+                },
+                {
+                    "name": "Nicky Jam",
+                    "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+                }
+            ],
+            "duration_ms": 250466,
+            "name": "De Pies a Cabeza",
+            "url": "https://open.spotify.com/track/2CkHE54EH44Qj945ynQRw7"
         },
         {
             "added_at": null,
@@ -856,93 +804,201 @@
                     "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
                 }
             ],
-            "duration_ms": 171663,
-            "name": "JUGADOR FRANQUICIA",
-            "url": "https://open.spotify.com/track/4kNpoVStauSMwm0mF0qShU"
+            "duration_ms": 105022,
+            "name": "ALTO RIESGO",
+            "url": "https://open.spotify.com/track/0Yh503ljN7vBHj2hi67TuI"
         },
         {
             "added_at": null,
             "album": {
-                "name": "3MEN2 KBRN",
-                "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+                "name": "11:11",
+                "url": "https://open.spotify.com/album/3YIUNL7qFE8NP3X3zaYSND"
             },
             "artists": [
-                {
-                    "name": "Eladio Carrion",
-                    "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-                },
-                {
-                    "name": "Quavo",
-                    "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
-                },
-                {
-                    "name": "Rich The Kid",
-                    "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-                },
-                {
-                    "name": "Ñengo Flow",
-                    "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-                }
-            ],
-            "duration_ms": 217954,
-            "name": "Peso a Peso",
-            "url": "https://open.spotify.com/track/1iyvRYYAeuJhrsxTsQW9fh"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bachata Rosa",
-                "url": "https://open.spotify.com/album/51y3USTITdNJmipX4kQEDS"
-            },
-            "artists": [
-                {
-                    "name": "Juan Luis Guerra 4.40",
-                    "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-                }
-            ],
-            "duration_ms": 245733,
-            "name": "Como Abeja al Panal",
-            "url": "https://open.spotify.com/track/1Ufko1bwIbsNhGvNDDKFTG"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "De Menor a Mayor",
-                "url": "https://open.spotify.com/album/2e2SQ7KNvfX4B5MinwH4Cs"
-            },
-            "artists": [
-                {
-                    "name": "Gente De Zona",
-                    "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-                },
-                {
-                    "name": "Maffio",
-                    "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-                }
-            ],
-            "duration_ms": 158773,
-            "name": "Háblame de Miami",
-            "url": "https://open.spotify.com/track/4BIKCqX1P2aMNKYem3ccTy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Ella Es Mi Fiesta (feat. Maluma) [Remix]",
-                "url": "https://open.spotify.com/album/4P7zK6is5Avakf5mhwy851"
-            },
-            "artists": [
-                {
-                    "name": "Carlos Vives",
-                    "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
-                },
                 {
                     "name": "Maluma",
                     "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
                 }
             ],
-            "duration_ms": 191160,
-            "name": "Ella Es Mi Fiesta (feat. Maluma) - Remix",
-            "url": "https://open.spotify.com/track/0GuLonchqLiGK1zzcrp2ye"
+            "duration_ms": 175733,
+            "name": "11 PM",
+            "url": "https://open.spotify.com/track/7KbF6AdprOXEEHlsq11Z6d"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "6PM EN MALLORCA",
+                "url": "https://open.spotify.com/album/0TFsABRaWVVS30lrRnD3Un"
+            },
+            "artists": [
+                {
+                    "name": "Eladio Carrion",
+                    "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+                }
+            ],
+            "duration_ms": 144583,
+            "name": "6PM EN MALLORCA",
+            "url": "https://open.spotify.com/track/24k6OwxLtnJX0UaC4j5O8W"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Maelo...El Único",
+                "url": "https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7"
+            },
+            "artists": [
+                {
+                    "name": "Ismael Rivera",
+                    "url": "https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ"
+                }
+            ],
+            "duration_ms": 339240,
+            "name": "El Nazareno",
+            "url": "https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Siembra",
+                "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+            },
+            "artists": [
+                {
+                    "name": "Willie Colón",
+                    "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+                },
+                {
+                    "name": "Rubén Blades",
+                    "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+                }
+            ],
+            "duration_ms": 401880,
+            "name": "Plástico",
+            "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "El Cielo",
+                "url": "https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f"
+            },
+            "artists": [
+                {
+                    "name": "Sky Rompiendo",
+                    "url": "https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW"
+                },
+                {
+                    "name": "Feid",
+                    "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+                },
+                {
+                    "name": "Myke Towers",
+                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+                }
+            ],
+            "duration_ms": 191320,
+            "name": "El Cielo",
+            "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "LLNM2",
+                "url": "https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf"
+            },
+            "artists": [
+                {
+                    "name": "Anuel AA",
+                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+                }
+            ],
+            "duration_ms": 176000,
+            "name": "Borracha & Loca",
+            "url": "https://open.spotify.com/track/3M2Uxu8sbTwgznw6anIxB9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Romances",
+                "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+            },
+            "artists": [
+                {
+                    "name": "Luis Miguel",
+                    "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+                }
+            ],
+            "duration_ms": 260600,
+            "name": "Noche De Ronda",
+            "url": "https://open.spotify.com/track/3uv0XgCPkTcOWGZJChstLJ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Clandestino",
+                "url": "https://open.spotify.com/album/3xoAUqjKs7Ps7wR26VAMbq"
+            },
+            "artists": [
+                {
+                    "name": "Manu Chao",
+                    "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+                }
+            ],
+            "duration_ms": 277013,
+            "name": "Mentira",
+            "url": "https://open.spotify.com/track/59hH7GJFrSd5v9FwgSZEw8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Chayanne",
+                "url": "https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff"
+            },
+            "artists": [
+                {
+                    "name": "Chayanne",
+                    "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+                }
+            ],
+            "duration_ms": 224733,
+            "name": "Fiesta En América",
+            "url": "https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Michael Myers",
+                "url": "https://open.spotify.com/album/1evEtehMxDibQZDoP2hgzJ"
+            },
+            "artists": [
+                {
+                    "name": "Myke Towers",
+                    "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+                }
+            ],
+            "duration_ms": 251533,
+            "name": "Michael Myers",
+            "url": "https://open.spotify.com/track/4R2fJxDWJ0HHjSgTmebdIt"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Intimo",
+                "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
+            },
+            "artists": [
+                {
+                    "name": "Nicky Jam",
+                    "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+                },
+                {
+                    "name": "Ozuna",
+                    "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+                }
+            ],
+            "duration_ms": 201818,
+            "name": "Te Robaré",
+            "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
         }
     ],
     "unique_name": "Latin Mix",
