@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Hold On \- Remix](https://open.spotify.com/track/4LbWtBkN82ZRhz9jqzgrb3) | [Chord Overstreet](https://open.spotify.com/artist/5D3muNJhYYunbRkh3FKgX0), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Hold On \(Remix\)](https://open.spotify.com/album/4Xy997QTkKNc5Gt5t9eKmy) | 3:08 |
 | 30 | [Don't Be so Hard on Yourself](https://open.spotify.com/track/1KtVVUM6OkpyOsbVfbMybX) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/7BEPVoBcHuTLWpcdj8FhM8) | 3:31 |
 
-Snapshot ID: `MCwwMDAwMDAwMDk4ZGZhYjVmNDAxMWYzN2IzNjVkMGIwMDkyMDllMGI4`
+Snapshot ID: `MCwwMDAwMDAwMGFiMDIzOGRhMjRiOWVkODg2MmQ5ODViNmQzZGQwOWI0`
