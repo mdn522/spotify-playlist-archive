@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-557 songs - 1 day 4 hr 57 min - not published yet
+559 songs - 1 day 5 hr 5 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [Dangerous Woman](https://open.spotify.com/track/3nef5W8jTkXrOKgCu4kmq7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:55 | 2022-05-20 | 2022-05-30 |
 | [Dark Side](https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [Dark Side](https://open.spotify.com/album/5kKeGfAjPzBuANhCfhAJ0e) | 4:16 | 2023-01-26 | 2023-03-27 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-07-14 | 2022-09-10 |
+| [Dead Souls](https://open.spotify.com/track/6HkhlDtwS3dYZGD4miVaBp) | [World Complete](https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq) | [Outatime](https://open.spotify.com/album/6IP8B02j6z6NDJv9MyQARG) | 4:32 | 2023-09-13 |  |
 | [Deep Down](https://open.spotify.com/track/1fNzrF4LItKYRmCquXrMVE) | [SUND](https://open.spotify.com/artist/5eVtjA0Sb7rPBwzQI2jWKL) | [Deep Down](https://open.spotify.com/album/4MwV8rgraZqq6ulPvUto82) | 2:46 | 2023-02-19 | 2023-04-17 |
 | [deep in the woods](https://open.spotify.com/track/0JmxPS0bVRETJa4haH0zhP) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [PANORAMA](https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ) | 3:09 | 2023-01-20 | 2023-03-21 |
 | [Deja Vu](https://open.spotify.com/track/2s4tJJozLkks92i2LfFZWi) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD) | [Deja Vu](https://open.spotify.com/album/4k6gtcTGzxdsfaHphsJEzu) | 2:14 | 2023-06-24 | 2023-08-18 |
@@ -444,6 +445,7 @@
 | [Somebody Like You](https://open.spotify.com/track/6vzRbsIULmZ10H7pG37zbJ) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic), [Frogmonster](https://open.spotify.com/artist/3MXoYYNmf8mKzCGAJJIlyp), [KZ Tandingan](https://open.spotify.com/artist/1mcqfNCReSFxun2vIWvC28) | [Somebody Like You](https://open.spotify.com/album/58wImyZqrLMQBxqe3faOMW) | 3:26 | 2023-09-10 |  |
 | [Somebody To Use](https://open.spotify.com/track/2CMGiyYO8H8GhPwS73LL13) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Somebody To Use](https://open.spotify.com/album/1uNDzwYC01Gp52Y5BeyOxo) | 2:34 | 2023-01-02 | 2023-03-24 |
 | [Sound Of Your Name](https://open.spotify.com/track/2hmvKWiy8IhJbRZkIrNr5S) | [Josh Cumbee](https://open.spotify.com/artist/5deoijipwIdBiA27rEj14E) | [Sound Of Your Name](https://open.spotify.com/album/1kSb4JvPLSdFLM3Qhjqigd) | 3:18 | 2022-05-20 | 2022-05-25 |
+| [Starfell](https://open.spotify.com/track/40wr4z6QCuUpKHVnMs9jk1) | [Albatrauss](https://open.spotify.com/artist/3BxKxWhor6dSCfMwESPJgX), [John Dunder](https://open.spotify.com/artist/0wq4tKBt3QVyajrRbt9rAv) | [Starfell](https://open.spotify.com/album/6L08bcqCXUsovERoqpHAiD) | 3:25 | 2023-09-13 |  |
 | [Stargazing \(feat\. Amelie\)](https://open.spotify.com/track/6dvjPTnrQoXfKjgxtE0wF7) | [Severo](https://open.spotify.com/artist/5HqJR4LXclbZPAwQ636j84), [Amelie](https://open.spotify.com/artist/68Spx9j3Okz0PeAjH95QPp) | [Stargazing \(feat\. Amelie\)](https://open.spotify.com/album/34XwdXUTfBMNJmgvYYYEj4) | 3:21 | 2022-05-24 | 2022-06-17 |
 | [Stay](https://open.spotify.com/track/3erC2uFqHWxHW5BZ9c5jAp) | [Bianca Ryan](https://open.spotify.com/artist/0SGZfHICh9e4oEXS8zGOXt) | [Stay](https://open.spotify.com/album/5WtO3xQP4ZD67s4NNhgkyG) | 2:49 | 2022-05-26 | 2022-06-17 |
 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 | 2023-08-14 | 2023-08-18 |
@@ -462,7 +464,7 @@
 | [Summer Of '16](https://open.spotify.com/track/5pRDnJBpfEkRGzNdFGBfPD) | [dreamr.](https://open.spotify.com/artist/3FpTHH0pkdBxBdGvbVUo6f), [Ruff](https://open.spotify.com/artist/1f3SUOqxfGvLn3MWMphkfF), [Chanel Yates](https://open.spotify.com/artist/5YABtAJlBJAzqxfIJA4nQd) | [Summer Of '16](https://open.spotify.com/album/14XWHvMPFYCybVsZIQ7F8K) | 2:48 | 2023-01-11 | 2023-02-08 |
 | [Summer Of Love](https://open.spotify.com/track/56YpW3nISMuVvM6pHkR9oU) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF) | [Summer Of Love](https://open.spotify.com/album/6RXP288ktFUg8VsitQDnqc) | 3:15 | 2023-03-26 | 2023-04-20 |
 | [Suna\-Ma](https://open.spotify.com/track/1RVyxFOcvix9UNKCCr5vDY) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Suna\-Ma](https://open.spotify.com/album/0sqwFbTMaru39Z48Vxpqmo) | 3:39 | 2022-05-20 | 2022-07-06 |
-| [Supernova](https://open.spotify.com/track/0NXXM3KlLCKL2p7adZwtPW) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Supernova](https://open.spotify.com/album/0g1o8yIHeTBXkZKmSsceUl) | 3:08 | 2023-08-17 |  |
+| [Supernova](https://open.spotify.com/track/0NXXM3KlLCKL2p7adZwtPW) | [Kosling](https://open.spotify.com/artist/1dsilrkrvxXE6I02SWfDYD), [Blackcode](https://open.spotify.com/artist/2O0GPxVfZuYNQP0V6mJ3FL), [Alessa](https://open.spotify.com/artist/5HkbMgVDW1phozbJsLvVVk) | [Supernova](https://open.spotify.com/album/0g1o8yIHeTBXkZKmSsceUl) | 3:08 | 2023-08-17 | 2023-09-14 |
 | [Sweet Harmony](https://open.spotify.com/track/14Hg8gKCCboRLw0yXpcrMV) | [Plastik Funk](https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v), [Dario Trapani](https://open.spotify.com/artist/3Hr5KIqDswsyQtOoDyJTmM), [Ivan Cappello](https://open.spotify.com/artist/7feK9L4NzDWTVvUlG6rZgR), [Sh3](https://open.spotify.com/artist/5OwncnHbQGwU9RtHWvsFvW) | [Sweet Harmony](https://open.spotify.com/album/6siJjSXj7shJrMIKY1yMzE) | 2:42 | 2023-03-26 | 2023-05-20 |
 | [Sweet Reality](https://open.spotify.com/track/4CHmWJotpQgrHQPnSsM0eN) | [Elijah Ensor](https://open.spotify.com/artist/6mheycpRKDy1yawp6FTvS3) | [Sweet Reality](https://open.spotify.com/album/5QECT0kHoPqyJ7Ey12iJEO) | 2:54 | 2022-08-13 | 2022-08-17 |
 | [Sweet Talker](https://open.spotify.com/track/4UrkPTyYTshiX5Kwfbggwm) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Night Call \(Deluxe\)](https://open.spotify.com/album/5JnUGpLYBxqEDuot5vlfSC) | 2:57 | 2023-02-07 | 2023-03-01 |
@@ -564,6 +566,6 @@
 | [Да да да \- Jarico Remix](https://open.spotify.com/track/7MAS0yiC3a4YX2gatvkEuK) | [Tanir](https://open.spotify.com/artist/2dY3koBKXO7P8fpbYBpSiF), [Tyomcha](https://open.spotify.com/artist/4qK1zEpqO0MMDXT0LKpnft), [Jarico](https://open.spotify.com/artist/6QgIeFQscbywNoTdWNZsMn) | [Да да да \(Jarico Remix\)](https://open.spotify.com/album/55GByAZo3jJq9L808UWRkn) | 3:34 | 2022-07-26 | 2022-09-22 |
 | [לא להיות לבד](https://open.spotify.com/track/16tcNezkJ5VETVDVC4m7gj) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [לא להיות לבד](https://open.spotify.com/album/0k6UX8ZPGWtQ0ilP6r6knR) | 3:00 | 2022-06-29 | 2022-08-28 |
 | [לך לישון](https://open.spotify.com/track/3fCS3m3uWUgAFm3purs15C) | [Anna Zak](https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo) | [לך לישון](https://open.spotify.com/album/6Wh0It79i26j0IWWzm3axe) | 2:38 | 2022-07-14 | 2022-07-18 |
-| [大雪](https://open.spotify.com/track/01sULFzpZ2WMafukO3st5i) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx) | [大雪](https://open.spotify.com/album/74uqowOiGRFIkMeNCKL447) | 3:20 | 2023-08-02 |  |
+| [大雪](https://open.spotify.com/track/01sULFzpZ2WMafukO3st5i) | [音阙诗听](https://open.spotify.com/artist/6JZIgN9gEgNSS8lY5pmwbx) | [大雪](https://open.spotify.com/album/74uqowOiGRFIkMeNCKL447) | 3:20 | 2023-08-02 | 2023-09-14 |
 
 \*This playlist was first scraped on 2022-05-21. Prior content cannot be recovered.
