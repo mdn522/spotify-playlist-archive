@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Beautiful Mess](https://open.spotify.com/track/5YCqzqb6yN6TsMOHb4FSVw) | [Kristian Kostov](https://open.spotify.com/artist/1JjIKP5IOuEDXQVZsbUiB2) | [Beautiful Mess](https://open.spotify.com/album/6mBJ7MjzlFINPvCs2hC5EB) | 3:00 |
 | 30 | [Everything](https://open.spotify.com/track/4S6ytq0m3Wo1kaeRKNw3xy) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki) | [Everything](https://open.spotify.com/album/7L7ZklG6lldD8OzsrmNzbn) | 3:03 |
 
-Snapshot ID: `MCwwMDAwMDAwMDZkYTZjN2E0YmJhNTdjNzI5MGM5ZjE0ZGI1N2U4NDMx`
+Snapshot ID: `MCwwMDAwMDAwMDFkZDJmMzBjZGJhNWFmMDA1ZmJiYTE4NjQxNGEwMmJi`
