@@ -1,13 +1,33 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIZ968sAVulqG>Albatrauss</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>ANA</a>, <a href=spotify:playlist:37i9dQZF1EIWckx2MycH5Y>Altair Blake</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIZ8Dee2mg5Hy>Steve Kroeger</a>, <a href=spotify:playlist:37i9dQZF1EIZ968sAVulqG>Albatrauss</a>, <a href=spotify:playlist:37i9dQZF1EIWR2Z7ggXEKn>ANA</a> and more",
     "num_followers": 0,
     "original_name": "Chill Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTY5Nzc4MTYwMCwwMDAwMDAwMGMwM2ZiZWI4NzhhMDFjYWFhZWE3ZTE1M2QxMTk2YThh",
+    "snapshot_id": "MTY5Nzg2ODAwMCwwMDAwMDAwMDhhZDBkMTNkNjcxM2U3Y2I1NmQ5YWFjNWQ4ZDcxNmRh",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "Forget Me",
+                "url": "https://open.spotify.com/album/77x8d6ViR2DfmdA55mGwL3"
+            },
+            "artists": [
+                {
+                    "name": "Steve Kroeger",
+                    "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+                },
+                {
+                    "name": "Skye Holland",
+                    "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+                }
+            ],
+            "duration_ms": 201142,
+            "name": "Forget Me",
+            "url": "https://open.spotify.com/track/7urAv0lzzxt3bzyn4js2P1"
+        },
         {
             "added_at": null,
             "album": {
@@ -47,22 +67,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Floetry",
-                "url": "https://open.spotify.com/album/1Tf6M7qYlfoz8ytcrwzQIt"
-            },
-            "artists": [
-                {
-                    "name": "Altair Blake",
-                    "url": "https://open.spotify.com/artist/7GHdxiYiGpD4ZHM3jfyIOr"
-                }
-            ],
-            "duration_ms": 136744,
-            "name": "Floetry",
-            "url": "https://open.spotify.com/track/2F4rlIiJHKg5ebub5cMECC"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "The Passion",
                 "url": "https://open.spotify.com/album/111TDrB2azfWpNCHohiP7z"
             },
@@ -75,38 +79,6 @@
             "duration_ms": 193078,
             "name": "Do It To Myself",
             "url": "https://open.spotify.com/track/2Lut3LTFWQK3SXj6BpCrgd"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Those Days...",
-                "url": "https://open.spotify.com/album/6e3BgZFDS5v3MiiZjeXlYJ"
-            },
-            "artists": [
-                {
-                    "name": "Ben Walter",
-                    "url": "https://open.spotify.com/artist/2PyT6zhFlnRTEIKZUHh5NO"
-                }
-            ],
-            "duration_ms": 205963,
-            "name": "Those Days...",
-            "url": "https://open.spotify.com/track/1vEpOYvNxXSqUIcJdxlNwB"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Quiet Storm",
-                "url": "https://open.spotify.com/album/7bPPEnIPRKGOYuMQ7RaOVK"
-            },
-            "artists": [
-                {
-                    "name": "Shierro",
-                    "url": "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
-                }
-            ],
-            "duration_ms": 124675,
-            "name": "Quiet Storm",
-            "url": "https://open.spotify.com/track/1QIsVlaCz3U5GfsEJE9O8L"
         },
         {
             "added_at": null,
@@ -131,106 +103,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "Forget Me",
-                "url": "https://open.spotify.com/album/77x8d6ViR2DfmdA55mGwL3"
+                "name": "Those Days...",
+                "url": "https://open.spotify.com/album/6e3BgZFDS5v3MiiZjeXlYJ"
             },
             "artists": [
                 {
-                    "name": "Steve Kroeger",
-                    "url": "https://open.spotify.com/artist/3RuKMixE6jnuXqEx1Jy1om"
+                    "name": "Ben Walter",
+                    "url": "https://open.spotify.com/artist/2PyT6zhFlnRTEIKZUHh5NO"
+                }
+            ],
+            "duration_ms": 205963,
+            "name": "Those Days...",
+            "url": "https://open.spotify.com/track/1vEpOYvNxXSqUIcJdxlNwB"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Going",
+                "url": "https://open.spotify.com/album/1eQKCF2N0bq42Ku2XCNTpm"
+            },
+            "artists": [
+                {
+                    "name": "Diamic",
+                    "url": "https://open.spotify.com/artist/7w0ZnYz4kQLyGIdlgoTLfO"
                 },
                 {
-                    "name": "Skye Holland",
-                    "url": "https://open.spotify.com/artist/2v7q6g8FLhc74i4gBBdruy"
+                    "name": "Veela",
+                    "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
                 }
             ],
-            "duration_ms": 201142,
-            "name": "Forget Me",
-            "url": "https://open.spotify.com/track/7urAv0lzzxt3bzyn4js2P1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fall Apart",
-                "url": "https://open.spotify.com/album/6ka91fJ4gatO4LSOlNFpnS"
-            },
-            "artists": [
-                {
-                    "name": "Sound Surfer",
-                    "url": "https://open.spotify.com/artist/4ZuhZLrrtnoOMp8cpDXjzR"
-                }
-            ],
-            "duration_ms": 247367,
-            "name": "Iridescent",
-            "url": "https://open.spotify.com/track/2I1k63UQ9gWuTGWmdcFF3c"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "50/50",
-                "url": "https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff"
-            },
-            "artists": [
-                {
-                    "name": "MIN",
-                    "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
-                }
-            ],
-            "duration_ms": 199266,
-            "name": "Trên Tình Bạn Dưới Tình Yêu",
-            "url": "https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Oceans Apart",
-                "url": "https://open.spotify.com/album/4ExeVfNTQ0PaGDXDqaBxH8"
-            },
-            "artists": [
-                {
-                    "name": "Groundfold",
-                    "url": "https://open.spotify.com/artist/45YBqogjhBMMOXyY5liFE6"
-                }
-            ],
-            "duration_ms": 381391,
-            "name": "Oceans Apart",
-            "url": "https://open.spotify.com/track/1E711QEOrqqtlgunT0FJPU"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Moonwalk",
-                "url": "https://open.spotify.com/album/29lGpbCE7RUWVrBmajb9Ak"
-            },
-            "artists": [
-                {
-                    "name": "World Complete",
-                    "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
-                }
-            ],
-            "duration_ms": 243000,
-            "name": "Moonwalk",
-            "url": "https://open.spotify.com/track/1UQMm4SqV8EzQ9hZGZJoyh"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dreamer",
-                "url": "https://open.spotify.com/album/3P2JEU4q2RTSnk9BXXhjCW"
-            },
-            "artists": [
-                {
-                    "name": "Thomas Gold",
-                    "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
-                },
-                {
-                    "name": "Mimoza",
-                    "url": "https://open.spotify.com/artist/22tB2wbnB3pexB04xtncrG"
-                }
-            ],
-            "duration_ms": 164094,
-            "name": "Dreamer",
-            "url": "https://open.spotify.com/track/30SkJsH3SlT92BXfwdFJe2"
+            "duration_ms": 272100,
+            "name": "Going",
+            "url": "https://open.spotify.com/track/553fhwT5wTWJ6DpRUHR7hD"
         },
         {
             "added_at": null,
@@ -247,22 +151,6 @@
             "duration_ms": 189737,
             "name": "I Follow Rivers",
             "url": "https://open.spotify.com/track/0oTuhy43JFRBhWtdrzBi7a"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Black Hole",
-                "url": "https://open.spotify.com/album/52eEiJrc5hDu3BiDrx4BzM"
-            },
-            "artists": [
-                {
-                    "name": "Rameses B",
-                    "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
-                }
-            ],
-            "duration_ms": 257000,
-            "name": "Black Hole",
-            "url": "https://open.spotify.com/track/2T1Ip6knZNC569hVK6sApk"
         },
         {
             "added_at": null,
@@ -311,226 +199,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "Going",
-                "url": "https://open.spotify.com/album/1eQKCF2N0bq42Ku2XCNTpm"
+                "name": "Dreamer",
+                "url": "https://open.spotify.com/album/3P2JEU4q2RTSnk9BXXhjCW"
             },
             "artists": [
                 {
-                    "name": "Diamic",
-                    "url": "https://open.spotify.com/artist/7w0ZnYz4kQLyGIdlgoTLfO"
+                    "name": "Thomas Gold",
+                    "url": "https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe"
                 },
                 {
-                    "name": "Veela",
-                    "url": "https://open.spotify.com/artist/3CiuuHKIxxJPoNRvF94GtR"
+                    "name": "Mimoza",
+                    "url": "https://open.spotify.com/artist/22tB2wbnB3pexB04xtncrG"
                 }
             ],
-            "duration_ms": 272100,
-            "name": "Going",
-            "url": "https://open.spotify.com/track/553fhwT5wTWJ6DpRUHR7hD"
+            "duration_ms": 164094,
+            "name": "Dreamer",
+            "url": "https://open.spotify.com/track/30SkJsH3SlT92BXfwdFJe2"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Leave It Beautiful",
-                "url": "https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X"
+                "name": "Black Hole",
+                "url": "https://open.spotify.com/album/52eEiJrc5hDu3BiDrx4BzM"
             },
             "artists": [
                 {
-                    "name": "Astrid S",
-                    "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+                    "name": "Rameses B",
+                    "url": "https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO"
                 }
             ],
-            "duration_ms": 204989,
-            "name": "It's Ok If You Forget Me",
-            "url": "https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bên Trên Tầng Lầu",
-                "url": "https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG"
-            },
-            "artists": [
-                {
-                    "name": "Tăng Duy Tân",
-                    "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
-                }
-            ],
-            "duration_ms": 184000,
-            "name": "Bên Trên Tầng Lầu",
-            "url": "https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Better Days",
-                "url": "https://open.spotify.com/album/4cyM7VeqhOkG8Xn6Yf8pSG"
-            },
-            "artists": [
-                {
-                    "name": "Arman Cekin",
-                    "url": "https://open.spotify.com/artist/7vUJCRmF1if4uhMp2V3tRP"
-                },
-                {
-                    "name": "Faydee",
-                    "url": "https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g"
-                },
-                {
-                    "name": "Karra",
-                    "url": "https://open.spotify.com/artist/24CzPFC4y3bM4AkUnZfuAU"
-                }
-            ],
-            "duration_ms": 187918,
-            "name": "Better Days",
-            "url": "https://open.spotify.com/track/1FtYN2OwwvNgxfqf5XsD6M"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Just Look Up (From Don’t Look Up)",
-                "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
-            },
-            "artists": [
-                {
-                    "name": "Ariana Grande",
-                    "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-                },
-                {
-                    "name": "Kid Cudi",
-                    "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-                }
-            ],
-            "duration_ms": 201667,
-            "name": "Just Look Up (From Don’t Look Up)",
-            "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Take Me Dancing",
-                "url": "https://open.spotify.com/album/64snBfHq3EKNdDDxTJmB4b"
-            },
-            "artists": [
-                {
-                    "name": "Mauve",
-                    "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
-                },
-                {
-                    "name": "Anica Russo",
-                    "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
-                }
-            ],
-            "duration_ms": 140526,
-            "name": "Take Me Dancing",
-            "url": "https://open.spotify.com/track/7J9SWm2yp6mDmbM4ESRCAQ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Forever Young",
-                "url": "https://open.spotify.com/album/0noNZlQ3ecnWvtrNSpMi50"
-            },
-            "artists": [
-                {
-                    "name": "Boy In Space",
-                    "url": "https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP"
-                }
-            ],
-            "duration_ms": 211680,
-            "name": "Forever Young",
-            "url": "https://open.spotify.com/track/6o4KLywJfGXPuuwZDEoYSt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Not Meant To Be Easy",
-                "url": "https://open.spotify.com/album/05EdQbifqG09Pk1nOqE93w"
-            },
-            "artists": [
-                {
-                    "name": "Last Island",
-                    "url": "https://open.spotify.com/artist/6ur5V10oH2Psv3xeDNBYmz"
-                }
-            ],
-            "duration_ms": 178005,
-            "name": "Not Meant To Be Easy",
-            "url": "https://open.spotify.com/track/0WTztHvGydbmUbIiyP1A8T"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "TWENTY TWENTY",
-                "url": "https://open.spotify.com/album/3DyTbFaUxKb9LIGLjp1Dxx"
-            },
-            "artists": [
-                {
-                    "name": "Jake Scott",
-                    "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-                },
-                {
-                    "name": "Josie Dunne",
-                    "url": "https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq"
-                }
-            ],
-            "duration_ms": 193113,
-            "name": "CWJBHN",
-            "url": "https://open.spotify.com/track/7iUvAa3bxGrNoVmpjZyWOU"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sài Gòn Hôm Nay Mưa",
-                "url": "https://open.spotify.com/album/3uvFlg7afslUUJh43G2xwX"
-            },
-            "artists": [
-                {
-                    "name": "JSOL",
-                    "url": "https://open.spotify.com/artist/6EybZ5zwPNEtEngfrEMevN"
-                },
-                {
-                    "name": "Hoàng Duyên",
-                    "url": "https://open.spotify.com/artist/3LbBKYlyMaATS8IIe7HJ0d"
-                }
-            ],
-            "duration_ms": 247058,
-            "name": "Sài Gòn Hôm Nay Mưa",
-            "url": "https://open.spotify.com/track/1xoadYaxtOp9gHDwgmPDuz"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Chạy Khỏi Thế Giới Này",
-                "url": "https://open.spotify.com/album/50HY9g20cVF2PKCYmy5LFZ"
-            },
-            "artists": [
-                {
-                    "name": "Da LAB",
-                    "url": "https://open.spotify.com/artist/6zUWZmyi5MLOEynQ5wCI5f"
-                },
-                {
-                    "name": "Phương Ly",
-                    "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
-                }
-            ],
-            "duration_ms": 255429,
-            "name": "Chạy Khỏi Thế Giới Này",
-            "url": "https://open.spotify.com/track/5ECHJ1llWBNYLVCYrllD3x"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Cô Đơn Trên Sofa",
-                "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
-            },
-            "artists": [
-                {
-                    "name": "Hồ Ngọc Hà",
-                    "url": "https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ"
-                }
-            ],
-            "duration_ms": 263362,
-            "name": "Cô Đơn Trên Sofa",
-            "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
+            "duration_ms": 257000,
+            "name": "Black Hole",
+            "url": "https://open.spotify.com/track/2T1Ip6knZNC569hVK6sApk"
         },
         {
             "added_at": null,
@@ -555,118 +255,134 @@
         {
             "added_at": null,
             "album": {
-                "name": "ThichThich",
-                "url": "https://open.spotify.com/album/6Nb0ehML3dHRw3pyfd71BY"
+                "name": "Not Meant To Be Easy",
+                "url": "https://open.spotify.com/album/05EdQbifqG09Pk1nOqE93w"
             },
             "artists": [
                 {
-                    "name": "Phương Ly",
-                    "url": "https://open.spotify.com/artist/5Kh0ta0UY4uJ4g2CIdq9V9"
+                    "name": "Last Island",
+                    "url": "https://open.spotify.com/artist/6ur5V10oH2Psv3xeDNBYmz"
                 }
             ],
-            "duration_ms": 241935,
-            "name": "ThichThich",
-            "url": "https://open.spotify.com/track/3rx7g2qRxKscgtQUiKwQvN"
+            "duration_ms": 178005,
+            "name": "Not Meant To Be Easy",
+            "url": "https://open.spotify.com/track/0WTztHvGydbmUbIiyP1A8T"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Turn Back Time",
-                "url": "https://open.spotify.com/album/1NuCGiddS5MLz3XU2QViaK"
+                "name": "Moonwalk",
+                "url": "https://open.spotify.com/album/29lGpbCE7RUWVrBmajb9Ak"
             },
             "artists": [
                 {
-                    "name": "Daniel Schulz",
-                    "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
+                    "name": "World Complete",
+                    "url": "https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq"
                 }
             ],
-            "duration_ms": 223561,
-            "name": "Turn Back Time",
-            "url": "https://open.spotify.com/track/4KnnWpUyPfQD6X5SQSTlH3"
+            "duration_ms": 243000,
+            "name": "Moonwalk",
+            "url": "https://open.spotify.com/track/1UQMm4SqV8EzQ9hZGZJoyh"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Chuyện Đôi Ta (feat. Muộii)",
-                "url": "https://open.spotify.com/album/5tFSjs5VsM2EwoA2Px6jqo"
+                "name": "Leave It Beautiful",
+                "url": "https://open.spotify.com/album/03Q0yM29DQVoPbja9aMq0X"
             },
             "artists": [
                 {
-                    "name": "Emcee L (Da LAB)",
-                    "url": "https://open.spotify.com/artist/4bPYvyUn1mWwUwIW57oST2"
-                },
-                {
-                    "name": "Muộii (Starry Night)",
-                    "url": "https://open.spotify.com/artist/1Tdy7LZnrufTyuEbgDi1D8"
+                    "name": "Astrid S",
+                    "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
                 }
             ],
-            "duration_ms": 208048,
-            "name": "Chuyện Đôi Ta (feat. Muộii)",
-            "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
+            "duration_ms": 204989,
+            "name": "It's Ok If You Forget Me",
+            "url": "https://open.spotify.com/track/4YwIOEhqg57IX2QasbetBi"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Lối Nhỏ",
-                "url": "https://open.spotify.com/album/77yV2mEkJaZ4oLu1M4fe5N"
+                "name": "22",
+                "url": "https://open.spotify.com/album/3lZ0sW4znNieFHxGdyWXCj"
             },
             "artists": [
                 {
-                    "name": "Đen",
-                    "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+                    "name": "MONO",
+                    "url": "https://open.spotify.com/artist/5jTFNkoZebPnX90CbB3F2A"
                 },
                 {
-                    "name": "Phương Anh Đào",
-                    "url": "https://open.spotify.com/artist/6ZNAsA4h8V7SOLtiK8Vfav"
+                    "name": "Onionn.",
+                    "url": "https://open.spotify.com/artist/25M5YMbLCbYDSFPhQXYE8c"
                 }
             ],
-            "duration_ms": 252953,
-            "name": "Lối Nhỏ",
-            "url": "https://open.spotify.com/track/25edeHHueINMguqu9emCyV"
+            "duration_ms": 265600,
+            "name": "Waiting For You",
+            "url": "https://open.spotify.com/track/5hkAuvgkOrd4KpDOlCNsvW"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Thiêu Thân",
-                "url": "https://open.spotify.com/album/5IRZs8eeDLf4flNXbWJ4K9"
+                "name": "Fall Apart",
+                "url": "https://open.spotify.com/album/6ka91fJ4gatO4LSOlNFpnS"
             },
             "artists": [
                 {
-                    "name": "B Ray",
-                    "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
-                },
-                {
-                    "name": "Sofia",
-                    "url": "https://open.spotify.com/artist/0obXkAXG0Ivhjj6TK6QZfd"
-                },
-                {
-                    "name": "Châu Đăng Khoa",
-                    "url": "https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk"
-                },
-                {
-                    "name": "Masew",
-                    "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
+                    "name": "Sound Surfer",
+                    "url": "https://open.spotify.com/artist/4ZuhZLrrtnoOMp8cpDXjzR"
                 }
             ],
-            "duration_ms": 198788,
-            "name": "Thiêu Thân",
-            "url": "https://open.spotify.com/track/2QyOYFAxW2khNYee4yeT6r"
+            "duration_ms": 247367,
+            "name": "Iridescent",
+            "url": "https://open.spotify.com/track/2I1k63UQ9gWuTGWmdcFF3c"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Peter Pan Was Right",
-                "url": "https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t"
+                "name": "Jeszcze Będzie Pięknie",
+                "url": "https://open.spotify.com/album/6xIt4xgrninCqwBOscisnb"
             },
             "artists": [
                 {
-                    "name": "Anson Seabra",
-                    "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+                    "name": "B.R.O",
+                    "url": "https://open.spotify.com/artist/1JsnraXeS2KK3dgwNR9ARf"
                 }
             ],
-            "duration_ms": 192497,
-            "name": "Peter Pan Was Right",
-            "url": "https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A"
+            "duration_ms": 197837,
+            "name": "Jeszcze Będzie Pięknie",
+            "url": "https://open.spotify.com/track/0IANgBgdiyhHg0gXdN8zdW"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "MAKING MY WAY",
+                "url": "https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal"
+            },
+            "artists": [
+                {
+                    "name": "Sơn Tùng M-TP",
+                    "url": "https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf"
+                }
+            ],
+            "duration_ms": 258006,
+            "name": "MAKING MY WAY",
+            "url": "https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Yêu 5",
+                "url": "https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr"
+            },
+            "artists": [
+                {
+                    "name": "Rhymastic",
+                    "url": "https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw"
+                }
+            ],
+            "duration_ms": 240000,
+            "name": "Yêu 5",
+            "url": "https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS"
         },
         {
             "added_at": null,
@@ -691,6 +407,166 @@
         {
             "added_at": null,
             "album": {
+                "name": "What Other People Say",
+                "url": "https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW"
+            },
+            "artists": [
+                {
+                    "name": "Sam Fischer",
+                    "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+                },
+                {
+                    "name": "Demi Lovato",
+                    "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                }
+            ],
+            "duration_ms": 194890,
+            "name": "What Other People Say",
+            "url": "https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Take Me Dancing",
+                "url": "https://open.spotify.com/album/64snBfHq3EKNdDDxTJmB4b"
+            },
+            "artists": [
+                {
+                    "name": "Mauve",
+                    "url": "https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh"
+                },
+                {
+                    "name": "Anica Russo",
+                    "url": "https://open.spotify.com/artist/7sosL0rffvNlG2SE0fyZJX"
+                }
+            ],
+            "duration_ms": 140526,
+            "name": "Take Me Dancing",
+            "url": "https://open.spotify.com/track/7J9SWm2yp6mDmbM4ESRCAQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Quiet Storm",
+                "url": "https://open.spotify.com/album/7bPPEnIPRKGOYuMQ7RaOVK"
+            },
+            "artists": [
+                {
+                    "name": "Shierro",
+                    "url": "https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ"
+                }
+            ],
+            "duration_ms": 124675,
+            "name": "Quiet Storm",
+            "url": "https://open.spotify.com/track/1QIsVlaCz3U5GfsEJE9O8L"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "All I Want Is You",
+                "url": "https://open.spotify.com/album/1n1fEzqe0hdvKmyv5OqdTN"
+            },
+            "artists": [
+                {
+                    "name": "Cloudy Bubbles",
+                    "url": "https://open.spotify.com/artist/48q8LIxu2krOGgb9RwA8GW"
+                }
+            ],
+            "duration_ms": 156024,
+            "name": "All I Want Is You",
+            "url": "https://open.spotify.com/track/4lHVKwNE1S4BhB4CISYwki"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Fall In Love",
+                "url": "https://open.spotify.com/album/4FbR2nqgnUqfLrZsLVkoe0"
+            },
+            "artists": [
+                {
+                    "name": "sunsets & sandals",
+                    "url": "https://open.spotify.com/artist/4dbwDH0FSS0OhdQkkhUZtA"
+                },
+                {
+                    "name": "Harry Cho",
+                    "url": "https://open.spotify.com/artist/1Fe0hOTqiOxyxu1nTdHq3q"
+                }
+            ],
+            "duration_ms": 175460,
+            "name": "Fall In Love",
+            "url": "https://open.spotify.com/track/7mFoG00rX2eKIxlR8vrw3u"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "50/50",
+                "url": "https://open.spotify.com/album/2guZsP5qfBxYma8Y4mhVff"
+            },
+            "artists": [
+                {
+                    "name": "MIN",
+                    "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+                }
+            ],
+            "duration_ms": 199266,
+            "name": "Trên Tình Bạn Dưới Tình Yêu",
+            "url": "https://open.spotify.com/track/4zFgUpC8z88A9aEo7dnRPN"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Cô Đơn Trên Sofa",
+                "url": "https://open.spotify.com/album/5f98gaVgofuvHJ3ShsxqS5"
+            },
+            "artists": [
+                {
+                    "name": "Hồ Ngọc Hà",
+                    "url": "https://open.spotify.com/artist/24Wn81dwdDeTCuB1BWGoVJ"
+                }
+            ],
+            "duration_ms": 263362,
+            "name": "Cô Đơn Trên Sofa",
+            "url": "https://open.spotify.com/track/64qXPpH0c7GkJOQcUj79Ia"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "I'm Good (Blue)",
+                "url": "https://open.spotify.com/album/4Glni7CfaUZ2NV3ZmPQJV7"
+            },
+            "artists": [
+                {
+                    "name": "Cupido",
+                    "url": "https://open.spotify.com/artist/4dLhakqpeWIymuJnoGTUfB"
+                }
+            ],
+            "duration_ms": 137478,
+            "name": "I'm Good (Blue)",
+            "url": "https://open.spotify.com/track/5Yo5PpwKlekpbOd8JucLAP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Khi Em Lớn",
+                "url": "https://open.spotify.com/album/5k4b9vDNNCIB0k1703mPrU"
+            },
+            "artists": [
+                {
+                    "name": "Orange",
+                    "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
+                },
+                {
+                    "name": "Hoàng Dũng",
+                    "url": "https://open.spotify.com/artist/6OzE2OdvV2tGAxSBsBuZ74"
+                }
+            ],
+            "duration_ms": 228094,
+            "name": "Khi Em Lớn",
+            "url": "https://open.spotify.com/track/5nD5PVXUkIpv0WcwfNFrgS"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Gác Lại Âu Lo",
                 "url": "https://open.spotify.com/album/510WT3clDw7bTqUcorerQX"
             },
@@ -711,80 +587,8 @@
         {
             "added_at": null,
             "album": {
-                "name": "With You",
-                "url": "https://open.spotify.com/album/1Ca9JdekdlYxnlCMCtVsdR"
-            },
-            "artists": [
-                {
-                    "name": "Mokita",
-                    "url": "https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE"
-                }
-            ],
-            "duration_ms": 154650,
-            "name": "With You",
-            "url": "https://open.spotify.com/track/5Lu0vv78RmKZeBPpP1N8za"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Shay Nắnggg",
-                "url": "https://open.spotify.com/album/2KYEVb4sh3jwCnSGysUPRB"
-            },
-            "artists": [
-                {
-                    "name": "AMEE",
-                    "url": "https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve"
-                },
-                {
-                    "name": "Obito",
-                    "url": "https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp"
-                }
-            ],
-            "duration_ms": 208301,
-            "name": "Shay Nắnggg",
-            "url": "https://open.spotify.com/track/5uOshbNqgCj1s4srEeQXOe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tập 12: The Masked Singer Vietnam",
-                "url": "https://open.spotify.com/album/6nIa2mkbxcmGbNCqYoYlYA"
-            },
-            "artists": [
-                {
-                    "name": "Myra Trần",
-                    "url": "https://open.spotify.com/artist/0Y9KzsdFByEI4bigKF1htd"
-                }
-            ],
-            "duration_ms": 270643,
-            "name": "Anh Chưa Thương Em Đến Vậy Đâu",
-            "url": "https://open.spotify.com/track/3QD2NfLEIvMRbzv2uTu4B7"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Love & Hurt",
-                "url": "https://open.spotify.com/album/14cNayL62Jr1IznQ9KMH9t"
-            },
-            "artists": [
-                {
-                    "name": "Rasmus Hagen",
-                    "url": "https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq"
-                },
-                {
-                    "name": "Nora Andersson",
-                    "url": "https://open.spotify.com/artist/43z2MuRXF0o8DEfDhi9ZXq"
-                }
-            ],
-            "duration_ms": 205806,
-            "name": "Closer To You",
-            "url": "https://open.spotify.com/track/6B53kQ2sKg3D2b0IPIoNbN"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bài Này Chill Phết",
-                "url": "https://open.spotify.com/album/7vjwxcUJGv2cAD584tBDzn"
+                "name": "Đi Về Nhà",
+                "url": "https://open.spotify.com/album/7C3WHnNZ5zcUutPtsB7KjD"
             },
             "artists": [
                 {
@@ -792,13 +596,13 @@
                     "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
                 },
                 {
-                    "name": "MIN",
-                    "url": "https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw"
+                    "name": "JustaTee",
+                    "url": "https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO"
                 }
             ],
-            "duration_ms": 276000,
-            "name": "Bài Này Chill Phết",
-            "url": "https://open.spotify.com/track/2nR51wakN5K3AJENqGaNg9"
+            "duration_ms": 200000,
+            "name": "Đi Về Nhà",
+            "url": "https://open.spotify.com/track/7LVrrX8pkzI9fMF88nGabt"
         },
         {
             "added_at": null,
@@ -823,106 +627,318 @@
         {
             "added_at": null,
             "album": {
-                "name": "American Boy",
-                "url": "https://open.spotify.com/album/6lX2u4Jg3ffi0va8ZFyjg3"
+                "name": "Be Kind (with Halsey)",
+                "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
             },
             "artists": [
+                {
+                    "name": "Marshmello",
+                    "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+                },
+                {
+                    "name": "Halsey",
+                    "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+                }
+            ],
+            "duration_ms": 172761,
+            "name": "Be Kind (with Halsey)",
+            "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Mặt Mộc",
+                "url": "https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA"
+            },
+            "artists": [
+                {
+                    "name": "Phạm Nguyên Ngọc",
+                    "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
+                },
+                {
+                    "name": "VAnh",
+                    "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
+                },
+                {
+                    "name": "Ân Nhi",
+                    "url": "https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD"
+                },
+                {
+                    "name": "BMZ",
+                    "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+                }
+            ],
+            "duration_ms": 214293,
+            "name": "Mặt Mộc",
+            "url": "https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Ngày Đầu Tiên",
+                "url": "https://open.spotify.com/album/2vki9hRAipW0SbK0A0c92W"
+            },
+            "artists": [
+                {
+                    "name": "Đức Phúc",
+                    "url": "https://open.spotify.com/artist/5FWPIKz9czXWaiNtw45KQs"
+                }
+            ],
+            "duration_ms": 208939,
+            "name": "Ngày Đầu Tiên",
+            "url": "https://open.spotify.com/track/5Msoarj5hk9LguTtiIyqug"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Inner Monologue Part 2",
+                "url": "https://open.spotify.com/album/2f4Ejh4Po2rpuXSYa6IDCe"
+            },
+            "artists": [
+                {
+                    "name": "Julia Michaels",
+                    "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+                }
+            ],
+            "duration_ms": 182800,
+            "name": "17",
+            "url": "https://open.spotify.com/track/0ND8rF8oirMXtE59n585P6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "3107 3 (feat. Nâu, titie, Dươngg)",
+                "url": "https://open.spotify.com/album/5fvs6ZOlCkfOa6zZ9jvXAb"
+            },
+            "artists": [
+                {
+                    "name": "W/N",
+                    "url": "https://open.spotify.com/artist/6NF9Oa4ThQWCj6mogFSrVD"
+                },
+                {
+                    "name": "Duongg",
+                    "url": "https://open.spotify.com/artist/3JkGKNawown8MgcJsDw1WT"
+                },
+                {
+                    "name": "Nau",
+                    "url": "https://open.spotify.com/artist/38QautgC2LNYKiu10BB0sF"
+                },
+                {
+                    "name": "titie",
+                    "url": "https://open.spotify.com/artist/2I8garg5B5BsdmetbsXsjG"
+                }
+            ],
+            "duration_ms": 240000,
+            "name": "3107 3",
+            "url": "https://open.spotify.com/track/1EmMFSLRVkOszCa4ul9z0F"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "You're My Lover",
+                "url": "https://open.spotify.com/album/1ezeBU8JrejN6Fzs4rF200"
+            },
+            "artists": [
+                {
+                    "name": "No Treasure",
+                    "url": "https://open.spotify.com/artist/66GofoGxQ1OAlCvfPRI90x"
+                }
+            ],
+            "duration_ms": 117911,
+            "name": "You're My Lover",
+            "url": "https://open.spotify.com/track/7pGeQ9LAiV8x1QBDhDT0D0"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Sad Songs",
+                "url": "https://open.spotify.com/album/71sb3x5BwKk87d7ZBOoSJY"
+            },
+            "artists": [
+                {
+                    "name": "shy martin",
+                    "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+                }
+            ],
+            "duration_ms": 157555,
+            "name": "Are you happy?",
+            "url": "https://open.spotify.com/track/6s86N7LVaJZuU4alwKp6XO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Lửng Lơ",
+                "url": "https://open.spotify.com/album/7lACxNXSmlFNjf4eWzwJ5a"
+            },
+            "artists": [
+                {
+                    "name": "Masew",
+                    "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
+                },
+                {
+                    "name": "B Ray",
+                    "url": "https://open.spotify.com/artist/1WvNgEoB66jmHodcj15Zi9"
+                },
+                {
+                    "name": "REDT",
+                    "url": "https://open.spotify.com/artist/5iggzY0xY68wNNWXhiPrZz"
+                },
+                {
+                    "name": "Ý Tiên",
+                    "url": "https://open.spotify.com/artist/5i4Esojuo3la7x4CpMn6vW"
+                }
+            ],
+            "duration_ms": 267243,
+            "name": "Lửng Lơ",
+            "url": "https://open.spotify.com/track/1m4BSQjgXAfoR4dBAapAr7"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Not Angry",
+                "url": "https://open.spotify.com/album/00WXsdEqMzAAeBjAgdxjvD"
+            },
+            "artists": [
+                {
+                    "name": "Chris James",
+                    "url": "https://open.spotify.com/artist/1PU4kQGbRVMSyvawEYEjFp"
+                }
+            ],
+            "duration_ms": 199687,
+            "name": "Not Angry",
+            "url": "https://open.spotify.com/track/720bDWggHx9KL3TzKZeM1c"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "FRIENDS KEEP SECRETS",
+                "url": "https://open.spotify.com/album/7dQ734EW0iLvQfF6vBFNiZ"
+            },
+            "artists": [
+                {
+                    "name": "benny blanco",
+                    "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+                },
+                {
+                    "name": "Halsey",
+                    "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+                },
+                {
+                    "name": "Khalid",
+                    "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+                }
+            ],
+            "duration_ms": 170769,
+            "name": "Eastside (with Halsey & Khalid)",
+            "url": "https://open.spotify.com/track/7FGq80cy8juXBCD2nrqdWU"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Bên Trên Tầng Lầu",
+                "url": "https://open.spotify.com/album/3YTsTxFi7qKmDx2TqlpYKG"
+            },
+            "artists": [
+                {
+                    "name": "Tăng Duy Tân",
+                    "url": "https://open.spotify.com/artist/1n9JKdEdLxrbgJiqz1WZFJ"
+                }
+            ],
+            "duration_ms": 184000,
+            "name": "Bên Trên Tầng Lầu",
+            "url": "https://open.spotify.com/track/0Cy7uOfTjJrmHkNEPBBZxf"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Down Low",
+                "url": "https://open.spotify.com/album/585s4f9yrPNsp0G7AkTFDF"
+            },
+            "artists": [
+                {
+                    "name": "Astrid S",
+                    "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+                }
+            ],
+            "duration_ms": 198390,
+            "name": "Favorite Part Of Me",
+            "url": "https://open.spotify.com/track/0cppqb4vQycORHNMxr8DGd"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Just Look Up (From Don’t Look Up)",
+                "url": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
+            },
+            "artists": [
+                {
+                    "name": "Ariana Grande",
+                    "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                },
+                {
+                    "name": "Kid Cudi",
+                    "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+                }
+            ],
+            "duration_ms": 201667,
+            "name": "Just Look Up (From Don’t Look Up)",
+            "url": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+                "url": "https://open.spotify.com/album/1gCpFjhvdR27Pgw5TljbFl"
+            },
+            "artists": [
+                {
+                    "name": "O.lew",
+                    "url": "https://open.spotify.com/artist/4APrfmUo8KRrjCVuyoKvwY"
+                }
+            ],
+            "duration_ms": 278732,
+            "name": "Rồi Ta Sẽ Ngắm Pháo Hoa Cùng Nhau",
+            "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Yêu Một Người Có Lẽ",
+                "url": "https://open.spotify.com/album/5ct4cb4xmcTrd9hfLFVQXb"
+            },
+            "artists": [
+                {
+                    "name": "Lou Hoàng",
+                    "url": "https://open.spotify.com/artist/75Ki5hBCOpDtKGoFyTvLxP"
+                },
+                {
+                    "name": "Miu Lê",
+                    "url": "https://open.spotify.com/artist/4e5LAUvM35jleGg8gElTsP"
+                }
+            ],
+            "duration_ms": 253524,
+            "name": "Yêu Một Người Có Lẽ",
+            "url": "https://open.spotify.com/track/2o4dDfLK6NVI7TjBm5VoMv"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Bloom",
+                "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
+            },
+            "artists": [
+                {
+                    "name": "Lucas Estrada",
+                    "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+                },
                 {
                     "name": "TWOPILOTS",
                     "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
                 }
             ],
-            "duration_ms": 172763,
-            "name": "American Boy",
-            "url": "https://open.spotify.com/track/5oUirMKZk38lWoZacEckga"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fly Away",
-                "url": "https://open.spotify.com/album/4iK3MNrHCac5KKFDmmps5P"
-            },
-            "artists": [
-                {
-                    "name": "Altair Blake",
-                    "url": "https://open.spotify.com/artist/7GHdxiYiGpD4ZHM3jfyIOr"
-                }
-            ],
-            "duration_ms": 123866,
-            "name": "Fly Away",
-            "url": "https://open.spotify.com/track/73irKR6LXAcLnPxVWZgYlc"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Destiny",
-                "url": "https://open.spotify.com/album/56hnkAtGfG6lk5qIcRepeV"
-            },
-            "artists": [
-                {
-                    "name": "Lonely Night",
-                    "url": "https://open.spotify.com/artist/5z7pjN7SUEN8nZFOO4MWhx"
-                }
-            ],
-            "duration_ms": 120245,
-            "name": "Destiny",
-            "url": "https://open.spotify.com/track/34LLQGc0BIVtOTBXOkQVGH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Lost in Paradise",
-                "url": "https://open.spotify.com/album/0Dw38QeGZxFT59hslcLod3"
-            },
-            "artists": [
-                {
-                    "name": "Relŭm",
-                    "url": "https://open.spotify.com/artist/2KLneUbYr9ASsmFfZWIdYo"
-                }
-            ],
-            "duration_ms": 117500,
-            "name": "Lost in Paradise",
-            "url": "https://open.spotify.com/track/7xNiLGpPvHIhrBoi7syMST"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Có đau thì đau một mình",
-                "url": "https://open.spotify.com/album/0CUpq5X4lU88UaDjg04HjJ"
-            },
-            "artists": [
-                {
-                    "name": "Orange",
-                    "url": "https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G"
-                },
-                {
-                    "name": "Phuc Du",
-                    "url": "https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j"
-                }
-            ],
-            "duration_ms": 210531,
-            "name": "Có đau thì đau một mình",
-            "url": "https://open.spotify.com/track/37od1g713ZvI32VA2diR9L"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "À Lôi",
-                "url": "https://open.spotify.com/album/5DUBKdrQ7CsTblmHQXh4ae"
-            },
-            "artists": [
-                {
-                    "name": "Double2T",
-                    "url": "https://open.spotify.com/artist/1NM99SQTX93oCkzvNXWJCf"
-                },
-                {
-                    "name": "Masew",
-                    "url": "https://open.spotify.com/artist/3nGqUwkJHiLPDECMVrX1Sq"
-                }
-            ],
-            "duration_ms": 197333,
-            "name": "À Lôi",
-            "url": "https://open.spotify.com/track/3kxFvcB92qQg9wl52CQ7aV"
+            "duration_ms": 179428,
+            "name": "Bloom",
+            "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
         }
     ],
     "unique_name": "Chill Mix",
