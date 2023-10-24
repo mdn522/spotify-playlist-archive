@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,751 songs - 4 day 13 hr 7 min - not published yet
+1,752 songs - 4 day 13 hr 9 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [Good Love \- Tiësto Remix](https://open.spotify.com/track/64EVtIxtoYJorqaMjHGzPM) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Good Love \(Tiësto Remix\)](https://open.spotify.com/album/0JIbQeiVdvWJq3oLLfpYAJ) | 3:02 | 2023-07-27 | 2023-08-04 |
 | [Good Thing](https://open.spotify.com/track/1k1mZ9B1CzAMEIEp6uUk5p) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Somebody Else](https://open.spotify.com/album/5S3mCKtrPmVdIeiLGKLGzT) | 3:11 | 2022-09-22 | 2022-10-07 |
 | [Good With It](https://open.spotify.com/track/3YOaNc8IzHkGCKqoP4ePBa) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Good With It](https://open.spotify.com/album/0RtdWilPUDpbDjs4Gc8yV5) | 3:52 | 2022-12-01 | 2023-01-01 |
+| [goodnight sweetheart](https://open.spotify.com/track/7hIprlH1dOHt1SuTk9oK4K) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 1:36 | 2023-10-19 |  |
 | [Grapefruit](https://open.spotify.com/track/0L06aZLoX6BRT0hUPh7O5g) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Dirt Femme](https://open.spotify.com/album/3755MjOhMsW1I9u9mh3xPF) | 3:51 | 2022-10-13 | 2022-10-21 |
 | [Gravity](https://open.spotify.com/track/4tJ5ZiVcub4muuKvwubVYf) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Elena Maya](https://open.spotify.com/artist/1edRDz2M70YGM4K3Z9mEKz) | [Gravity](https://open.spotify.com/album/56uU3QRBafX5CULRougEDT) | 3:32 | 2023-09-28 | 2023-10-20 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-05-26 | 2022-06-25 |
@@ -1214,7 +1215,7 @@
 | [Pink Venom](https://open.spotify.com/track/7EyhPjrJzjx0fk2i7vUJCS) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [Pink Venom](https://open.spotify.com/album/5bKmRG1QsggSXoHxYUnPIY) | 3:06 | 2022-08-25 | 2022-09-17 |
 | [Pirate King](https://open.spotify.com/track/1NV11avfn4LPdPfncHxqE2) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [eerie](https://open.spotify.com/artist/34Ms8SDF1EGvcSULOKjgaV) | [Pirate King](https://open.spotify.com/album/7gBalqzr8I5dFqHpdaxzid) | 3:37 | 2023-06-01 | 2023-06-16 |
 | [PITY PARTY](https://open.spotify.com/track/4UQVHnvC9UD4jYYSjwTbp7) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [PITY PARTY](https://open.spotify.com/album/5qCV7EtFCsNheI3dl5Z1oV) | 2:19 | 2023-09-14 | 2023-10-13 |
-| [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 | 2023-10-19 |  |
+| [pixie dust](https://open.spotify.com/track/3lh4K4ksY84ATTQNbcTg4u) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for pixie](https://open.spotify.com/album/5dLZH32QBSqkcHhJxHTqb6) | 2:08 | 2023-10-19 | 2023-10-24 |
 | [plastic pony](https://open.spotify.com/track/2ZOoWRLwEME9J2wGVVnqhc) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/1BAKSMvDVbMnc5WrQ4qU80) | 2:22 | 2022-09-15 | 2022-09-23 |
 | [plastic pony](https://open.spotify.com/track/4nx1caorxzv8ItosxZqrfG) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rising \(the deluxe\)](https://open.spotify.com/album/3iIQrRl8NG7AgSJlStJdQw) | 2:22 | 2022-10-06 | 2022-10-14 |
 | [Polymath](https://open.spotify.com/track/1tGTOu4azTAyXtb4jUSYyr) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Polymath](https://open.spotify.com/album/4oy5b3nOk8BgLc03DLCsw8) | 3:40 | 2023-07-13 | 2023-07-21 |
