@@ -1,13 +1,53 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIXM8pxoXzfyo>Craig David</a>, <a href=spotify:playlist:37i9dQZF1EIVCFJBkCVG4a>Jay Sean</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIVCFJBkCVG4a>Jay Sean</a>, <a href=spotify:playlist:37i9dQZF1EIZeSC42Vbkfx>Tinashe</a>, <a href=spotify:playlist:37i9dQZF1EIXM8pxoXzfyo>Craig David</a> and more",
     "num_followers": 0,
     "original_name": "R&B Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTY5ODEyNzIwMCwwMDAwMDAwMDNkMGNiODJmMmU1MWE3NThlODVhN2FmMDg1ZGM3ZTY4",
+    "snapshot_id": "MTY5ODIxMzYwMCwwMDAwMDAwMDA3NTk4NzFmZGRjOTU5NjRiNDRiZDI2OTIzM2I0OGJj",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "All Or Nothing",
+                "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
+            },
+            "artists": [
+                {
+                    "name": "Jay Sean",
+                    "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+                },
+                {
+                    "name": "Lil Wayne",
+                    "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                }
+            ],
+            "duration_ms": 212506,
+            "name": "Down",
+            "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Aquarius",
+                "url": "https://open.spotify.com/album/6zXUDBGLbrB9Kgkw2Y3F7L"
+            },
+            "artists": [
+                {
+                    "name": "Tinashe",
+                    "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+                },
+                {
+                    "name": "ScHoolboy Q",
+                    "url": "https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m"
+                }
+            ],
+            "duration_ms": 227000,
+            "name": "2 On (feat. ScHoolboy Q)",
+            "url": "https://open.spotify.com/track/3jVtllWS5CFFWLQng8sKsr"
+        },
         {
             "added_at": null,
             "album": {
@@ -31,22 +71,26 @@
         {
             "added_at": null,
             "album": {
-                "name": "All Or Nothing",
-                "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
+                "name": "BTBT",
+                "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
             },
             "artists": [
                 {
-                    "name": "Jay Sean",
-                    "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+                    "name": "B.I",
+                    "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
                 },
                 {
-                    "name": "Lil Wayne",
-                    "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+                    "name": "Soulja Boy",
+                    "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+                },
+                {
+                    "name": "DeVita",
+                    "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
                 }
             ],
-            "duration_ms": 212506,
-            "name": "Down",
-            "url": "https://open.spotify.com/track/6cmm1LMvZdB5zsCwX5BjqE"
+            "duration_ms": 219549,
+            "name": "BTBT",
+            "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
         },
         {
             "added_at": null,
@@ -87,302 +131,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "BTBT",
-                "url": "https://open.spotify.com/album/6z2Ij8op0iB16BnmrCy0vH"
-            },
-            "artists": [
-                {
-                    "name": "B.I",
-                    "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-                },
-                {
-                    "name": "Soulja Boy",
-                    "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-                },
-                {
-                    "name": "DeVita",
-                    "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
-                }
-            ],
-            "duration_ms": 219549,
-            "name": "BTBT",
-            "url": "https://open.spotify.com/track/4XcxgZSriCYamtIA7BgT7V"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Heartbreak Heard Around the World (feat. T-Pain)",
-                "url": "https://open.spotify.com/album/3iehWZGcC9bI38KwE6XSHp"
-            },
-            "artists": [
-                {
-                    "name": "Jacob Latimore",
-                    "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
-                },
-                {
-                    "name": "T-Pain",
-                    "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
-                }
-            ],
-            "duration_ms": 180159,
-            "name": "Heartbreak Heard Around the World (feat. T-Pain)",
-            "url": "https://open.spotify.com/track/4jRhf3Ut6qLfOudvcJjXJO"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Indigo",
-                "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
-            },
-            "artists": [
-                {
-                    "name": "Chris Brown",
-                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-                }
-            ],
-            "duration_ms": 184800,
-            "name": "You Like That",
-            "url": "https://open.spotify.com/track/7jQhfMtUnIQFPa4qVkAqmu"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "While We Wait",
-                "url": "https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW"
-            },
-            "artists": [
-                {
-                    "name": "Kehlani",
-                    "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-                }
-            ],
-            "duration_ms": 181140,
-            "name": "Feels",
-            "url": "https://open.spotify.com/track/4BOikd4oZjOYMde9AXfrTo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Lead",
-                "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-            },
-            "artists": [
-                {
-                    "name": "FLO",
-                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-                }
-            ],
-            "duration_ms": 147539,
-            "name": "Summertime",
-            "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Falling For You",
-                "url": "https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm"
-            },
-            "artists": [
-                {
-                    "name": "Ashanti",
-                    "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
-                }
-            ],
-            "duration_ms": 199825,
-            "name": "Falling For You",
-            "url": "https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dark Side",
-                "url": "https://open.spotify.com/album/0FvZIwN0AHWYQVyuS3KR7H"
-            },
-            "artists": [
-                {
-                    "name": "Justine Skye",
-                    "url": "https://open.spotify.com/artist/0jUQSUOcM7lxVn5eVGTkzQ"
-                },
-                {
-                    "name": "Tyga",
-                    "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-                }
-            ],
-            "duration_ms": 260169,
-            "name": "Collide (feat. Tyga)",
-            "url": "https://open.spotify.com/track/5kY2DRIom6dcVZbQb1SAX8"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fair",
-                "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
-            },
-            "artists": [
-                {
-                    "name": "Normani",
-                    "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
-                }
-            ],
-            "duration_ms": 184012,
-            "name": "Fair",
-            "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Selfless",
-                "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-            },
-            "artists": [
-                {
-                    "name": "Kiana Ledé",
-                    "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-                }
-            ],
-            "duration_ms": 181266,
-            "name": "Wicked Games",
-            "url": "https://open.spotify.com/track/0TYhf0MgEj4YJaKwo5c4Km"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dally (feat. GRAY)",
-                "url": "https://open.spotify.com/album/29V7CreOSbyquvDJYiEs1Y"
-            },
-            "artists": [
-                {
-                    "name": "HYOLYN",
-                    "url": "https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ"
-                },
-                {
-                    "name": "GRAY",
-                    "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-                }
-            ],
-            "duration_ms": 203000,
-            "name": "Dally (feat. GRAY)",
-            "url": "https://open.spotify.com/track/1JD37Pmj6xJj8dlWHgLG9C"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "It Was Good Until It Wasn't",
-                "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-            },
-            "artists": [
-                {
-                    "name": "Kehlani",
-                    "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-                }
-            ],
-            "duration_ms": 122813,
-            "name": "Water",
-            "url": "https://open.spotify.com/track/4ot7u8Ij91aHKohSV2QYZi"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Immature",
-                "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
-            },
-            "artists": [
-                {
-                    "name": "FLO",
-                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-                }
-            ],
-            "duration_ms": 173105,
-            "name": "Immature",
-            "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Jackie (Deluxe)",
-                "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
-            },
-            "artists": [
-                {
-                    "name": "Ciara",
-                    "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-                }
-            ],
-            "duration_ms": 256600,
-            "name": "Dance Like We're Making Love",
-            "url": "https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Everything New",
-                "url": "https://open.spotify.com/album/6RpXdKBebf3EBqAGvYHyaQ"
-            },
-            "artists": [
-                {
-                    "name": "Natalie",
-                    "url": "https://open.spotify.com/artist/4lFOyLUXnV2Emuus9X8xpA"
-                }
-            ],
-            "duration_ms": 215040,
-            "name": "Love You So",
-            "url": "https://open.spotify.com/track/0JTTx9wdM4bC08mavL54bf"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Poison (feat. The Weeknd)",
-                "url": "https://open.spotify.com/album/2t0AfNqhtlMnjFxbTzmPqO"
-            },
-            "artists": [
-                {
-                    "name": "Aaliyah",
-                    "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-                },
-                {
-                    "name": "The Weeknd",
-                    "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-                }
-            ],
-            "duration_ms": 162631,
-            "name": "Poison",
-            "url": "https://open.spotify.com/track/7M4fSXTAUQih72cf0FbMgA"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "KIKI",
-                "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
-            },
-            "artists": [
-                {
-                    "name": "Kiana Ledé",
-                    "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-                }
-            ],
-            "duration_ms": 135373,
-            "name": "Mad At Me.",
-            "url": "https://open.spotify.com/track/0xJWNEUYTU5tle6ezjf0gE"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "3 of Us",
-                "url": "https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV"
-            },
-            "artists": [
-                {
-                    "name": "FLO",
-                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-                }
-            ],
-            "duration_ms": 192000,
-            "name": "Change",
-            "url": "https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "blue water road",
                 "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
             },
@@ -403,6 +151,114 @@
         {
             "added_at": null,
             "album": {
+                "name": "For the Night",
+                "url": "https://open.spotify.com/album/6Y3MgnjUXqGRYtDdfE5e0Q"
+            },
+            "artists": [
+                {
+                    "name": "Chlöe",
+                    "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+                },
+                {
+                    "name": "Latto",
+                    "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+                }
+            ],
+            "duration_ms": 205170,
+            "name": "For the Night",
+            "url": "https://open.spotify.com/track/6y39UI6gdUexBGprn6pQo6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Better Thangs",
+                "url": "https://open.spotify.com/album/4czheDpc6NZXB8Fp0YiQ77"
+            },
+            "artists": [
+                {
+                    "name": "Ciara",
+                    "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+                },
+                {
+                    "name": "Summer Walker",
+                    "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+                }
+            ],
+            "duration_ms": 214352,
+            "name": "Better Thangs (with Summer Walker)",
+            "url": "https://open.spotify.com/track/5ToBvPG8kVJ70jXGvealFs"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "i hope u see this",
+                "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+            },
+            "artists": [
+                {
+                    "name": "thuy",
+                    "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+                },
+                {
+                    "name": "DCMBR",
+                    "url": "https://open.spotify.com/artist/6sjYoprgk0hVjBA77kIXUr"
+                }
+            ],
+            "duration_ms": 167312,
+            "name": "chances",
+            "url": "https://open.spotify.com/track/3PPD1wg591kQnsws16mlkS"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Falling For You",
+                "url": "https://open.spotify.com/album/74LaE3Z8eYdY9KlHjTXCVm"
+            },
+            "artists": [
+                {
+                    "name": "Ashanti",
+                    "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+                }
+            ],
+            "duration_ms": 199825,
+            "name": "Falling For You",
+            "url": "https://open.spotify.com/track/1KgqMmNUqRdXqZhR4PXtg8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Because Of You",
+                "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+            },
+            "artists": [
+                {
+                    "name": "Ne-Yo",
+                    "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+                }
+            ],
+            "duration_ms": 266840,
+            "name": "Because Of You",
+            "url": "https://open.spotify.com/track/6CFPFnS9EcLs2I0nWqtWci"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "KIKI",
+                "url": "https://open.spotify.com/album/6UmILTxwjM8sME3wbsZgQh"
+            },
+            "artists": [
+                {
+                    "name": "Kiana Ledé",
+                    "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+                }
+            ],
+            "duration_ms": 135373,
+            "name": "Mad At Me.",
+            "url": "https://open.spotify.com/track/0xJWNEUYTU5tle6ezjf0gE"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Ms. Kelly: Deluxe Edition",
                 "url": "https://open.spotify.com/album/6mwFFBME5LCvDKyD9B0jZt"
             },
@@ -419,92 +275,28 @@
         {
             "added_at": null,
             "album": {
-                "name": "Heart On My Sleeve",
-                "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
+                "name": "Wild Side (feat. Cardi B)",
+                "url": "https://open.spotify.com/album/16maAu5lqvFBSEEHyB5GzV"
             },
             "artists": [
                 {
-                    "name": "Ella Mai",
-                    "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-                }
-            ],
-            "duration_ms": 197520,
-            "name": "DFMU",
-            "url": "https://open.spotify.com/track/1bdm32mVmoGcek5bVKxQKd"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Like I Used To",
-                "url": "https://open.spotify.com/album/3agSXLYruoxkcf3U6zPTN4"
-            },
-            "artists": [
-                {
-                    "name": "Tinashe",
-                    "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-                }
-            ],
-            "duration_ms": 187537,
-            "name": "Like I Used To",
-            "url": "https://open.spotify.com/track/3fMKnwiByu9yfeD5ISn9Et"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Indigo (Extended)",
-                "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-            },
-            "artists": [
-                {
-                    "name": "Chris Brown",
-                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-                }
-            ],
-            "duration_ms": 134400,
-            "name": "Problem With You",
-            "url": "https://open.spotify.com/track/44hWXFu2i4bteXLi2v7WyD"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Still Over It",
-                "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
-            },
-            "artists": [
-                {
-                    "name": "Summer Walker",
-                    "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+                    "name": "Normani",
+                    "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
                 },
                 {
-                    "name": "SZA",
-                    "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+                    "name": "Cardi B",
+                    "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
                 }
             ],
-            "duration_ms": 231497,
-            "name": "No Love (with SZA)",
-            "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
+            "duration_ms": 209476,
+            "name": "Wild Side (feat. Cardi B)",
+            "url": "https://open.spotify.com/track/2vXgyN14LX2zl7JEASw242"
         },
         {
             "added_at": null,
             "album": {
-                "name": "SOS",
-                "url": "https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP"
-            },
-            "artists": [
-                {
-                    "name": "SZA",
-                    "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-                }
-            ],
-            "duration_ms": 153946,
-            "name": "Kill Bill",
-            "url": "https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Losing You",
-                "url": "https://open.spotify.com/album/1nVNtqccCdtzc3N9uKqXXl"
+                "name": "3 of Us",
+                "url": "https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV"
             },
             "artists": [
                 {
@@ -512,109 +304,129 @@
                     "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
                 }
             ],
-            "duration_ms": 224500,
-            "name": "Losing You",
-            "url": "https://open.spotify.com/track/146pr47LcU6HE5TQ6mgiSX"
+            "duration_ms": 192000,
+            "name": "Change",
+            "url": "https://open.spotify.com/track/65KZuAz5UdEXiS2YulhjDe"
         },
         {
             "added_at": null,
             "album": {
-                "name": "The Writing's On The Wall",
-                "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+                "name": "Heart On My Sleeve",
+                "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
             },
             "artists": [
                 {
-                    "name": "Destiny's Child",
-                    "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-                }
-            ],
-            "duration_ms": 256026,
-            "name": "Bills, Bills, Bills",
-            "url": "https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Charice",
-                "url": "https://open.spotify.com/album/2GhwG1q1nyMEc3GAfnQysg"
-            },
-            "artists": [
-                {
-                    "name": "Charice",
-                    "url": "https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc"
+                    "name": "Ella Mai",
+                    "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
                 },
                 {
-                    "name": "Iyaz",
-                    "url": "https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C"
+                    "name": "Roddy Ricch",
+                    "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
                 }
             ],
-            "duration_ms": 235946,
-            "name": "Pyramid (feat. Iyaz)",
-            "url": "https://open.spotify.com/track/7Bs3eQv2Z0ZQaAWaBK9N1X"
+            "duration_ms": 218320,
+            "name": "How (feat. Roddy Ricch)",
+            "url": "https://open.spotify.com/track/6w93UfN5MeXXQTrVIf5V6x"
         },
         {
             "added_at": null,
             "album": {
-                "name": "All Me (feat. Keyshia Cole)",
-                "url": "https://open.spotify.com/album/2bxcNajPY3MT1I4LuGJCOX"
+                "name": "SweetSexySavage (Deluxe)",
+                "url": "https://open.spotify.com/album/4B4in9QlrlYWSHlYSRebdC"
             },
             "artists": [
                 {
                     "name": "Kehlani",
                     "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-                },
-                {
-                    "name": "Keyshia Cole",
-                    "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
                 }
             ],
-            "duration_ms": 178347,
-            "name": "All Me (feat. Keyshia Cole)",
-            "url": "https://open.spotify.com/track/3ucRKbRlikYHyoI17gfR0c"
+            "duration_ms": 235693,
+            "name": "Distraction",
+            "url": "https://open.spotify.com/track/2wSQyp6VzUopSFBinRo1iD"
         },
         {
             "added_at": null,
             "album": {
-                "name": "What Would You Do? (R&B Remix)",
-                "url": "https://open.spotify.com/album/4wDXA7ivD2je1xRuP4hKgp"
+                "name": "Breezy",
+                "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
             },
             "artists": [
                 {
-                    "name": "Joel Corry",
-                    "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
                 },
                 {
-                    "name": "Bryson Tiller",
-                    "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-                },
-                {
-                    "name": "Tiana Major9",
-                    "url": "https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9"
+                    "name": "Jack Harlow",
+                    "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
                 }
             ],
-            "duration_ms": 155062,
-            "name": "What Would You Do? (R&B Remix)",
-            "url": "https://open.spotify.com/track/5caYUeSUoPB6nEcuOjVyXm"
+            "duration_ms": 220760,
+            "name": "Psychic",
+            "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Ms. Kelly",
-                "url": "https://open.spotify.com/album/2EiQw9hFSFDeY8vlDWMMQN"
+                "name": "Fair",
+                "url": "https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF"
             },
             "artists": [
                 {
-                    "name": "Kelly Rowland",
-                    "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-                },
-                {
-                    "name": "Eve",
-                    "url": "https://open.spotify.com/artist/4d3yvTptO48nOYTPBcPFZC"
+                    "name": "Normani",
+                    "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I"
                 }
             ],
-            "duration_ms": 215853,
-            "name": "Like This (feat. Eve)",
-            "url": "https://open.spotify.com/track/7ju8Fz9Z6rTNAzDMSoOCh2"
+            "duration_ms": 184012,
+            "name": "Fair",
+            "url": "https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "I Care 4 U",
+                "url": "https://open.spotify.com/album/0vqRNgbh25rbYpiZ2Ejv6s"
+            },
+            "artists": [
+                {
+                    "name": "Aaliyah",
+                    "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+                }
+            ],
+            "duration_ms": 284000,
+            "name": "Try Again",
+            "url": "https://open.spotify.com/track/6dp3XPQJuC7qP7TaEFVgL5"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Places Like Home",
+                "url": "https://open.spotify.com/album/5DsNA2DjbsMd7rdzpguP0g"
+            },
+            "artists": [
+                {
+                    "name": "Justin Park",
+                    "url": "https://open.spotify.com/artist/4egd57eyEccqfOkHxoQqAj"
+                }
+            ],
+            "duration_ms": 181379,
+            "name": "On the Low",
+            "url": "https://open.spotify.com/track/4MIKclDDgZgzuaATP5yOjW"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "READY",
+                "url": "https://open.spotify.com/album/3o09FMrUQ5TVBUYb6msCMi"
+            },
+            "artists": [
+                {
+                    "name": "Ella Mai",
+                    "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
+                }
+            ],
+            "duration_ms": 191981,
+            "name": "My Way",
+            "url": "https://open.spotify.com/track/3x4Zx0rPoW6kErSDK8SSnW"
         },
         {
             "added_at": null,
@@ -635,54 +447,78 @@
         {
             "added_at": null,
             "album": {
-                "name": "SOS",
-                "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+                "name": "Slime & B",
+                "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG"
             },
             "artists": [
                 {
-                    "name": "SZA",
-                    "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-                }
-            ],
-            "duration_ms": 173906,
-            "name": "I Hate U",
-            "url": "https://open.spotify.com/track/2aJnyNu4PQxQ2lyj5boiMG"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Truth",
-                "url": "https://open.spotify.com/album/2UkYKJGOsWvPpMPfxfi9zQ"
-            },
-            "artists": [
-                {
-                    "name": "Cherish",
-                    "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
                 },
                 {
-                    "name": "Yung Joc",
-                    "url": "https://open.spotify.com/artist/23LbwefIODbyGdRbAz3urj"
+                    "name": "Young Thug",
+                    "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
                 }
             ],
-            "duration_ms": 228973,
-            "name": "Killa",
-            "url": "https://open.spotify.com/track/5KzHTHTjftb7QFh5GicRnO"
+            "duration_ms": 176960,
+            "name": "Go Crazy",
+            "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
         },
         {
             "added_at": null,
             "album": {
-                "name": "MOVIE",
-                "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
+                "name": "girls like me don't cry",
+                "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
             },
             "artists": [
                 {
-                    "name": "DaniLeigh",
-                    "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+                    "name": "thuy",
+                    "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+                },
+                {
+                    "name": "RINI",
+                    "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
                 }
             ],
-            "duration_ms": 225919,
-            "name": "Situations",
-            "url": "https://open.spotify.com/track/7ctELL5vtMLu831Bd6i2uB"
+            "duration_ms": 197557,
+            "name": "trust (feat. RINI)",
+            "url": "https://open.spotify.com/track/5tHWgoCChShsl9BJDkZDcQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Motion (feat. Chris Brown)",
+                "url": "https://open.spotify.com/album/7tpEGkrQn7roe8BPqSkt3u"
+            },
+            "artists": [
+                {
+                    "name": "Ty Dolla $ign",
+                    "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+                },
+                {
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+                }
+            ],
+            "duration_ms": 147391,
+            "name": "Motion (feat. Chris Brown)",
+            "url": "https://open.spotify.com/track/3TV0uB4XI6vBoN7MjOhiAC"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The Lead",
+                "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+            },
+            "artists": [
+                {
+                    "name": "FLO",
+                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+                }
+            ],
+            "duration_ms": 147539,
+            "name": "Summertime",
+            "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
         },
         {
             "added_at": null,
@@ -696,9 +532,281 @@
                     "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
                 }
             ],
-            "duration_ms": 209133,
-            "name": "Leave You Alone",
-            "url": "https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk"
+            "duration_ms": 197306,
+            "name": "Trying",
+            "url": "https://open.spotify.com/track/2EHaJElgdxeZG2bzCMVmMN"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The Album",
+                "url": "https://open.spotify.com/album/11QKDc8OK4rnD3uBs7wKmR"
+            },
+            "artists": [
+                {
+                    "name": "Teyana Taylor",
+                    "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+                }
+            ],
+            "duration_ms": 128651,
+            "name": "Bare Wit Me",
+            "url": "https://open.spotify.com/track/5QvU2zJrEVw1gAVL4D4iLj"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "I AM...SASHA FIERCE - Platinum Edition",
+                "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+            },
+            "artists": [
+                {
+                    "name": "Beyoncé",
+                    "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+                }
+            ],
+            "duration_ms": 261160,
+            "name": "Halo",
+            "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Grudges",
+                "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+            },
+            "artists": [
+                {
+                    "name": "Kiana Ledé",
+                    "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+                }
+            ],
+            "duration_ms": 214455,
+            "name": "Deeper",
+            "url": "https://open.spotify.com/track/58z9odzkFuph91CkBcmOzY"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Because Of You",
+                "url": "https://open.spotify.com/album/52q9xNv8COtSU9phlbO5sg"
+            },
+            "artists": [
+                {
+                    "name": "Ne-Yo",
+                    "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+                }
+            ],
+            "duration_ms": 261426,
+            "name": "Go On Girl",
+            "url": "https://open.spotify.com/track/3QE7ObGjkt1kYnhLvZPRUy"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "All Hands On Deck REMIX (feat. Iggy Azalea)",
+                "url": "https://open.spotify.com/album/4lP8vfD5YomYnhEvavof6R"
+            },
+            "artists": [
+                {
+                    "name": "Tinashe",
+                    "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+                },
+                {
+                    "name": "Iggy Azalea",
+                    "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+                }
+            ],
+            "duration_ms": 220645,
+            "name": "All Hands On Deck REMIX (feat. Iggy Azalea)",
+            "url": "https://open.spotify.com/track/5rX9fqEGsHnQeEEsc1Cc3J"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Indigo (Extended)",
+                "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+            },
+            "artists": [
+                {
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+                }
+            ],
+            "duration_ms": 134400,
+            "name": "Problem With You",
+            "url": "https://open.spotify.com/track/44hWXFu2i4bteXLi2v7WyD"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Concrete Rose",
+                "url": "https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD"
+            },
+            "artists": [
+                {
+                    "name": "Ashanti",
+                    "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+                }
+            ],
+            "duration_ms": 186306,
+            "name": "Only U - No Intro",
+            "url": "https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Just Like You",
+                "url": "https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK"
+            },
+            "artists": [
+                {
+                    "name": "Keyshia Cole",
+                    "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+                },
+                {
+                    "name": "Amina",
+                    "url": "https://open.spotify.com/artist/642UEJuKWqIch9pOmTWquR"
+                }
+            ],
+            "duration_ms": 220866,
+            "name": "Shoulda Let You Go",
+            "url": "https://open.spotify.com/track/1yTfczdv9qGCfJpZF3y4yQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Immature",
+                "url": "https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9"
+            },
+            "artists": [
+                {
+                    "name": "FLO",
+                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+                }
+            ],
+            "duration_ms": 173105,
+            "name": "Immature",
+            "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "MELOH",
+                "url": "https://open.spotify.com/album/4FsOISPX2LQ3xqq9TZZfm1"
+            },
+            "artists": [
+                {
+                    "name": "MELOH",
+                    "url": "https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg"
+                },
+                {
+                    "name": "Gist",
+                    "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+                }
+            ],
+            "duration_ms": 160104,
+            "name": "Understand",
+            "url": "https://open.spotify.com/track/0gVqDsMxAOREJ6WcdOuVHk"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "girls like me don't cry",
+                "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
+            },
+            "artists": [
+                {
+                    "name": "thuy",
+                    "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+                }
+            ],
+            "duration_ms": 185263,
+            "name": "obsessed",
+            "url": "https://open.spotify.com/track/4eJHrA5Ujucbjs7ieKYOUQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "CiCi",
+                "url": "https://open.spotify.com/album/2SCqEnMiuSZG4scznyel9x"
+            },
+            "artists": [
+                {
+                    "name": "Ciara",
+                    "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+                }
+            ],
+            "duration_ms": 225534,
+            "name": "Type A Party",
+            "url": "https://open.spotify.com/track/26WotGSatBSAP1KP2Fz3Ke"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "blue water road",
+                "url": "https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF"
+            },
+            "artists": [
+                {
+                    "name": "Kehlani",
+                    "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+                },
+                {
+                    "name": "Jessie Reyez",
+                    "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+                }
+            ],
+            "duration_ms": 200639,
+            "name": "more than i should (feat. jessie reyez)",
+            "url": "https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Libra Scale",
+                "url": "https://open.spotify.com/album/2qqB7RaEdn2Lkte4St3Ban"
+            },
+            "artists": [
+                {
+                    "name": "Ne-Yo",
+                    "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+                }
+            ],
+            "duration_ms": 251573,
+            "name": "Beautiful Monster",
+            "url": "https://open.spotify.com/track/2Q99zPXVqCPN5RaZawvJWZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Indigo",
+                "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+            },
+            "artists": [
+                {
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+                }
+            ],
+            "duration_ms": 184800,
+            "name": "You Like That",
+            "url": "https://open.spotify.com/track/7jQhfMtUnIQFPa4qVkAqmu"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "All or Nothing",
+                "url": "https://open.spotify.com/album/2eFojbRdQFQMpBYOBr30IO"
+            },
+            "artists": [
+                {
+                    "name": "Rotimi",
+                    "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+                }
+            ],
+            "duration_ms": 144004,
+            "name": "What To Do",
+            "url": "https://open.spotify.com/track/2LDkEjNIWOGFhjiDDA5gnJ"
         },
         {
             "added_at": null,
@@ -727,72 +835,24 @@
         {
             "added_at": null,
             "album": {
-                "name": "I AM...SASHA FIERCE - Platinum Edition",
-                "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+                "name": "Cassie (U.S. Version)",
+                "url": "https://open.spotify.com/album/0j1qzjaJmsF1FkcICf3hRu"
             },
             "artists": [
                 {
-                    "name": "Beyoncé",
-                    "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+                    "name": "Cassie",
+                    "url": "https://open.spotify.com/artist/27FGXRNruFoOdf1vP8dqcH"
                 }
             ],
-            "duration_ms": 261160,
-            "name": "Halo",
-            "url": "https://open.spotify.com/track/2CvOqDpQIMw69cCzWqr5yr"
+            "duration_ms": 192213,
+            "name": "Me & U",
+            "url": "https://open.spotify.com/track/7k6IzwMGpxnRghE7YosnXT"
         },
         {
             "added_at": null,
             "album": {
-                "name": "It Was Good Until It Wasn't",
-                "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-            },
-            "artists": [
-                {
-                    "name": "Kehlani",
-                    "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-                }
-            ],
-            "duration_ms": 168182,
-            "name": "Toxic",
-            "url": "https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "In Pieces",
-                "url": "https://open.spotify.com/album/57eOzR6RxyfJLC3ggBQfRI"
-            },
-            "artists": [
-                {
-                    "name": "Chlöe",
-                    "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
-                }
-            ],
-            "duration_ms": 140197,
-            "name": "Body Do",
-            "url": "https://open.spotify.com/track/0jdNoNSnFwqftO9s7az6r4"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Lead",
-                "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-            },
-            "artists": [
-                {
-                    "name": "FLO",
-                    "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
-                }
-            ],
-            "duration_ms": 201621,
-            "name": "Feature Me",
-            "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "i hope u see this",
-                "url": "https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P"
+                "name": "girls like me don't cry",
+                "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
             },
             "artists": [
                 {
@@ -800,97 +860,45 @@
                     "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
                 }
             ],
-            "duration_ms": 192000,
-            "name": "figured u out",
-            "url": "https://open.spotify.com/track/31sZ3f4En15JbGW4uIEH7D"
+            "duration_ms": 157199,
+            "name": "u should feel special",
+            "url": "https://open.spotify.com/track/3xpY2T84iSw9bAbJ8zl7Dt"
         },
         {
             "added_at": null,
             "album": {
-                "name": "tori",
-                "url": "https://open.spotify.com/album/2PQVnh3WyBRkVRzcl2nWBd"
+                "name": "Girls Night Out",
+                "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
             },
             "artists": [
                 {
-                    "name": "Tori Kelly",
-                    "url": "https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr"
-                }
-            ],
-            "duration_ms": 172647,
-            "name": "missin u - r&b edit",
-            "url": "https://open.spotify.com/track/2TpcFRFD5DESYD1JF9nJ9q"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Christina Milian",
-                "url": "https://open.spotify.com/album/1Okk0lo0aBdchXZmjDHjkS"
-            },
-            "artists": [
-                {
-                    "name": "Christina Milian",
-                    "url": "https://open.spotify.com/artist/4eAOcbAXIF4BmbN6E1QIlw"
-                }
-            ],
-            "duration_ms": 231213,
-            "name": "AM To PM",
-            "url": "https://open.spotify.com/track/1PUNthIXityeZlnRLcP7JI"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "All Or Nothing",
-                "url": "https://open.spotify.com/album/2H66HrVR1UeMlAoSXpxUnk"
-            },
-            "artists": [
-                {
-                    "name": "Jay Sean",
-                    "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+                    "name": "Babyface",
+                    "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
                 },
                 {
-                    "name": "Sean Paul",
-                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-                },
-                {
-                    "name": "Lil Jon",
-                    "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+                    "name": "Doechii",
+                    "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
                 }
             ],
-            "duration_ms": 210800,
-            "name": "Do You Remember",
-            "url": "https://open.spotify.com/track/6A5NlmBCsCGbJ27jHQgKV5"
+            "duration_ms": 201528,
+            "name": "Girls Night Out (with Doechii)",
+            "url": "https://open.spotify.com/track/74FInvmyz8taG35p8QYU6J"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Calling All Hearts",
-                "url": "https://open.spotify.com/album/2RgKoQf4PYKhAf4Chd45jP"
+                "name": "SOS",
+                "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
             },
             "artists": [
                 {
-                    "name": "Keyshia Cole",
-                    "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
+                    "name": "SZA",
+                    "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
                 }
             ],
-            "duration_ms": 227053,
-            "name": "Take Me Away",
-            "url": "https://open.spotify.com/track/3SQqBIYN8fPB3wPjFGRS5N"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "It Was Good Until It Wasn't",
-                "url": "https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3"
-            },
-            "artists": [
-                {
-                    "name": "Kehlani",
-                    "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-                }
-            ],
-            "duration_ms": 167810,
-            "name": "Can I",
-            "url": "https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO"
+            "duration_ms": 151413,
+            "name": "Conceited",
+            "url": "https://open.spotify.com/track/4hTej08FutmriOs7S1hWWy"
         }
     ],
     "unique_name": "R&B Mix",
