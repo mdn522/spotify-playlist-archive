@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,831 songs - 4 day 17 hr 33 min - not published yet
+1,832 songs - 4 day 17 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Fog Dancer](https://open.spotify.com/track/0JAVCJzRHovS5Bjbdnu8B4) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Fog Dancer](https://open.spotify.com/album/5q5iCX6WdiUrnXOWxMosvG) | 4:57 | 2023-06-15 | 2023-06-23 |
 | [Follow \- Danny Burg Remix](https://open.spotify.com/track/49w6u11Uht4EjWt1Cmg8B6) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf) | [Follow \(Danny Burg Remix\)](https://open.spotify.com/album/5jzVxHfOjfiIcqdtatA2p1) | 2:41 | 2022-12-08 | 2023-01-09 |
 | [Follow Me \- Sick Individuals Remix](https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Follow Me \(Sick Individuals Remix\)](https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf) | 2:46 | 2022-08-25 | 2022-09-24 |
+| [FOLLOW THE VIBE \- Lumasi Remix](https://open.spotify.com/track/3YXfoqDe9Alu2Kz1Vks7UY) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Taylr Renee](https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8), [Lumasi](https://open.spotify.com/artist/0y5sfSvE19x3r3nVUKYbIN) | [LSDREAM Remix Series, Vol\. 1](https://open.spotify.com/album/1uiMHtTtp59f3DpMdS108f) | 3:37 | 2023-11-02 |  |
 | [Footprints](https://open.spotify.com/track/0xQ5zg8Nc9c6CdSlHDbZ9F) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Footprints](https://open.spotify.com/album/7pkhsOLc4yGWzAugW3Yfur) | 2:42 | 2022-09-22 | 2022-10-14 |
 | [Force](https://open.spotify.com/track/19unD7rG2TiZExkGw7arDQ) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Origins](https://open.spotify.com/album/6fFWfyJAwDCUoNA8X9O5Ni) | 4:00 | 2022-07-07 | 2022-07-15 |
 | [Forever](https://open.spotify.com/track/4nFgC1rseWsbPbRGyKWbPQ) | [Aurora B.Polaris](https://open.spotify.com/artist/5ijyJAflvGUkt5ctox73gf) | [Forever](https://open.spotify.com/album/1eB1fLDOkI6umISODEvwAm) | 2:56 | 2023-06-08 | 2023-06-16 |
@@ -1498,7 +1499,7 @@
 | [Spune\-mi](https://open.spotify.com/track/6zZBybL257ORTVBRhilEJp) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Liliac](https://open.spotify.com/album/5hbNe1XAypjiOm1owncDpS) | 3:07 | 2023-11-02 |  |
 | [Spune\-mi](https://open.spotify.com/track/3Eo2NoBVlS4nk6fONJUTa1) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Spune\-mi](https://open.spotify.com/album/6ExhcyktIuSixEHvyYIr0q) | 3:07 | 2023-09-28 | 2023-10-13 |
 | [Star Shooter](https://open.spotify.com/track/7xcuFHUldccrZiGjVa66Vh) | [JeanJiño](https://open.spotify.com/artist/3qCx2KCdxS3wKdRpKarZKN) | [Star Shooter](https://open.spotify.com/album/0059Y4v3ngc0TfRwEuPsvh) | 4:03 | 2023-06-08 | 2023-06-16 |
-| [STARCHILD \- Sippy Remix](https://open.spotify.com/track/19ys7f8BjJBYbduABy3hwy) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN), [Sarah Hudson](https://open.spotify.com/artist/11S3x86ILlsuCBil6EmDo2), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [LSDREAM Remix Series, Vol\. 1](https://open.spotify.com/album/1uiMHtTtp59f3DpMdS108f) | 2:57 | 2023-11-02 |  |
+| [STARCHILD \- Sippy Remix](https://open.spotify.com/track/19ys7f8BjJBYbduABy3hwy) | [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND), [Shlump](https://open.spotify.com/artist/2vdEGASQQlLcmOqlQhYWlN), [Sarah Hudson](https://open.spotify.com/artist/11S3x86ILlsuCBil6EmDo2), [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [LSDREAM Remix Series, Vol\. 1](https://open.spotify.com/album/1uiMHtTtp59f3DpMdS108f) | 2:57 | 2023-11-02 | 2023-11-07 |
 | [Stardust](https://open.spotify.com/track/0kqSkUZLmakXBFmc3yvVMc) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat XXVIII](https://open.spotify.com/album/5ALAjeaMAnmRwAtrJcbUGI) | 3:24 | 2023-10-05 | 2023-10-08 |
 | [Stardust](https://open.spotify.com/track/3LIgaShXQMdvzINtIndqCq) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Stardust](https://open.spotify.com/album/3VBzwii7vLNRNKTpcecVib) | 3:24 | 2023-09-14 | 2023-09-22 |
 | [Stardust](https://open.spotify.com/track/6CUXW04kU5ZgdIeMqt0xQv) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Sophon](https://open.spotify.com/artist/7AmI3Zl33iDdhRMvq0MiAV) | [Stardust](https://open.spotify.com/album/6suMQNC0sVUeqetUXbR6Dc) | 4:03 | 2023-05-11 | 2023-06-10 |
