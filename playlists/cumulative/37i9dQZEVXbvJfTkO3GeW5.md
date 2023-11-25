@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,921 songs - 4 day 23 hr 1 min - not published yet
+1,922 songs - 4 day 23 hr 6 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -941,7 +941,8 @@
 | [Kobita](https://open.spotify.com/track/5NSwYIx2ZDHWTiWDE0SIB4) | [Nogor Baul James](https://open.spotify.com/artist/33HfLLFWgE1OFdOINScjrS) | [Best of James](https://open.spotify.com/album/1sKH2wZXCbi7TSArR9rSdc) | 6:43 | 2022-07-14 | 2022-07-22 |
 | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/track/0HihDC6qQ8MChAhjfW3gMU) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [KU LO SA \(with Camila Cabello\)](https://open.spotify.com/album/0Pkjt4TMwpQJRrskYaZIny) | 2:28 | 2022-12-08 | 2023-01-07 |
 | [Kudi Chamkeeli \(From "Selfiee"\)](https://open.spotify.com/track/703UsTGRCq2nttht4ib42D) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Kudi Chamkeeli \(From "Selfiee"\)](https://open.spotify.com/album/12x2frxMT50FQcneIZiDXA) | 4:06 | 2023-02-23 | 2023-03-03 |
-| [Kudiye Ni Tere \(From "Starfish"\)](https://open.spotify.com/track/2OfjwjT2pRe9Yoee7jJECa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Khaalif](https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Kudiye Ni Tere \(From "Starfish"\)](https://open.spotify.com/album/5bEPoKG9eicPrtuyYSayoI) | 4:09 | 2023-11-23 |  |
+| [Kudiye Ni Tere](https://open.spotify.com/track/0zChJEMR8w3kGYsGACFZGm) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Khaalif](https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Starfish](https://open.spotify.com/album/1U83oaOX9s4WfrrzF45shm) | 4:09 | 2023-11-23 |  |
+| [Kudiye Ni Tere \(From "Starfish"\)](https://open.spotify.com/track/2OfjwjT2pRe9Yoee7jJECa) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Khaalif](https://open.spotify.com/artist/43wfBC2EqzE6jLYg4rf1gD), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Kudiye Ni Tere \(From "Starfish"\)](https://open.spotify.com/album/5bEPoKG9eicPrtuyYSayoI) | 4:09 | 2023-11-23 | 2023-11-25 |
 | [Kumori](https://open.spotify.com/track/76HqbiuFNlDSJ6fRZwkqM9) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Kumori](https://open.spotify.com/album/7BIsiAPPkIG1Z2yvIM3wN1) | 2:47 | 2023-11-02 | 2023-11-11 |
 | [Kya Kehna](https://open.spotify.com/track/08ZlztKXnbgD8E3ABvKcnv) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Kya Kehna](https://open.spotify.com/album/11RAk3D01nZSSTXK7GWIr4) | 2:51 | 2023-06-01 | 2023-06-25 |
 | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/track/0G94oDZCWdfGxcIJZ9hfmW) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [La Cita \(feat\. Ally Brooke\)](https://open.spotify.com/album/2jTZ84JKbeu8vTuWYnlqfj) | 2:36 | 2022-06-09 | 2022-07-10 |
@@ -1673,7 +1674,7 @@
 | [The Hidden Complexity Of Wishes](https://open.spotify.com/track/7ar33NH4sqW97H5KkKBk8a) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [The Hidden Complexity Of Wishes](https://open.spotify.com/album/6vXJfZZBpXLOrgkmbFs4F0) | 11:27 | 2023-10-12 | 2023-10-18 |
 | [The Hunger](https://open.spotify.com/track/471JxiLQaUuuXotBHD62LD) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [The Hunger](https://open.spotify.com/album/6gjcjCX5QakGas4luCy2Nl) | 3:20 | 2023-07-27 | 2023-08-04 |
 | [The Last Human](https://open.spotify.com/track/5iGQMNevv6n2ikSrqHNr0U) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [The Last Human](https://open.spotify.com/album/6vKWPEAOngUrVZlQXCySt1) | 6:52 | 2022-06-30 | 2022-07-24 |
-| [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 | 2023-10-26 |  |
+| [The Last One](https://open.spotify.com/track/6VKGPwLUO7nki5cDXT3gvQ) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch \(Deluxe\)](https://open.spotify.com/album/0YniOccoeVuymVK8Lpb7VR) | 3:59 | 2023-10-26 | 2023-11-25 |
 | [The Last Thing](https://open.spotify.com/track/7vkFfkpfafTv19MTr7cYbi) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [The Last Thing](https://open.spotify.com/album/5ODItBlpNLijKAfUtfkUzj) | 8:38 | 2023-11-23 |  |
 | [The Legend of Zelda](https://open.spotify.com/track/2XSYdDr8DXbIpkIuzVYqGv) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [The Legend of Zelda](https://open.spotify.com/album/0lh0mFdzedytgNa7A8QLXG) | 4:00 | 2023-09-21 | 2023-10-13 |
 | [The Monster](https://open.spotify.com/track/0aA85Lq8EtVrr1xjnRCWIv) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [All right](https://open.spotify.com/album/0bZkAni3IqL1zgNYL5Qu5i) | 6:16 | 2023-08-31 | 2023-09-06 |
