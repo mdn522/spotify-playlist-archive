@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-1,954 songs - 5 day 0 hr 55 min - not published yet
+1,955 songs - 5 day 1 hr 0 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [A Nonsense Christmas](https://open.spotify.com/track/7yogx3TwxGwSxO2QITsT2q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [A Nonsense Christmas](https://open.spotify.com/album/2D2boDrCPl6idtxpJF6r38) | 2:33 | 2022-12-08 | 2023-01-01 |
 | [A Way Out](https://open.spotify.com/track/6qppUZLR5oLjYyXSh8VoIk) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [A Way Out](https://open.spotify.com/album/2pyL2Q2JIMRGG0f9cY3b64) | 5:54 | 2023-11-09 | 2023-11-24 |
 | [A.I.](https://open.spotify.com/track/5tN4CvNZgVhhvCBRXAAktA) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [A.I.](https://open.spotify.com/album/74fMGVGwy6QFwDfu1Qsv78) | 4:03 | 2023-06-29 | 2023-07-21 |
+| [Aakhri Jaam](https://open.spotify.com/track/4o8Thz4HPSJXYrzQ0lLOi7) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Aakhri Jaam](https://open.spotify.com/album/1IftKQt4P8OutBjP7ykFYM) | 5:10 | 2023-11-30 |  |
 | [Aaye Ram Mere](https://open.spotify.com/track/5rKdu2DL5dYV7JDiuYWVyB) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Raaj Aashoo](https://open.spotify.com/artist/3jNaDQZQjbidKVJrIhhibh), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Aaye Ram Mere](https://open.spotify.com/album/3Jc7vnybqpjKik9VAKZAiU) | 3:29 | 2023-04-06 | 2023-04-21 |
 | [Abhi Abhi \(Lofi\)](https://open.spotify.com/track/0FgiD3Cbn0oa1yaAfOqprt) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Sachin Gupta](https://open.spotify.com/artist/34R6DQd8ErBy1xyOyMHFrq) | [Abhi Abhi \(Lofi\) \- Single](https://open.spotify.com/album/628ltZSzw8Mz3r0JwIxY5p) | 3:05 | 2023-02-23 | 2023-03-16 |
 | [Acasă \- Radio Edit](https://open.spotify.com/track/6lIXBVNJqNzwk0CjFTyzbT) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Acasă \(Radio Edit\)](https://open.spotify.com/album/0eVr3Q0wbP4m17pDXjFykc) | 3:33 | 2022-08-25 | 2022-09-18 |
@@ -1671,7 +1672,7 @@
 | [Teenage Birdsong](https://open.spotify.com/track/0O9FhcJ0Hx7IQEwLytkOKh) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Teenage Birdsong](https://open.spotify.com/album/5J1FuWORybCNyvihI03FFp) | 3:27 | 2023-08-03 | 2023-08-27 |
 | [Tell Me Now](https://open.spotify.com/track/1SBCkqmvblJYhuHkx5Dmg9) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH), [Jonathan & Friends](https://open.spotify.com/artist/7iGyHL0MMwmyScIHOuW7Lo) | [Tell Me Now](https://open.spotify.com/album/2OJuPqeIqgsCqwA9rN3Yb1) | 3:10 | 2022-08-18 | 2022-09-02 |
 | [Tension](https://open.spotify.com/track/1HMIxqUa447L1FmSGK1yBF) | [Hommie Dilliwala](https://open.spotify.com/artist/4nK9FAS3HuQXcJva8gEWYT), [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR) | [Tension](https://open.spotify.com/album/3psxdTzBjbOfex6mixUaXX) | 3:44 | 2022-11-10 | 2022-11-25 |
-| [Tere Bin Zindagi](https://open.spotify.com/track/4hOsyWNLxP8TeEa3ULze8i) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1), [Smita Rakshit](https://open.spotify.com/artist/3SIj9kxTqKUIorWcxD51vG) | [Tere Bin Zindagi](https://open.spotify.com/album/4cugCYJBN47hB1hPMsOhAq) | 3:15 | 2023-11-23 |  |
+| [Tere Bin Zindagi](https://open.spotify.com/track/4hOsyWNLxP8TeEa3ULze8i) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1), [Smita Rakshit](https://open.spotify.com/artist/3SIj9kxTqKUIorWcxD51vG) | [Tere Bin Zindagi](https://open.spotify.com/album/4cugCYJBN47hB1hPMsOhAq) | 3:15 | 2023-11-23 | 2023-12-07 |
 | [Tere Khayalon Mein](https://open.spotify.com/track/3dYygpcjZ54wvXNt8g6pM5) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1), [Karnika Sharma](https://open.spotify.com/artist/7b03DS3iwjup5Xr87FPhEI) | [Tere Khayalon Mein](https://open.spotify.com/album/71zTJbIFrvOPkEGh0jHoXN) | 3:23 | 2023-10-12 | 2023-11-03 |
 | [Tere Layi](https://open.spotify.com/track/3hHQHUUb8ihdROExBxEbpa) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Tere Layi](https://open.spotify.com/album/4Qt2FEKv61MOxd3PrJzZ5Q) | 4:01 | 2022-11-17 | 2022-11-25 |
 | [Teri Aankhon Ka Chilman](https://open.spotify.com/track/7MkGlxfSDC7JVP2DgNdCty) | [Shabab Sabri](https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1) | [Teri Aankhon Ka Chilman](https://open.spotify.com/album/1DqLkGU1GWpLD7VgqeHVgn) | 4:19 | 2023-07-27 | 2023-08-27 |
