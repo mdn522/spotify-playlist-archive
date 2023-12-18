@@ -6,7 +6,7 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MCwwMDAwMDAwMGY0NmE3NDI1NTk2YTZmZmI0YmU4ZjRiNDY2ZmVjM2Rj",
+    "snapshot_id": "MCwwMDAwMDAwMDE0OTQ2YTBmYTRiMGNhZWRiOTBiNjg1MjFkNTM3ZTUz",
     "tracks": [
         {
             "added_at": "2023-12-14 18:00:00",
@@ -295,54 +295,6 @@
         {
             "added_at": "2023-12-14 18:00:00",
             "album": {
-                "name": "Me regalaste la Navidad",
-                "url": "https://open.spotify.com/album/7g5g2y4hqDAwTdoTbDVm7g"
-            },
-            "artists": [
-                {
-                    "name": "Thomas Bergersen",
-                    "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
-                },
-                {
-                    "name": "Charlotte Summers",
-                    "url": "https://open.spotify.com/artist/2vxvAGifhWk0nwZSj7rikX"
-                }
-            ],
-            "duration_ms": 233012,
-            "name": "Me regalaste la Navidad",
-            "url": "https://open.spotify.com/track/3urXcT7LEfzXvUnU2cRIZq"
-        },
-        {
-            "added_at": "2023-12-14 18:00:00",
-            "album": {
-                "name": "Vocea României: Semifinală (Sezonul 11 - Bucuria Muzicii) [Live]",
-                "url": "https://open.spotify.com/album/3DNxbFcuGzEvTdxkw65j6o"
-            },
-            "artists": [
-                {
-                    "name": "Delia Constantin",
-                    "url": "https://open.spotify.com/artist/0hU6fc3i6XcsRSW5HZXM81"
-                },
-                {
-                    "name": "Vlad Musta",
-                    "url": "https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR"
-                },
-                {
-                    "name": "Irina Rimes",
-                    "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
-                },
-                {
-                    "name": "Vocea României",
-                    "url": "https://open.spotify.com/artist/4wiRusPutFlhOkzr24Olkm"
-                }
-            ],
-            "duration_ms": 194901,
-            "name": "They Don't Care About Us - Live",
-            "url": "https://open.spotify.com/track/2kwYcnahJBYqDtv1JQY92B"
-        },
-        {
-            "added_at": "2023-12-14 18:00:00",
-            "album": {
                 "name": "Zubaida (Jungle Remix)",
                 "url": "https://open.spotify.com/album/0ImR90QQFssFsmPIsmvAk6"
             },
@@ -359,6 +311,26 @@
             "duration_ms": 175238,
             "name": "Zubaida (Jungle Remix)",
             "url": "https://open.spotify.com/track/1QVJgBt7UqO63WoJQkv0PQ"
+        },
+        {
+            "added_at": "2023-12-14 18:00:00",
+            "album": {
+                "name": "Me regalaste la Navidad",
+                "url": "https://open.spotify.com/album/7g5g2y4hqDAwTdoTbDVm7g"
+            },
+            "artists": [
+                {
+                    "name": "Thomas Bergersen",
+                    "url": "https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq"
+                },
+                {
+                    "name": "Charlotte Summers",
+                    "url": "https://open.spotify.com/artist/2vxvAGifhWk0nwZSj7rikX"
+                }
+            ],
+            "duration_ms": 233012,
+            "name": "Me regalaste la Navidad",
+            "url": "https://open.spotify.com/track/3urXcT7LEfzXvUnU2cRIZq"
         },
         {
             "added_at": "2023-12-14 18:00:00",
@@ -391,6 +363,34 @@
             "duration_ms": 448500,
             "name": "Tattoo Wars",
             "url": "https://open.spotify.com/track/7qTfop1W5FjfNsncKAb42W"
+        },
+        {
+            "added_at": "2023-12-14 18:00:00",
+            "album": {
+                "name": "Vocea României: Semifinală (Sezonul 11 - Bucuria Muzicii) [Live]",
+                "url": "https://open.spotify.com/album/3DNxbFcuGzEvTdxkw65j6o"
+            },
+            "artists": [
+                {
+                    "name": "Delia Constantin",
+                    "url": "https://open.spotify.com/artist/0hU6fc3i6XcsRSW5HZXM81"
+                },
+                {
+                    "name": "Vlad Musta",
+                    "url": "https://open.spotify.com/artist/3YyoX9RoUB8PxkXC8H0wTR"
+                },
+                {
+                    "name": "Irina Rimes",
+                    "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+                },
+                {
+                    "name": "Vocea României",
+                    "url": "https://open.spotify.com/artist/4wiRusPutFlhOkzr24Olkm"
+                }
+            ],
+            "duration_ms": 194901,
+            "name": "They Don't Care About Us - Live",
+            "url": "https://open.spotify.com/track/2kwYcnahJBYqDtv1JQY92B"
         },
         {
             "added_at": "2023-12-14 18:00:00",
@@ -480,9 +480,9 @@
                     "url": "https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F"
                 }
             ],
-            "duration_ms": 186648,
-            "name": "Flowing",
-            "url": "https://open.spotify.com/track/5uqBMmbWGaltlZ7bUwtZE9"
+            "duration_ms": 193593,
+            "name": "Distant Scene",
+            "url": "https://open.spotify.com/track/3rNDz8oEZyCtrBbO89cnLR"
         },
         {
             "added_at": "2023-12-14 18:00:00",
