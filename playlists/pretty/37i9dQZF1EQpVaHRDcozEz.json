@@ -6,7 +6,7 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTcwMjg3OTIwMCwwMDAwMDAwMDI2YzVlZjQ0OTE0NWM0MDE4Y2FlNmQ2NWQzMTUxNDc0",
+    "snapshot_id": "MTcwMjk2NTYwMCwwMDAwMDAwMDk5MzcyMzAzNjcyY2YwZmM4YTc5MDQ4NjI1YzBlZWE4",
     "tracks": [
         {
             "added_at": null,
@@ -59,6 +59,90 @@
         {
             "added_at": null,
             "album": {
+                "name": "Arrival",
+                "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+            },
+            "artists": [
+                {
+                    "name": "ABBA",
+                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                }
+            ],
+            "duration_ms": 230400,
+            "name": "Dancing Queen",
+            "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Jazz (2011 Remaster)",
+                "url": "https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU"
+            },
+            "artists": [
+                {
+                    "name": "Queen",
+                    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+                }
+            ],
+            "duration_ms": 209413,
+            "name": "Don't Stop Me Now - Remastered 2011",
+            "url": "https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Can't Stop the Music (Original Soundtrack 1980)",
+                "url": "https://open.spotify.com/album/4oIOg6AgN5cTIQPk00RAWS"
+            },
+            "artists": [
+                {
+                    "name": "Village People",
+                    "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+                }
+            ],
+            "duration_ms": 202573,
+            "name": "YMCA",
+            "url": "https://open.spotify.com/track/3ypMsqUwfNFMiooMLVHfkp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Love Tracks",
+                "url": "https://open.spotify.com/album/1F0umQ1PItuGiP8uJDdFoX"
+            },
+            "artists": [
+                {
+                    "name": "Gloria Gaynor",
+                    "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+                }
+            ],
+            "duration_ms": 296106,
+            "name": "I Will Survive",
+            "url": "https://open.spotify.com/track/7rIovIsXE6kMn629b7kDig"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Rock Of The Westies",
+                "url": "https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds"
+            },
+            "artists": [
+                {
+                    "name": "Elton John",
+                    "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+                },
+                {
+                    "name": "Kiki Dee",
+                    "url": "https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir"
+                }
+            ],
+            "duration_ms": 275440,
+            "name": "Don't Go Breaking My Heart",
+            "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Love Grows (Where My Rosemary Goes) & Other Gems",
                 "url": "https://open.spotify.com/album/4XDWk7zU6KDgLaqLxEYi8y"
             },
@@ -75,38 +159,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "A Song For You",
-                "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
-            },
-            "artists": [
-                {
-                    "name": "Carpenters",
-                    "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-                }
-            ],
-            "duration_ms": 179173,
-            "name": "Top Of The World",
-            "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "A Night At The Opera (2011 Remaster)",
-                "url": "https://open.spotify.com/album/1GbtB4zTqAsyfZEsm1RZfx"
-            },
-            "artists": [
-                {
-                    "name": "Queen",
-                    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-                }
-            ],
-            "duration_ms": 354320,
-            "name": "Bohemian Rhapsody - Remastered 2011",
-            "url": "https://open.spotify.com/track/4u7EnebtmKWzUH433cf5Qv"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Voulez-Vous",
                 "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
             },
@@ -116,93 +168,29 @@
                     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
                 }
             ],
-            "duration_ms": 193440,
-            "name": "Does Your Mother Know",
-            "url": "https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41"
+            "duration_ms": 309173,
+            "name": "Voulez-Vous",
+            "url": "https://open.spotify.com/track/17OqI90oTFZ3J8PVu6j07V"
         },
         {
             "added_at": null,
             "album": {
-                "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-                "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
+                "name": "Love To Love You Donna",
+                "url": "https://open.spotify.com/album/0iuDlDYXlxbjrKMcO2kepk"
             },
             "artists": [
                 {
-                    "name": "Hiko",
-                    "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
-                }
-            ],
-            "duration_ms": 165600,
-            "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-            "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Take The Heat Off Me",
-                "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
-            },
-            "artists": [
-                {
-                    "name": "Boney M.",
-                    "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-                }
-            ],
-            "duration_ms": 242240,
-            "name": "Sunny",
-            "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Star Wars: Attack of the Clones (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/4RSVY5851aNeCttrDpdj7A"
-            },
-            "artists": [
-                {
-                    "name": "John Williams",
-                    "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                    "name": "Donna Summer",
+                    "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
                 },
                 {
-                    "name": "London Symphony Orchestra",
-                    "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                    "name": "Gigamesh",
+                    "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
                 }
             ],
-            "duration_ms": 333346,
-            "name": "Across the Stars (Love Theme from \"Star Wars: Attack of the Clones\")",
-            "url": "https://open.spotify.com/track/3rUMH7i22tlkymhDPOmXUv"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Rumours",
-                "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-            },
-            "artists": [
-                {
-                    "name": "Fleetwood Mac",
-                    "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-                }
-            ],
-            "duration_ms": 223613,
-            "name": "Go Your Own Way - 2004 Remaster",
-            "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Now & Then (Reissue)",
-                "url": "https://open.spotify.com/album/0A7WaXRUZ2fkHtUYfeoF73"
-            },
-            "artists": [
-                {
-                    "name": "Carpenters",
-                    "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-                }
-            ],
-            "duration_ms": 233533,
-            "name": "Yesterday Once More",
-            "url": "https://open.spotify.com/track/3wM6RTAnF7IQpMFd7b9ZcL"
+            "duration_ms": 319253,
+            "name": "Bad Girls - Gigamesh Remix",
+            "url": "https://open.spotify.com/track/4cVcKuPWczKvw2GZAotrj2"
         },
         {
             "added_at": null,
@@ -223,66 +211,50 @@
         {
             "added_at": null,
             "album": {
-                "name": "Una Dimensión De Éxitos",
-                "url": "https://open.spotify.com/album/5uDlRcsa6B0am5CssuZcXV"
+                "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+                "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
             },
             "artists": [
                 {
-                    "name": "Dimension Latina",
-                    "url": "https://open.spotify.com/artist/2ixSzFmACsZSsx40fXTNYk"
+                    "name": "Hiko",
+                    "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
                 }
             ],
-            "duration_ms": 228554,
-            "name": "Llorarás",
-            "url": "https://open.spotify.com/track/2naqSVQHgiaoEpxtkVOhmK"
+            "duration_ms": 165600,
+            "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+            "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Dance Vault Mixes - Copacabana (At The Copa)",
-                "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
+                "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+                "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
             },
             "artists": [
                 {
-                    "name": "Barry Manilow",
-                    "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+                    "name": "Queen",
+                    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
                 }
             ],
-            "duration_ms": 236760,
-            "name": "Copacabana (At the Copa)",
-            "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+            "duration_ms": 173173,
+            "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+            "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Voulez-Vous",
-                "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+                "name": "Take The Heat Off Me",
+                "url": "https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4"
             },
             "artists": [
                 {
-                    "name": "ABBA",
-                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                    "name": "Boney M.",
+                    "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
                 }
             ],
-            "duration_ms": 292613,
-            "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-            "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "American Pie",
-                "url": "https://open.spotify.com/album/10jsW2NYd9blCrDITMh2zS"
-            },
-            "artists": [
-                {
-                    "name": "Don McLean",
-                    "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-                }
-            ],
-            "duration_ms": 516893,
-            "name": "American Pie",
-            "url": "https://open.spotify.com/track/1fDsrQ23eTAVFElUMaf38X"
+            "duration_ms": 242240,
+            "name": "Sunny",
+            "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt"
         },
         {
             "added_at": null,
@@ -303,88 +275,24 @@
         {
             "added_at": null,
             "album": {
-                "name": "Highway to Hell",
-                "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+                "name": "Bad Girls",
+                "url": "https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg"
             },
             "artists": [
                 {
-                    "name": "AC/DC",
-                    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+                    "name": "Donna Summer",
+                    "url": "https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U"
                 }
             ],
-            "duration_ms": 208400,
-            "name": "Highway to Hell",
-            "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+            "duration_ms": 314760,
+            "name": "Hot Stuff",
+            "url": "https://open.spotify.com/track/2zMJN9JvDlvGP4jB03l1Bz"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Here You Come Again",
-                "url": "https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr"
-            },
-            "artists": [
-                {
-                    "name": "Dolly Parton",
-                    "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-                }
-            ],
-            "duration_ms": 179491,
-            "name": "Here You Come Again",
-            "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Rumours",
-                "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-            },
-            "artists": [
-                {
-                    "name": "Fleetwood Mac",
-                    "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-                }
-            ],
-            "duration_ms": 193346,
-            "name": "Don't Stop - 2004 Remaster",
-            "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Little Queen",
-                "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-            },
-            "artists": [
-                {
-                    "name": "Heart",
-                    "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-                }
-            ],
-            "duration_ms": 261933,
-            "name": "Barracuda",
-            "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Nếu Ngày Ấy",
-                "url": "https://open.spotify.com/album/5FyfwZWgLtjqBTdMwJmyzo"
-            },
-            "artists": [
-                {
-                    "name": "SOOBIN",
-                    "url": "https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh"
-                }
-            ],
-            "duration_ms": 292693,
-            "name": "Nếu Ngày Ấy",
-            "url": "https://open.spotify.com/track/20jc2qrUesWnyDYnWq0XW8"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Album",
-                "url": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt"
+                "name": "Voulez-Vous",
+                "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
             },
             "artists": [
                 {
@@ -392,41 +300,121 @@
                     "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
                 }
             ],
-            "duration_ms": 243933,
-            "name": "Take A Chance On Me",
-            "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
+            "duration_ms": 326320,
+            "name": "Chiquitita",
+            "url": "https://open.spotify.com/track/762B4bOcXF7I2Y8UlKTyTy"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Dynasty",
-                "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+                "name": "Parallel Lines (Remastered)",
+                "url": "https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU"
             },
             "artists": [
                 {
-                    "name": "KISS",
-                    "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+                    "name": "Blondie",
+                    "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
                 }
             ],
-            "duration_ms": 271240,
-            "name": "I Was Made For Lovin' You",
-            "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
+            "duration_ms": 215106,
+            "name": "One Way Or Another - Remastered 2001",
+            "url": "https://open.spotify.com/track/4cQJ27R11K634x5qCOwKW5"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Inseparable",
-                "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+                "name": "Down To Earth",
+                "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
             },
             "artists": [
                 {
-                    "name": "Natalie Cole",
-                    "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+                    "name": "Rainbow",
+                    "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
                 }
             ],
-            "duration_ms": 171960,
-            "name": "This Will Be (An Everlasting Love)",
-            "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+            "duration_ms": 197160,
+            "name": "Since You Been Gone",
+            "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Billy Ocean (Expanded Edition)",
+                "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
+            },
+            "artists": [
+                {
+                    "name": "Billy Ocean",
+                    "url": "https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo"
+                }
+            ],
+            "duration_ms": 179013,
+            "name": "Love Really Hurts Without You",
+            "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Stranger In Town",
+                "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+            },
+            "artists": [
+                {
+                    "name": "Bob Seger",
+                    "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+                }
+            ],
+            "duration_ms": 194146,
+            "name": "Old Time Rock & Roll",
+            "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Arrival",
+                "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+            },
+            "artists": [
+                {
+                    "name": "ABBA",
+                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                }
+            ],
+            "duration_ms": 186426,
+            "name": "Money, Money, Money",
+            "url": "https://open.spotify.com/track/3lKN03PDeBnXZS7sDukRBt"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "A Song For You",
+                "url": "https://open.spotify.com/album/1nA6Exnq2mWD8678q3E4Ov"
+            },
+            "artists": [
+                {
+                    "name": "Carpenters",
+                    "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+                }
+            ],
+            "duration_ms": 179173,
+            "name": "Top Of The World",
+            "url": "https://open.spotify.com/track/1Ehdm1PDlKrdfyBsjwEvd1"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Frontiers (2023 Remaster)",
+                "url": "https://open.spotify.com/album/3pZ6D15onAaT2YyiTbcHmh"
+            },
+            "artists": [
+                {
+                    "name": "Journey",
+                    "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+                }
+            ],
+            "duration_ms": 323453,
+            "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
+            "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
         },
         {
             "added_at": null,
@@ -447,56 +435,8 @@
         {
             "added_at": null,
             "album": {
-                "name": "The Gambler",
-                "url": "https://open.spotify.com/album/3XdvQjIMjdwxRivZrg1ziJ"
-            },
-            "artists": [
-                {
-                    "name": "Kenny Rogers",
-                    "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-                }
-            ],
-            "duration_ms": 214880,
-            "name": "The Gambler",
-            "url": "https://open.spotify.com/track/5KqldkCunQ2rWxruMEtGh0"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Heart Skips Beat",
-                "url": "https://open.spotify.com/album/5IWeqnBDLYy5YdnsKOxh2n"
-            },
-            "artists": [
-                {
-                    "name": "Jona Lewie",
-                    "url": "https://open.spotify.com/artist/3nohf4qILMr5aUSOsolwxB"
-                }
-            ],
-            "duration_ms": 176360,
-            "name": "Stop The Cavalry",
-            "url": "https://open.spotify.com/track/2bPQuniBB9x0fRtxDly0kr"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Hautnah - Die Geschichten meiner Stars",
-                "url": "https://open.spotify.com/album/6Pv1BPXjVk9lUbcNeZKSX4"
-            },
-            "artists": [
-                {
-                    "name": "Wolfgang Petry",
-                    "url": "https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7"
-                }
-            ],
-            "duration_ms": 221786,
-            "name": "Wahnsinn",
-            "url": "https://open.spotify.com/track/3hWXFxXKKNTHsgThAq8V0I"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fleetwood Mac",
-                "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
+                "name": "Rumours",
+                "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
             },
             "artists": [
                 {
@@ -504,273 +444,61 @@
                     "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
                 }
             ],
-            "duration_ms": 252773,
-            "name": "Rhiannon",
-            "url": "https://open.spotify.com/track/05oETzWbd4SI33qK2gbJfR"
+            "duration_ms": 223613,
+            "name": "Go Your Own Way - 2004 Remaster",
+            "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
         },
         {
             "added_at": null,
             "album": {
-                "name": "20th Century Masters: The Millennium Collection: Best Of Olivia Newton-John",
-                "url": "https://open.spotify.com/album/5wR3bNU1ycW52RrkP4aAXN"
+                "name": "High Voltage",
+                "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
             },
             "artists": [
                 {
-                    "name": "Olivia Newton-John",
-                    "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+                    "name": "AC/DC",
+                    "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
                 }
             ],
-            "duration_ms": 186000,
-            "name": "Hopelessly Devoted To You",
-            "url": "https://open.spotify.com/track/5nNpVC9AC6DWgrT5RX0e0b"
+            "duration_ms": 214666,
+            "name": "T.N.T.",
+            "url": "https://open.spotify.com/track/7LRMbd3LEoV5wZJvXT1Lwb"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Arrival",
-                "url": "https://open.spotify.com/album/1V6a99EbTTIegOhWoPxYI9"
+                "name": "Led Zeppelin III (Remaster)",
+                "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
             },
             "artists": [
                 {
-                    "name": "ABBA",
-                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                    "name": "Led Zeppelin",
+                    "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
                 }
             ],
-            "duration_ms": 230400,
-            "name": "Dancing Queen",
-            "url": "https://open.spotify.com/track/0GjEhVFGZW8afUYGChu3Rr"
+            "duration_ms": 146250,
+            "name": "Immigrant Song - Remaster",
+            "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Separate Ways (Worlds Apart) [Bryce Miller/Alloy Tracks Remix]",
-                "url": "https://open.spotify.com/album/0YzSA7G1hEayfUGlELIe5K"
+                "name": "Young Hearts Run Free (2023 Edit)",
+                "url": "https://open.spotify.com/album/07RWKFuT4fdhQsINJGDZq5"
             },
             "artists": [
                 {
-                    "name": "Journey",
-                    "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+                    "name": "Candi Staton",
+                    "url": "https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et"
                 },
                 {
-                    "name": "Steve Perry",
-                    "url": "https://open.spotify.com/artist/5xQKoGD7Ql92fWd1uWwKkf"
+                    "name": "Benji La Vida",
+                    "url": "https://open.spotify.com/artist/3MwdMIfkarbQ6gVS7EaV7I"
                 }
             ],
-            "duration_ms": 165074,
-            "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
-            "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tom Jones Sings She's A Lady",
-                "url": "https://open.spotify.com/album/1t0bCr3iI98gdcfwZ2YeVX"
-            },
-            "artists": [
-                {
-                    "name": "Tom Jones",
-                    "url": "https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5"
-                }
-            ],
-            "duration_ms": 174146,
-            "name": "She's A Lady",
-            "url": "https://open.spotify.com/track/5JnHzjo25FY1fMQMQVOawB"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Out of the Blue",
-                "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
-            },
-            "artists": [
-                {
-                    "name": "Electric Light Orchestra",
-                    "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-                }
-            ],
-            "duration_ms": 303373,
-            "name": "Mr. Blue Sky",
-            "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Let It Be (Remastered)",
-                "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-            },
-            "artists": [
-                {
-                    "name": "The Beatles",
-                    "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-                }
-            ],
-            "duration_ms": 243026,
-            "name": "Let It Be - Remastered 2009",
-            "url": "https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Colour Collection",
-                "url": "https://open.spotify.com/album/2wV72iMZZu677uYCw2giDC"
-            },
-            "artists": [
-                {
-                    "name": "Gloria Gaynor",
-                    "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-                }
-            ],
-            "duration_ms": 197573,
-            "name": "I Will Survive - Single Version",
-            "url": "https://open.spotify.com/track/4xmjDH6auBwuZ4GHimjXGe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "BTB 鄧麗君-甜蜜蜜",
-                "url": "https://open.spotify.com/album/4MVdG8o6aTqT7Dj1T8cYXA"
-            },
-            "artists": [
-                {
-                    "name": "Teresa Teng",
-                    "url": "https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ"
-                }
-            ],
-            "duration_ms": 211840,
-            "name": "甜蜜蜜",
-            "url": "https://open.spotify.com/track/2XoUbKNeEbvoI0rP3XrHGp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Committed",
-                "url": "https://open.spotify.com/album/48ObOeSjF4koHKX4uXS5n6"
-            },
-            "artists": [
-                {
-                    "name": "No Guidnce",
-                    "url": "https://open.spotify.com/artist/4jE1yavE4c5IR1hhM4wHhY"
-                }
-            ],
-            "duration_ms": 202556,
-            "name": "Committed",
-            "url": "https://open.spotify.com/track/6mInLiHiHEyp8ny2knuioj"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Frankie Valli...Is The Word",
-                "url": "https://open.spotify.com/album/0o2oPAxKGui4tvrrNgDtkc"
-            },
-            "artists": [
-                {
-                    "name": "Frankie Valli",
-                    "url": "https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD"
-                }
-            ],
-            "duration_ms": 207306,
-            "name": "Grease - 2007 Remaster",
-            "url": "https://open.spotify.com/track/5Vrczz39CvlD3OGCa6utoA"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Voulez-Vous",
-                "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-            },
-            "artists": [
-                {
-                    "name": "ABBA",
-                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-                }
-            ],
-            "duration_ms": 260893,
-            "name": "Angeleyes",
-            "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Parallel Lines: Deluxe Collector's Edition",
-                "url": "https://open.spotify.com/album/6raionWfBxaJphE3mc8Y4h"
-            },
-            "artists": [
-                {
-                    "name": "Blondie",
-                    "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-                }
-            ],
-            "duration_ms": 249733,
-            "name": "Heart Of Glass - Remix",
-            "url": "https://open.spotify.com/track/2HhBmnL8kVYaevaaCsnMVB"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sun Is Shining",
-                "url": "https://open.spotify.com/album/0W5Q4QB5XqFJZbd2ZhCfWK"
-            },
-            "artists": [
-                {
-                    "name": "Bob Marley & The Wailers",
-                    "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-                },
-                {
-                    "name": "Robin Schulz",
-                    "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-                }
-            ],
-            "duration_ms": 185000,
-            "name": "Sun Is Shining",
-            "url": "https://open.spotify.com/track/48xPlyqrp76RSwJirihTHo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bat Out Of Hell",
-                "url": "https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM"
-            },
-            "artists": [
-                {
-                    "name": "Meat Loaf",
-                    "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-                }
-            ],
-            "duration_ms": 508333,
-            "name": "Paradise By the Dashboard Light",
-            "url": "https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Peter Gabriel 1: Car (Remastered)",
-                "url": "https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok"
-            },
-            "artists": [
-                {
-                    "name": "Peter Gabriel",
-                    "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-                }
-            ],
-            "duration_ms": 261560,
-            "name": "Solsbury Hill",
-            "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Jazz (Deluxe Remastered Version)",
-                "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-            },
-            "artists": [
-                {
-                    "name": "Queen",
-                    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-                }
-            ],
-            "duration_ms": 255600,
-            "name": "Fat Bottomed Girls - Remastered 2011",
-            "url": "https://open.spotify.com/track/4igIYHF3B5VBxEafHauVo3"
+            "duration_ms": 212689,
+            "name": "Young Hearts Run Free (2023 Edit)",
+            "url": "https://open.spotify.com/track/5PVJid6BxI6vLNgVWWf8I7"
         },
         {
             "added_at": null,
@@ -791,34 +519,310 @@
         {
             "added_at": null,
             "album": {
-                "name": "Eagles (2013 Remaster)",
-                "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+                "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+                "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
             },
             "artists": [
                 {
-                    "name": "Eagles",
-                    "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+                    "name": "Barry Manilow",
+                    "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
                 }
             ],
-            "duration_ms": 211577,
-            "name": "Take It Easy - 2013 Remaster",
-            "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
+            "duration_ms": 236760,
+            "name": "Copacabana (At the Copa)",
+            "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Teaser And The Firecat (Remastered 2021)",
-                "url": "https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg"
+                "name": "ひこうき雲",
+                "url": "https://open.spotify.com/album/2Apn7plsxGOwwD7anbcAOS"
             },
             "artists": [
                 {
-                    "name": "Yusuf / Cat Stevens",
-                    "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+                    "name": "Yumi Arai",
+                    "url": "https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz"
                 }
             ],
-            "duration_ms": 102986,
-            "name": "The Wind - Remastered 2021",
-            "url": "https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP"
+            "duration_ms": 206164,
+            "name": "ひこうき雲",
+            "url": "https://open.spotify.com/track/2YyxBmzk2l7NzyBakN3TdM"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "GREATEST HITS",
+                "url": "https://open.spotify.com/album/5IZawX8tw1kyexjwWGu0c6"
+            },
+            "artists": [
+                {
+                    "name": "Kenny Loggins",
+                    "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+                }
+            ],
+            "duration_ms": 220706,
+            "name": "Footloose",
+            "url": "https://open.spotify.com/track/4O4Z8VFczL8MxIOmqVWc1b"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Bellamy Brothers",
+                "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
+            },
+            "artists": [
+                {
+                    "name": "The Bellamy Brothers",
+                    "url": "https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa"
+                }
+            ],
+            "duration_ms": 198760,
+            "name": "Let Your Love Flow",
+            "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "I Will Survive",
+                "url": "https://open.spotify.com/album/77n9CO1gHYQDazdANnyStg"
+            },
+            "artists": [
+                {
+                    "name": "Gloria Gaynor",
+                    "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
+                }
+            ],
+            "duration_ms": 261173,
+            "name": "I Will Survive - 1981 Re-recording",
+            "url": "https://open.spotify.com/track/7DD1ojeTUwnW65g5QuZw7X"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Mouth To Mouth",
+                "url": "https://open.spotify.com/album/1SMBOCE8CFqxr2EB92Asqh"
+            },
+            "artists": [
+                {
+                    "name": "Lipps Inc.",
+                    "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+                }
+            ],
+            "duration_ms": 470346,
+            "name": "Funkytown",
+            "url": "https://open.spotify.com/track/2XVQdI3m0giGxNrwUhV3yP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "A Night At The Opera (Deluxe Edition 2011 Remaster)",
+                "url": "https://open.spotify.com/album/75eP8LZolyNBpqIRyB5pvB"
+            },
+            "artists": [
+                {
+                    "name": "Queen",
+                    "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+                }
+            ],
+            "duration_ms": 217386,
+            "name": "Love Of My Life - Remastered 2011",
+            "url": "https://open.spotify.com/track/4YJUTdZ0Pgl0ZeNyHYXeLd"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Out of the Blue",
+                "url": "https://open.spotify.com/album/3usnShwygMXVZB4IV5dwnU"
+            },
+            "artists": [
+                {
+                    "name": "Electric Light Orchestra",
+                    "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+                }
+            ],
+            "duration_ms": 303373,
+            "name": "Mr. Blue Sky",
+            "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Hold On",
+                "url": "https://open.spotify.com/album/5ToL8KapdzZAMtOT7Y4USs"
+            },
+            "artists": [
+                {
+                    "name": "Nitty Gritty Dirt Band",
+                    "url": "https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW"
+                }
+            ],
+            "duration_ms": 202786,
+            "name": "Fishin' in the Dark",
+            "url": "https://open.spotify.com/track/7lJbTVbDEMa3w7NFamrwdq"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Voulez-Vous",
+                "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+            },
+            "artists": [
+                {
+                    "name": "ABBA",
+                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                }
+            ],
+            "duration_ms": 260893,
+            "name": "Angeleyes",
+            "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
+                "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
+            },
+            "artists": [
+                {
+                    "name": "Ramones",
+                    "url": "https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm"
+                }
+            ],
+            "duration_ms": 134466,
+            "name": "Blitzkrieg Bop - 2016 Remaster",
+            "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Madman Across The Water",
+                "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+            },
+            "artists": [
+                {
+                    "name": "Elton John",
+                    "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+                }
+            ],
+            "duration_ms": 377093,
+            "name": "Tiny Dancer",
+            "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Nightflight to Venus",
+                "url": "https://open.spotify.com/album/0txzXbDfTn3vAdx77iCaXd"
+            },
+            "artists": [
+                {
+                    "name": "Boney M.",
+                    "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+                }
+            ],
+            "duration_ms": 351573,
+            "name": "Rasputin",
+            "url": "https://open.spotify.com/track/5jkFvD4UJrmdoezzT1FRoP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
+                "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
+            },
+            "artists": [
+                {
+                    "name": "John Denver",
+                    "url": "https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w"
+                }
+            ],
+            "duration_ms": 197813,
+            "name": "Take Me Home, Country Roads",
+            "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Wild Cherry",
+                "url": "https://open.spotify.com/album/27ompw8zlrCkWMacS21ysX"
+            },
+            "artists": [
+                {
+                    "name": "Wild Cherry",
+                    "url": "https://open.spotify.com/artist/4apX9tIeHb85yPyy4F6FJG"
+                }
+            ],
+            "duration_ms": 300000,
+            "name": "Play That Funky Music",
+            "url": "https://open.spotify.com/track/5uuJruktM9fMdN9Va0DUMl"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Close To You",
+                "url": "https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul"
+            },
+            "artists": [
+                {
+                    "name": "Carpenters",
+                    "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+                }
+            ],
+            "duration_ms": 273933,
+            "name": "(They Long To Be) Close To You",
+            "url": "https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Star Wars: Revenge of the Sith (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/6zhlos3HFJrWni7rjqxacg"
+            },
+            "artists": [
+                {
+                    "name": "John Williams",
+                    "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+                },
+                {
+                    "name": "London Symphony Orchestra",
+                    "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+                }
+            ],
+            "duration_ms": 236026,
+            "name": "Anakin vs. Obi-Wan",
+            "url": "https://open.spotify.com/track/3fzL0RuACZtv5cQ6R78Sjq"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Waterloo",
+                "url": "https://open.spotify.com/album/5gSBDA6ufk8UZejT4XR7av"
+            },
+            "artists": [
+                {
+                    "name": "ABBA",
+                    "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+                }
+            ],
+            "duration_ms": 175000,
+            "name": "Honey, Honey",
+            "url": "https://open.spotify.com/track/2w6JXokk0F8i241Y8C0Mn6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Serçe",
+                "url": "https://open.spotify.com/album/3h6TmnGd7Y874WIkxZIVLY"
+            },
+            "artists": [
+                {
+                    "name": "Sezen Aksu",
+                    "url": "https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd"
+                }
+            ],
+            "duration_ms": 187653,
+            "name": "Kaybolan Yıllar",
+            "url": "https://open.spotify.com/track/2EZbRSf8OVdFvtQY4QDv6O"
         }
     ],
     "unique_name": "70s Mix",
