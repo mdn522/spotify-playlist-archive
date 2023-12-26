@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,049 songs - 5 day 6 hr 43 min - not published yet
+2,050 songs - 5 day 6 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1053,7 +1053,7 @@
 | [Lifeline](https://open.spotify.com/track/7bzynnTZZjTYTVCcBOomxs) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Lifeline](https://open.spotify.com/album/40z9WalLGz5plNfe2Dwdc0) | 2:17 | 2023-05-18 | 2023-06-18 |
 | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel) | [Glockenbach](https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Lifeline \(feat\. Ella Henderson\)](https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1) | 2:50 | 2023-08-03 | 2023-09-04 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2022-11-03 | 2022-11-10 |
-| [Light A Candle](https://open.spotify.com/track/5CdKHPBRFJLbEpVOZsKx0u) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:10 | 2023-12-21 |  |
+| [Light A Candle](https://open.spotify.com/track/5CdKHPBRFJLbEpVOZsKx0u) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:10 | 2023-12-21 | 2023-12-26 |
 | [Lighthouse](https://open.spotify.com/track/4yjIdT28rPesxjGMaCOKRA) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Julianne Aurora](https://open.spotify.com/artist/4iSahGBKE7lJonRcxzhpPM) | [Lighthouse](https://open.spotify.com/album/00xLgXP6weEBSHceJFqmB1) | 4:05 | 2022-05-19 | 2022-05-27 |
 | [Lights \- Sped Up Version](https://open.spotify.com/track/4TZ2Ub8bZh4LTs06eANDXa) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Lights \(Sped Up Version\)](https://open.spotify.com/album/3UE88cPSfoh6NTK5xhBGtR) | 3:10 | 2022-06-30 | 2022-07-15 |
 | [Lights On, Lights Off \(I Like To Mess With Ladies\) \- Remix](https://open.spotify.com/track/3oJj7DIXYfCeslRJkr2PDp) | [Zekedon](https://open.spotify.com/artist/54fuOPVdjl7MtQHZCWYS0o), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [305fresh](https://open.spotify.com/artist/7a3uIXGUenoe4hfQ8wkeJz) | [Lights On, Lights Off \(I like To Mess With Ladies\) \[Remix\]](https://open.spotify.com/album/0BQSHxWVPMPi52SJJQPeEN) | 2:02 | 2023-11-02 | 2023-11-15 |
@@ -1873,6 +1873,7 @@
 | [Twin Flames on a Masquerade](https://open.spotify.com/track/7stQyrgh1ihvnPO0tji37z) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Twin Flames on a Masquerade](https://open.spotify.com/album/03NWUzWCr732pgAsJ0szHu) | 6:24 | 2023-10-12 | 2023-11-14 |
 | [Twin Gods](https://open.spotify.com/track/7z0A2vM3P2vw371YYxGZ8z) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Twin Gods](https://open.spotify.com/album/6pUd6AdPBsRlRagnShN5pr) | 3:16 | 2023-06-01 | 2023-06-09 |
 | [Two Weeks Ago](https://open.spotify.com/track/4wvgBJYPefTSk1Aa4vGgMb) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Two Weeks Ago](https://open.spotify.com/album/7shdch14iZNsphA7lUXPWF) | 2:59 | 2023-05-25 | 2023-06-23 |
+| [Tänd Ett Ljus](https://open.spotify.com/track/1kdYhWxuJXPFKJgxrk1Q7v) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/1Nxzeq5f7m7kpCP8PtWFPm) | 3:10 | 2023-12-21 |  |
 | [U Miss Me](https://open.spotify.com/track/4rwKTcDRvl8td8i2cihwd4) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [U Miss Me](https://open.spotify.com/album/2NnkP0PHjW9CXMMZI1Q7cX) | 2:38 | 2023-11-09 | 2023-12-09 |
 | [Ultimul nivel](https://open.spotify.com/track/3UzwWwbgjgoJ2AqPhdcDj8) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3), [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [Ultimul nivel](https://open.spotify.com/album/45O5x6LUs5PDApZcxBwSeF) | 2:51 | 2023-05-11 | 2023-05-26 |
 | [ultra fantasy](https://open.spotify.com/track/3pWFBLOXePOiy8fGPsVEIU) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx), [Øneheart](https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [ultra fantasy](https://open.spotify.com/album/2CMKSKhkBGrARQhPAPvf99) | 2:38 | 2023-08-31 | 2023-09-13 |

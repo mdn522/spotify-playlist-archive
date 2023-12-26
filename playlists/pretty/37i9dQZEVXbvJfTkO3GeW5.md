@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 26 | [It's On \(The Official Song of the FIFA Club World Cup Saudi Arabia 2023™\)](https://open.spotify.com/track/03verSbRA70DsWb53bOKOu) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [FIFA Sound](https://open.spotify.com/artist/5C01hDqpEmrmDfUhX9YWsH) | [It's On \(The Official Song of the FIFA Club World Cup Saudi Arabia 2023™\)](https://open.spotify.com/album/0fmLti8uyIuzpv7wNSTtKn) | 2:54 |
 | 27 | [Kill Bill](https://open.spotify.com/track/799LrBzB8QluhwSMNpWZD8) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Kill Bill](https://open.spotify.com/album/39dBbu1iKIm2Ck6TVghK7H) | 2:32 |
 | 28 | [Distant Scene](https://open.spotify.com/track/3rNDz8oEZyCtrBbO89cnLR) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [Piano: Gentle Words](https://open.spotify.com/album/70d4ZivTSelDmHMCtDWaJw) | 3:13 |
-| 29 | [Light A Candle](https://open.spotify.com/track/5CdKHPBRFJLbEpVOZsKx0u) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:10 |
+| 29 | [Tänd Ett Ljus](https://open.spotify.com/track/1kdYhWxuJXPFKJgxrk1Q7v) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/1Nxzeq5f7m7kpCP8PtWFPm) | 3:10 |
 | 30 | [White Christmas](https://open.spotify.com/track/3Ni2SuuZI2Oe368AgkAq1C) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Under The Tree](https://open.spotify.com/album/5U25anIJWmH57WGzfqs6HP) | 3:06 |
 
-Snapshot ID: `MCwwMDAwMDAwMGE1MzE4YTA0MGE1MjYzYzc1ZDExMjQzODBkNjk3Njdj`
+Snapshot ID: `MCwwMDAwMDAwMDE3NzFhYWM4MWZmZTAzMGRjYTliNDdjMDkxMjk3MzQ4`
