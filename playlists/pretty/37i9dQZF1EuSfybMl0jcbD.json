@@ -6,10 +6,626 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MTcwMzcyMTYwMCwwMDAwMDAwMGE0MGI0ODIyMDc1OWVlNzVlMWIzYjU1MDZlMzAyMGFi",
+    "snapshot_id": "MTcwMzgwODAwMCwwMDAwMDAwMGM2NTAzMjJjNDE2NmIxMjI1ODk1OWU2NmRiY2Q1MGM2",
     "tracks": [
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "This Is Acting",
+                "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
+            },
+            "artists": [
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                }
+            ],
+            "duration_ms": 211666,
+            "name": "Cheap Thrills",
+            "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Highway",
+                "url": "https://open.spotify.com/album/4MRvvPTLIVBHVEMfVC20jI"
+            },
+            "artists": [
+                {
+                    "name": "A.R. Rahman",
+                    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                }
+            ],
+            "duration_ms": 240784,
+            "name": "Maahi Ve",
+            "url": "https://open.spotify.com/track/1sbW5E7w8tnqpYk0Frx8QG"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "#3 Deluxe Version",
+                "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+            },
+            "artists": [
+                {
+                    "name": "The Script",
+                    "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+                },
+                {
+                    "name": "will.i.am",
+                    "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+                }
+            ],
+            "duration_ms": 202533,
+            "name": "Hall of Fame (feat. will.i.am)",
+            "url": "https://open.spotify.com/track/7wMq5n8mYSKlQIGECKUgTX"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Tribute",
+                "url": "https://open.spotify.com/album/7ybleSrN0ZT3bci5WZ6puk"
+            },
+            "artists": [
+                {
+                    "name": "John Newman",
+                    "url": "https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf"
+                }
+            ],
+            "duration_ms": 239894,
+            "name": "Love Me Again",
+            "url": "https://open.spotify.com/track/5VSCgNlSmTV2Yq5lB40Eaw"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Groove With Arijit Singh",
+                "url": "https://open.spotify.com/album/7kSY0fqrPep5vcwOb1juye"
+            },
+            "artists": [
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                },
+                {
+                    "name": "Aditi Singh Sharma",
+                    "url": "https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY"
+                }
+            ],
+            "duration_ms": 264854,
+            "name": "Sooraj Dooba Hain (From \"Roy\")",
+            "url": "https://open.spotify.com/track/5HcBFhFQEtqKrsRkr95XYu"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "21",
+                "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+            },
+            "artists": [
+                {
+                    "name": "Adele",
+                    "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+                }
+            ],
+            "duration_ms": 228293,
+            "name": "Rolling in the Deep",
+            "url": "https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Sticks & Stones",
+                "url": "https://open.spotify.com/album/0z5qKyh9ys3kk9oLEzgG5l"
+            },
+            "artists": [
+                {
+                    "name": "Cher Lloyd",
+                    "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+                }
+            ],
+            "duration_ms": 214013,
+            "name": "Want U Back",
+            "url": "https://open.spotify.com/track/5InWRmnfgjVwQWoXHNBATu"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Mini World",
+                "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
+            },
+            "artists": [
+                {
+                    "name": "Indila",
+                    "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+                }
+            ],
+            "duration_ms": 213493,
+            "name": "Dernière danse",
+            "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Loveholic Arijit Singh",
+                "url": "https://open.spotify.com/album/7patNeMdCSnjhX082Uv3yg"
+            },
+            "artists": [
+                {
+                    "name": "Mithoon",
+                    "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "duration_ms": 308714,
+            "name": "Sanam Re (From \"Sanam Re\")",
+            "url": "https://open.spotify.com/track/66mqwlj5ImLj99hyyVBozw"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Night Visions",
+                "url": "https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8"
+            },
+            "artists": [
+                {
+                    "name": "Imagine Dragons",
+                    "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+                }
+            ],
+            "duration_ms": 237986,
+            "name": "It's Time",
+            "url": "https://open.spotify.com/track/6BtmXhTJMM9sBTHeYYASGz"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Khoobsurat",
+                "url": "https://open.spotify.com/album/66PqhjAV83M26X8mJ8nqDO"
+            },
+            "artists": [
+                {
+                    "name": "Sona Mohapatra",
+                    "url": "https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3"
+                },
+                {
+                    "name": "Armaan Malik",
+                    "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+                }
+            ],
+            "duration_ms": 225568,
+            "name": "Naina",
+            "url": "https://open.spotify.com/track/3SHopOL3KEJ8PFl3vJdfmF"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "ARTPOP",
+                "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+            },
+            "artists": [
+                {
+                    "name": "Lady Gaga",
+                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+                }
+            ],
+            "duration_ms": 212333,
+            "name": "Applause",
+            "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "HAIZ",
+                "url": "https://open.spotify.com/album/5m01tty1948HnkXUhG0urw"
+            },
+            "artists": [
+                {
+                    "name": "Hailee Steinfeld",
+                    "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+                }
+            ],
+            "duration_ms": 218746,
+            "name": "Love Myself",
+            "url": "https://open.spotify.com/track/3Bjr9MzHM7KHk6zq7KvJRN"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Dil Toh Baccha Hai Ji",
+                "url": "https://open.spotify.com/album/4YPnhvF8PfaQrO3Jl8Tm0q"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Mohit Chauhan",
+                    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                }
+            ],
+            "duration_ms": 285686,
+            "name": "Abhi Kuch Dino Se",
+            "url": "https://open.spotify.com/track/1QufGJee7k9v4Cfp2NxXbv"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Agneepath (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j"
+            },
+            "artists": [
+                {
+                    "name": "Ajay-Atul",
+                    "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+                },
+                {
+                    "name": "Sonu Nigam",
+                    "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+                }
+            ],
+            "duration_ms": 364786,
+            "name": "Abhi Mujh Mein Kahin",
+            "url": "https://open.spotify.com/track/73y649QhnXdcm6fRdvfraO"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Queen Of The Clouds",
+                "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
+            },
+            "artists": [
+                {
+                    "name": "Tove Lo",
+                    "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+                }
+            ],
+            "duration_ms": 209160,
+            "name": "Habits (Stay High)",
+            "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Know-It-All (Deluxe)",
+                "url": "https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa"
+            },
+            "artists": [
+                {
+                    "name": "Alessia Cara",
+                    "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+                }
+            ],
+            "duration_ms": 199453,
+            "name": "Here",
+            "url": "https://open.spotify.com/track/1wYZZtamWTQAoj8B812uKQ"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "My Everything",
+                "url": "https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr"
+            },
+            "artists": [
+                {
+                    "name": "Ariana Grande",
+                    "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+                },
+                {
+                    "name": "Zedd",
+                    "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+                }
+            ],
+            "duration_ms": 214840,
+            "name": "Break Free",
+            "url": "https://open.spotify.com/track/3emCzvUm5FsQnofdNQL73a"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Aisha (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/4h2SfJt00zfnnoQSCuOmkc"
+            },
+            "artists": [
+                {
+                    "name": "Amit Trivedi",
+                    "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+                },
+                {
+                    "name": "Tochi Raina",
+                    "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+                }
+            ],
+            "duration_ms": 255906,
+            "name": "Gal Mitthi Mitthi",
+            "url": "https://open.spotify.com/track/4J9n7thOdqi8gxRGNyQoVC"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Anwar",
+                "url": "https://open.spotify.com/album/1m24oMsNiL89cMnoO2r899"
+            },
+            "artists": [
+                {
+                    "name": "Roop Kumar Rathod",
+                    "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+                }
+            ],
+            "duration_ms": 364329,
+            "name": "Maula Mere Maula",
+            "url": "https://open.spotify.com/track/4CGBTtlrjZj7ydpV52cgB4"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Sapna Jahan (From \"Brothers\")",
+                "url": "https://open.spotify.com/album/4kTUCS1HWZ7YjjbKofxUuz"
+            },
+            "artists": [
+                {
+                    "name": "Ajay-Atul",
+                    "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+                },
+                {
+                    "name": "Sonu Nigam",
+                    "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+                },
+                {
+                    "name": "Neeti Mohan",
+                    "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+                }
+            ],
+            "duration_ms": 341780,
+            "name": "Sapna Jahan (From \"Brothers\")",
+            "url": "https://open.spotify.com/track/6uQkoo1UGWThtEpNEYc6Ga"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Uncover",
+                "url": "https://open.spotify.com/album/60HpAwkOWjgTIJERzgy76n"
+            },
+            "artists": [
+                {
+                    "name": "Zara Larsson",
+                    "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                }
+            ],
+            "duration_ms": 212760,
+            "name": "Uncover",
+            "url": "https://open.spotify.com/track/5rkok5WSDPoQb9xKx5R61n"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "My World 2.0",
+                "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
+            },
+            "artists": [
+                {
+                    "name": "Justin Bieber",
+                    "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                },
+                {
+                    "name": "Ludacris",
+                    "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+                }
+            ],
+            "duration_ms": 214240,
+            "name": "Baby",
+            "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Forever (Deluxe)",
+                "url": "https://open.spotify.com/album/0rKecMSGWfKqhls4Rp3PJn"
+            },
+            "artists": [
+                {
+                    "name": "Alesso",
+                    "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                },
+                {
+                    "name": "Tove Lo",
+                    "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+                }
+            ],
+            "duration_ms": 210013,
+            "name": "Heroes (we could be)",
+            "url": "https://open.spotify.com/track/05XtssRLI22p8wLFIr7Vrl"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Dil Dhadakne Do",
+                "url": "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
+            },
+            "artists": [
+                {
+                    "name": "Yashita Sharma",
+                    "url": "https://open.spotify.com/artist/6pgJBbF3h8R4XlwetvZ9J3"
+                },
+                {
+                    "name": "Manish Kumar Tipu",
+                    "url": "https://open.spotify.com/artist/2LtSNhjLF0YPtPeC66Bd0f"
+                },
+                {
+                    "name": "Farhan Akhtar",
+                    "url": "https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L"
+                },
+                {
+                    "name": "Shankar Mahadevan",
+                    "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+                },
+                {
+                    "name": "Sukhwinder Singh",
+                    "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+                }
+            ],
+            "duration_ms": 296500,
+            "name": "Gallan Goodiyaan",
+            "url": "https://open.spotify.com/track/7hNYvX0qAKrxtVr1jGDmvR"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Arijit Singh Broken Strings",
+                "url": "https://open.spotify.com/album/6jk3ucx33D7CLURgcfVFOT"
+            },
+            "artists": [
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "duration_ms": 262986,
+            "name": "Main Dhoondne Ko Zamaane Mein (From \"Heartless\")",
+            "url": "https://open.spotify.com/track/43YkTTlOD203o9E5ZxhUjF"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Zindagi Na Milegi Dobara",
+                "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
+            },
+            "artists": [
+                {
+                    "name": "Alyssa Mendonsa",
+                    "url": "https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN"
+                },
+                {
+                    "name": "Mohit Chauhan",
+                    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                }
+            ],
+            "duration_ms": 251704,
+            "name": "Khaabon Ke Parinday",
+            "url": "https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Shower",
+                "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+            },
+            "artists": [
+                {
+                    "name": "Becky G",
+                    "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+                }
+            ],
+            "duration_ms": 206166,
+            "name": "Shower",
+            "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Emotion (Deluxe Expanded Edition)",
+                "url": "https://open.spotify.com/album/2oj3FG6fos7zAQJxLQGzou"
+            },
+            "artists": [
+                {
+                    "name": "Carly Rae Jepsen",
+                    "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+                }
+            ],
+            "duration_ms": 204763,
+            "name": "I Really Like You",
+            "url": "https://open.spotify.com/track/2hHLbkatPwOOmrNxTiD41L"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+                "url": "https://open.spotify.com/album/7k16AC80j4xHu5jWiZlym1"
+            },
+            "artists": [
+                {
+                    "name": "Flo Rida",
+                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                },
+                {
+                    "name": "Kesha",
+                    "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+                }
+            ],
+            "duration_ms": 207973,
+            "name": "Right Round (feat. Ke$ha)",
+            "url": "https://open.spotify.com/track/2QQuKHdhPoAJchgY0HPw96"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Pure Heroine (Extended)",
+                "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
+            },
+            "artists": [
+                {
+                    "name": "Lorde",
+                    "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+                }
+            ],
+            "duration_ms": 193058,
+            "name": "Team",
+            "url": "https://open.spotify.com/track/15jRg8Ejs7X3JEHw38TSN3"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Pharmacy",
+                "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
+            },
+            "artists": [
+                {
+                    "name": "Galantis",
+                    "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                }
+            ],
+            "duration_ms": 227073,
+            "name": "Runaway (U & I)",
+            "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "DNCE",
+                "url": "https://open.spotify.com/album/3Wv4X8OA65pGpFzBkuUgAh"
+            },
+            "artists": [
+                {
+                    "name": "DNCE",
+                    "url": "https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz"
+                }
+            ],
+            "duration_ms": 231813,
+            "name": "Toothbrush",
+            "url": "https://open.spotify.com/track/7ciLq0Cip0yxiz6KANrOUq"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "21",
+                "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+            },
+            "artists": [
+                {
+                    "name": "Adele",
+                    "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+                }
+            ],
+            "duration_ms": 241693,
+            "name": "Set Fire to the Rain",
+            "url": "https://open.spotify.com/track/3CKCZ9pfwAfoMZlMncA1Nc"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
             "album": {
                 "name": "Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]",
                 "url": "https://open.spotify.com/album/2ePFIvZKMe8zefATp9ofFA"
@@ -33,143 +649,39 @@
             "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
-                "name": "Never Say Never - The Remixes",
-                "url": "https://open.spotify.com/album/0wZJCeyfJ0LVrrtH4CwQYw"
+                "name": "Back 2 Love",
+                "url": "https://open.spotify.com/album/2XpYarn4l8zxeCh5Zzj3Mv"
             },
             "artists": [
                 {
-                    "name": "Justin Bieber",
-                    "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-                },
-                {
-                    "name": "Jaden",
-                    "url": "https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT"
+                    "name": "Rahat Fateh Ali Khan",
+                    "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
                 }
             ],
-            "duration_ms": 227853,
-            "name": "Never Say Never",
-            "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
+            "duration_ms": 342023,
+            "name": "Zaroori Tha",
+            "url": "https://open.spotify.com/track/0JChw6k59cZxegh0SGceE1"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
-                "name": "Yaariyan",
-                "url": "https://open.spotify.com/album/59RFGu1upndkHRqpJWHvos"
+                "name": "Sit Still, Look Pretty",
+                "url": "https://open.spotify.com/album/2cE2eOy7alOZHpuelJEV8Q"
             },
             "artists": [
                 {
-                    "name": "Mohammed Irfan",
-                    "url": "https://open.spotify.com/artist/6QtJ6BVdj43aDpgjnVp2tY"
-                },
-                {
-                    "name": "Gajendra Verma",
-                    "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+                    "name": "Daya",
+                    "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
                 }
             ],
-            "duration_ms": 374938,
-            "name": "Baarish",
-            "url": "https://open.spotify.com/track/6ABHr8kYCws5z6gC9Lwith"
+            "duration_ms": 202226,
+            "name": "Sit Still, Look Pretty",
+            "url": "https://open.spotify.com/track/2DpCdPMg1BADE4HDnxt3Rd"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "In A Tidal Wave Of Mystery (Deluxe Edition)",
-                "url": "https://open.spotify.com/album/3WrufJir7I61NkvkDwxero"
-            },
-            "artists": [
-                {
-                    "name": "Capital Cities",
-                    "url": "https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu"
-                }
-            ],
-            "duration_ms": 192789,
-            "name": "Safe And Sound",
-            "url": "https://open.spotify.com/track/6Z8R6UsFuGXGtiIxiD8ISb"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Best Of Sunidhi Chauhan",
-                "url": "https://open.spotify.com/album/0C0uXvpwQG1dRuHGLSvBTT"
-            },
-            "artists": [
-                {
-                    "name": "Sunidhi Chauhan",
-                    "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Neeti Mohan",
-                    "url": "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
-                }
-            ],
-            "duration_ms": 307627,
-            "name": "Kashmir Main Tu Kanyakumari",
-            "url": "https://open.spotify.com/track/1z7EH1Zr9mg9kuOF8IXsxO"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Humnava (From \"Hamari Adhuri Kahani\")",
-                "url": "https://open.spotify.com/album/3SOcXXBWU0GCJLNBelCHGF"
-            },
-            "artists": [
-                {
-                    "name": "Mithoon",
-                    "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
-                },
-                {
-                    "name": "Papon",
-                    "url": "https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT"
-                }
-            ],
-            "duration_ms": 328854,
-            "name": "Humnava (From \"Hamari Adhuri Kahani\")",
-            "url": "https://open.spotify.com/track/4wqyrrwu6HCZWqdbOx53JX"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Motion",
-                "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-            },
-            "artists": [
-                {
-                    "name": "Calvin Harris",
-                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-                },
-                {
-                    "name": "Ellie Goulding",
-                    "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-                }
-            ],
-            "duration_ms": 227266,
-            "name": "Outside (feat. Ellie Goulding)",
-            "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Until Now",
-                "url": "https://open.spotify.com/album/2OW1FFaG8vgbRl0WilKz1B"
-            },
-            "artists": [
-                {
-                    "name": "Swedish House Mafia",
-                    "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-                }
-            ],
-            "duration_ms": 213693,
-            "name": "Save The World",
-            "url": "https://open.spotify.com/track/2hIwUSQhBcBiw7hwGMfChM"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
                 "name": "THE E.N.D. (THE ENERGY NEVER DIES) [Deluxe Version]",
                 "url": "https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX"
@@ -185,327 +697,7 @@
             "url": "https://open.spotify.com/track/4kLLWz7srcuLKA7Et40PQR"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Pure Heroine (Extended)",
-                "url": "https://open.spotify.com/album/6rnzvZhe3PA57xKcKLRtJ6"
-            },
-            "artists": [
-                {
-                    "name": "Lorde",
-                    "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-                }
-            ],
-            "duration_ms": 193058,
-            "name": "Team",
-            "url": "https://open.spotify.com/track/15jRg8Ejs7X3JEHw38TSN3"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Khiladi 786",
-                "url": "https://open.spotify.com/album/5BoZm7cUUN5BpcXrNk1Z0v"
-            },
-            "artists": [
-                {
-                    "name": "Himesh Reshammiya",
-                    "url": "https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU"
-                },
-                {
-                    "name": "Vineet Singh",
-                    "url": "https://open.spotify.com/artist/4reUTWYBJ5qo98SW1sXMGv"
-                },
-                {
-                    "name": "Aaman Trikha",
-                    "url": "https://open.spotify.com/artist/2MMPzBpMeCZVPRnV5mddc3"
-                }
-            ],
-            "duration_ms": 254351,
-            "name": "Hookah Bar",
-            "url": "https://open.spotify.com/track/4AoQVhME8Ko6LNm4lV2wwQ"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Saturday Saturday",
-                "url": "https://open.spotify.com/album/1mNeU7qyNqizvr56NCxkRe"
-            },
-            "artists": [
-                {
-                    "name": "Shaarib Toshi",
-                    "url": "https://open.spotify.com/artist/0FJz7XR37hH69traaHLijA"
-                },
-                {
-                    "name": "Badshah",
-                    "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-                },
-                {
-                    "name": "Indeep Bakshi",
-                    "url": "https://open.spotify.com/artist/0Te1QGD9jtzrxPa8nie9OQ"
-                },
-                {
-                    "name": "Akriti Kakar",
-                    "url": "https://open.spotify.com/artist/0le3G5nxaIL8ecHpBA6LPW"
-                }
-            ],
-            "duration_ms": 210799,
-            "name": "Saturday Saturday",
-            "url": "https://open.spotify.com/track/7MvQQGqYE4r0ucTarmI2Gr"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Billu",
-                "url": "https://open.spotify.com/album/0Yh63z8eqUG51rnjnah5NN"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Neeraj Shridhar",
-                    "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-                },
-                {
-                    "name": "Tulsi Kumar",
-                    "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-                }
-            ],
-            "duration_ms": 286034,
-            "name": "Love Mera Hit Hit",
-            "url": "https://open.spotify.com/track/2VgbvKdaSOXWByBKYgBsEc"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Heroes Tonight",
-                "url": "https://open.spotify.com/album/5EIy7f9l8YEqEkGuLLjd9A"
-            },
-            "artists": [
-                {
-                    "name": "Janji",
-                    "url": "https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E"
-                },
-                {
-                    "name": "Johnning",
-                    "url": "https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN"
-                }
-            ],
-            "duration_ms": 208139,
-            "name": "Heroes Tonight",
-            "url": "https://open.spotify.com/track/3SipFlNddvL0XNZRLXvdZD"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Barfi! (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/2KZs4INik6X4KeZEsEWEm4"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                },
-                {
-                    "name": "Nikhil Paul George",
-                    "url": "https://open.spotify.com/artist/7HHLBC9hUb55SDUcBlM8FQ"
-                }
-            ],
-            "duration_ms": 236373,
-            "name": "Aashiyan",
-            "url": "https://open.spotify.com/track/7ttlemwytO21npSmLKqTBg"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "True",
-                "url": "https://open.spotify.com/album/16WbLPydnmtI3gQJ4MHZ9J"
-            },
-            "artists": [
-                {
-                    "name": "Avicii",
-                    "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-                }
-            ],
-            "duration_ms": 148386,
-            "name": "Addicted To You",
-            "url": "https://open.spotify.com/track/6sQh9Ws4Upfu9Gu3QyMk0h"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Zindagi Na Milegi Dobara",
-                "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
-            },
-            "artists": [
-                {
-                    "name": "Vishal Dadlani",
-                    "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-                }
-            ],
-            "duration_ms": 299119,
-            "name": "Ik Junoon (Paint It Red)",
-            "url": "https://open.spotify.com/track/7e6qTHVfRdaYsio90s1fHC"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Motion",
-                "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-            },
-            "artists": [
-                {
-                    "name": "Calvin Harris",
-                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-                }
-            ],
-            "duration_ms": 222533,
-            "name": "Summer",
-            "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Global Warming: Meltdown (Deluxe Version)",
-                "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
-            },
-            "artists": [
-                {
-                    "name": "Pitbull",
-                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-                },
-                {
-                    "name": "Christina Aguilera",
-                    "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-                }
-            ],
-            "duration_ms": 229506,
-            "name": "Feel This Moment (feat. Christina Aguilera)",
-            "url": "https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
-                "url": "https://open.spotify.com/album/7k16AC80j4xHu5jWiZlym1"
-            },
-            "artists": [
-                {
-                    "name": "Flo Rida",
-                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-                },
-                {
-                    "name": "Kesha",
-                    "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-                }
-            ],
-            "duration_ms": 207973,
-            "name": "Right Round (feat. Ke$ha)",
-            "url": "https://open.spotify.com/track/2QQuKHdhPoAJchgY0HPw96"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "What Dreams Are Made Of",
-                "url": "https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB"
-            },
-            "artists": [
-                {
-                    "name": "R. City",
-                    "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-                },
-                {
-                    "name": "Adam Levine",
-                    "url": "https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n"
-                }
-            ],
-            "duration_ms": 227480,
-            "name": "Locked Away (feat. Adam Levine)",
-            "url": "https://open.spotify.com/track/7x5xYW5W42OGPAdHUyyguy"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Loveholic Arijit Singh",
-                "url": "https://open.spotify.com/album/7patNeMdCSnjhX082Uv3yg"
-            },
-            "artists": [
-                {
-                    "name": "Harshdeep Kaur",
-                    "url": "https://open.spotify.com/artist/3xU8YsNNkmWSPewlB18NUz"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                }
-            ],
-            "duration_ms": 270438,
-            "name": "Kabira (Encore) [From \"Yeh Jawaani Hai Deewani\"]",
-            "url": "https://open.spotify.com/track/6qlZ2RQhKb9JMd63tEdfaL"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "THIS IS... ICONA POP",
-                "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
-            },
-            "artists": [
-                {
-                    "name": "Icona Pop",
-                    "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-                },
-                {
-                    "name": "Charli XCX",
-                    "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-                }
-            ],
-            "duration_ms": 157152,
-            "name": "I Love It (feat. Charli XCX)",
-            "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "My Everything",
-                "url": "https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr"
-            },
-            "artists": [
-                {
-                    "name": "Ariana Grande",
-                    "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-                },
-                {
-                    "name": "The Weeknd",
-                    "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-                }
-            ],
-            "duration_ms": 236133,
-            "name": "Love Me Harder",
-            "url": "https://open.spotify.com/track/0e5q6Z47J4oU5S0gvfjKpi"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Revival (Deluxe)",
-                "url": "https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE"
-            },
-            "artists": [
-                {
-                    "name": "Selena Gomez",
-                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-                }
-            ],
-            "duration_ms": 229080,
-            "name": "Same Old Love",
-            "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
                 "name": "Motion",
                 "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
@@ -529,155 +721,159 @@
             "url": "https://open.spotify.com/track/4J7CKHCF3mdL4diUsmW8lq"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
-                "name": "Kites",
-                "url": "https://open.spotify.com/album/79uqwO6n4ZFqHaDwLZhyL0"
+                "name": "My Heart",
+                "url": "https://open.spotify.com/album/33Fc7E5Avn2eAM8jUNuljT"
             },
             "artists": [
                 {
-                    "name": "KK",
-                    "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-                }
-            ],
-            "duration_ms": 253200,
-            "name": "Zindagi Do Pal Ki",
-            "url": "https://open.spotify.com/track/3s6H6UW7yPu2rsF8CGki60"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Get Wet",
-                "url": "https://open.spotify.com/album/0VVo05bIhweXFjUo1uGvfm"
-            },
-            "artists": [
-                {
-                    "name": "Krewella",
-                    "url": "https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr"
-                }
-            ],
-            "duration_ms": 288880,
-            "name": "Alive",
-            "url": "https://open.spotify.com/track/7bJUkF96TYazaRp8ZH3Ars"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Handwritten",
-                "url": "https://open.spotify.com/album/0CnQ0JQajNswRjPkNYVG8m"
-            },
-            "artists": [
-                {
-                    "name": "Shawn Mendes",
-                    "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-                }
-            ],
-            "duration_ms": 206880,
-            "name": "Stitches",
-            "url": "https://open.spotify.com/track/3zkWCteF82vJwv0hRLba76"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Mini World",
-                "url": "https://open.spotify.com/album/1r7XjAgjwlakmXC2GbPXjH"
-            },
-            "artists": [
-                {
-                    "name": "Indila",
-                    "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-                }
-            ],
-            "duration_ms": 213493,
-            "name": "Dernière danse",
-            "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "21",
-                "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
-            },
-            "artists": [
-                {
-                    "name": "Adele",
-                    "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-                }
-            ],
-            "duration_ms": 228293,
-            "name": "Rolling in the Deep",
-            "url": "https://open.spotify.com/track/1CkvWZme3pRgbzaxZnTl5X"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Night Visions",
-                "url": "https://open.spotify.com/album/6nxDQi0FeEwccEPJeNySoS"
-            },
-            "artists": [
-                {
-                    "name": "Imagine Dragons",
-                    "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-                }
-            ],
-            "duration_ms": 192280,
-            "name": "On Top Of The World",
-            "url": "https://open.spotify.com/track/213x4gsFDm04hSqIUkg88w"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Invincible",
-                "url": "https://open.spotify.com/album/29O5bQN4hzB99iXPilvAPz"
-            },
-            "artists": [
-                {
-                    "name": "Deaf Kev",
-                    "url": "https://open.spotify.com/artist/7kANMNctYR16urrVo7GTSR"
-                }
-            ],
-            "duration_ms": 279600,
-            "name": "Invincible",
-            "url": "https://open.spotify.com/track/7MTZVwYiEahXQIyCU2FLPV"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Anwar",
-                "url": "https://open.spotify.com/album/1m24oMsNiL89cMnoO2r899"
-            },
-            "artists": [
-                {
-                    "name": "Roop Kumar Rathod",
-                    "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
-                }
-            ],
-            "duration_ms": 364329,
-            "name": "Maula Mere Maula",
-            "url": "https://open.spotify.com/track/4CGBTtlrjZj7ydpV52cgB4"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Rockstar",
-                "url": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
-            },
-            "artists": [
-                {
-                    "name": "Mohit Chauhan",
-                    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                    "name": "Different Heaven",
+                    "url": "https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx"
                 },
                 {
-                    "name": "Suzanne D'Mello",
-                    "url": "https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf"
+                    "name": "EH!DE",
+                    "url": "https://open.spotify.com/artist/1EkJy0Tz2PYa8ohGWOnqkw"
                 }
             ],
-            "duration_ms": 316500,
-            "name": "Tum Ho",
-            "url": "https://open.spotify.com/track/7uNnlVit5qDvfOje0pqICF"
+            "duration_ms": 266900,
+            "name": "My Heart",
+            "url": "https://open.spotify.com/track/08z6EsebfUH0Q6J0Wf3eWf"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Cry Baby (Deluxe Edition)",
+                "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
+            },
+            "artists": [
+                {
+                    "name": "Melanie Martinez",
+                    "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+                }
+            ],
+            "duration_ms": 179867,
+            "name": "Play Date",
+            "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "THIS IS... ICONA POP",
+                "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
+            },
+            "artists": [
+                {
+                    "name": "Icona Pop",
+                    "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                },
+                {
+                    "name": "Charli XCX",
+                    "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                }
+            ],
+            "duration_ms": 157152,
+            "name": "I Love It (feat. Charli XCX)",
+            "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "B.o.B Presents: The Adventures of Bobby Ray",
+                "url": "https://open.spotify.com/album/7apLPYT8szV1IqTxyVSy5P"
+            },
+            "artists": [
+                {
+                    "name": "B.o.B",
+                    "url": "https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT"
+                },
+                {
+                    "name": "Hayley Williams",
+                    "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+                }
+            ],
+            "duration_ms": 180480,
+            "name": "Airplanes (feat. Hayley Williams of Paramore)",
+            "url": "https://open.spotify.com/track/6lV2MSQmRIkycDScNtrBXO"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "1000 Forms Of Fear",
+                "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+            },
+            "artists": [
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                }
+            ],
+            "duration_ms": 216120,
+            "name": "Chandelier",
+            "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Hamari Adhuri Kahani (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/7sVzilmsqYcLMYw2gtvoZM"
+            },
+            "artists": [
+                {
+                    "name": "Jeet Gannguli",
+                    "url": "https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "duration_ms": 398799,
+            "name": "Hamari Adhuri Kahani (Title Track)",
+            "url": "https://open.spotify.com/track/3HiobOOpSpMsi95WBKPBYk"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "The Fame Monster (Deluxe Edition)",
+                "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+            },
+            "artists": [
+                {
+                    "name": "Lady Gaga",
+                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+                }
+            ],
+            "duration_ms": 294573,
+            "name": "Bad Romance",
+            "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Jab Tak Hai Jaan",
+                "url": "https://open.spotify.com/album/3G0diKadKaufyFybV3TzuP"
+            },
+            "artists": [
+                {
+                    "name": "A.R. Rahman",
+                    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                },
+                {
+                    "name": "Rabbi",
+                    "url": "https://open.spotify.com/artist/4rD8zSLMVjpdgJyW14Lokh"
+                },
+                {
+                    "name": "Gulzar",
+                    "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+                }
+            ],
+            "duration_ms": 320417,
+            "name": "Challa",
+            "url": "https://open.spotify.com/track/6wXPV6dNRAhFavrRaCdMXT"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
             "album": {
                 "name": "My Everything",
                 "url": "https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr"
@@ -688,273 +884,49 @@
                     "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
                 },
                 {
-                    "name": "Iggy Azalea",
-                    "url": "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
+                    "name": "The Weeknd",
+                    "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
                 }
             ],
-            "duration_ms": 193893,
-            "name": "Problem",
-            "url": "https://open.spotify.com/track/7E8edqa0m0ASLXkLfmWY03"
+            "duration_ms": 236133,
+            "name": "Love Me Harder",
+            "url": "https://open.spotify.com/track/0e5q6Z47J4oU5S0gvfjKpi"
         },
         {
-            "added_at": "2023-12-28 00:00:00",
+            "added_at": "2023-12-29 00:00:00",
             "album": {
-                "name": "Split (Only U)",
-                "url": "https://open.spotify.com/album/0WTYsW1iJz4NQqdclJ4gcd"
+                "name": "Jeena Jeena (From \"Badlapur\")",
+                "url": "https://open.spotify.com/album/0U2bBiUD6j9q0GIDsY3J7v"
             },
             "artists": [
                 {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                }
+            ],
+            "duration_ms": 228968,
+            "name": "Jeena Jeena (From \"Badlapur\")",
+            "url": "https://open.spotify.com/track/5ZhKD46Q7mhsl0awl7ZMJc"
+        },
+        {
+            "added_at": "2023-12-29 00:00:00",
+            "album": {
+                "name": "Zindagi Na Milegi Dobara",
+                "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
+            },
+            "artists": [
+                {
+                    "name": "Joi Barua",
+                    "url": "https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v"
                 },
                 {
-                    "name": "The Chainsmokers",
-                    "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+                    "name": "Suraj Jagan",
+                    "url": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
                 }
             ],
-            "duration_ms": 256640,
-            "name": "Split (Only U)",
-            "url": "https://open.spotify.com/track/1Q4jb2UjtWUDUojHsB8mLY"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "California 37",
-                "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
-            },
-            "artists": [
-                {
-                    "name": "Train",
-                    "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-                }
-            ],
-            "duration_ms": 195973,
-            "name": "Drive By",
-            "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Celebrate Kai Po Che (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/5p9bW4b2ErADux0c0BOMDs"
-            },
-            "artists": [
-                {
-                    "name": "Amit Trivedi",
-                    "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-                },
-                {
-                    "name": "Shruti Pathak",
-                    "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
-                },
-                {
-                    "name": "Divya Kumar",
-                    "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-                }
-            ],
-            "duration_ms": 232533,
-            "name": "Shubhaarambh",
-            "url": "https://open.spotify.com/track/5ckJAMv3Ixm6orTgfkmtbf"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Pharmacy",
-                "url": "https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2"
-            },
-            "artists": [
-                {
-                    "name": "Galantis",
-                    "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-                }
-            ],
-            "duration_ms": 227073,
-            "name": "Runaway (U & I)",
-            "url": "https://open.spotify.com/track/46lFttIf5hnUZMGvjK0Wxo"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Mad Love The Prequel",
-                "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
-            },
-            "artists": [
-                {
-                    "name": "Sean Paul",
-                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-                },
-                {
-                    "name": "Dua Lipa",
-                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-                }
-            ],
-            "duration_ms": 221176,
-            "name": "No Lie",
-            "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Nothing but the Beat Ultimate",
-                "url": "https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                }
-            ],
-            "duration_ms": 245040,
-            "name": "Titanium (feat. Sia)",
-            "url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Tees Maar Khan",
-                "url": "https://open.spotify.com/album/0fLp8N5bQ1wDOc4iCFUOX8"
-            },
-            "artists": [
-                {
-                    "name": "Sunidhi Chauhan",
-                    "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
-                },
-                {
-                    "name": "Vishal Dadlani",
-                    "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-                }
-            ],
-            "duration_ms": 281707,
-            "name": "Sheila Ki Jawani",
-            "url": "https://open.spotify.com/track/6VbmeIWTbNHM5uqoW7GTE4"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "18 Months",
-                "url": "https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT"
-            },
-            "artists": [
-                {
-                    "name": "Calvin Harris",
-                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-                },
-                {
-                    "name": "Florence Welch",
-                    "url": "https://open.spotify.com/artist/0IROOdQ2fQUcoaEPqt1Isg"
-                }
-            ],
-            "duration_ms": 212560,
-            "name": "Sweet Nothing (feat. Florence Welch)",
-            "url": "https://open.spotify.com/track/24LS4lQShWyixJ0ZrJXfJ5"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Best Of Shreya Ghoshal",
-                "url": "https://open.spotify.com/album/4WELDMV021TUCe87ryn25t"
-            },
-            "artists": [
-                {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                }
-            ],
-            "duration_ms": 314700,
-            "name": "Sunn Raha Hai (From \"Aashiqui 2\")",
-            "url": "https://open.spotify.com/track/2FuBp0an5XqemYSwbbOryU"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Nine Track Mind",
-                "url": "https://open.spotify.com/album/6E0p38TjcK490itZ1Ns7bD"
-            },
-            "artists": [
-                {
-                    "name": "Charlie Puth",
-                    "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-                },
-                {
-                    "name": "Selena Gomez",
-                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-                }
-            ],
-            "duration_ms": 217706,
-            "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-            "url": "https://open.spotify.com/track/68EMU2RD1ECNeOeJ5qAXCV"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Jai Veeru",
-                "url": "https://open.spotify.com/album/7kWMrfd4iu89eGUtg0kYjA"
-            },
-            "artists": [
-                {
-                    "name": "omer inayat",
-                    "url": "https://open.spotify.com/artist/4eCyyxnvpCKgZs7RCyjDr8"
-                }
-            ],
-            "duration_ms": 308360,
-            "name": "Tennu Le",
-            "url": "https://open.spotify.com/track/0dQiyqHUpnMPmHtk535VAY"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Arijit Singh Broken Strings",
-                "url": "https://open.spotify.com/album/6jk3ucx33D7CLURgcfVFOT"
-            },
-            "artists": [
-                {
-                    "name": "Nandini Srikar",
-                    "url": "https://open.spotify.com/artist/3oinJWo0iD7MVnojA8R8WP"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                }
-            ],
-            "duration_ms": 260138,
-            "name": "Duaa (From \"Shanghai\")",
-            "url": "https://open.spotify.com/track/0MeoxIZvXjyEgeGTMyZc9T"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "G I R L",
-                "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-            },
-            "artists": [
-                {
-                    "name": "Pharrell Williams",
-                    "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-                }
-            ],
-            "duration_ms": 232720,
-            "name": "Happy - From \"Despicable Me 2\"",
-            "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-        },
-        {
-            "added_at": "2023-12-28 00:00:00",
-            "album": {
-                "name": "Confident",
-                "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
-            },
-            "artists": [
-                {
-                    "name": "Demi Lovato",
-                    "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-                }
-            ],
-            "duration_ms": 214739,
-            "name": "Cool for the Summer",
-            "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
+            "duration_ms": 230318,
+            "name": "Dil Dhadakne Do",
+            "url": "https://open.spotify.com/track/46elU7IBKWf55D5sjHGqO7"
         }
     ],
     "unique_name": "Your Time Capsule",
