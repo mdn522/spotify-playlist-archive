@@ -1,13 +1,137 @@
 {
-    "description": "Noa Kirel, Static & Ben El, Jubël and more",
+    "description": "Noa Kirel, Static & Ben El, Anna Zak and more",
     "num_followers": 0,
     "original_name": "Daily Mix 5",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "MCwwMDAwMDAwMDllMmQ1OTBlZDFhZDA4NDYwN2E4NDY4MTZkNDU4MmI3",
+    "snapshot_id": "MCwxY2RjNDVjNjVhNzIwYmUwMTc4OWUwNTIxN2MyZjJkMmI1M2Q0MWEy",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "Unicorn",
+                "url": "https://open.spotify.com/album/14wVxL1PbK2bJuoGjxHrCR"
+            },
+            "artists": [
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                }
+            ],
+            "duration_ms": 170900,
+            "name": "Unicorn",
+            "url": "https://open.spotify.com/track/6dUregFbvUNqHP5nphqesK"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "שבעה ירחים",
+                "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
+            },
+            "artists": [
+                {
+                    "name": "Static & Ben El",
+                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+                }
+            ],
+            "duration_ms": 185000,
+            "name": "שבעה ירחים",
+            "url": "https://open.spotify.com/track/5q3JbmBFzPbULx3tyqyXLF"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Hoodie (Feat. Mergui)",
+                "url": "https://open.spotify.com/album/6Jw5sxdvYxdvYPO5xBW0N0"
+            },
+            "artists": [
+                {
+                    "name": "Anna Zak",
+                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+                },
+                {
+                    "name": "Mergui",
+                    "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
+                }
+            ],
+            "duration_ms": 196688,
+            "name": "Hoodie",
+            "url": "https://open.spotify.com/track/22VWIRR1VjpvpCG3n1Pn2v"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Lucky (feat. Noa Kirel)",
+                "url": "https://open.spotify.com/album/4xjq8iP9OYWK7g6JhIMv2v"
+            },
+            "artists": [
+                {
+                    "name": "Jubël",
+                    "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+                },
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                }
+            ],
+            "duration_ms": 142038,
+            "name": "Lucky (feat. Noa Kirel)",
+            "url": "https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "חוץ ממך",
+                "url": "https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF"
+            },
+            "artists": [
+                {
+                    "name": "Maya Dadon",
+                    "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+                }
+            ],
+            "duration_ms": 130000,
+            "name": "ענטוזים",
+            "url": "https://open.spotify.com/track/3mdCow9zcsoyLyNxpJJhKQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "אלבום 2",
+                "url": "https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE"
+            },
+            "artists": [
+                {
+                    "name": "Eden Hason",
+                    "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+                },
+                {
+                    "name": "Ella Lee",
+                    "url": "https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo"
+                }
+            ],
+            "duration_ms": 191647,
+            "name": "שימי פס",
+            "url": "https://open.spotify.com/track/0WMin0gRQk2WCJbVOnakqi"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Ricki Lake",
+                "url": "https://open.spotify.com/album/7HXZshkUzfgT0rTK6gRPxT"
+            },
+            "artists": [
+                {
+                    "name": "Netta",
+                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+                }
+            ],
+            "duration_ms": 130229,
+            "name": "Ricki Lake",
+            "url": "https://open.spotify.com/track/1DsMRSS0VEp4B39GPpOVBd"
+        },
         {
             "added_at": null,
             "album": {
@@ -31,94 +155,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Barbie",
-                "url": "https://open.spotify.com/album/2GGRbsSZbDWmEcP14LsOWT"
+                "name": "Set Me Free",
+                "url": "https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5"
             },
             "artists": [
                 {
-                    "name": "Static & Ben El",
-                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+                    "name": "Eden Alene",
+                    "url": "https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG"
                 }
             ],
-            "duration_ms": 190790,
-            "name": "Barbie",
-            "url": "https://open.spotify.com/track/7Myaqen8f9gkZ9UwxEyGB3"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sha La La",
-                "url": "https://open.spotify.com/album/0TA9QnOwNIu8HO7agGwf3v"
-            },
-            "artists": [
-                {
-                    "name": "Ido Shoam",
-                    "url": "https://open.spotify.com/artist/25LdlONj9Bqey3JfONV52I"
-                },
-                {
-                    "name": "Roy Machluf",
-                    "url": "https://open.spotify.com/artist/7087U9VcV2bsLGLNA4tjIC"
-                }
-            ],
-            "duration_ms": 150804,
-            "name": "Sha La La - Radio Edit",
-            "url": "https://open.spotify.com/track/49LhntJQpkanCJvpBYXsbs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Wonderful & Great",
-                "url": "https://open.spotify.com/album/5iTRTDFuXfvZO6Uv9hMlm5"
-            },
-            "artists": [
-                {
-                    "name": "Netta",
-                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                }
-            ],
-            "duration_ms": 144280,
-            "name": "Wonderful & Great",
-            "url": "https://open.spotify.com/track/3Ua9ii7k19DUUaqxDo2ivr"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "גבר בפוראבר",
-                "url": "https://open.spotify.com/album/0QUiqeneq9TLK9YYVQZ0s5"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                },
-                {
-                    "name": "Forever Tel Aviv",
-                    "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
-                }
-            ],
-            "duration_ms": 202672,
-            "name": "גבר בפוראבר",
-            "url": "https://open.spotify.com/track/0yATGrhAhErn2CvD3g6xzy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "קראש",
-                "url": "https://open.spotify.com/album/3eFOvpYfoVjs7LLKveea2A"
-            },
-            "artists": [
-                {
-                    "name": "Roni Duani",
-                    "url": "https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA"
-                },
-                {
-                    "name": "Hype",
-                    "url": "https://open.spotify.com/artist/1OniqvtJdmEQPsvK85RSJV"
-                }
-            ],
-            "duration_ms": 147380,
-            "name": "קראש",
-            "url": "https://open.spotify.com/track/4IGf153raVXv99mz1xdmG4"
+            "duration_ms": 179439,
+            "name": "Set Me Free",
+            "url": "https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9"
         },
         {
             "added_at": null,
@@ -143,86 +191,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "שלושה בנות",
-                "url": "https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y"
+                "name": "צעירים לנצח",
+                "url": "https://open.spotify.com/album/3f66vjoNmkleCZh9h6qgkY"
             },
             "artists": [
                 {
-                    "name": "Noa Kirel",
-                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                    "name": "Doli & Penn",
+                    "url": "https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3"
                 },
                 {
-                    "name": "Gitit Fisher",
-                    "url": "https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0"
+                    "name": "ליאור נרקיס",
+                    "url": "https://open.spotify.com/artist/02bFE19EZ1hxEYCic1foqS"
                 }
             ],
-            "duration_ms": 217500,
-            "name": "שלושה בנות",
-            "url": "https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY"
+            "duration_ms": 132309,
+            "name": "עזוב אותי מטכנו",
+            "url": "https://open.spotify.com/track/18TUMGh6X3BjFqqh4C57dj"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Ue La La",
-                "url": "https://open.spotify.com/album/2Og5Xoe6efowbkou78B7a5"
+                "name": "השחר עולה",
+                "url": "https://open.spotify.com/album/2zjMksVKTT9owMgagCf1rv"
             },
             "artists": [
                 {
-                    "name": "Eden Alene",
-                    "url": "https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG"
+                    "name": "שחר סאול",
+                    "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
                 }
             ],
-            "duration_ms": 167589,
-            "name": "Ue La La",
-            "url": "https://open.spotify.com/track/5Mw8yDbp2XOBswwEoTlKPK"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "אחלה גבר",
-                "url": "https://open.spotify.com/album/1zckRGCI4X0QCkxsnVYgjg"
-            },
-            "artists": [
-                {
-                    "name": "Static & Ben El",
-                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
-                }
-            ],
-            "duration_ms": 168145,
-            "name": "אחלה גבר",
-            "url": "https://open.spotify.com/track/1vWHfVDGAx5QqtK6lVsiP1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Best Of Netta's Office, Vol. 1",
-                "url": "https://open.spotify.com/album/66244OGI8QmNBGhd5US0Q6"
-            },
-            "artists": [
-                {
-                    "name": "Netta",
-                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                }
-            ],
-            "duration_ms": 153550,
-            "name": "Coco Jamboo",
-            "url": "https://open.spotify.com/track/5jyN1eHkL3uOcrTN8dbPET"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "חן אהרוני",
-                "url": "https://open.spotify.com/album/5qGpExLdXpLBhtQnUIh9VP"
-            },
-            "artists": [
-                {
-                    "name": "Chen Aharoni",
-                    "url": "https://open.spotify.com/artist/29RlGBlQk9j3MJF3uOMgoc"
-                }
-            ],
-            "duration_ms": 185293,
-            "name": "ברחוב",
-            "url": "https://open.spotify.com/track/2xjUmvFBxV7rBxlL9hDKPY"
+            "duration_ms": 172856,
+            "name": "השחר עולה",
+            "url": "https://open.spotify.com/track/52Mbc9UgwbVOqZ1qv2GTQP"
         },
         {
             "added_at": null,
@@ -247,148 +247,24 @@
         {
             "added_at": null,
             "album": {
-                "name": "לך לישון (Eli Matana Official Remix)",
-                "url": "https://open.spotify.com/album/6ovVMitor330443R1BVzUU"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                },
-                {
-                    "name": "Eli Matana",
-                    "url": "https://open.spotify.com/artist/6Z4TcR63Ey4ek5tNrY6tkh"
-                }
-            ],
-            "duration_ms": 160920,
-            "name": "לך לישון - Eli Matana Official Remix",
-            "url": "https://open.spotify.com/track/3FqsGbXYsYlVAxwKPZyv2a"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "פנתרה (Itay Galo Official Remix)",
-                "url": "https://open.spotify.com/album/2lQRpN2qR209obWXXLgHRu"
-            },
-            "artists": [
-                {
-                    "name": "Noa Kirel",
-                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-                },
-                {
-                    "name": "Itay Galo",
-                    "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
-                }
-            ],
-            "duration_ms": 165365,
-            "name": "פנתרה - Itay Galo Official Remix",
-            "url": "https://open.spotify.com/track/0KXKeccHMltISQWxb4JQDx"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "La La Love",
-                "url": "https://open.spotify.com/album/2SztnWnKadcZWy3OlcRz1v"
-            },
-            "artists": [
-                {
-                    "name": "Eden Alene",
-                    "url": "https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG"
-                }
-            ],
-            "duration_ms": 178536,
-            "name": "La La Love",
-            "url": "https://open.spotify.com/track/1J4bysL2BfPMFnr2xCFUYa"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "ככה כל יום",
-                "url": "https://open.spotify.com/album/5CkUVNtP9mFb6spNR8ixHC"
-            },
-            "artists": [
-                {
-                    "name": "Eden Hason",
-                    "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-                }
-            ],
-            "duration_ms": 175296,
-            "name": "ככה כל יום",
-            "url": "https://open.spotify.com/track/70Vsir4Wan3TrEzGCIZy0l"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "I Love My Nails (KC Lights Remix)",
-                "url": "https://open.spotify.com/album/4JmzOd45y3ZJeZkX66XRET"
+                "name": "Bassa Sababa (Global Remixes)",
+                "url": "https://open.spotify.com/album/4T7hDtahAjuwc0wJRXeDTq"
             },
             "artists": [
                 {
                     "name": "Netta",
                     "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                },
-                {
-                    "name": "Karm The Tool",
-                    "url": "https://open.spotify.com/artist/7dYdZhPhXD1OWjT1SrZSIu"
                 }
             ],
-            "duration_ms": 96392,
-            "name": "CEO - Karm The Tool Remix",
-            "url": "https://open.spotify.com/track/0APHYSbTMCqT4XPPazU3eY"
+            "duration_ms": 178140,
+            "name": "Bassa Sababa",
+            "url": "https://open.spotify.com/track/7IPC4ATeIKlSuRfJ9hlYDR"
         },
         {
             "added_at": null,
             "album": {
-                "name": "אני בחוץ",
-                "url": "https://open.spotify.com/album/5l6QtYQYvdulCfF6Xp3sxN"
-            },
-            "artists": [
-                {
-                    "name": "Chen Aharoni",
-                    "url": "https://open.spotify.com/artist/29RlGBlQk9j3MJF3uOMgoc"
-                }
-            ],
-            "duration_ms": 138947,
-            "name": "ים כחול עמוק",
-            "url": "https://open.spotify.com/track/7v9JDBKF6AWwJjPjzDv7mJ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "עין תחת עין",
-                "url": "https://open.spotify.com/album/51cGmPSFukWF24e5s3zKHw"
-            },
-            "artists": [
-                {
-                    "name": "Inbal Bibi",
-                    "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
-                }
-            ],
-            "duration_ms": 190316,
-            "name": "עין תחת עין",
-            "url": "https://open.spotify.com/track/7rS07vly68Xg95bO8zEVLe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "כולם מזיזים",
-                "url": "https://open.spotify.com/album/6dXTpMHYNB9fnVTwiz9NtQ"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                }
-            ],
-            "duration_ms": 171541,
-            "name": "כולם מזיזים",
-            "url": "https://open.spotify.com/track/1FV2FWTYn30eml9q5nVB8J"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "שלושה בנות (Yinon Yahel Remix)",
-                "url": "https://open.spotify.com/album/2EJtmS4bxtHPIrAAPUaz7t"
+                "name": "שלושה בנות",
+                "url": "https://open.spotify.com/album/6pUQfBq9yXndShYxbpi84y"
             },
             "artists": [
                 {
@@ -398,15 +274,27 @@
                 {
                     "name": "Gitit Fisher",
                     "url": "https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0"
-                },
-                {
-                    "name": "Yinon Yahel",
-                    "url": "https://open.spotify.com/artist/4zb1vwmtrqCEqDJnt9MvEs"
                 }
             ],
-            "duration_ms": 303750,
-            "name": "שלושה בנות - Yinon Yahel Remix",
-            "url": "https://open.spotify.com/track/0AFZxPYIDoIkjCh2txy0nq"
+            "duration_ms": 217500,
+            "name": "שלושה בנות",
+            "url": "https://open.spotify.com/track/63TUZWEmunvQnAdLUD61yY"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Feker Libi",
+                "url": "https://open.spotify.com/album/0B50UPzhmmtU69BdRGV8UG"
+            },
+            "artists": [
+                {
+                    "name": "Eden Alene",
+                    "url": "https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG"
+                }
+            ],
+            "duration_ms": 183747,
+            "name": "Feker Libi",
+            "url": "https://open.spotify.com/track/3Ll7yobqpKBCwxxNwTWeTL"
         },
         {
             "added_at": null,
@@ -431,22 +319,170 @@
         {
             "added_at": null,
             "album": {
-                "name": "סולד אאוט בלב",
-                "url": "https://open.spotify.com/album/59MkHQNd2DVhqx5X1GF3It"
+                "name": "Part II",
+                "url": "https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e"
             },
             "artists": [
                 {
-                    "name": "Agam Buhbut",
-                    "url": "https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i"
-                },
-                {
-                    "name": "Eli Matana",
-                    "url": "https://open.spotify.com/artist/6Z4TcR63Ey4ek5tNrY6tkh"
+                    "name": "Osher Cohen",
+                    "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
                 }
             ],
-            "duration_ms": 143520,
-            "name": "BOOM",
-            "url": "https://open.spotify.com/track/5HxLCXQa6Qi1G5AteLC3UT"
+            "duration_ms": 219047,
+            "name": "ככה וככה",
+            "url": "https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "מטפסים על הקירות",
+                "url": "https://open.spotify.com/album/1Vd5fkLCic0TwqlbMcv4Fn"
+            },
+            "artists": [
+                {
+                    "name": "Eden Hason",
+                    "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+                }
+            ],
+            "duration_ms": 166947,
+            "name": "מטפסים על הקירות",
+            "url": "https://open.spotify.com/track/3hpaRxH73ciJCuH6QcNWXO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Super Set",
+                "url": "https://open.spotify.com/album/1WWP2TnkpbU4yN3JS9bJ2r"
+            },
+            "artists": [
+                {
+                    "name": "Roni Duani",
+                    "url": "https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA"
+                }
+            ],
+            "duration_ms": 180983,
+            "name": "סוכריה - Superset",
+            "url": "https://open.spotify.com/track/17GNZGkBSDMRXrBrD2BUmg"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Everything",
+                "url": "https://open.spotify.com/album/5bIjntlZiR3Zj36rLw2H27"
+            },
+            "artists": [
+                {
+                    "name": "Netta",
+                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
+                }
+            ],
+            "duration_ms": 178134,
+            "name": "Everything",
+            "url": "https://open.spotify.com/track/7tZzYmYevSj9wVFS8rb6kT"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Gone",
+                "url": "https://open.spotify.com/album/2jfPIHgXLsp0d0cpkoHAff"
+            },
+            "artists": [
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                },
+                {
+                    "name": "sped up nightcore",
+                    "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+                }
+            ],
+            "duration_ms": 149216,
+            "name": "Gone (Sped Up Version)",
+            "url": "https://open.spotify.com/track/6N0XyoTJUgBvd2WlG3Gcj8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "השיר הבא לארוויזיון",
+                "url": "https://open.spotify.com/album/7AE5eUzlyPYPzhEjrmYeIf"
+            },
+            "artists": [
+                {
+                    "name": "Eden Alene",
+                    "url": "https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG"
+                }
+            ],
+            "duration_ms": 172500,
+            "name": "Roots",
+            "url": "https://open.spotify.com/track/1YaiqjZJbTwzS6D5wxh57P"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Stam",
+                "url": "https://open.spotify.com/album/4bGjwRxB25Cd9TYqrHY0s2"
+            },
+            "artists": [
+                {
+                    "name": "Static & Ben El",
+                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
+                }
+            ],
+            "duration_ms": 167687,
+            "name": "Stam",
+            "url": "https://open.spotify.com/track/5SJ6DITo9IG9EQu24JF1OG"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "עושה לי בלאגן",
+                "url": "https://open.spotify.com/album/3E4ffrFpkBJW1lGbowmw5T"
+            },
+            "artists": [
+                {
+                    "name": "Osher Cohen",
+                    "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+                },
+                {
+                    "name": "Nadav Navi Aharoni",
+                    "url": "https://open.spotify.com/artist/2KxKLkAYIg1MJyLCH0Pl8e"
+                }
+            ],
+            "duration_ms": 203520,
+            "name": "עושה לי בלאגן",
+            "url": "https://open.spotify.com/track/7kbMlbfDBhQGfd0AnbYqnC"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "לא בקצב",
+                "url": "https://open.spotify.com/album/2rgZ47lI6H9bBwVwBRSyEE"
+            },
+            "artists": [
+                {
+                    "name": "הייפ קרו",
+                    "url": "https://open.spotify.com/artist/7iBeS6C6Y5RF1O3OfAt9DZ"
+                }
+            ],
+            "duration_ms": 161217,
+            "name": "לא בקצב",
+            "url": "https://open.spotify.com/track/7HU24nbgfFnDIGqtPBVPKC"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Wow Ya",
+                "url": "https://open.spotify.com/album/0AJEHbWMMSfAJKTYGiLEMw"
+            },
+            "artists": [
+                {
+                    "name": "Formula",
+                    "url": "https://open.spotify.com/artist/32VLLtKriiOKfzhkwD9BFs"
+                }
+            ],
+            "duration_ms": 173440,
+            "name": "Wow Ya",
+            "url": "https://open.spotify.com/track/2xjL2k4xskRtTMRAaMjA4U"
         },
         {
             "added_at": null,
@@ -467,56 +503,8 @@
         {
             "added_at": null,
             "album": {
-                "name": "חוץ ממך",
-                "url": "https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF"
-            },
-            "artists": [
-                {
-                    "name": "Maya Dadon",
-                    "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
-                }
-            ],
-            "duration_ms": 130000,
-            "name": "ענטוזים",
-            "url": "https://open.spotify.com/track/3mdCow9zcsoyLyNxpJJhKQ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "בשכונה של איב אנד ליר",
-                "url": "https://open.spotify.com/album/6NSVUnqioBNd2wqtHy30qR"
-            },
-            "artists": [
-                {
-                    "name": "Eve And Lear",
-                    "url": "https://open.spotify.com/artist/7rLIyZteTQHPhsqQN0Mcc1"
-                }
-            ],
-            "duration_ms": 213014,
-            "name": "בשכונה של איב אנד ליר",
-            "url": "https://open.spotify.com/track/0J7zmRI6sleoO6O60Ijq6m"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "רצה סולו",
-                "url": "https://open.spotify.com/album/5C6VLQJumuUefhUdmu21i6"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                }
-            ],
-            "duration_ms": 167209,
-            "name": "רצה סולו",
-            "url": "https://open.spotify.com/track/7rW9GO5usfexkORf6Nw3wH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "רואה ירוק בעיניים",
-                "url": "https://open.spotify.com/album/50PcelKYaBsjgCKghOnqAl"
+                "name": "Thought About That (EDX’s Ibiza Sunset Mix)",
+                "url": "https://open.spotify.com/album/0Sx1dCFgiNbxjTIPNOM5I8"
             },
             "artists": [
                 {
@@ -524,13 +512,37 @@
                     "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
                 },
                 {
-                    "name": "רובי פאייר",
-                    "url": "https://open.spotify.com/artist/2LadeIjFrbgoTYM51nRepA"
+                    "name": "EDX",
+                    "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
                 }
             ],
-            "duration_ms": 201986,
-            "name": "רואה ירוק בעיניים",
-            "url": "https://open.spotify.com/track/1vT8J8CJZRjSam0s2RKUHg"
+            "duration_ms": 173760,
+            "name": "Thought About That - EDX’s Ibiza Sunset Mix",
+            "url": "https://open.spotify.com/track/3YM5PF5OOPDrQ1WKEoxHZK"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "שימי פס (Itay Galo Remix)",
+                "url": "https://open.spotify.com/album/1wO3M1ceSS6lWzukh4ygf6"
+            },
+            "artists": [
+                {
+                    "name": "Eden Hason",
+                    "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
+                },
+                {
+                    "name": "Ella Lee",
+                    "url": "https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo"
+                },
+                {
+                    "name": "Itay Galo",
+                    "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
+                }
+            ],
+            "duration_ms": 303750,
+            "name": "שימי פס - Itay Galo Remix",
+            "url": "https://open.spotify.com/track/0GdcGh1VXGL25SLZfxBMjE"
         },
         {
             "added_at": null,
@@ -563,8 +575,40 @@
         {
             "added_at": null,
             "album": {
-                "name": "ידעתי שבסוף תברח",
-                "url": "https://open.spotify.com/album/3pmkrdURRSTZSExX2NrRgD"
+                "name": "Zaza",
+                "url": "https://open.spotify.com/album/37dA7tXDQmpNCbL5m25Xxf"
+            },
+            "artists": [
+                {
+                    "name": "Inbal Bibi",
+                    "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+                }
+            ],
+            "duration_ms": 169428,
+            "name": "Zaza",
+            "url": "https://open.spotify.com/track/6E5C5MUBrKKJPjo69bMVVe"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "גוד וייבס",
+                "url": "https://open.spotify.com/album/6ELFq3ehYojTbaJsR1c3OS"
+            },
+            "artists": [
+                {
+                    "name": "הייפ קרו",
+                    "url": "https://open.spotify.com/artist/7iBeS6C6Y5RF1O3OfAt9DZ"
+                }
+            ],
+            "duration_ms": 148225,
+            "name": "גוד וייבס",
+            "url": "https://open.spotify.com/track/4kntg44Jv9Ke6fNS5MemDm"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "מגיע לי יותר",
+                "url": "https://open.spotify.com/album/0HOxkiM6Ca9Zc1NnxzZ9Y6"
             },
             "artists": [
                 {
@@ -572,369 +616,297 @@
                     "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
                 }
             ],
-            "duration_ms": 187500,
-            "name": "ידעתי שבסוף תברח",
-            "url": "https://open.spotify.com/track/638BcGDZKDAjZItfKU2izC"
+            "duration_ms": 185084,
+            "name": "מגיע לי יותר",
+            "url": "https://open.spotify.com/track/5b5HWVOwVrgHicjbxU3d3A"
         },
         {
             "added_at": null,
             "album": {
-                "name": "The Best Of Netta's Office, Vol. 1",
-                "url": "https://open.spotify.com/album/66244OGI8QmNBGhd5US0Q6"
+                "name": "בסוף נרקוד",
+                "url": "https://open.spotify.com/album/0B08f7onZv05gu5kO9zymf"
             },
             "artists": [
                 {
-                    "name": "Netta",
-                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                }
-            ],
-            "duration_ms": 241678,
-            "name": "Blue",
-            "url": "https://open.spotify.com/track/26WC9VK9eSWfhqtNQMpeTb"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "געגוע",
-                "url": "https://open.spotify.com/album/5fZuXEthNy4kG3i9rijPAU"
-            },
-            "artists": [
-                {
-                    "name": "Alin Golan",
-                    "url": "https://open.spotify.com/artist/0e2paefwT1ZqF2uvVq8Ldv"
-                }
-            ],
-            "duration_ms": 215410,
-            "name": "געגוע",
-            "url": "https://open.spotify.com/track/1RBv7Frk0LoNnTVUHOu5Xs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "סוף העולם",
-                "url": "https://open.spotify.com/album/3uJeLXqDAurN2eZPSkn8W9"
-            },
-            "artists": [
-                {
-                    "name": "הגר יפת",
-                    "url": "https://open.spotify.com/artist/0yuzd9F7msg9MS8MTzQOmy"
-                }
-            ],
-            "duration_ms": 200071,
-            "name": "אין לי כח",
-            "url": "https://open.spotify.com/track/2efFvzscaBfxjXsMImlRV9"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Hoodie (Feat. Mergui)",
-                "url": "https://open.spotify.com/album/6Jw5sxdvYxdvYPO5xBW0N0"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                },
-                {
-                    "name": "Mergui",
-                    "url": "https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z"
-                }
-            ],
-            "duration_ms": 196688,
-            "name": "Hoodie",
-            "url": "https://open.spotify.com/track/22VWIRR1VjpvpCG3n1Pn2v"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "יהלומים - BLING BLING (Dor Gold & Ben Azoulay Remix)",
-                "url": "https://open.spotify.com/album/2TN5FrSqhWM4czDPZgirck"
-            },
-            "artists": [
-                {
-                    "name": "Noa Kirel",
-                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-                },
-                {
-                    "name": "Ben Azoulay",
-                    "url": "https://open.spotify.com/artist/6Arnz5CaWOEuofEVgXTyn0"
-                },
-                {
-                    "name": "Dor Gold",
-                    "url": "https://open.spotify.com/artist/2Zt1J5EwBnjCS3rwQOs1mO"
-                }
-            ],
-            "duration_ms": 198750,
-            "name": "יהלומים – BLING BLING - Dor Gold & Ben Azoulay Remix",
-            "url": "https://open.spotify.com/track/1HzQZV2NfIFJf9oiYaa1xM"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "שימי פס (Itay Galo Remix)",
-                "url": "https://open.spotify.com/album/1wO3M1ceSS6lWzukh4ygf6"
-            },
-            "artists": [
-                {
-                    "name": "Eden Hason",
-                    "url": "https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4"
-                },
-                {
-                    "name": "Ella Lee",
-                    "url": "https://open.spotify.com/artist/0wVxjQGYkyNh5qQsVCZWlo"
-                },
-                {
-                    "name": "Itay Galo",
-                    "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
-                }
-            ],
-            "duration_ms": 303750,
-            "name": "שימי פס - Itay Galo Remix",
-            "url": "https://open.spotify.com/track/0GdcGh1VXGL25SLZfxBMjE"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Hakol letova",
-                "url": "https://open.spotify.com/album/7f7JS5BIqasqdS4Erogp8R"
-            },
-            "artists": [
-                {
-                    "name": "Static & Ben El",
-                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
-                }
-            ],
-            "duration_ms": 204666,
-            "name": "Hakol letova",
-            "url": "https://open.spotify.com/track/0njMqlK7LXCJLABTap0CES"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bassa Sababa (Global Remixes)",
-                "url": "https://open.spotify.com/album/4T7hDtahAjuwc0wJRXeDTq"
-            },
-            "artists": [
-                {
-                    "name": "Netta",
-                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                }
-            ],
-            "duration_ms": 178140,
-            "name": "Bassa Sababa",
-            "url": "https://open.spotify.com/track/7IPC4ATeIKlSuRfJ9hlYDR"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Live מאור אדרי בקיסריה",
-                "url": "https://open.spotify.com/album/3oTKnc7W40iALl1rGfEWlj"
-            },
-            "artists": [
-                {
-                    "name": "Maor Edri",
-                    "url": "https://open.spotify.com/artist/0iJF1SR5EbHAtVFgAz5tWH"
-                }
-            ],
-            "duration_ms": 266880,
-            "name": "אללה מעאק",
-            "url": "https://open.spotify.com/track/3SIWzwMOee9r1beR3ti7yK"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "סופרסטאר (SuperSet)",
-                "url": "https://open.spotify.com/album/20S4RJH6m2saDUsgNjj75j"
-            },
-            "artists": [
-                {
-                    "name": "Roni Duani",
-                    "url": "https://open.spotify.com/artist/3CHmL2qgsbMnGhBD2zYkTA"
-                }
-            ],
-            "duration_ms": 204623,
-            "name": "סופרסטאר - SuperSet",
-            "url": "https://open.spotify.com/track/46DsqrcspwBPaEiRwr8bO6"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "קולנוע",
-                "url": "https://open.spotify.com/album/2L0Wytys9bs9qUezgjWRC0"
-            },
-            "artists": [
-                {
-                    "name": "Shira Margalit",
-                    "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
-                }
-            ],
-            "duration_ms": 176853,
-            "name": "קולנוע",
-            "url": "https://open.spotify.com/track/3j23fCYxB12mLw4KNZH2Cw"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "הרקדן האוטומטי 2022 (Prod by Zooki)",
-                "url": "https://open.spotify.com/album/2jFTsQIZkwkCA96TkoqHuX"
-            },
-            "artists": [
-                {
-                    "name": "Noa Kirel",
-                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-                },
-                {
-                    "name": "Svika Pick",
-                    "url": "https://open.spotify.com/artist/7hMpCrQFkZm9Sy1S9ZwBFe"
-                },
-                {
-                    "name": "צאן ברזל מוזיקה",
-                    "url": "https://open.spotify.com/artist/0ZpFHH7i9H9iHh6X0j73iv"
-                },
-                {
-                    "name": "Zooki",
-                    "url": "https://open.spotify.com/artist/3op0YfwcHVh96CPZHemuQ6"
-                }
-            ],
-            "duration_ms": 163593,
-            "name": "הרקדן האוטומטי 2022 (Prod by Zooki)",
-            "url": "https://open.spotify.com/track/6F5M2CoZcZVFFyZRAGvrsH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "מי זאת (Dalit Rechester Remix)",
-                "url": "https://open.spotify.com/album/6DTrIHHVnBBTdJune8B14w"
-            },
-            "artists": [
-                {
-                    "name": "Anna Zak",
-                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
-                },
-                {
-                    "name": "Dalit Rechester",
-                    "url": "https://open.spotify.com/artist/2UaY8GfC7Uu3zWixF8R3dj"
-                }
-            ],
-            "duration_ms": 144000,
-            "name": "מי זאת - Dalit Rechester Remix",
-            "url": "https://open.spotify.com/track/4J55jDTczNNNZ1nJColfio"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "שבעה ירחים",
-                "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
-            },
-            "artists": [
-                {
-                    "name": "Static & Ben El",
-                    "url": "https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g"
-                },
-                {
-                    "name": "Ron Sky Nesher",
-                    "url": "https://open.spotify.com/artist/1S0LBv1qO0JE4vogizGROv"
-                }
-            ],
-            "duration_ms": 168518,
-            "name": "אורות",
-            "url": "https://open.spotify.com/track/4bT0lOznO5dvgttYNEy0TF"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Cuckoo",
-                "url": "https://open.spotify.com/album/2t6XQi77SNebFsnfuUd8X2"
-            },
-            "artists": [
-                {
-                    "name": "Netta",
-                    "url": "https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ"
-                }
-            ],
-            "duration_ms": 193554,
-            "name": "Cuckoo",
-            "url": "https://open.spotify.com/track/5dHwpgPhq4BFISFJomt450"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "זה בדם שלי",
-                "url": "https://open.spotify.com/album/3yrY1oNybWH7V3P7OyLysm"
-            },
-            "artists": [
-                {
-                    "name": "Teddy Neguse",
-                    "url": "https://open.spotify.com/artist/1SOCXWLgBvXDqNobiSnGM7"
-                },
-                {
-                    "name": "Jasmin Moallem",
-                    "url": "https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr"
-                }
-            ],
-            "duration_ms": 170266,
-            "name": "זה בדם שלי",
-            "url": "https://open.spotify.com/track/36lcmjR7SRVwhRtYbw2b9R"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Collection II",
-                "url": "https://open.spotify.com/album/4noeiSAK53RPqGvdAIbR7r"
-            },
-            "artists": [
-                {
-                    "name": "Ido B & Zooki",
-                    "url": "https://open.spotify.com/artist/5tTTzKBRrO8fTWrBjD1rd2"
-                }
-            ],
-            "duration_ms": 252809,
-            "name": "מי משוגע",
-            "url": "https://open.spotify.com/track/4ke47SkJuh00Xu3WUZW4WQ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "דולי ופן",
-                "url": "https://open.spotify.com/album/4oU9sPRsWWZxhju9x2hFJM"
-            },
-            "artists": [
-                {
-                    "name": "Doli & Penn",
-                    "url": "https://open.spotify.com/artist/7hzAtM9sug5TCxGUIR7by3"
-                },
-                {
-                    "name": "Liran Danino",
-                    "url": "https://open.spotify.com/artist/1DuDDXSYBMLr55q9lYmDEk"
-                }
-            ],
-            "duration_ms": 232334,
-            "name": "מאושרים (עם לירן דנינו ונועה קירל)",
-            "url": "https://open.spotify.com/track/7gCQoHVFUJ52nIa2UfxeAt"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "מיליון דולר (Itay Galo Remix)",
-                "url": "https://open.spotify.com/album/1cUfPq1IkgLLDGUBE3dXNP"
-            },
-            "artists": [
-                {
-                    "name": "Noa Kirel",
-                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-                },
-                {
-                    "name": "Itay Galo",
-                    "url": "https://open.spotify.com/artist/2aHFYxHwk45ask1ipRya1d"
+                    "name": "Osher Cohen",
+                    "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
                 },
                 {
                     "name": "שחר סאול",
                     "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
                 }
             ],
-            "duration_ms": 255483,
-            "name": "מיליון דולר - Itay Galo Remix",
-            "url": "https://open.spotify.com/track/6TA2HoWmquGTkPr8gm1LwJ"
+            "duration_ms": 233027,
+            "name": "בסוף נרקוד",
+            "url": "https://open.spotify.com/track/1quBoxh2fvPsy4f0ZBLf46"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "אם אתה גבר",
+                "url": "https://open.spotify.com/album/255abNLfcjIrJAXoG2ymlV"
+            },
+            "artists": [
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                }
+            ],
+            "duration_ms": 195428,
+            "name": "אם אתה גבר",
+            "url": "https://open.spotify.com/track/1wFqS3mDQKDysz0Ae7smlE"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "אשליות",
+                "url": "https://open.spotify.com/album/1rloyCTpAK9utoXzZxAIw1"
+            },
+            "artists": [
+                {
+                    "name": "Stephane Legar",
+                    "url": "https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk"
+                }
+            ],
+            "duration_ms": 168000,
+            "name": "אשליות",
+            "url": "https://open.spotify.com/track/2Imq83CIyXi3gs1PKh8TKC"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "שלוותה (Mor Dahari Remix)",
+                "url": "https://open.spotify.com/album/3AVgyuCwOU9AsiuEyFdLuj"
+            },
+            "artists": [
+                {
+                    "name": "ענבל רז",
+                    "url": "https://open.spotify.com/artist/31h1Tt25QjurO3YixXtJ5Y"
+                },
+                {
+                    "name": "Mor Dahari",
+                    "url": "https://open.spotify.com/artist/7cwXtdqSto5JspPgAITREq"
+                }
+            ],
+            "duration_ms": 135937,
+            "name": "שלוותה - Mor Dahari Remix",
+            "url": "https://open.spotify.com/track/7iGMNGyIISS3w6E6jDUZ7W"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "פרפרים שחורים",
+                "url": "https://open.spotify.com/album/2KURC1NX5TdTccS2G6glpG"
+            },
+            "artists": [
+                {
+                    "name": "Inbal Bibi",
+                    "url": "https://open.spotify.com/artist/3ycYrLmJipiOEbtNdpfvhc"
+                }
+            ],
+            "duration_ms": 165500,
+            "name": "פרפרים שחורים",
+            "url": "https://open.spotify.com/track/0jVXkBHNflfBZLSul58xbx"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "תיק קטן",
+                "url": "https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f"
+            },
+            "artists": [
+                {
+                    "name": "Ness",
+                    "url": "https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe"
+                },
+                {
+                    "name": "סטילה",
+                    "url": "https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd"
+                }
+            ],
+            "duration_ms": 173913,
+            "name": "תיק קטן",
+            "url": "https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "שבוע טוב",
+                "url": "https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW"
+            },
+            "artists": [
+                {
+                    "name": "Avraham Tal",
+                    "url": "https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd"
+                }
+            ],
+            "duration_ms": 151442,
+            "name": "שבוע טוב",
+            "url": "https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "אחותי כבר לא סובלת אותך (Amit Meir Disco Version)",
+                "url": "https://open.spotify.com/album/6uVgL1xfkejOiLMvYz1N5I"
+            },
+            "artists": [
+                {
+                    "name": "Shira Margalit",
+                    "url": "https://open.spotify.com/artist/3fuBh15tUjQVjzVZ3u73rz"
+                },
+                {
+                    "name": "Amit Meir",
+                    "url": "https://open.spotify.com/artist/6KrbjnfzNus7wCe3LXUVNp"
+                }
+            ],
+            "duration_ms": 159642,
+            "name": "אחותי כבר לא סובלת אותך - Amit Meir Disco Version",
+            "url": "https://open.spotify.com/track/0W6AzCXAOQDZk4yko9oiaS"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Please Don't Suck (Afrojack x Black V Neck Remix)",
+                "url": "https://open.spotify.com/album/0HUGc302yKXxzJir7mmMKd"
+            },
+            "artists": [
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                },
+                {
+                    "name": "AFROJACK",
+                    "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+                },
+                {
+                    "name": "Black V Neck",
+                    "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+                }
+            ],
+            "duration_ms": 168149,
+            "name": "Please Don't Suck (Afrojack x Black V Neck Remix)",
+            "url": "https://open.spotify.com/track/0O3NTgDl4o73vnDLg2jP5U"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "ד\"ש",
+                "url": "https://open.spotify.com/album/13pJz7N0XwxxPxeq04syYh"
+            },
+            "artists": [
+                {
+                    "name": "שחר סאול",
+                    "url": "https://open.spotify.com/artist/46KxKVpK7XNqlkdi5oiMxE"
+                }
+            ],
+            "duration_ms": 154237,
+            "name": "ד\"ש",
+            "url": "https://open.spotify.com/track/2Ma2qJzbCzIEQvKZ3QpuR6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "דיבור נגוע (עם מרגי)",
+                "url": "https://open.spotify.com/album/5a7kIxQnO2y85fCFs6CKX7"
+            },
+            "artists": [
+                {
+                    "name": "Stephane Legar",
+                    "url": "https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk"
+                }
+            ],
+            "duration_ms": 166164,
+            "name": "דיבור נגוע - עם מרגי",
+            "url": "https://open.spotify.com/track/19u24hOHMdNfGPedV2lFum"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "מנגל",
+                "url": "https://open.spotify.com/album/42ZwWl5xMCZbOVET2qcQBd"
+            },
+            "artists": [
+                {
+                    "name": "שחר טבוך",
+                    "url": "https://open.spotify.com/artist/3uwJWwjkS3wKPICQ2ZztuC"
+                }
+            ],
+            "duration_ms": 141913,
+            "name": "מנגל",
+            "url": "https://open.spotify.com/track/0QCpbgoFWKqwq9jSj1WaeG"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "תסתכלו עליי",
+                "url": "https://open.spotify.com/album/3AvGChP2frIvoDIEHBr8e0"
+            },
+            "artists": [
+                {
+                    "name": "הייפ קרו",
+                    "url": "https://open.spotify.com/artist/7iBeS6C6Y5RF1O3OfAt9DZ"
+                }
+            ],
+            "duration_ms": 189428,
+            "name": "תסתכלו עליי",
+            "url": "https://open.spotify.com/track/60Rg6MI6MSEn5Yl5MEgBhw"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "חן אהרוני",
+                "url": "https://open.spotify.com/album/5qGpExLdXpLBhtQnUIh9VP"
+            },
+            "artists": [
+                {
+                    "name": "Chen Aharoni",
+                    "url": "https://open.spotify.com/artist/29RlGBlQk9j3MJF3uOMgoc"
+                }
+            ],
+            "duration_ms": 201333,
+            "name": "נשימה",
+            "url": "https://open.spotify.com/track/4bm2aZg3iiqMjO3MIiyhAo"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "חוץ ממך",
+                "url": "https://open.spotify.com/album/4P8ClljYc0ABC9cDVJAxHF"
+            },
+            "artists": [
+                {
+                    "name": "Maya Dadon",
+                    "url": "https://open.spotify.com/artist/2CFhpsYDfBaq8q9enYLdBG"
+                }
+            ],
+            "duration_ms": 121241,
+            "name": "פיו פיו",
+            "url": "https://open.spotify.com/track/3TU5XFqrgp3NHXpLqwSqSp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "שלושה בנות (Yinon Yahel Remix)",
+                "url": "https://open.spotify.com/album/2EJtmS4bxtHPIrAAPUaz7t"
+            },
+            "artists": [
+                {
+                    "name": "Noa Kirel",
+                    "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+                },
+                {
+                    "name": "Gitit Fisher",
+                    "url": "https://open.spotify.com/artist/1dhPws7AA939zNL1Fb7Nz0"
+                },
+                {
+                    "name": "Yinon Yahel",
+                    "url": "https://open.spotify.com/artist/4zb1vwmtrqCEqDJnt9MvEs"
+                }
+            ],
+            "duration_ms": 303750,
+            "name": "שלושה בנות - Yinon Yahel Remix",
+            "url": "https://open.spotify.com/track/0AFZxPYIDoIkjCh2txy0nq"
         }
     ],
     "unique_name": "Daily Mix 5",
