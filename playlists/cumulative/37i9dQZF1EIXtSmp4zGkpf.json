@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIXAkrdAFk4qd>ILLENIUM</a>, <a href=spotify:playlist:37i9dQZF1EIXwT2qXyYf5P>Lights</a> and <a href=spotify:playlist:37i9dQZF1EIYLI5idwc9ys>Faouzia</a>",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXwT2qXyYf5P>Lights</a>, <a href=spotify:playlist:37i9dQZF1EIZhRMOyemy0K>Zedd</a> and <a href=spotify:playlist:37i9dQZF1EIYLI5idwc9ys>Faouzia</a>",
     "name": "Cappa Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -2889,7 +2889,7 @@
             ],
             "date_added": "2024-01-12",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-16",
+            "date_removed": null,
             "duration_ms": 148846,
             "name": "Be Mine",
             "url": "https://open.spotify.com/track/2obH9wItcVQgceWHqOBt8f"
@@ -6605,7 +6605,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-17",
+            "date_removed": null,
             "duration_ms": 191811,
             "name": "Come Back",
             "url": "https://open.spotify.com/track/4sWgdd1eTCIngJtwjg0vEE"
@@ -9057,7 +9057,7 @@
             ],
             "date_added": "2024-01-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 148689,
             "name": "Distant",
             "url": "https://open.spotify.com/track/0vZMPWUed7fkKihmBicGgw"
@@ -9203,7 +9203,7 @@
             ],
             "date_added": "2024-01-12",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-20",
+            "date_removed": null,
             "duration_ms": 177000,
             "name": "Dollar Menu (feat. Dani Poppitt) - T-Mass Remix",
             "url": "https://open.spotify.com/track/0wdFKgrkxJpF1AjmYNCiqT"
@@ -9537,7 +9537,7 @@
             ],
             "date_added": "2024-01-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 147999,
             "name": "Don't Let Them",
             "url": "https://open.spotify.com/track/5DcfAiJLSxOqhgatiFXy3P"
@@ -11408,6 +11408,28 @@
         },
         {
             "album": {
+                "name": "Far Away",
+                "url": "https://open.spotify.com/album/1PymoxtjyaFJOXk7yg0u6t"
+            },
+            "artists": [
+                {
+                    "name": "Over Easy",
+                    "url": "https://open.spotify.com/artist/3T9HpHdBgLU9wcB1LUT0U9"
+                },
+                {
+                    "name": "CHEEKS",
+                    "url": "https://open.spotify.com/artist/3yeAenPW5DfjuousCOdek9"
+                }
+            ],
+            "date_added": "2024-01-21",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 166626,
+            "name": "Far Away",
+            "url": "https://open.spotify.com/track/2H9qyZhtPXxe1NPp51kNo3"
+        },
+        {
+            "album": {
                 "name": "Far Away (Lost Wolves Remix)",
                 "url": "https://open.spotify.com/album/4YGuOr2552MJRxqATU3kHy"
             },
@@ -11849,7 +11871,7 @@
             ],
             "date_added": "2023-08-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 200347,
             "name": "Feel Like",
             "url": "https://open.spotify.com/track/2pbwzEK6c3PtqUiemlxHse"
@@ -12145,7 +12167,7 @@
             ],
             "date_added": "2024-01-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 209680,
             "name": "Fight Club - Remix",
             "url": "https://open.spotify.com/track/4Wpo2txkoXkb2YNDHtdAwe"
@@ -13397,7 +13419,7 @@
             ],
             "date_added": "2024-01-11",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-20",
+            "date_removed": null,
             "duration_ms": 154546,
             "name": "Funny - Ellis Remix",
             "url": "https://open.spotify.com/track/4G1TF5lAQFhAJ6KjduKC0g"
@@ -15085,10 +15107,36 @@
             ],
             "date_added": "2024-01-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 191972,
             "name": "Hate Me (feat. Billy Lockett)",
             "url": "https://open.spotify.com/track/288rR07jQ5tckfhifwqwqZ"
+        },
+        {
+            "album": {
+                "name": "Hate Me (Remixes)",
+                "url": "https://open.spotify.com/album/2gj7ByecFB3yK8v2s3KLGF"
+            },
+            "artists": [
+                {
+                    "name": "Two Friends",
+                    "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+                },
+                {
+                    "name": "SadBois",
+                    "url": "https://open.spotify.com/artist/2ZH041yMjGFX7QwMxkFGZJ"
+                },
+                {
+                    "name": "Billy Lockett",
+                    "url": "https://open.spotify.com/artist/2lKeiALM1T2TZrOiTYlLNA"
+                }
+            ],
+            "date_added": "2024-01-21",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 199772,
+            "name": "Hate Me (feat. Billy Lockett) - SadBois Remix",
+            "url": "https://open.spotify.com/track/36g4YtHw3pfevafGmB5M1Q"
         },
         {
             "album": {
@@ -15431,7 +15479,7 @@
             ],
             "date_added": "2022-07-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 236317,
             "name": "Hearts on Fire",
             "url": "https://open.spotify.com/track/4A1eCJDtbh7jty6VixOQhy"
@@ -15905,7 +15953,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-20",
+            "date_removed": null,
             "duration_ms": 200924,
             "name": "Hey Hi Hello",
             "url": "https://open.spotify.com/track/7C0v8IX5zq4VZ4TBjwfSy6"
@@ -16297,7 +16345,7 @@
             ],
             "date_added": "2023-10-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 281600,
             "name": "Hold On",
             "url": "https://open.spotify.com/track/16ffoXprpJdim70e4hRSGj"
@@ -17375,7 +17423,7 @@
             ],
             "date_added": "2024-01-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 128541,
             "name": "i found u",
             "url": "https://open.spotify.com/track/4jodEeFeeZjvmGwJd4orMt"
@@ -18505,7 +18553,7 @@
             ],
             "date_added": "2022-06-02",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-11",
+            "date_removed": null,
             "duration_ms": 207376,
             "name": "In the Morning",
             "url": "https://open.spotify.com/track/1Dqsjo1fT6t36tXmRSM3TV"
@@ -19241,7 +19289,7 @@
             ],
             "date_added": "2024-01-12",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 180258,
             "name": "Just Don't Get Enough of Me",
             "url": "https://open.spotify.com/track/7gs6dFEjlgmy6azfkYTkCE"
@@ -19645,7 +19693,7 @@
             ],
             "date_added": "2023-08-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 147880,
             "name": "Kissing Other People - R3HAB Remix",
             "url": "https://open.spotify.com/track/2L8nPHkX7M6DjHNxnTaRvw"
@@ -19935,7 +19983,7 @@
             ],
             "date_added": "2023-08-28",
             "date_added_asterisk": false,
-            "date_removed": "2023-12-10",
+            "date_removed": null,
             "duration_ms": 182903,
             "name": "Last Day - Dualities Remix",
             "url": "https://open.spotify.com/track/5r9HbvKuWfEw4SBBSekl2v"
@@ -20595,7 +20643,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-18",
+            "date_removed": null,
             "duration_ms": 231111,
             "name": "Life Again",
             "url": "https://open.spotify.com/track/6MxBf0usKAiS6eRdBsQeYL"
@@ -23479,7 +23527,7 @@
             ],
             "date_added": "2022-11-05",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 193615,
             "name": "Mirrors",
             "url": "https://open.spotify.com/track/4SQ95FDAyjTMFiwz8S5Lk2"
@@ -24013,7 +24061,7 @@
             ],
             "date_added": "2022-06-30",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-18",
+            "date_removed": null,
             "duration_ms": 168015,
             "name": "More Than A Stranger (COASTR. Remix)",
             "url": "https://open.spotify.com/track/06LJXPIZQYnqma8TcZoHjw"
@@ -24289,7 +24337,7 @@
             ],
             "date_added": "2023-04-18",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-19",
+            "date_removed": null,
             "duration_ms": 172801,
             "name": "Mrs Mr",
             "url": "https://open.spotify.com/track/1raswYE1DlalcaArZVJ8Z8"
@@ -25497,6 +25545,28 @@
             "duration_ms": 201474,
             "name": "No Eyes On Me",
             "url": "https://open.spotify.com/track/1C9a3oqFtRfuvtbKG26eqQ"
+        },
+        {
+            "album": {
+                "name": "No Eyes On Me (Sondr Remix)",
+                "url": "https://open.spotify.com/album/0hjMhbUHdyft0nzjYX7fO6"
+            },
+            "artists": [
+                {
+                    "name": "Justin Caruso",
+                    "url": "https://open.spotify.com/artist/1NyxTiCivDmzgFWYD1V01m"
+                },
+                {
+                    "name": "Sondr",
+                    "url": "https://open.spotify.com/artist/4hbnUamwrCHpv4wQTwvCIc"
+                }
+            ],
+            "date_added": "2024-01-21",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 172315,
+            "name": "No Eyes On Me - Sondr Remix",
+            "url": "https://open.spotify.com/track/38i0XKHKLg72RTn3i6TmeP"
         },
         {
             "album": {
@@ -27929,7 +27999,7 @@
             ],
             "date_added": "2023-03-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 190453,
             "name": "Plans",
             "url": "https://open.spotify.com/track/2UgpaOnr1LZlnkRBrp7YGi"
@@ -28693,7 +28763,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2023-03-09",
+            "date_removed": null,
             "duration_ms": 226954,
             "name": "Rain",
             "url": "https://open.spotify.com/track/7K1fhaMc7dZDFleCZ9Nr6F"
@@ -28835,7 +28905,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-01-18",
+            "date_removed": null,
             "duration_ms": 163709,
             "name": "Ready",
             "url": "https://open.spotify.com/track/0RXICBO8oT1pUjulZary6t"
@@ -34067,7 +34137,7 @@
             ],
             "date_added": "2024-01-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 196217,
             "name": "Summer State of Mind",
             "url": "https://open.spotify.com/track/1yiQOjhDcrkgv0bjrQuhwc"
@@ -38983,7 +39053,7 @@
             ],
             "date_added": "2024-01-11",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 177340,
             "name": "We Were Here - LŪN Remix",
             "url": "https://open.spotify.com/track/5AtjCDpg1oPzgWj3LxJsbL"
@@ -40875,7 +40945,7 @@
             ],
             "date_added": "2023-08-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-01-21",
             "duration_ms": 162200,
             "name": "Your Side Of The Bed - Steve Reece Remix",
             "url": "https://open.spotify.com/track/5yX3kZyw1nM14mRiZO1Irb"
