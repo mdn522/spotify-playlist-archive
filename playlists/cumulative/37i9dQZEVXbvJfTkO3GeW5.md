@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,136 songs - 5 day 11 hr 33 min - not published yet
+2,137 songs - 5 day 11 hr 36 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1719,6 +1719,7 @@
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-14 | 2023-10-08 |
 | [Somebody \- Trance Wax Remix](https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Somebody \(Trance Wax Remix\)](https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3) | 2:51 | 2024-01-04 |  |
 | [Somebody Like U](https://open.spotify.com/track/2uDyv5rw4333xY5obTeByt) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Walkerverse, Pt\. I](https://open.spotify.com/album/22pMyI5Ra0xRPDpf21ZWNb) | 3:11 | 2022-06-16 | 2022-07-03 |
+| [Someday](https://open.spotify.com/track/3K1EGY04VnBuq6xhXdr5I4) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I) | [Someday](https://open.spotify.com/album/5wIx2kT7vXSknvMocBiAjE) | 2:57 | 2024-01-18 |  |
 | [Someday Night](https://open.spotify.com/track/3XvYIt3eHLTzxeMPqzlLli) | [Meteor Sightseeing](https://open.spotify.com/artist/3WsGXqwXeqbZcjVKzlXOpT), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Someday Night](https://open.spotify.com/album/2oehtFiT19d0EiT3ebZSJh) | 3:16 | 2023-12-14 | 2024-01-05 |
 | [Someone Else](https://open.spotify.com/track/0vbqjI3TKufY0I33RtdXFD) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [From The Valley](https://open.spotify.com/album/7FghAqLEF3Qvjv91tcwKTc) | 3:32 | 2023-11-02 | 2023-11-05 |
 | [Something You Need](https://open.spotify.com/track/0T2lCBmLApMIX9NDU1M0yW) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Something You Need](https://open.spotify.com/album/4Dvw9KneoIpThZcYL91k66) | 3:40 | 2023-09-28 | 2023-10-20 |
@@ -1903,7 +1904,7 @@
 | [TIDES](https://open.spotify.com/track/4acSWQwBbbKaKLymeNO3dD) | [PACIFICA](https://open.spotify.com/artist/4ALMLb3wt9xULh1VFsxSZp), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [TIDES](https://open.spotify.com/album/5p7L96UWqFAo3QgOMFB90r) | 2:04 | 2023-02-16 | 2023-03-10 |
 | [Tightrope](https://open.spotify.com/track/5Cpi5g6jl87vxKOfVYMoUN) | [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Tightrope](https://open.spotify.com/album/17I46SMDd5zbo7g5zEdmfZ) | 2:24 | 2022-05-26 | 2022-06-19 |
 | [Tigi \- تيجي](https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tigi \(تيجي\)](https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi) | 3:07 | 2022-07-14 | 2022-08-07 |
-| [Tiki Tiki](https://open.spotify.com/track/1DuVv6Cvr7Nz1k6iiJKKmD) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I) | [Tiki Tiki](https://open.spotify.com/album/0xLfD97AZz54kxJV6NRm3Y) | 2:40 | 2024-01-18 |  |
+| [Tiki Tiki](https://open.spotify.com/track/1DuVv6Cvr7Nz1k6iiJKKmD) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I) | [Tiki Tiki](https://open.spotify.com/album/0xLfD97AZz54kxJV6NRm3Y) | 2:40 | 2024-01-18 | 2024-01-22 |
 | [Time \- Remix](https://open.spotify.com/track/0ToNV3iOC4ZLYUxM7bKaCB) | [dj\-Nate](https://open.spotify.com/artist/4HAgxJjvwvvWiYNWmj5cB4), [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Time \(Remix\)](https://open.spotify.com/album/5YkRnYqw8HXUUK5kbsNXdv) | 3:11 | 2023-07-13 | 2023-07-28 |
 | [Time After Time](https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Time After Time](https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx) | 2:52 | 2023-01-05 | 2023-02-05 |
 | [Time After Time \- 220 KID Remix](https://open.spotify.com/track/5NBHKH5VK04VwR4x8ZkTfv) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Time After Time \(220 KID Remix\)](https://open.spotify.com/album/6IesemgjOiiYE8UYpAyLAF) | 2:21 | 2023-05-11 | 2023-05-19 |
