@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,167 songs - 5 day 13 hr 23 min - not published yet
+2,168 songs - 5 day 13 hr 26 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2054,6 +2054,7 @@
 | [Whatever](https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Whatever](https://open.spotify.com/album/2DoFm78vsYw31kJRzvIP4l) | 2:58 | 2024-01-18 |  |
 | [When It Gets Ugly](https://open.spotify.com/track/0bkRGOaO7uu6gAZKsDZvSb) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2), [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [When It Gets Ugly](https://open.spotify.com/album/6XIAe5EBSkMxwXiRFlnFS6) | 2:18 | 2022-11-24 | 2022-12-16 |
 | [When We Were Young \(The Logical Song\) \- BENNETT Remix](https://open.spotify.com/track/4zUMK17iTUdds8IbSPmUiR) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [When We Were Young \(The Logical Song\) \[BENNETT Remix\]](https://open.spotify.com/album/5dgDVopLUILtRSDQxriFMw) | 2:39 | 2024-01-11 | 2024-01-19 |
+| [When We Were Young \(The Logical Song\) \- Seth Hills Remix](https://open.spotify.com/track/1rGWizWLQddt2FtpzzWSEn) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [When We Were Young \(The Logical Song\) \[Seth Hills Remix\]](https://open.spotify.com/album/6RKEjVC6w4zhjPeUFDGjKA) | 3:00 | 2024-01-25 |  |
 | [When We Were Young \(The Logical Song\) \- Steve Aoki & KAAZE Remix](https://open.spotify.com/track/1JCLkLZo4z6R6TkkMhdguU) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [When We Were Young \(The Logical Song\) \[Steve Aoki & KAAZE Remix\]](https://open.spotify.com/album/5SfotbjDPkyEhxArLJctIa) | 2:48 | 2024-01-04 | 2024-01-12 |
 | [Where Ever You Go](https://open.spotify.com/track/4eW7yj2U6Frn68W0PW7Pgk) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Where Ever You Go](https://open.spotify.com/album/0jAFSVs3rKwECSwDlaHS8Y) | 2:54 | 2023-12-28 | 2024-01-05 |
 | [Where Will I Be](https://open.spotify.com/track/1aVRAbtEnPxuh0Qg0Utv6Z) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3), [Mary Leay](https://open.spotify.com/artist/1qBdIvxju8AHbU7Zes7yF7) | [Where Will I Be](https://open.spotify.com/album/1V0KUFT8aibr3PdkC62d63) | 4:24 | 2023-03-30 | 2023-04-30 |
