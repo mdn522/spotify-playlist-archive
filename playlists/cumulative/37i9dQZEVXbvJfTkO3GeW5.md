@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,168 songs - 5 day 13 hr 26 min - not published yet
+2,169 songs - 5 day 13 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,8 @@
 | [Can't Get Enough](https://open.spotify.com/track/115PQ52a1wECVE2W3EoI7S) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM) | 3:06 | 2024-01-25 | 2024-01-27 |
 | [Can't Get Enough](https://open.spotify.com/track/3A0XNK2dqNFIjG4yBt9Zzd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/3w8ZxUWRMNv5uERVK3fLq1) | 3:06 | 2024-01-11 | 2024-01-19 |
 | [Can't Get Enough](https://open.spotify.com/track/0pgSUqs8cKNAGc2TPQ0uzC) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Can't Get Enough](https://open.spotify.com/album/6WoNggM2VqdOjiZwVCI7f5) | 3:08 | 2024-01-18 | 2024-01-26 |
-| [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/6qLPbIhrnOLnAhSeVlu7V8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM) | 3:27 | 2024-01-25 |  |
+| [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/5tGL15ZwvK71n9uZWYlaoH) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/20fxjFAGC0xdWzLeW6qsSC) | 3:27 | 2024-01-25 |  |
+| [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/track/6qLPbIhrnOLnAhSeVlu7V8) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Can't Get Enough \(feat\. Latto\)](https://open.spotify.com/album/7rf0cUzuhJJiUAxaDg33gM) | 3:27 | 2024-01-25 | 2024-02-01 |
 | [Can't Help Falling in Love \(From the Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION \- Bonus Track](https://open.spotify.com/track/4gi1hTYfNDi7kKY8Jk3K1C) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Can't Help Falling in Love \(From the Original Motion Picture Soundtrack ELVIS\) DELUXE EDITION \[Bonus Track\]](https://open.spotify.com/album/5AgPMMiJLGNN6arHRfr8WQ) | 2:22 | 2023-03-02 | 2023-04-02 |
 | [Can't Stop Us Now](https://open.spotify.com/track/6SOuxyJH5glKeDSFUJJ5tX) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt) | [Can't Stop Us Now](https://open.spotify.com/album/5JfBw2iMK7qJpkj2gRh7Gf) | 3:22 | 2022-05-19 | 2022-05-28 |
 | [Can't Stop Us Now \- Nitti Gritti Remix](https://open.spotify.com/track/1v9Aa7OuqDjyvkz3K6NooH) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Zac Brown](https://open.spotify.com/artist/6tKJaNOY6oNVWcegnMMEtt), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Can't Stop Us Now \(Nitti Gritti Remix\)](https://open.spotify.com/album/7wpxV2k81rIXblCBX7weRp) | 3:00 | 2022-06-23 | 2022-07-08 |
