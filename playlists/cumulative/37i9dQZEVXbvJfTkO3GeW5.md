@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,236 songs - 5 day 17 hr 29 min - not published yet
+2,237 songs - 5 day 17 hr 32 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Ain't Backing Down \(Azur Lane Soundtrack\)](https://open.spotify.com/track/5TLG629pWf3vB4xBpujR3S) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Ain't Backing Down \(Azur Lane Soundtrack\)](https://open.spotify.com/album/1VNzYo4vlMt9PJgSu9nuw2) | 2:28 | 2023-08-17 | 2023-09-10 |
 | [Aleea](https://open.spotify.com/track/6RxCDZH7OVJ0ckkDBnPBOw) | [Cally Roda](https://open.spotify.com/artist/0I2Yx8GmaUhhPlrGDQ9Gzk), [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Aleea](https://open.spotify.com/album/2B3KlhzRhz6XIfq4k5dC27) | 3:00 | 2024-02-01 |  |
 | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Alibi \(feat\. Rudimental\)](https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL) | 3:04 | 2024-01-11 | 2024-01-19 |
-| [Alibi \- Live Acoustic Version](https://open.spotify.com/track/0WUZr9ZJBtxNlk1dtUh1Xo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Alibi \(Live Acoustic Version\)](https://open.spotify.com/album/4508odBEojE3ak0ADZRoKy) | 3:30 | 2024-02-08 |  |
+| [Alibi \(feat\. Rudimental\) \- Shapes VIP Mix](https://open.spotify.com/track/02KeW1WpSWlCuTv0tnYcSa) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [Alibi \(feat\. Rudimental\) \[Shapes VIP Mix\]](https://open.spotify.com/album/6ktR6Qucm21hfatJTtQzmJ) | 3:02 | 2024-02-15 |  |
+| [Alibi \- Live Acoustic Version](https://open.spotify.com/track/0WUZr9ZJBtxNlk1dtUh1Xo) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Alibi \(Live Acoustic Version\)](https://open.spotify.com/album/4508odBEojE3ak0ADZRoKy) | 3:30 | 2024-02-08 | 2024-02-17 |
 | [Alien Invasion](https://open.spotify.com/track/6gjLV3SyQcWllvuvJF1YcI) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Alien Invasion](https://open.spotify.com/album/2CVxQF5XLW3s14LzUFqb4k) | 9:13 | 2023-04-13 | 2023-05-07 |
 | [Alien Medicine](https://open.spotify.com/track/0JAMtol5WfHIjeKbeLqzfJ) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Alien Medicine](https://open.spotify.com/album/2uBTQfqqPmydbeS7JoKFXq) | 4:44 | 2023-06-29 | 2023-07-07 |
 | [Alive](https://open.spotify.com/track/6cl76PUPFsSSYSuXgSVvn7) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr) | [Alive](https://open.spotify.com/album/6E0Rq0myBzI2kD81jHp8Xt) | 2:54 | 2024-02-01 |  |
@@ -519,7 +520,7 @@
 | [Din an in An](https://open.spotify.com/track/3YWbSqSlQeXbm3xjxYmPxc) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Colinde Romanesti](https://open.spotify.com/album/1vz8Uubz6liu0jmNaJAuHG) | 2:39 | 2022-12-29 | 2023-01-06 |
 | [Din cauza ta](https://open.spotify.com/track/35k1HtCpLlTncvJpipWVrL) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Carla's Dreams](https://open.spotify.com/artist/1n5LD9Ar3D6RK2X2ewGvXb) | [Din cauza ta](https://open.spotify.com/album/161dDULIlXPAx1mvyKXnFS) | 3:22 | 2023-01-12 | 2023-02-12 |
 | [Dirty](https://open.spotify.com/track/5lQUBAFpXGFxw5BQTkm5XC) | [BELARO](https://open.spotify.com/artist/3XUsaUWtL1t1L2aAq2rwOd) | [Dirty](https://open.spotify.com/album/6cZgbtu2aTocvmwogYnhcx) | 2:27 | 2022-12-01 | 2023-01-01 |
-| [Dirty Desire](https://open.spotify.com/track/5vwIHdHy7O6agKwIfD0C8v) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Dirty Desire](https://open.spotify.com/album/2ZDpb0plRbtbxgU2GMPxVC) | 2:51 | 2024-01-18 |  |
+| [Dirty Desire](https://open.spotify.com/track/5vwIHdHy7O6agKwIfD0C8v) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT) | [Dirty Desire](https://open.spotify.com/album/2ZDpb0plRbtbxgU2GMPxVC) | 2:51 | 2024-01-18 | 2024-02-17 |
 | [Disarm You \(feat\. Ilsey\) \- ILLENIUM 2015 Remix](https://open.spotify.com/track/5HTAO6hXPN9Z9kHgukXUqT) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg) | [Disarm You \(feat\. Ilsey\) \[ILLENIUM 2015 Remix\]](https://open.spotify.com/album/3flpIDYIvLH9PhwfAGk8Tk) | 4:19 | 2024-01-25 |  |
 | [Disco Maghreb](https://open.spotify.com/track/0RVmOh80HfpuygCBt2d1va) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Disco Maghreb](https://open.spotify.com/album/6cP9GcUgYRa6C1immLRpm8) | 3:04 | 2022-06-02 | 2022-06-26 |
 | [Disco Tits \- Karma Fields Remix](https://open.spotify.com/track/6HxMIcfBA7q5EES3qtqoVq) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Karma Fields](https://open.spotify.com/artist/1tRsdSvjwp34PDvcmix6SJ) | [Disco Tits \(Karma Fields Remix\)](https://open.spotify.com/album/7LoVja3RCje6JjC1NM9PyA) | 4:03 | 2023-09-07 | 2023-10-02 |
