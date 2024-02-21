@@ -3490,10 +3490,14 @@
         },
         {
             "album": {
-                "name": "Baby Drama Queen feat. Rakhi Sawant",
+                "name": "Baby Drama Queen",
                 "url": "https://open.spotify.com/album/4lSUZ7U5ueZjarBQcqBNZ8"
             },
             "artists": [
+                {
+                    "name": "RS Bali",
+                    "url": "https://open.spotify.com/artist/7bcA8XjlBt9WbTGD0Po1YO"
+                },
                 {
                     "name": "Shabab Sabri",
                     "url": "https://open.spotify.com/artist/6uZv9f2du7TdOlOr5IjLE1"
@@ -3501,10 +3505,6 @@
                 {
                     "name": "Swati Sharma",
                     "url": "https://open.spotify.com/artist/6nvNh0jV10gc2aYFALNahg"
-                },
-                {
-                    "name": "RS Bali",
-                    "url": "https://open.spotify.com/artist/7bcA8XjlBt9WbTGD0Po1YO"
                 },
                 {
                     "name": "Rakhi Sawant",
@@ -3519,7 +3519,7 @@
             "date_added_asterisk": false,
             "date_removed": null,
             "duration_ms": 206955,
-            "name": "Baby Drama Queen feat. Rakhi Sawant",
+            "name": "Baby Drama Queen",
             "url": "https://open.spotify.com/track/4fANGQUGwd0J01A7YilB0L"
         },
         {
@@ -19401,6 +19401,36 @@
         {
             "album": {
                 "name": "HiROQUEST 2: Double Helix Remixed",
+                "url": "https://open.spotify.com/album/73RBjRZjJms5q8X0BHnP9g"
+            },
+            "artists": [
+                {
+                    "name": "Steve Aoki",
+                    "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+                },
+                {
+                    "name": "Galantis",
+                    "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+                },
+                {
+                    "name": "Hayley Kiyoko",
+                    "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+                },
+                {
+                    "name": "Bassjackers",
+                    "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+                }
+            ],
+            "date_added": "2024-02-15",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 205352,
+            "name": "Hungry Heart ft. Hayley Kiyoko (Bassjackers Remix)",
+            "url": "https://open.spotify.com/track/0V9nlID6kZUkd9RXo4aMTl"
+        },
+        {
+            "album": {
+                "name": "HiROQUEST 2: Double Helix Remixed",
                 "url": "https://open.spotify.com/album/66WcJqzeSYCSSO9uGPfKIF"
             },
             "artists": [
@@ -19475,7 +19505,7 @@
             ],
             "date_added": "2024-02-15",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-02-21",
             "duration_ms": 234374,
             "name": "Hungry Heart ft. Hayley Kiyoko (Steve Aoki Remix)",
             "url": "https://open.spotify.com/track/5p4KPyp5QgCtWSauqpIj5c"
