@@ -4,12 +4,12 @@
 
 > Your past favorites
 
-696 songs - 1 day 12 hr 33 min - not published yet
+697 songs - 1 day 12 hr 38 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Loved You\) Since I Met You](https://open.spotify.com/track/2kqNOU2TizugKD5TIgozWN) | [Sad Puppy](https://open.spotify.com/artist/1rTvWCId0BHlFKAVipqBVO) | [\(Loved You\) Since I Met You](https://open.spotify.com/album/4mqJfLakjWhZtZIBuaNLSq) | 2:48 | 2022-05-20 | 2022-07-15 |
-| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2024-02-25 |  |
+| [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2024-02-25 | 2024-02-29 |
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2023-11-24 | 2023-12-09 |
 | [5:32pm](https://open.spotify.com/track/7qrBYrivpvfXUPBMmqh3dA) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde) | [Vibes 2](https://open.spotify.com/album/5GlqARIKJdOkuXKgvdouwz) | 2:16 | 2023-05-10 | 2023-06-25 |
 | [Addicted to Blue](https://open.spotify.com/track/0rObiX7BqIZ2diO63Ynbpy) | [NAT](https://open.spotify.com/artist/1qnk48iPEphldyNz41roOB) | [Addicted to Blue](https://open.spotify.com/album/5q6ap6axJy54XLObhlMV5y) | 3:47 | 2022-08-31 | 2022-09-04 |
@@ -452,6 +452,7 @@
 | [One summer's day](https://open.spotify.com/track/738ezpBPFkPV6zZmJLicaN) | [Otaku](https://open.spotify.com/artist/4uV63QZhfi1U3oe38acQJA), [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Ghibli Lofi](https://open.spotify.com/album/0WNkHjW1cw2jONYUQWS4bi) | 2:07 | 2023-01-11 | 2023-06-25 |
 | [Only for Tonight](https://open.spotify.com/track/7J1X3kQDYW1jHJZeEZuJHs) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Only for Tonight](https://open.spotify.com/album/73k0HyrezUDXm421okBioQ) | 3:01 | 2023-02-13 | 2023-04-02 |
 | [Only Teardrops](https://open.spotify.com/track/3yRwgprKX3If2zcuGfKFBu) | [Emmelie de Forest](https://open.spotify.com/artist/3wQcURnqzPGHE0gzY5nE6G) | [Only Teardrops](https://open.spotify.com/album/2oeLglOCLcszlJtjUh4aQp) | 3:03 | 2023-09-22 | 2023-09-29 |
+| [Only When It's Dark](https://open.spotify.com/track/05auOjVROFlChSRdINOGUr) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20), [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Sentimental](https://open.spotify.com/album/2n7yk5MepcS82A75Co2qKv) | 5:07 | 2024-02-28 |  |
 | [Origins](https://open.spotify.com/track/4nlK2jOjyST1zku3jDPqYd) | [Faux Tales](https://open.spotify.com/artist/38m9yqy7fH2TiNa93BU9z7) | [Origins](https://open.spotify.com/album/7GP8DJyOZiEuqu3NveNQDm) | 4:02 | 2023-06-06 | 2023-06-13 |
 | [Oulala](https://open.spotify.com/track/4O6JZ2lWkaQFAZgvWNc3fF) | [3RIN](https://open.spotify.com/artist/0EHDpt81aRXnBCL5KJbXjU), [EHNA](https://open.spotify.com/artist/1iBnezjHfDGtRE5ASQm6Na) | [Oulala](https://open.spotify.com/album/2FkQThXvidm38CNCqtdrz2) | 3:21 | 2022-05-24 | 2022-06-14 |
 | [Out of It](https://open.spotify.com/track/6f8G2iLt8cGvAIFXIXYgoe) | [YVR](https://open.spotify.com/artist/42Wixprv3RQYct8e3nJO1S) | [Out of It](https://open.spotify.com/album/7gfdFgfnziTJWO9EKsXwav) | 2:35 | 2022-10-30 | 2022-12-01 |
