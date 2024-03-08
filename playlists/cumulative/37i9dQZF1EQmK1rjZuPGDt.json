@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYCuC2hBrBJs>Otilia</a>, <a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a>, <a href=spotify:playlist:37i9dQZF1EIXdmlTywJJrl>Richard Orlinski</a>, <a href=spotify:playlist:37i9dQZF1EIYCuC2hBrBJs>Otilia</a> and more",
     "name": "Latin Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -1147,7 +1147,7 @@
             ],
             "date_added": "2024-02-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 139672,
             "name": "Acapulco",
             "url": "https://open.spotify.com/track/6H0gZ1R4W9tIbb6HVvjNEe"
@@ -2085,7 +2085,7 @@
             ],
             "date_added": "2023-08-08",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 170480,
             "name": "AMARGURA",
             "url": "https://open.spotify.com/track/505v13epFXodT9fVAJ6h8k"
@@ -2873,7 +2873,7 @@
             ],
             "date_added": "2023-03-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 166529,
             "name": "Arranca (feat. Omega)",
             "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
@@ -3875,7 +3875,7 @@
             ],
             "date_added": "2023-12-05",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-01",
+            "date_removed": null,
             "duration_ms": 193506,
             "name": "Baila Conmigo",
             "url": "https://open.spotify.com/track/7rTFSAjFEEv6LVqtCdvgDK"
@@ -6853,7 +6853,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 245755,
             "name": "Cambia el Paso",
             "url": "https://open.spotify.com/track/6w0hTf98ZNQm5GpfWeuoAk"
@@ -8881,7 +8881,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 193226,
             "name": "Con Calma",
             "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
@@ -9199,7 +9199,7 @@
             ],
             "date_added": "2023-07-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 173547,
             "name": "Copa Vacía",
             "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
@@ -12655,7 +12655,7 @@
             ],
             "date_added": "2022-05-26",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 206120,
             "name": "Don't Stop the Party (feat. TJR)",
             "url": "https://open.spotify.com/track/3Tu7uWBecS6GsLsL8UONKn"
@@ -13989,7 +13989,7 @@
             ],
             "date_added": "2023-12-06",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-06",
+            "date_removed": null,
             "duration_ms": 189668,
             "name": "El Merengue",
             "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
@@ -15275,7 +15275,7 @@
             ],
             "date_added": "2022-06-25",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 193805,
             "name": "Envolver",
             "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
@@ -16732,6 +16732,28 @@
         },
         {
             "album": {
+                "name": "Fría",
+                "url": "https://open.spotify.com/album/77OtfyQRt7k1nPFa9FqqlJ"
+            },
+            "artists": [
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                },
+                {
+                    "name": "Yotuel",
+                    "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+                }
+            ],
+            "date_added": "2024-03-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 176606,
+            "name": "Fría",
+            "url": "https://open.spotify.com/track/5IL8eu4W9JD38Jtr5YcPAL"
+        },
+        {
+            "album": {
                 "name": "Frío",
                 "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
             },
@@ -17837,6 +17859,32 @@
         {
             "album": {
                 "name": "Gravity",
+                "url": "https://open.spotify.com/album/0epaWSCJLqcfGLxmY6f0lr"
+            },
+            "artists": [
+                {
+                    "name": "Richard Orlinski",
+                    "url": "https://open.spotify.com/artist/70c6SFCKALLqSARCPu0Afz"
+                },
+                {
+                    "name": "Anna Zak",
+                    "url": "https://open.spotify.com/artist/3lVXtKsFTJM8ecY8gqdoCo"
+                },
+                {
+                    "name": "Fat Joe",
+                    "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+                }
+            ],
+            "date_added": "2024-03-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 188778,
+            "name": "Gravity",
+            "url": "https://open.spotify.com/track/2arrI207KQaBrx5bwqSMST"
+        },
+        {
+            "album": {
+                "name": "Gravity",
                 "url": "https://open.spotify.com/album/2heFHRk47aIZlWsdUWZQB1"
             },
             "artists": [
@@ -17855,7 +17903,7 @@
             ],
             "date_added": "2024-02-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 188778,
             "name": "Gravity",
             "url": "https://open.spotify.com/track/3jl1lX1IGGaZyptHvkAwwf"
@@ -18317,7 +18365,7 @@
             ],
             "date_added": "2023-12-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 217306,
             "name": "Havana (feat. Young Thug)",
             "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
@@ -18855,7 +18903,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-02-05",
+            "date_removed": null,
             "duration_ms": 218093,
             "name": "Hips Don't Lie (feat. Wyclef Jean)",
             "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
@@ -19381,7 +19429,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 237120,
             "name": "I Know You Want Me (Calle Ocho)",
             "url": "https://open.spotify.com/track/13plQdOoWSSXPRUSZc5FuM"
@@ -22389,7 +22437,7 @@
             ],
             "date_added": "2023-11-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 197920,
             "name": "LALA",
             "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
@@ -24387,7 +24435,7 @@
             ],
             "date_added": "2023-12-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 338000,
             "name": "Los del Espacio",
             "url": "https://open.spotify.com/track/1Hs1uUl8o2VtDp1DABFq0O"
@@ -24867,7 +24915,7 @@
             ],
             "date_added": "2023-11-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 199944,
             "name": "Mad Love",
             "url": "https://open.spotify.com/track/4dSoDnmR9opAQ8KxUc9SbC"
@@ -31925,7 +31973,7 @@
             ],
             "date_added": "2023-12-05",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-05",
+            "date_removed": null,
             "duration_ms": 199009,
             "name": "Olé - Stadium Anthem Mix",
             "url": "https://open.spotify.com/track/55u2QYOVGloqOFqcN5k6hp"
@@ -35139,7 +35187,7 @@
             ],
             "date_added": "2023-12-02",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-04",
+            "date_removed": null,
             "duration_ms": 172797,
             "name": "QLONA",
             "url": "https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK"
@@ -36297,7 +36345,7 @@
             ],
             "date_added": "2022-06-17",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 187200,
             "name": "R.I.P. (feat. Rita Ora & Anitta)",
             "url": "https://open.spotify.com/track/7JsIEz27QU9kk7z1EEp9kt"
@@ -36707,7 +36755,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 188800,
             "name": "Reggaetón Lento (Remix)",
             "url": "https://open.spotify.com/track/58gqyeFXhOttZW3yetJGPN"
@@ -37601,7 +37649,7 @@
             ],
             "date_added": "2024-02-06",
             "date_added_asterisk": false,
-            "date_removed": "2024-02-29",
+            "date_removed": null,
             "duration_ms": 147818,
             "name": "Samba",
             "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
@@ -38257,7 +38305,7 @@
             ],
             "date_added": "2022-05-22",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 168648,
             "name": "Selfish Love (with Selena Gomez)",
             "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
@@ -38449,7 +38497,7 @@
             ],
             "date_added": "2023-11-29",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 190799,
             "name": "Señorita",
             "url": "https://open.spotify.com/track/6v3KW9xbzN5yKLt9YKDYA2"
@@ -38579,7 +38627,7 @@
             ],
             "date_added": "2023-02-07",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 214945,
             "name": "Shakira: Bzrp Music Sessions, Vol. 53",
             "url": "https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe"
@@ -38677,7 +38725,7 @@
             ],
             "date_added": "2022-09-22",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 188866,
             "name": "She Wolf",
             "url": "https://open.spotify.com/track/4cS2HQ6jK80vqdY9ofpztx"
@@ -39357,7 +39405,7 @@
             ],
             "date_added": "2023-07-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 190160,
             "name": "Sin Pijama",
             "url": "https://open.spotify.com/track/62vDrkBEyJYEOFj1ScBqM7"
@@ -39757,7 +39805,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": "2024-02-27",
+            "date_removed": null,
             "duration_ms": 198106,
             "name": "Solo Para Ti",
             "url": "https://open.spotify.com/track/2uAgZ0PelSImQe3BME9CiT"
@@ -40171,7 +40219,7 @@
             ],
             "date_added": "2024-02-08",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-07",
+            "date_removed": null,
             "duration_ms": 171233,
             "name": "Stars",
             "url": "https://open.spotify.com/track/6lhXolP56DpQHBVVkRqczw"
@@ -45909,7 +45957,7 @@
             ],
             "date_added": "2022-11-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 184038,
             "name": "Versions of Me",
             "url": "https://open.spotify.com/track/2nkuIfizGlr456oUbGCBmZ"
@@ -46339,7 +46387,7 @@
             ],
             "date_added": "2023-12-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-03-08",
             "duration_ms": 184320,
             "name": "Vocation",
             "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
@@ -47439,7 +47487,7 @@
             ],
             "date_added": "2023-09-26",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-01",
+            "date_removed": null,
             "duration_ms": 137484,
             "name": "Y COMO YO",
             "url": "https://open.spotify.com/track/091JvSZkqvmz0ACkkmoQWD"
