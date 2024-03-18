@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIWwCuZ4Jzq4j>Madonna</a> and more
 
-3,997 songs - 11 day 14 hr 2 min - not published yet
+3,998 songs - 11 day 14 hr 6 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Bourbon](https://open.spotify.com/track/2954edpplwlieVsvYayZZh) | [Dinamita Pa Los Pollos](https://open.spotify.com/artist/44Nh1bmSzhivHlENPfVurl) | [Los Mejores Años De Nuestras Vidas](https://open.spotify.com/album/5py4Rffz1UdgKkePbNnWAw) | 2:49 | 2023-01-11 | 2023-02-14 |
 | [Boyacı Çocuk](https://open.spotify.com/track/4zKLYBqElvRfwEMJsKpUCG) | [Selda Bağcan](https://open.spotify.com/artist/2NGRETzxjeN4b9o3OGY6Yn) | [Türkülerimiz 7](https://open.spotify.com/album/3aGNp2ZgN4sdkbf5H604h6) | 2:39 | 2022-09-05 | 2022-09-10 |
 | [Boys \(Summertime Love\)](https://open.spotify.com/track/1iwQoAswnkS5eVlVIXN998) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Boys \(Summertime Love\)](https://open.spotify.com/album/3k166ijpPTPQZeiCOTOm9E) | 3:48 | 2023-08-03 | 2023-09-15 |
-| [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-10-02 | 2024-03-17 |
+| [Boys \- Summertime Love](https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5) | [Sabrina](https://open.spotify.com/artist/1YB5pnFfL7Y2vjRJLPxaLU) | [Sabrina](https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v) | 3:54 | 2023-10-02 |  |
 | [Bra vibrationer](https://open.spotify.com/track/0FSlaiuv4eBrrjz05jpxz6) | [Kikki Danielsson](https://open.spotify.com/artist/3ktAhWMnoYiz6UpBEKfv5i) | [Bra vibrationer](https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU) | 3:06 | 2023-10-17 | 2023-10-18 |
 | [Break Every Rule](https://open.spotify.com/track/2uabJKR8oOhyk89TsfMxgu) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Break Every Rule](https://open.spotify.com/album/1C9kaOfbTQ9dxYM4E2Yju2) | 4:02 | 2023-07-16 | 2023-07-17 |
 | [Break My Stride](https://open.spotify.com/track/1mCsF9Tw4AkIZOjvZbZZdT) | [Matthew Wilder](https://open.spotify.com/artist/3bmFPbLMiLxtR9tFrTcKcP) | [I Don't Speak The Language](https://open.spotify.com/album/2coqGqbnSCAy740mClWesA) | 3:04 | 2023-11-30 | 2024-02-05 |
@@ -1876,7 +1876,7 @@
 | [Little Lies \- 2017 Remaster](https://open.spotify.com/track/4CoSCPlKNrWli7E5kFtbcl) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:41 | 2023-12-14 | 2024-03-04 |
 | [Little Rock \- StoneBridge Remix](https://open.spotify.com/track/48uxF2VWwb2RClsI7okkWU) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [StoneBridge](https://open.spotify.com/artist/1jpQ5Xepnpx5YAqKQITP4A) | [Revived Remixed Revisited](https://open.spotify.com/album/0CeiSJnHBxX9aTzhJdpljp) | 3:38 | 2022-08-01 | 2022-11-10 |
 | [Live That Ye May Attain](https://open.spotify.com/track/7oxmNg5BoJQzIraP14cCes) | [Janice Kapp Perry](https://open.spotify.com/artist/7Hl36yV8qdZgcp7VHAazlA), [Roger Hoffman](https://open.spotify.com/artist/0blalZinzY5QufjRJHtwjF) | [The Light Within](https://open.spotify.com/album/67ZcmtaNBi80ANUfobFjtH) | 4:09 | 2022-08-10 | 2022-08-11 |
-| [Live to Tell](https://open.spotify.com/track/6l46wjsV1bY2qpwuHj7zV5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/5dcLBnubF2nyWmll42R6zF) | 5:51 | 2024-02-07 |  |
+| [Live to Tell](https://open.spotify.com/track/6l46wjsV1bY2qpwuHj7zV5) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/5dcLBnubF2nyWmll42R6zF) | 5:51 | 2024-02-07 | 2024-03-18 |
 | [Live to Tell \- Instrumental](https://open.spotify.com/track/1PmRWXH2MtudoiITbkG2Qc) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(35th Anniversary Edition\)](https://open.spotify.com/album/4pnhHLvaRIlDUwXEIXZEnH) | 5:50 | 2022-08-05 | 2022-10-25 |
 | [Livin On The Border](https://open.spotify.com/track/4ch4dZvr59NVGS90O6bP9X) | [Phyllis St\. James](https://open.spotify.com/artist/66lpSj90RYbwizp9lVj9se) | [Ain't No Turnin' Back](https://open.spotify.com/album/63HpGvzUobnzxA2OUnPpIM) | 3:55 | 2022-11-07 | 2022-11-08 |
 | [Livin' On A Prayer](https://open.spotify.com/track/37ZJ0p5Jm13JPevGcx4SkF) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 4:09 | 2022-05-31 |  |
@@ -2921,6 +2921,7 @@
 | [Starting Over Again](https://open.spotify.com/track/40Syt8S53TbeflxJopZdKv) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9) | [Good To Be Back](https://open.spotify.com/album/0mqBJAuGoE3RpiK8cxjnvg) | 4:13 | 2022-06-24 | 2023-11-24 |
 | [Starting the Job](https://open.spotify.com/track/5I8nWynxM3x2r8Pw2uTHA1) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB) | [Kiki's Delivery Service Soundtrack Music Collection](https://open.spotify.com/album/2NO5lYWs4aWpsmHOjF4JHk) | 2:15 | 2022-07-24 | 2022-07-25 |
 | [State I'm in](https://open.spotify.com/track/4hm3OG0U48jDQGYiGFGucJ) | [Bananarama](https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx) | [Bananarama \(Collector's Edition\)](https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW) | 2:45 | 2022-08-25 | 2022-08-26 |
+| [Stay](https://open.spotify.com/track/51YxkVZOPfnBqTHCnK1AU3) | [Shakespears Sister](https://open.spotify.com/artist/7ooOn6bokl4mGV4CEaUz6A) | [Hormonally Yours \(Remastered and Expanded\)](https://open.spotify.com/album/4aU1LKKiTUbCk4Qr2tWqVa) | 3:49 | 2024-03-18 |  |
 | [Steamy Windows \- 7" House Mix](https://open.spotify.com/track/7mZ12NeVgr66nT9L9Ggmcp) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Steamy Windows \(The Singles\)](https://open.spotify.com/album/12otYqHSANY4hS4z9vgfU3) | 4:12 | 2022-08-19 | 2022-10-25 |
 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 | 2023-12-30 | 2024-02-16 |
 | [Sternenhimmel](https://open.spotify.com/track/79hX0z70ufkP63Ocr4Jz4K) | [Hubert Kah](https://open.spotify.com/artist/2ijskvLzfJbZvDXOfH6jRJ) | [Ich komme](https://open.spotify.com/album/76FA38n5JeighSNM6fkhWl) | 3:06 | 2024-02-22 | 2024-02-23 |
@@ -3549,7 +3550,7 @@
 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 | 2024-02-16 | 2024-02-17 |
 | [Who Will You Run To](https://open.spotify.com/track/2G7ttyDosjWmunOYsNRm0C) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Bad Animals](https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e) | 4:06 | 2022-12-04 | 2023-10-19 |
 | [Who's Gonna Love You](https://open.spotify.com/track/2nd78P3UoRIK5fP2TUyui5) | [Pussycat](https://open.spotify.com/artist/2rmQ5EEAIkloNGWdGlvCYM) | [Blue Lights](https://open.spotify.com/album/4xmo8QQ8SiydszvAfcHfoT) | 2:43 | 2022-11-07 | 2022-11-08 |
-| [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 | 2022-06-20 |  |
+| [Who's That Girl](https://open.spotify.com/track/3G0NNqwQ1sqRpySr6soHlH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Who's That Girl Soundtrack](https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ) | 3:59 | 2022-06-20 | 2024-03-18 |
 | [Why ?](https://open.spotify.com/track/7vOLJwP5O0woITaIQWOoUX) | [Bronski Beat](https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08) | [The Age of Consent](https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI) | 4:03 | 2022-12-27 | 2022-12-28 |
 | [Why'd You Come in Here Lookin' Like That](https://open.spotify.com/track/5oheUEVCpJllnImTs5nNiS) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [White Limozeen](https://open.spotify.com/album/10jK6LkJr9Dav78dhsXZJY) | 2:32 | 2022-11-01 | 2023-11-28 |
 | [Wide Wide Sea](https://open.spotify.com/track/4A5DFX9Ka24JBqfbKLVGd3) | [When In Rome](https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy) | [When In Rome](https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x) | 4:05 | 2023-02-03 | 2023-02-04 |
