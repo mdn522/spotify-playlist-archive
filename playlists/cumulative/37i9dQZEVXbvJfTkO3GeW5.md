@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,342 songs - 5 day 23 hr 28 min - not published yet
+2,343 songs - 5 day 23 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1891,6 +1891,7 @@
 | [Sparks](https://open.spotify.com/track/6qUGL8EAaiV9dNystvTkmg) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Sparks](https://open.spotify.com/album/7AHXWty7bSpGg7TAHGVoqn) | 3:34 | 2024-03-14 |  |
 | [Spectre 2.0](https://open.spotify.com/track/41B5y1onwPLsVQk8xbJeRw) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Walkerworld](https://open.spotify.com/album/2pElzwHGoJr3zPA05onhr0) | 2:56 | 2023-11-30 | 2023-12-08 |
 | [Spectre 2.0](https://open.spotify.com/track/6DCF3DIlT4iGKGlqudoUD7) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:56 | 2023-11-23 | 2023-12-03 |
+| [Spectrum Autumn](https://open.spotify.com/track/7iSGvQReBFRprFoQogMDsf) | [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [Tears Broken](https://open.spotify.com/album/5h3BjXmk8ZOFUvRetSiMfj) | 2:26 | 2024-03-14 |  |
 | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Speed Drive \(From Barbie The Album\)](https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0) | 1:57 | 2023-07-06 | 2023-07-29 |
 | [Speed Drive \- jamesjamesjames Remix; From Barbie The Album](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 | 2023-09-14 | 2023-10-14 |
 | [Spiders \- Sped Up](https://open.spotify.com/track/2hrHUOV4Psa6PAiy0cUnu6) | [RAINNE](https://open.spotify.com/artist/1KzrdDCiOfSK85QJHDfdcC) | [Spiders \(Sped Up\)](https://open.spotify.com/album/36QpbtZlHbvR1OgR5Yn8dW) | 2:53 | 2023-05-18 | 2023-06-11 |
@@ -1987,7 +1988,7 @@
 | [Taste So Good \(The Cann Song\)](https://open.spotify.com/track/4FqUvCrGGtjFWektg6I65l) | [VINCINT](https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Taste So Good \(The Cann Song\)](https://open.spotify.com/album/14gn0RFWtsOsnvjWRUnUof) | 2:35 | 2022-06-09 | 2022-06-26 |
 | [Tatoué](https://open.spotify.com/track/0m4wrRIi5LfXC59He8q3j4) | [Havana](https://open.spotify.com/artist/3usZAPBaH3bub6atukdf7I), [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Tatoué](https://open.spotify.com/album/5RiNr2TwTtb8u1LVSIOPYd) | 2:28 | 2023-01-12 | 2023-02-04 |
 | [Tattoo Wars](https://open.spotify.com/track/7qTfop1W5FjfNsncKAb42W) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT), [Santiago Martín Velarde Díaz](https://open.spotify.com/artist/6CpNQh0a035r8MVlDxyFdn) | [Tattoo Wars](https://open.spotify.com/album/55MKXUUenhWoKtz3wZaWbc) | 7:28 | 2023-12-14 | 2024-01-07 |
-| [Tears Broken](https://open.spotify.com/track/2qe4ifWhEkUgTqYcw9rYlG) | [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [Tears Broken](https://open.spotify.com/album/5h3BjXmk8ZOFUvRetSiMfj) | 1:56 | 2024-03-14 |  |
+| [Tears Broken](https://open.spotify.com/track/2qe4ifWhEkUgTqYcw9rYlG) | [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [Tears Broken](https://open.spotify.com/album/5h3BjXmk8ZOFUvRetSiMfj) | 1:56 | 2024-03-14 | 2024-03-20 |
 | [Teenage Birdsong](https://open.spotify.com/track/0O9FhcJ0Hx7IQEwLytkOKh) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Teenage Birdsong](https://open.spotify.com/album/5J1FuWORybCNyvihI03FFp) | 3:27 | 2023-08-03 | 2023-08-27 |
 | [Teleport](https://open.spotify.com/track/3elbMHHusyDRH1lNMzbcZm) | [Alex Prima](https://open.spotify.com/artist/714mGQEThI0XqT1aIvlLwn), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Teleport](https://open.spotify.com/album/62p2cVk6NT0ZRjCvH5Gkib) | 3:36 | 2024-01-04 | 2024-01-10 |
 | [Teleport](https://open.spotify.com/track/5onMYlKU9rI8NXLsyyLShr) | [Alex Prima](https://open.spotify.com/artist/714mGQEThI0XqT1aIvlLwn), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Teleport](https://open.spotify.com/album/0mBYBDxVbr4wvn3tvJsyMM) | 3:36 | 2024-03-14 |  |
