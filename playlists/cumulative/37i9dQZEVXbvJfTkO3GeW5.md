@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,374 songs - 6 day 1 hr 8 min - not published yet
+2,375 songs - 6 day 1 hr 12 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2225,6 +2225,7 @@
 | [Wawa \- Club\-ready Edit](https://open.spotify.com/track/3yjFILt5jXiLFPxuvUMjD4) | [Jad Taleb](https://open.spotify.com/artist/6FUIZ1LfVmX1hRbQUZ4FUR), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Wawa \(Club\-ready Edit\)](https://open.spotify.com/album/78LOGJJJzlHLlifYKVbB2J) | 4:40 | 2023-11-23 | 2023-12-15 |
 | [We Are Young](https://open.spotify.com/track/0qYwBOEOOscarO6LZceSL2) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 3:40 | 2023-11-23 | 2023-11-26 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/0sxhuHohfBiqizpDECzTBq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb) | 3:48 | 2024-03-14 | 2024-03-22 |
+| [we can't be friends \(wait for your love\)](https://open.spotify.com/track/3nH6JdYvrM7cnLT7xMrEKX) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 3:48 | 2024-03-21 |  |
 | [We Go Out](https://open.spotify.com/track/6AinKYxrQuioECwavX1XQn) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [We Go Out](https://open.spotify.com/album/2S4ZrXG3eyX4HMCaOzpnyg) | 2:50 | 2022-10-13 | 2022-10-15 |
 | [We Met Under a Crescent Moon](https://open.spotify.com/track/0hXgBMjddS0uxh0NTEz3oU) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [We Met Under a Crescent Moon](https://open.spotify.com/album/4Y3KQ3X7pkPS1LG2OYpH1p) | 6:24 | 2023-09-14 | 2023-09-22 |
 | [We Want It](https://open.spotify.com/track/4mc1vOCyS2EEq7VCuiDRJQ) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [We Want It](https://open.spotify.com/album/3Le4NjUjsjLKvggDXo0xBo) | 3:54 | 2022-10-20 | 2022-11-18 |
