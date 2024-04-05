@@ -2,7 +2,7 @@
 
 ### [K\-Pop Mix](https://open.spotify.com/playlist/37i9dQZF1EQpesGsmIyqcW)
 
-> <a href=spotify:playlist:37i9dQZF1EIXGxc0Uaffnl>K/DA</a>, <a href=spotify:playlist:37i9dQZF1EIZvj7nEf2Wyf>JEON SOMI</a>, <a href=spotify:playlist:37i9dQZF1EIVBWmEZmm7oK>EVERGLOW</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVBWmEZmm7oK>EVERGLOW</a>, <a href=spotify:playlist:37i9dQZF1EIZBBB5ktUmQE>CHUNG HA</a>, <a href=spotify:playlist:37i9dQZF1EIZvj7nEf2Wyf>JEON SOMI</a> and more
 
 1,567 songs - 3 day 13 hr 36 min - not published yet
 
@@ -43,7 +43,7 @@
 | [ACTION](https://open.spotify.com/track/1SBTBeHIzpi04z6ljy8YcR) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:58 | 2023-03-04 | 2023-03-05 |
 | [Actually Pt\. 2](https://open.spotify.com/track/6wDWM82A0rujxVjsxCgqV5) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Dry Flower](https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg) | 3:39 | 2022-12-19 | 2022-12-20 |
 | [Addicted](https://open.spotify.com/track/2ffVhWaUuu5IRaoogJOGFz) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:17 | 2022-09-22 | 2023-02-25 |
-| [Adios](https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [HUSH](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) | 3:09 | 2022-10-06 |  |
+| [Adios](https://open.spotify.com/track/0sq2QUCf3ykmfYxjCDWcir) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [HUSH](https://open.spotify.com/album/7cGql7l8oRpjGmeDspBMZ2) | 3:09 | 2022-10-06 | 2024-04-05 |
 | [Adrenaline](https://open.spotify.com/track/2ZkqRlnMmxJgDa7gnXDzsY) | [Girls' Generation\-TTS](https://open.spotify.com/artist/7AKHnZVqwXYuUwWJ8UGL5q) | [Holler](https://open.spotify.com/album/2XQrdRR61w8FzMJSz0cyIC) | 3:29 | 2022-11-10 | 2022-11-11 |
 | [Adrenaline](https://open.spotify.com/track/6ZQmJVUuXk1Q27d8vkmgm8) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [VINCENZO \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/47ulDGfVUWUcUSWRQCzxr3) | 3:26 | 2022-05-28 | 2022-09-14 |
 | [Advice](https://open.spotify.com/track/4rOODw637hsmsq0uzT0DN3) | [TAEMIN](https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8) | [Advice \- The 3rd Mini Album](https://open.spotify.com/album/0kNUDDHwjpemplDqSZ72Ct) | 3:11 | 2022-06-16 | 2023-12-09 |
@@ -159,7 +159,7 @@
 | [Bewitched](https://open.spotify.com/track/3iCW396ZgMwoAzi1uglI9r) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:25 | 2022-09-23 | 2023-02-24 |
 | [Bewitched \- Eng Ver.](https://open.spotify.com/track/6Utgqpc5ivPkrfG5JfVUOI) | [PIXY](https://open.spotify.com/artist/0CJkEzffVZLgav03xXeC9s) | [Fairyforest : Temptation](https://open.spotify.com/album/3999VmQrZOafu4NjYkc0rj) | 3:25 | 2022-07-29 | 2023-03-25 |
 | [BIBI Vengeance](https://open.spotify.com/track/0ra3bPUOj2YnY4FJHXtgHZ) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Lowlife Princess: Noir](https://open.spotify.com/album/2ZYIby6irhfnCE3uQDBCi0) | 2:45 | 2023-02-27 | 2024-01-31 |
-| [Bicycle](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:59 | 2024-03-02 | 2024-03-03 |
+| [Bicycle](https://open.spotify.com/track/1KcazK9joq1rbdQUlr4NBj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/3ZifpmJjOEkpYCNSIq352p) | 2:59 | 2024-03-02 |  |
 | [Bicycle](https://open.spotify.com/track/4guLNVAANWPY625fXBo1tj) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/0Gx8xMmiB89thaOXS86seu) | 2:59 | 2024-02-02 | 2024-02-20 |
 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 | 2022-06-07 | 2024-01-24 |
 | [Birthday](https://open.spotify.com/track/4LJgBT9yo0beHlaBesCFEv) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [‘The ReVe Festival 2022 \- Birthday’](https://open.spotify.com/album/58OR7UoaJkJzqeQGClHzh1) | 3:36 | 2023-01-19 | 2023-05-12 |
@@ -333,7 +333,7 @@
 | [Demonstrate \- Rap Version](https://open.spotify.com/track/1yCKUpAPwW4Aw3ChwzZ5r1) | [Rania](https://open.spotify.com/artist/5sUKi0QlHVxvsCzmrhJsFO) | [Demonstrate](https://open.spotify.com/album/6D8Kprbktac8ZC0KMZFN7f) | 3:14 | 2023-02-08 | 2023-02-25 |
 | [DESSERT](https://open.spotify.com/track/6u0pZe0Uv7GBR0iKptfWRf) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [DESSERT](https://open.spotify.com/album/5brSFD1knAOSM7j6083naD) | 3:20 | 2022-06-19 |  |
 | [Devil](https://open.spotify.com/track/3aG0gbuvZ1VeVm68d4J6Yq) | [CLC](https://open.spotify.com/artist/6QyO41KctzGc70mVaVnXQO) | [Devil](https://open.spotify.com/album/1HpLXN8RRy1lHO3jckCTkN) | 2:57 | 2023-01-01 | 2023-01-17 |
-| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2024-03-11 |  |
+| [DICE](https://open.spotify.com/track/5aaE27JUylnG7aPtGJPrrC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/3wMlxC4t3dN70e1OF8wUfz) | 2:45 | 2024-03-11 | 2024-04-05 |
 | [DICE](https://open.spotify.com/track/6C734SmqoIYuRWo2qSCnpC) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [ENTWURF](https://open.spotify.com/album/2uB0PgzqqWLdk2R736sMkP) | 2:45 | 2022-09-27 | 2024-01-27 |
 | [Different Song For Me](https://open.spotify.com/track/4xCxXUy5tNC09OdrzTiXWj) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:08 | 2022-09-27 | 2022-09-28 |
 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 | 2022-06-18 | 2024-01-23 |
@@ -726,7 +726,7 @@
 | [Ko Ko Bop](https://open.spotify.com/track/5EzitieoPnjyKHAq0gfRMa) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [THE WAR \- The 4th Album](https://open.spotify.com/album/53pJcIJBdlm5rhVhjSnvHn) | 3:10 | 2023-12-05 | 2023-12-06 |
 | [L.I.E](https://open.spotify.com/track/4c1cUu1PFDX1YB6JDvG8vf) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [Street](https://open.spotify.com/album/2UJZYFwoSUlbMKo73IjQ9R) | 3:31 | 2023-08-26 | 2023-08-27 |
 | [LA chA TA](https://open.spotify.com/track/4vfyrKuMEL6tAo65jMALsy) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:14 | 2022-12-16 | 2023-01-05 |
-| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-06-22 | 2024-04-02 |
+| [LA DI DA](https://open.spotify.com/track/6mIjJONoUMvGPT9Kzrab3L) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [\-77.82x\-78.29](https://open.spotify.com/album/4kMID9cggWEko9mOb1zisI) | 3:30 | 2022-06-22 |  |
 | [La Luna](https://open.spotify.com/track/5ih1HwQUxABOd0be9FnRmQ) | [HA:TFELT](https://open.spotify.com/artist/3Mrp5B6JdfoiObgY0WR8lF) | [La Luna](https://open.spotify.com/album/3gP3qFNr1ck0igcX7rzxDJ) | 3:26 | 2022-11-28 | 2022-11-29 |
 | [La Luna](https://open.spotify.com/track/75kvUnuuMDLR13fW3jD1RE) | [ICHILLIN'](https://open.spotify.com/artist/5357DGet3KsoJNwVkV7qvy) | [Bridge of Dreams](https://open.spotify.com/album/7l19KsnZJdODCoo1cS2Slu) | 3:18 | 2022-09-22 | 2023-02-23 |
 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 | 2023-08-21 | 2023-12-01 |
