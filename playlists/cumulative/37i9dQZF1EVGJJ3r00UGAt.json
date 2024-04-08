@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIWQ7iXYvVC5w>Pritam</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a>, <a href=spotify:playlist:37i9dQZF1EIVEChXNtOrFS>Céline Dion</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIWQ7iXYvVC5w>Pritam</a>, <a href=spotify:playlist:37i9dQZF1EIWEZ8ZxSQLXq>Ed Sheeran</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
     "name": "Romantic Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -2957,7 +2957,7 @@
             ],
             "date_added": "2023-11-30",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-03",
+            "date_removed": null,
             "duration_ms": 190779,
             "name": "Anyone",
             "url": "https://open.spotify.com/track/2WnAKZefdRHxtBEkRjFOHC"
@@ -5205,7 +5205,7 @@
             ],
             "date_added": "2024-04-03",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 176178,
             "name": "Before You Leave Me",
             "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -8675,7 +8675,7 @@
             ],
             "date_added": "2024-04-02",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 267920,
             "name": "Consume (feat. Goon Des Garcons)",
             "url": "https://open.spotify.com/track/0X2bh8NVQ8svDQIn2AdCbW"
@@ -11887,7 +11887,7 @@
             ],
             "date_added": "2024-01-05",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-03",
+            "date_removed": null,
             "duration_ms": 236413,
             "name": "Don’t Blame Me",
             "url": "https://open.spotify.com/track/1R0a2iXumgCiFb7HEZ7gUE"
@@ -14301,6 +14301,24 @@
         {
             "album": {
                 "name": "It's Time",
+                "url": "https://open.spotify.com/album/1f9vWKabhNPNQnHLleExSh"
+            },
+            "artists": [
+                {
+                    "name": "Michael Bublé",
+                    "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+                }
+            ],
+            "date_added": "2024-04-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 237333,
+            "name": "Feeling Good",
+            "url": "https://open.spotify.com/track/1AM8QdDFZMq6SrrqUnuQ9P"
+        },
+        {
+            "album": {
+                "name": "It's Time",
                 "url": "https://open.spotify.com/album/2koUTBXkwUt2uJYv0uezHx"
             },
             "artists": [
@@ -14383,7 +14401,7 @@
             ],
             "date_added": "2023-11-30",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 223400,
             "name": "Fictional",
             "url": "https://open.spotify.com/track/56xb5xXdUopdjiknbFmC4W"
@@ -14419,7 +14437,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 163436,
             "name": "Figure You Out",
             "url": "https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6"
@@ -17811,7 +17829,7 @@
             ],
             "date_added": "2022-10-07",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-27",
+            "date_removed": null,
             "duration_ms": 225280,
             "name": "Hold My Hand",
             "url": "https://open.spotify.com/track/1c2hJSwcCfoPEw1su83Sw0"
@@ -20353,7 +20371,7 @@
             ],
             "date_added": "2023-12-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 181522,
             "name": "If We Have Each Other",
             "url": "https://open.spotify.com/track/7pT6WSg4PCt4mr5ZFyUfsF"
@@ -21755,7 +21773,7 @@
             ],
             "date_added": "2022-12-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 456866,
             "name": "It's All Coming Back to Me Now",
             "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
@@ -22483,6 +22501,24 @@
             "duration_ms": 208117,
             "name": "Jao Pakhi Bolo Tare",
             "url": "https://open.spotify.com/track/5kT7hjDfJpqMNdxAHOj7QJ"
+        },
+        {
+            "album": {
+                "name": "jar of hearts",
+                "url": "https://open.spotify.com/album/54aMcGfLE29ZwccGrPcanv"
+            },
+            "artists": [
+                {
+                    "name": "Christina Perri",
+                    "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
+                }
+            ],
+            "date_added": "2024-04-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 246587,
+            "name": "jar of hearts",
+            "url": "https://open.spotify.com/track/0UEy0vG9u6kmFMslgkEtvj"
         },
         {
             "album": {
@@ -23915,6 +23951,28 @@
             "duration_ms": 311186,
             "name": "Kalank (Title Track)",
             "url": "https://open.spotify.com/track/6vo7Y1iWyZvpjvFbf6BiZ5"
+        },
+        {
+            "album": {
+                "name": "Kalank (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/6oGrVe1XTTji8TBQh5eJit"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "date_added": "2024-04-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 311186,
+            "name": "Kalank - Title Track",
+            "url": "https://open.spotify.com/track/7G5wpuR61ABrT7R1snos7C"
         },
         {
             "album": {
@@ -44027,7 +44085,7 @@
             ],
             "date_added": "2023-11-28",
             "date_added_asterisk": false,
-            "date_removed": "2024-03-08",
+            "date_removed": null,
             "duration_ms": 201538,
             "name": "Strawberries & Cigarettes",
             "url": "https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ"
@@ -44735,7 +44793,7 @@
             ],
             "date_added": "2024-01-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-08",
             "duration_ms": 228786,
             "name": "Swim",
             "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
