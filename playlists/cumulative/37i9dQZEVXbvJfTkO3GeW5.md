@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,452 songs - 6 day 5 hr 33 min - not published yet
+2,453 songs - 6 day 5 hr 37 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1014,7 +1014,8 @@
 | [I Just Called \(feat\. Latto\) \- Acoustic](https://open.spotify.com/track/2JDUfuNQUIeCwwydcYcHA0) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called \(feat\. Latto\) \[Acoustic\]](https://open.spotify.com/album/1Uu9vckoyHklvJUMQSs9LO) | 2:29 | 2022-06-23 | 2022-07-23 |
 | [I Just Called \(feat\. Latto\) \- Majestic Remix](https://open.spotify.com/track/1EhLDDmMKKAXqT7PMIKq9r) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called \(feat\. Latto\) \[Majestic Remix\]](https://open.spotify.com/album/7nvCS1VgE3hFnAiqp1X2VW) | 2:36 | 2022-06-09 | 2022-06-24 |
 | [I Knew You Were Trouble \- Spotify Singles](https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Spotify Singles](https://open.spotify.com/album/2kJnIPJHIRZlfOx0TZEKBP) | 3:53 | 2023-10-19 | 2023-11-03 |
-| [I Let Go](https://open.spotify.com/track/3hFxseraIOm1VSYWRDbqIS) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [I Let Go](https://open.spotify.com/album/3CIs6Zrq0nE78UT9st2as6) | 3:32 | 2024-04-04 |  |
+| [I Let Go](https://open.spotify.com/track/3hFxseraIOm1VSYWRDbqIS) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [I Let Go](https://open.spotify.com/album/3CIs6Zrq0nE78UT9st2as6) | 3:32 | 2024-04-04 | 2024-04-16 |
+| [I Let Go](https://open.spotify.com/track/7FGxt1heuxg6tqZ30ubRrY) | [Paper Skies](https://open.spotify.com/artist/3jtjn7NRlzHNIqdPvRf2WA), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Wireframe](https://open.spotify.com/album/5frWMTw6UwSKYu6RApzLwz) | 3:32 | 2024-04-11 |  |
 | [I like u](https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [I like u](https://open.spotify.com/album/4CD20ta8qwSZV5iqSDzo7w) | 3:10 | 2023-06-01 | 2023-06-23 |
 | [I like u \(Dorian Electra Remix\)](https://open.spotify.com/track/3grnEHsnOeBM1ZrSIbQh8Z) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [I like u \(Dorian Electra Remix\)](https://open.spotify.com/album/6VgUL8abMlwrLw53rSTc9F) | 2:42 | 2023-07-06 | 2023-07-21 |
 | [I like u \(ELIO Remix\)](https://open.spotify.com/track/6l1XsM81w0FKAE56XiQEIi) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [I like u \(ELIO Remix\)](https://open.spotify.com/album/1nwUNgLVIXlYT7hCWqMrIY) | 2:32 | 2023-06-22 | 2023-07-07 |
