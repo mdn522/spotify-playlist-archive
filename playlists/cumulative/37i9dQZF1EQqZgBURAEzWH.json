@@ -317,7 +317,7 @@
             ],
             "date_added": "2022-09-18",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-03",
+            "date_removed": null,
             "duration_ms": 309329,
             "name": "A Thousand Hallelujahs - Live",
             "url": "https://open.spotify.com/track/3iJpkw9KKdzMNZQVrdRzsl"
@@ -669,7 +669,7 @@
             ],
             "date_added": "2023-08-29",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 312666,
             "name": "Al Taller del Maestro",
             "url": "https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW"
@@ -1551,7 +1551,7 @@
             ],
             "date_added": "2022-06-22",
             "date_added_asterisk": false,
-            "date_removed": "2024-02-08",
+            "date_removed": null,
             "duration_ms": 227013,
             "name": "Amen",
             "url": "https://open.spotify.com/track/5aHZnvy8EqhViyoJo971Wy"
@@ -2651,7 +2651,7 @@
             ],
             "date_added": "2024-01-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 213586,
             "name": "Back from the Dead",
             "url": "https://open.spotify.com/track/7y9l4rJLsXQMHciCNSgZmi"
@@ -9787,7 +9787,7 @@
             ],
             "date_added": "2022-07-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 213129,
             "name": "Edge of My Life",
             "url": "https://open.spotify.com/track/62WdfUYvjlipypyidc1dSz"
@@ -11297,7 +11297,7 @@
             ],
             "date_added": "2024-01-25",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-19",
+            "date_removed": null,
             "duration_ms": 210026,
             "name": "Falling Inside the Black",
             "url": "https://open.spotify.com/track/4AVxmpwfXH7p4YyTbg9nS4"
@@ -11953,7 +11953,7 @@
             ],
             "date_added": "2023-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 206060,
             "name": "Finish Line",
             "url": "https://open.spotify.com/track/2GJ1xx5ZoeIJYbQKLSpoZ3"
@@ -12577,7 +12577,7 @@
             ],
             "date_added": "2024-04-07",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-11",
+            "date_removed": null,
             "duration_ms": 409986,
             "name": "Forever - Live",
             "url": "https://open.spotify.com/track/0PjwBgCljyaxUonqLLcbfq"
@@ -14513,7 +14513,7 @@
             ],
             "date_added": "2024-04-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 175040,
             "name": "Good Feeling",
             "url": "https://open.spotify.com/track/6GAn8328JvPUWsXaqDQE0C"
@@ -17843,7 +17843,7 @@
             ],
             "date_added": "2024-04-18",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-19",
+            "date_removed": null,
             "duration_ms": 330360,
             "name": "Hosanna",
             "url": "https://open.spotify.com/track/4pRYWucBrSGVwY95PWw4do"
@@ -22135,7 +22135,7 @@
             ],
             "date_added": "2024-02-10",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-26",
+            "date_removed": null,
             "duration_ms": 265133,
             "name": "King Of Kings - Studio",
             "url": "https://open.spotify.com/track/1iVY4FlvxwBSBEiv34UmzW"
@@ -28643,13 +28643,17 @@
                 {
                     "name": "Planetshakers",
                     "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+                },
+                {
+                    "name": "Israel Houghton",
+                    "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
                 }
             ],
             "date_added": "2023-08-12",
             "date_added_asterisk": false,
-            "date_removed": "2023-12-07",
+            "date_removed": null,
             "duration_ms": 244333,
-            "name": "Nothing Is Impossible (Featuring Israel Houghton)",
+            "name": "Nothing Is Impossible",
             "url": "https://open.spotify.com/track/5uj2wWw0gnNqkVqGNWbGrf"
         },
         {
@@ -32094,6 +32098,24 @@
         },
         {
             "album": {
+                "name": "Comatose",
+                "url": "https://open.spotify.com/album/16ElbnOtY2UgGaPKoLfst4"
+            },
+            "artists": [
+                {
+                    "name": "Skillet",
+                    "url": "https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8"
+                }
+            ],
+            "date_added": "2024-04-27",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 233293,
+            "name": "Rebirthing",
+            "url": "https://open.spotify.com/track/1OG0QQa2zZe4QeFwVhCiiA"
+        },
+        {
+            "album": {
                 "name": "Captured",
                 "url": "https://open.spotify.com/album/5aaFYgz1FmXwf5sZlwSCGe"
             },
@@ -32867,7 +32889,7 @@
             ],
             "date_added": "2023-12-02",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-26",
+            "date_removed": null,
             "duration_ms": 171360,
             "name": "Right Here",
             "url": "https://open.spotify.com/track/0wXEohIdexKOuHDCXhydkM"
@@ -33779,7 +33801,7 @@
             ],
             "date_added": "2022-05-24",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 363230,
             "name": "See A Victory",
             "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
@@ -34993,7 +35015,7 @@
             ],
             "date_added": "2022-06-18",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 213093,
             "name": "Sold Out",
             "url": "https://open.spotify.com/track/1WyBe9jWz0wbwUItMAnaLb"
@@ -36423,7 +36445,7 @@
             ],
             "date_added": "2024-04-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 221586,
             "name": "Stuck",
             "url": "https://open.spotify.com/track/2ptt0Eftq3b2jElTRrctrT"
@@ -40189,7 +40211,7 @@
             ],
             "date_added": "2023-04-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 227813,
             "name": "Til The Day I Die",
             "url": "https://open.spotify.com/track/2v49NJk4EhgM4xVkNKrfqc"
@@ -40561,7 +40583,7 @@
             ],
             "date_added": "2024-02-09",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-04-27",
             "duration_ms": 427546,
             "name": "Touch Of Heaven - Live",
             "url": "https://open.spotify.com/track/0X7KcOQdOeAuHQjURq0PVL"
@@ -41407,7 +41429,7 @@
             ],
             "date_added": "2023-09-15",
             "date_added_asterisk": false,
-            "date_removed": "2024-04-17",
+            "date_removed": null,
             "duration_ms": 201160,
             "name": "Unbreakable",
             "url": "https://open.spotify.com/track/6M9vEm3Cy3PHr3QkXRX6x3"
