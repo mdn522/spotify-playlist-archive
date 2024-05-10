@@ -2,7 +2,7 @@
 
 ### [Mandopop Mix](https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a)
 
-> <a href=spotify:playlist:37i9dQZF1EIZ2NIjOLHoUV>承桓</a>, <a href=spotify:playlist:37i9dQZF1EIZ5jlNojpN9M>Bestards</a>, <a href=spotify:playlist:37i9dQZF1EIVtRPoQCtYBr>Firdhaus</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZ2NIjOLHoUV>承桓</a>, <a href=spotify:playlist:37i9dQZF1EIZ5jlNojpN9M>Bestards</a>, <a href=spotify:playlist:37i9dQZF1EIYeuVuFKq5u9>卢卢快闭嘴</a> and more
 
 2,450 songs - 6 day 15 hr 54 min - not published yet
 
@@ -856,7 +856,7 @@
 | [原點](https://open.spotify.com/track/3V1SivfZVJvyFiNgcHCKo2) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn), [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [Your Song 2006 新歌+精選](https://open.spotify.com/album/1syxEWBN7nroQPvupO1E9u) | 4:07 | 2023-01-14 | 2024-02-02 |
 | [去追一只鹿](https://open.spotify.com/track/6aWo11F5urALl3k0T0U7JU) | [小时姑娘](https://open.spotify.com/artist/6p8l16nIXK0EBQpjZWSzrt) | [去追一只鹿](https://open.spotify.com/album/0tFAuEISQMOGD4nBqH250r) | 4:02 | 2023-01-10 | 2023-02-06 |
 | [又到天黑](https://open.spotify.com/track/2TYYKysNZDTFzrm7Mr443o) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶你飛](https://open.spotify.com/album/6wlO3VClebIlgMCfBcFbUy) | 4:49 | 2023-02-24 | 2023-03-11 |
-| [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 | 2024-05-04 |  |
+| [友谊长存](https://open.spotify.com/track/3Z9RDHetSqrfqCl31fcSN2) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [友谊长存](https://open.spotify.com/album/0teughBYfffqo1RhvAX51S) | 5:19 | 2024-05-04 | 2024-05-10 |
 | [反方向的鐘](https://open.spotify.com/track/5CrShYXYibJD0kx4q56xhZ) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 | 2023-08-18 | 2023-08-19 |
 | [反方向的鐘](https://open.spotify.com/track/2tNp4xg5V42BuhNvUjcNx6) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/1Q4Kv3F8xwz7oxRP48grON) | 4:17 | 2024-03-03 | 2024-03-04 |
 | [反正](https://open.spotify.com/track/1AZrQeefDSwZSywDqqdTdV) | [于冬然](https://open.spotify.com/artist/7mJv2vnmyEbD8eyI7tMLKs) | [反正](https://open.spotify.com/album/2d28MFSr7vcsrn0JiC4htp) | 4:36 | 2023-02-20 | 2023-02-21 |
@@ -952,7 +952,7 @@
 | [在偶然與想像中押韻](https://open.spotify.com/track/2Cs11UeKlaklYnCg0Picfz) | [Victor Wong](https://open.spotify.com/artist/70ht8hGTKjvbPJ37xVO9cW) | [不如我們今天見](https://open.spotify.com/album/06mKCCEtowAqNlMFYahFjO) | 4:19 | 2022-10-10 | 2022-10-30 |
 | [在偶然與想像中押韻](https://open.spotify.com/track/0iSWbyQUWr2AI3gZhEZzPH) | [品冠 Feat\. 房東的貓](https://open.spotify.com/artist/7MbNohUsECARg5mirMZTFM) | [在偶然與想像中押韻](https://open.spotify.com/album/3V7Ry2tCCublqf5nrAqZqD) | 4:19 | 2022-08-07 | 2022-08-07 |
 | [在凌晨睡著的自己](https://open.spotify.com/track/51o0ZOrrgpidbSYXlA0WCT) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [在凌晨睡著的自己](https://open.spotify.com/album/0TJ1PMFBc6iVbvrRYIeZKf) | 4:39 | 2023-01-14 | 2023-05-26 |
-| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-06 | 2024-05-09 |
+| [在加納共和國離婚](https://open.spotify.com/track/6GyUt7yJ0sOktc5HjvVnFh) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv), [DIOR 大穎](https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ) | [在加納共和國離婚](https://open.spotify.com/album/0yZmjmMyA25lq1giL8yl0a) | 4:21 | 2024-02-06 |  |
 | [在名為未來的波浪裡](https://open.spotify.com/track/7Dl6Tw3Z9yKFxbaer2QTzx) | [Astro Bunny](https://open.spotify.com/artist/3PTsVPijj4pjIol9yML0rK) | [在名為未來的波浪裡](https://open.spotify.com/album/6oXAyVVmqeWv6egoMWaonl) | 3:32 | 2022-07-01 | 2023-08-16 |
 | [在夜裡跳舞](https://open.spotify.com/track/76DCJJrwlBloEi6rQOyEIx) | [單依純](https://open.spotify.com/artist/7rXM91kSsqGzvYANukdQJD) | [在夜裡跳舞](https://open.spotify.com/album/0mrjxChtP7PX9gyD8d30Rr) | 4:03 | 2022-12-28 | 2023-01-14 |
 | [在未來的你跟我說聲嗨 \(Audi 引領進化主題曲\)](https://open.spotify.com/track/1PLb3TUyNPiHirPSJ2il3n) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [在未來的你跟我說聲嗨](https://open.spotify.com/album/2YhqK2DAKNUrnoUVbX3oHb) | 4:30 | 2023-03-30 | 2023-08-13 |
@@ -985,7 +985,7 @@
 | [多虧你啊](https://open.spotify.com/track/3VidLk08DIREoSBs2ry4h6) | [Penny Tai](https://open.spotify.com/artist/0qmPs7q4bykvrS8NMZk7ud) | [被動的觀眾](https://open.spotify.com/album/0FihfmNx2ErosY6NleZDaF) | 3:35 | 2022-08-07 | 2022-08-07 |
 | [多遠都要在一起](https://open.spotify.com/track/55d0jw269HE9pbOt5ntCo8) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 3:37 | 2022-10-17 | 2024-03-28 |
 | [夜曲](https://open.spotify.com/track/32nainF4TXsMpuFOGCkzzM) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/6rRydp9XlVoLfTtA3qpWcn) | 3:46 | 2023-03-09 | 2024-01-11 |
-| [夜曲](https://open.spotify.com/track/1oLmDOpJtIMFdRFBXdnOvj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 3:48 | 2024-01-18 |  |
+| [夜曲](https://open.spotify.com/track/1oLmDOpJtIMFdRFBXdnOvj) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [11月的蕭邦](https://open.spotify.com/album/1TborQGeHwJaEjPnUR9siC) | 3:48 | 2024-01-18 | 2024-05-10 |
 | [夜泊秦淮](https://open.spotify.com/track/6knGvSmrQCoDLTDcpZBvEi) | [Ice Paper](https://open.spotify.com/artist/35kMWGEVOOesE5U0CdP3Zo) | [寒木居士](https://open.spotify.com/album/3rkTjLwelfb4jFIsFtZmqN) | 3:13 | 2022-10-01 | 2022-10-02 |
 | [夜的盡頭](https://open.spotify.com/track/42u2nDv5MFYSgyPkYidkwh) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [啓示錄](https://open.spotify.com/album/4uO5m2nHREvFrTeR7rOCDx) | 4:41 | 2022-10-18 | 2023-11-06 |
 | [夜的第七章](https://open.spotify.com/track/705AesgTkD0JiW74iKb8qS) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [依然范特西](https://open.spotify.com/album/7satNc3jeX2xJ9tgqrUB9N) | 3:46 | 2023-09-21 | 2023-11-12 |
@@ -1512,7 +1512,7 @@
 | [擒光 \- 《英雄联盟手游》 星光公测推广曲](https://open.spotify.com/track/3rwJgruQCfA5nwTsmMFPTi) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [擒光 \(《英雄联盟手游》 星光公测推广曲\)](https://open.spotify.com/album/1kpFR9nmb7hBbHIBR7WLvA) | 3:54 | 2022-08-21 | 2023-06-18 |
 | [擒光\-《英雄联盟手游》 星光公测推广曲](https://open.spotify.com/track/63LukQineQ7qGryDRGReKk) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [擒光（《英雄联盟手游》 星光公测推广曲）](https://open.spotify.com/album/1s665ofqvo4uA5sCVXHjS7) | 3:54 | 2023-08-16 | 2023-10-06 |
 | [擱淺](https://open.spotify.com/track/4Rt9k4SE8dbfKzngxKJPq9) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/27I7fCoQRSdL9PT1nFWEPC) | 3:56 | 2022-06-02 | 2024-01-10 |
-| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-31 | 2024-05-06 |
+| [擱淺](https://open.spotify.com/track/0cOMncRq4cmDLO4tPQnkBF) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [七里香](https://open.spotify.com/album/6WdM1OfmVIPuQ56QPmaJIr) | 3:58 | 2024-01-31 |  |
 | [收敛](https://open.spotify.com/track/0Abkb9MwR51TBGhVj8uzZN) | [不够](https://open.spotify.com/artist/30Iil0znwZXGaQ7wxfMgvV) | [收敛](https://open.spotify.com/album/0C0igqENEYRZaOZukQH0si) | 3:24 | 2022-06-05 | 2022-06-06 |
 | [改變的奇蹟](https://open.spotify.com/track/2WRBpCsVF46fjS1R3Bv3wl) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [改變的奇蹟](https://open.spotify.com/album/6RTYWjRyhc9CGg5ZAcSnfC) | 3:00 | 2022-08-28 | 2022-10-06 |
 | [改變自己](https://open.spotify.com/track/2mb3O0JbMiYAbaD4gZU74g) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 3:15 | 2023-09-21 | 2023-11-20 |
