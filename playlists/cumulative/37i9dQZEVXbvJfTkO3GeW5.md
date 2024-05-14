@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,568 songs - 6 day 12 hr 10 min - not published yet
+2,569 songs - 6 day 12 hr 13 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -794,6 +794,7 @@
 | [First Blood](https://open.spotify.com/track/2VZOTluwgRza3D2ykiZt9D) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [First Blood](https://open.spotify.com/album/62m1U5EX2VCdJAF0Hw2hYw) | 3:34 | 2023-11-30 | 2023-12-08 |
 | [First To Go](https://open.spotify.com/track/3RGTkawjlaqoIsgWSPM47w) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [First To Go](https://open.spotify.com/album/3PLVbHQDtLfU70Nji5erZl) | 2:53 | 2024-02-22 | 2024-03-23 |
 | [Flight 643 \- KAAZE Remix](https://open.spotify.com/track/7eV5PavCAxbKD026Xc1GYk) | [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Flight 643 \(KAAZE Remix\)](https://open.spotify.com/album/7sAyXdVwggkULcfRrjlgBV) | 2:39 | 2023-12-21 | 2023-12-29 |
+| [Flight Of The Dove](https://open.spotify.com/track/0N8kcKvtAKabTZjcozidnK) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [New Earth](https://open.spotify.com/album/3GxcPPpoksnj4xRoBPznh6) | 3:12 | 2024-05-09 |  |
 | [Flight of the Silverbird \- Live](https://open.spotify.com/track/34wWYU6vd2hkrJffCrElbi) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Flight of the Silverbird \(Live\)](https://open.spotify.com/album/2iGUtxPwLUewmrw7oF5ncJ) | 3:23 | 2022-09-08 | 2022-09-17 |
 | [Flip A Switch.](https://open.spotify.com/track/252ZECHopILLs10pMfE76N) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:21 | 2023-03-02 | 2023-03-05 |
 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 | 2023-04-20 | 2023-05-21 |
@@ -2422,7 +2423,7 @@
 | [Welcome To The Opera \- Adriatique Remix](https://open.spotify.com/track/2FOAzrnnPeIvTCxduyfeKG) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 5:13 | 2024-03-28 | 2024-04-28 |
 | [Welcome To The Opera \- Kobosil 44 Symbiont Mix](https://open.spotify.com/track/4CguNMFXh6oAl5j0YanqHB) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [Kobosil](https://open.spotify.com/artist/2ZvIFwl0BuQgHqWvDE80hC) | [Genesys II](https://open.spotify.com/album/4jkiarZE3b7c3a5D3L2LZy) | 3:10 | 2024-03-28 | 2024-04-01 |
 | [Welcome to Walkerworld](https://open.spotify.com/track/2evs7Wv5Cwom9ziyyrrmC9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:46 | 2023-11-16 | 2023-12-09 |
-| [Well Heeled](https://open.spotify.com/track/0BZapZduHovztkttKG9C5u) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [New Earth](https://open.spotify.com/album/3GxcPPpoksnj4xRoBPznh6) | 2:46 | 2024-04-25 |  |
+| [Well Heeled](https://open.spotify.com/track/0BZapZduHovztkttKG9C5u) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [New Earth](https://open.spotify.com/album/3GxcPPpoksnj4xRoBPznh6) | 2:46 | 2024-04-25 | 2024-05-14 |
 | [Welle](https://open.spotify.com/track/18qzt134FLrVyU1KoYXBjd) | [Matty](https://open.spotify.com/artist/0R4ztNLDjOLTHl7KEG7sTU), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Welle](https://open.spotify.com/album/2KPD1WRwwzp9NW9dTRB2rf) | 2:16 | 2023-03-30 | 2023-04-28 |
 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 | 2023-06-15 | 2023-07-15 |
 | [What A Woman](https://open.spotify.com/track/2x0IElokcAprEpWdxOEeZS) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [What A Woman](https://open.spotify.com/album/3ttdvoQZaJHrSaLfj3uSsY) | 2:21 | 2024-05-02 |  |
