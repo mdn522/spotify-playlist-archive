@@ -1,29 +1,13 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYCuC2hBrBJs>Otilia</a>, <a href=spotify:playlist:37i9dQZF1EIUXOuZhF0kzy>ILIRA</a>, <a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIUXOuZhF0kzy>ILIRA</a>, <a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a>, <a href=spotify:playlist:37i9dQZF1EIYCuC2hBrBJs>Otilia</a> and more",
     "num_followers": 0,
     "original_name": "Latin Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "AAAAAAAAAADUJB5SPUQSWE5Nb3MaCSnA",
+    "snapshot_id": "AAAAAAAAAABckS8q99Rl6FiybVEXrcyo",
     "tracks": [
-        {
-            "added_at": null,
-            "album": {
-                "name": "Prisionera (Radio Edit)",
-                "url": "https://open.spotify.com/album/1vVvxCo8gVMwxUzjM44x7Q"
-            },
-            "artists": [
-                {
-                    "name": "Otilia",
-                    "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
-                }
-            ],
-            "duration_ms": 177000,
-            "name": "Prisionera - Radio Edit",
-            "url": "https://open.spotify.com/track/3zkSu8Kd8jQDvukiAc4ORt"
-        },
         {
             "added_at": null,
             "album": {
@@ -63,6 +47,22 @@
             "duration_ms": 199036,
             "name": "Beat",
             "url": "https://open.spotify.com/track/2wCryMnE1OjDMXDIbPFWIR"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Prisionera (Radio Edit)",
+                "url": "https://open.spotify.com/album/1vVvxCo8gVMwxUzjM44x7Q"
+            },
+            "artists": [
+                {
+                    "name": "Otilia",
+                    "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+                }
+            ],
+            "duration_ms": 177000,
+            "name": "Prisionera - Radio Edit",
+            "url": "https://open.spotify.com/track/3zkSu8Kd8jQDvukiAc4ORt"
         },
         {
             "added_at": null,
@@ -199,6 +199,30 @@
         {
             "added_at": null,
             "album": {
+                "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
+                "url": "https://open.spotify.com/album/1wajKdkMTSqLpMinU7KNKe"
+            },
+            "artists": [
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                },
+                {
+                    "name": "J Balvin",
+                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                },
+                {
+                    "name": "Camila Cabello",
+                    "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                }
+            ],
+            "duration_ms": 194880,
+            "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
+            "url": "https://open.spotify.com/track/6DRGwsUFQrNerxRexK7KMB"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Bombo",
                 "url": "https://open.spotify.com/album/4wWuAxkVfqllEBirxDNP0B"
             },
@@ -211,22 +235,6 @@
             "duration_ms": 186733,
             "name": "Bombo",
             "url": "https://open.spotify.com/track/3r4Z2xnrBaVsrD00GwqYrX"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Nu King",
-                "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
-            },
-            "artists": [
-                {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-                }
-            ],
-            "duration_ms": 184364,
-            "name": "Slow Low",
-            "url": "https://open.spotify.com/track/5hmxbGHnxB9veBsMNDq6xw"
         },
         {
             "added_at": null,
@@ -267,26 +275,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
-                "url": "https://open.spotify.com/album/1wajKdkMTSqLpMinU7KNKe"
+                "name": "Nu King",
+                "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
             },
             "artists": [
                 {
-                    "name": "Pitbull",
-                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-                },
-                {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                },
-                {
-                    "name": "Camila Cabello",
-                    "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+                    "name": "Jason Derulo",
+                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
                 }
             ],
-            "duration_ms": 194880,
-            "name": "Hey Ma (with Pitbull & J Balvin feat. Camila Cabello)",
-            "url": "https://open.spotify.com/track/6DRGwsUFQrNerxRexK7KMB"
+            "duration_ms": 184364,
+            "name": "Slow Low",
+            "url": "https://open.spotify.com/track/5hmxbGHnxB9veBsMNDq6xw"
         },
         {
             "added_at": null,
@@ -351,18 +351,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "VICE VERSA",
-                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+                "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull) - Single",
+                "url": "https://open.spotify.com/album/4UX2aOcTCIC1D17b0ApqKH"
             },
             "artists": [
                 {
-                    "name": "Rauw Alejandro",
-                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    "name": "Nayer",
+                    "url": "https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO"
                 }
             ],
-            "duration_ms": 164705,
-            "name": "Cúrame",
-            "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+            "duration_ms": 222057,
+            "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull)",
+            "url": "https://open.spotify.com/track/77ePeF9L2QKvKrSsWpJXBF"
         },
         {
             "added_at": null,
@@ -399,22 +399,6 @@
             "duration_ms": 153935,
             "name": "Mala (feat. Fireboy DML) - English Version",
             "url": "https://open.spotify.com/track/0oeflkTTvW2wWo0N5zthM2"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull) - Single",
-                "url": "https://open.spotify.com/album/4UX2aOcTCIC1D17b0ApqKH"
-            },
-            "artists": [
-                {
-                    "name": "Nayer",
-                    "url": "https://open.spotify.com/artist/1ruutHJcECI7cos2n5TqpO"
-                }
-            ],
-            "duration_ms": 222057,
-            "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull)",
-            "url": "https://open.spotify.com/track/77ePeF9L2QKvKrSsWpJXBF"
         },
         {
             "added_at": null,
@@ -463,6 +447,22 @@
             "duration_ms": 127016,
             "name": "Mas Que Nada",
             "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "VICE VERSA",
+                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "artists": [
+                {
+                    "name": "Rauw Alejandro",
+                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "duration_ms": 164705,
+            "name": "Cúrame",
+            "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
         },
         {
             "added_at": null,
@@ -575,26 +575,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Revelación - EP",
-                "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
-            },
-            "artists": [
-                {
-                    "name": "Selena Gomez",
-                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-                },
-                {
-                    "name": "Rauw Alejandro",
-                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-                }
-            ],
-            "duration_ms": 186087,
-            "name": "Baila Conmigo (with Rauw Alejandro)",
-            "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "La Tarde",
                 "url": "https://open.spotify.com/album/44kW2NEni5fjuXMamBEXzL"
             },
@@ -615,110 +595,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "VICE VERSA",
-                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+                "name": "Revelación - EP",
+                "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
             },
             "artists": [
+                {
+                    "name": "Selena Gomez",
+                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                },
                 {
                     "name": "Rauw Alejandro",
                     "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
                 }
             ],
-            "duration_ms": 199604,
-            "name": "Todo De Ti",
-            "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "CONTIGO (with Tiësto)",
-                "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
-            },
-            "artists": [
-                {
-                    "name": "KAROL G",
-                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 192786,
-            "name": "CONTIGO (with Tiësto)",
-            "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tabú",
-                "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
-            },
-            "artists": [
-                {
-                    "name": "Pablo Alborán",
-                    "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-                },
-                {
-                    "name": "Ava Max",
-                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-                }
-            ],
-            "duration_ms": 179774,
-            "name": "Tabú",
-            "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "10",
-                "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
-            },
-            "artists": [
-                {
-                    "name": "Spice",
-                    "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
-                },
-                {
-                    "name": "Sean Paul",
-                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-                },
-                {
-                    "name": "Shaggy",
-                    "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-                }
-            ],
-            "duration_ms": 154151,
-            "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
-            "url": "https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-                "url": "https://open.spotify.com/album/5dL5RSd455FewNptPgtBTS"
-            },
-            "artists": [
-                {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-                },
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Nicki Minaj",
-                    "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-                },
-                {
-                    "name": "Willy William",
-                    "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-                }
-            ],
-            "duration_ms": 195419,
-            "name": "Goodbye (feat. Nicki Minaj & Willy William)",
-            "url": "https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG"
+            "duration_ms": 186087,
+            "name": "Baila Conmigo (with Rauw Alejandro)",
+            "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
         },
         {
             "added_at": null,
@@ -771,22 +663,94 @@
         {
             "added_at": null,
             "album": {
-                "name": "Morenita",
-                "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+                "name": "Tabú",
+                "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
             },
             "artists": [
                 {
-                    "name": "HUGEL",
-                    "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+                    "name": "Pablo Alborán",
+                    "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
                 },
                 {
-                    "name": "Cumbiafrica",
-                    "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+                    "name": "Ava Max",
+                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
                 }
             ],
-            "duration_ms": 176491,
-            "name": "Morenita",
-            "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+            "duration_ms": 179774,
+            "name": "Tabú",
+            "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "10",
+                "url": "https://open.spotify.com/album/7pKLvzqcLuNx96e59VFREP"
+            },
+            "artists": [
+                {
+                    "name": "Spice",
+                    "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
+                },
+                {
+                    "name": "Sean Paul",
+                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+                },
+                {
+                    "name": "Shaggy",
+                    "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                }
+            ],
+            "duration_ms": 154151,
+            "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
+            "url": "https://open.spotify.com/track/58dGRQrNmAJeRMFuguUbvD"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "CONTIGO (with Tiësto)",
+                "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
+            },
+            "artists": [
+                {
+                    "name": "KAROL G",
+                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                },
+                {
+                    "name": "Tiësto",
+                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                }
+            ],
+            "duration_ms": 192786,
+            "name": "CONTIGO (with Tiësto)",
+            "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+                "url": "https://open.spotify.com/album/5dL5RSd455FewNptPgtBTS"
+            },
+            "artists": [
+                {
+                    "name": "Jason Derulo",
+                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+                },
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Nicki Minaj",
+                    "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+                },
+                {
+                    "name": "Willy William",
+                    "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+                }
+            ],
+            "duration_ms": 195419,
+            "name": "Goodbye (feat. Nicki Minaj & Willy William)",
+            "url": "https://open.spotify.com/track/5Xn4IyTtW6FUGIUyWjbUHG"
         },
         {
             "added_at": null,
@@ -807,6 +771,42 @@
         {
             "added_at": null,
             "album": {
+                "name": "VICE VERSA",
+                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "artists": [
+                {
+                    "name": "Rauw Alejandro",
+                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "duration_ms": 199604,
+            "name": "Todo De Ti",
+            "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Morenita",
+                "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
+            },
+            "artists": [
+                {
+                    "name": "HUGEL",
+                    "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+                },
+                {
+                    "name": "Cumbiafrica",
+                    "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+                }
+            ],
+            "duration_ms": 176491,
+            "name": "Morenita",
+            "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Planet Pit (Deluxe Version)",
                 "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
             },
@@ -823,142 +823,6 @@
             "duration_ms": 231573,
             "name": "Rain Over Me (feat. Marc Anthony)",
             "url": "https://open.spotify.com/track/2cZrrQMjB63c0iIugYH9zS"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tia Tia",
-                "url": "https://open.spotify.com/album/6khKf9LABv2Zqty7onJjof"
-            },
-            "artists": [
-                {
-                    "name": "Tia Tia",
-                    "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
-                }
-            ],
-            "duration_ms": 159616,
-            "name": "Wait",
-            "url": "https://open.spotify.com/track/2eUgmTqYIRn8dHh0NGxKwN"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Party Animal",
-                "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
-            },
-            "artists": [
-                {
-                    "name": "Charly Black",
-                    "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
-                },
-                {
-                    "name": "Luis Fonsi",
-                    "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-                }
-            ],
-            "duration_ms": 195813,
-            "name": "Party Animal",
-            "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dientes",
-                "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
-            },
-            "artists": [
-                {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                },
-                {
-                    "name": "USHER",
-                    "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
-                },
-                {
-                    "name": "DJ Khaled",
-                    "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-                }
-            ],
-            "duration_ms": 166426,
-            "name": "Dientes",
-            "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Enrique",
-                "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
-            },
-            "artists": [
-                {
-                    "name": "Enrique Iglesias",
-                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-                }
-            ],
-            "duration_ms": 219360,
-            "name": "Be With You",
-            "url": "https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Solo Para Ti",
-                "url": "https://open.spotify.com/album/7CX6KwcrRx0iwTH8iU6rDJ"
-            },
-            "artists": [
-                {
-                    "name": "Alvaro Soler",
-                    "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-                },
-                {
-                    "name": "Topic",
-                    "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-                }
-            ],
-            "duration_ms": 198106,
-            "name": "Solo Para Ti",
-            "url": "https://open.spotify.com/track/2uAgZ0PelSImQe3BME9CiT"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Con Calma",
-                "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-            },
-            "artists": [
-                {
-                    "name": "Daddy Yankee",
-                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-                },
-                {
-                    "name": "Snow",
-                    "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-                }
-            ],
-            "duration_ms": 193226,
-            "name": "Con Calma",
-            "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fiesta",
-                "url": "https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd"
-            },
-            "artists": [
-                {
-                    "name": "The Stickmen Project",
-                    "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-                },
-                {
-                    "name": "ALTÉGO",
-                    "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-                }
-            ],
-            "duration_ms": 140000,
-            "name": "Fiesta",
-            "url": "https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS"
         },
         {
             "added_at": null,
@@ -987,6 +851,162 @@
         {
             "added_at": null,
             "album": {
+                "name": "Party Animal",
+                "url": "https://open.spotify.com/album/3eOXiZ4HVNafqio5wKJRcG"
+            },
+            "artists": [
+                {
+                    "name": "Charly Black",
+                    "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+                },
+                {
+                    "name": "Luis Fonsi",
+                    "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+                }
+            ],
+            "duration_ms": 195813,
+            "name": "Party Animal",
+            "url": "https://open.spotify.com/track/5vc9YsAEBWbRVvgKUcA5vs"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Meet The Orphans",
+                "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+            },
+            "artists": [
+                {
+                    "name": "Don Omar",
+                    "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+                },
+                {
+                    "name": "Lucenzo",
+                    "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+                }
+            ],
+            "duration_ms": 198786,
+            "name": "Danza Kuduro",
+            "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dientes",
+                "url": "https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O"
+            },
+            "artists": [
+                {
+                    "name": "J Balvin",
+                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                },
+                {
+                    "name": "USHER",
+                    "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+                },
+                {
+                    "name": "DJ Khaled",
+                    "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+                }
+            ],
+            "duration_ms": 166426,
+            "name": "Dientes",
+            "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Solo Para Ti",
+                "url": "https://open.spotify.com/album/7CX6KwcrRx0iwTH8iU6rDJ"
+            },
+            "artists": [
+                {
+                    "name": "Alvaro Soler",
+                    "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+                },
+                {
+                    "name": "Topic",
+                    "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+                }
+            ],
+            "duration_ms": 198106,
+            "name": "Solo Para Ti",
+            "url": "https://open.spotify.com/track/2uAgZ0PelSImQe3BME9CiT"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Enrique",
+                "url": "https://open.spotify.com/album/2ENVytJO885v5c1AW2Qjci"
+            },
+            "artists": [
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                }
+            ],
+            "duration_ms": 219360,
+            "name": "Be With You",
+            "url": "https://open.spotify.com/track/2N4viTG9njqCa4c46YyWs1"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Tia Tia",
+                "url": "https://open.spotify.com/album/6khKf9LABv2Zqty7onJjof"
+            },
+            "artists": [
+                {
+                    "name": "Tia Tia",
+                    "url": "https://open.spotify.com/artist/6fbIkBK4DW2IPnlKk9MLWS"
+                }
+            ],
+            "duration_ms": 159616,
+            "name": "Wait",
+            "url": "https://open.spotify.com/track/2eUgmTqYIRn8dHh0NGxKwN"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "XV",
+                "url": "https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F"
+            },
+            "artists": [
+                {
+                    "name": "Jonas Brothers",
+                    "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+                },
+                {
+                    "name": "KAROL G",
+                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                }
+            ],
+            "duration_ms": 185277,
+            "name": "X (with KAROL G)",
+            "url": "https://open.spotify.com/track/77fvnWALKJR0ws1VUx09CY"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Cupido",
+                "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+            },
+            "artists": [
+                {
+                    "name": "TINI",
+                    "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+                },
+                {
+                    "name": "Maria Becerra",
+                    "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+                }
+            ],
+            "duration_ms": 165275,
+            "name": "Miénteme",
+            "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Vibras",
                 "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
             },
@@ -1003,30 +1023,6 @@
             "duration_ms": 185040,
             "name": "Mi Gente",
             "url": "https://open.spotify.com/track/7COfe3P7KgfwDwIRB8LIDw"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Danza Kuduro (Tiësto Remix)",
-                "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
-            },
-            "artists": [
-                {
-                    "name": "Don Omar",
-                    "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-                },
-                {
-                    "name": "Lucenzo",
-                    "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 219047,
-            "name": "Danza Kuduro - Tiësto Remix",
-            "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
         }
     ],
     "unique_name": "Latin Mix",

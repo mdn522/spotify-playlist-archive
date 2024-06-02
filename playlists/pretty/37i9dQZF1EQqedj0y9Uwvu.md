@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQqedj0y9Uwvu.md) - [plain]
 
 ### [2010s Mix](https://open.spotify.com/playlist/37i9dQZF1EQqedj0y9Uwvu)
 
-> <a href=spotify:playlist:37i9dQZF1EIYyS0XkaRXdd>Alle Farben</a>, <a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a>, <a href=spotify:playlist:37i9dQZF1EIX9y07KcHJzs>Gunship</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIViELMosKsAE>Adelén</a>, <a href=spotify:playlist:37i9dQZF1EIYtGe2CfPeBI>Sia</a>, <a href=spotify:playlist:37i9dQZF1EIYyS0XkaRXdd>Alle Farben</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fading](https://open.spotify.com/track/2WyNqDHLRJLzJuidCsO1Ey) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:26 |
-| 2 | [Spell On Me](https://open.spotify.com/track/0coBSrChlWlbf2EdXGHBVE) | [Adelén](https://open.spotify.com/artist/2qS6cYzM5ajhprcxQa1Ilc) | [Spell On Me](https://open.spotify.com/album/2BVNDGhm7SXDk16hK0nhvq) | 3:19 |
-| 3 | [When You Grow Up, Your Heart Dies \- Instrumental](https://open.spotify.com/track/1uRiXRYfXhhGHImV38d4jH) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Dark All Day \(Instrumentals\)](https://open.spotify.com/album/4EU1BcmAcGdg9FhQxZqJe2) | 5:49 |
+| 1 | [Olé \- Stadium Anthem Mix](https://open.spotify.com/track/55u2QYOVGloqOFqcN5k6hp) | [Adelén](https://open.spotify.com/artist/2qS6cYzM5ajhprcxQa1Ilc) | [Olé \(Stadium Anthem Mix\)](https://open.spotify.com/album/2erXvF2Imha3IR7Ipu9uAa) | 3:19 |
+| 2 | [Unstoppable \- R3HAB Remix](https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Unstoppable \(R3HAB Remix\)](https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz) | 2:42 |
+| 3 | [Fading](https://open.spotify.com/track/2WyNqDHLRJLzJuidCsO1Ey) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Sticker on My Suitcase](https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy) | 3:26 |
 | 4 | [Believe in the Fire Between Us](https://open.spotify.com/track/2ftO1YCzXE2F9KE0L9Qr0m) | [Yesable](https://open.spotify.com/artist/6sQcE03UfjGq6W1FuciTSb) | [Love Cheque](https://open.spotify.com/album/4Zk91IlxYLc11UNNkMDR3b) | 3:24 |
 | 5 | [Piece of Me](https://open.spotify.com/track/74PappOn1maLhcBsDD7GJ2) | [Hallmore](https://open.spotify.com/artist/5xNJEEXcQg0ohvWvnyYZXf) | [Dreams Beyond](https://open.spotify.com/album/4GGlsjX2113YAfYCjasLzu) | 2:27 |
 | 6 | [Main Rang Sharbaton Ka](https://open.spotify.com/track/2IEhtVeM9TVql8fZdKdlo9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Best of Romance: Atif Aslam & Pritam](https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs) | 4:23 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQqedj0y9Uwvu.md) - [plain]
 | 15 | [Nevada](https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Nevada](https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj) | 3:28 |
 | 16 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 |
 | 17 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/3lA5J36baHQES0DiFht4iT) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7: Anniversary Edition](https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7) | 2:52 |
-| 18 | [Purify Our Hearts](https://open.spotify.com/track/30nvMc7RYwl1GuVQxF5xDM) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [I Supplicate](https://open.spotify.com/album/74icl8KRnGYeJ8cFnrI7jT) | 0:43 |
-| 19 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
+| 18 | [Outside \(feat\. Ellie Goulding\)](https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Motion](https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS) | 3:47 |
+| 19 | [Purify Our Hearts](https://open.spotify.com/track/30nvMc7RYwl1GuVQxF5xDM) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [I Supplicate](https://open.spotify.com/album/74icl8KRnGYeJ8cFnrI7jT) | 0:43 |
 | 20 | [No Money](https://open.spotify.com/track/6M6Tk58pQvABy6ru66dY3d) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [The Aviary](https://open.spotify.com/album/7DNmxxEuJe19wNVrinaXx4) | 3:11 |
 | 21 | [Dreamstate](https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc) | [Dreamstate](https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh) | 3:18 |
 | 22 | [Valkyrie](https://open.spotify.com/track/0L7vlrUbYlt9aBJ4FEanKu) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Valkyrie](https://open.spotify.com/album/3KByrCfJlLy3AjOIMABr3n) | 3:27 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EQqedj0y9Uwvu.md) - [plain]
 | 41 | [Disconnected](https://open.spotify.com/track/118vbJqycPASVgrYnCzb9F) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Disconnected](https://open.spotify.com/album/4ZY8kFYUysWonTFdD43aJe) | 4:01 |
 | 42 | [EXTRA FR!ES](https://open.spotify.com/track/5JfXI7NmMyak0lAzCTbVUw) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [EXTRA FR!ES](https://open.spotify.com/album/7J9nP67J4hULMaGGrYdOUu) | 2:50 |
 | 43 | [Never Give Up](https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Never Give Up \(From "Lion" Soundtrack\)](https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n) | 3:41 |
-| 44 | [Revel in Your Time](https://open.spotify.com/track/1upZuFHbOUzhH5P8wnDAbI) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:07 |
+| 44 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
 | 45 | [Praise to Allah](https://open.spotify.com/track/0GJfV19KwD1F77TKMrk46M) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [I Supplicate](https://open.spotify.com/album/74icl8KRnGYeJ8cFnrI7jT) | 3:23 |
-| 46 | [All Alone](https://open.spotify.com/track/6t6OF6KiHxgGv9efthbByF) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [All Alone](https://open.spotify.com/album/1Ekc8aupD2DklUXQZp3nQB) | 4:06 |
-| 47 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 |
-| 48 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
+| 46 | [Revel in Your Time](https://open.spotify.com/track/1upZuFHbOUzhH5P8wnDAbI) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:07 |
+| 47 | [All Alone](https://open.spotify.com/track/6t6OF6KiHxgGv9efthbByF) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [All Alone](https://open.spotify.com/album/1Ekc8aupD2DklUXQZp3nQB) | 4:06 |
+| 48 | [Applause](https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [ARTPOP](https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9) | 3:32 |
 | 49 | [DIABLO](https://open.spotify.com/track/38cKbJ4mA5Oxf8YBN5HO77) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [DIABLO](https://open.spotify.com/album/0HgMwYWzPSEl3AzWbjq3Y1) | 3:09 |
 | 50 | [Nassem Alshoeq](https://open.spotify.com/track/1ubZHAAIDvRGTDUn7gqJI5) | [Ahmed Bukhatir](https://open.spotify.com/artist/7H045XjM40okitH2R60OrR) | [Da'ni](https://open.spotify.com/album/4tbHzewjmnbSRocEfnbnT6) | 4:09 |
 
-Snapshot ID: `AAAAAAAAAAB6BD7fBaWN2ohoMxyk479+`
+Snapshot ID: `AAAAAAAAAAB8/QhnFQ3neAnFpJ4tWEIf`
