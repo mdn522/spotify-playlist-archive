@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,684 songs - 6 day 18 hr 54 min - not published yet
+2,685 songs - 6 day 18 hr 56 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,7 @@
 | [Atittude](https://open.spotify.com/track/5OFYjNyz0uAbx8scH7xKR5) | [Nightcore High](https://open.spotify.com/artist/1QKDZusfmkgL3rC9IpvxKk), [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Atittude](https://open.spotify.com/album/75PT4ReD3q8P8Y10RQrkVm) | 2:26 | 2023-02-09 | 2023-02-24 |
 | [Atlanta Traffic](https://open.spotify.com/track/3S618IJRpKCrRUgegLcS0A) | [Ana Grosh](https://open.spotify.com/artist/1EHA30IXQPf3PXKZ8mNHD6) | [Everything's Changing](https://open.spotify.com/album/1Dy2ZtBOOLafz3ustrmQkx) | 2:37 | 2023-11-02 | 2023-12-03 |
 | [Atlantis](https://open.spotify.com/track/3fJsYRfZmjyoyR4YMQZS8p) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Atlantis](https://open.spotify.com/album/3udpvypEX7XeAnTsyZdmCF) | 4:06 | 2024-05-16 | 2024-05-24 |
-| [Atlantis](https://open.spotify.com/track/72IZgNEflspCFYeIiXSFM2) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat 36](https://open.spotify.com/album/0QryR7GBjDuTTpHWJxPC2d) | 4:06 | 2024-06-06 |  |
+| [Atlantis](https://open.spotify.com/track/72IZgNEflspCFYeIiXSFM2) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat 36](https://open.spotify.com/album/0QryR7GBjDuTTpHWJxPC2d) | 4:06 | 2024-06-06 | 2024-06-10 |
 | [Atlas](https://open.spotify.com/track/01HtdnIdfvmue4gyW54Rhs) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Atlas](https://open.spotify.com/album/2tZeQG8yc1x1HiNHk7da14) | 4:00 | 2023-08-17 | 2023-08-25 |
 | [Atlas](https://open.spotify.com/track/2MEprL3c5xrlaH60B3D3oh) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [XXVII](https://open.spotify.com/album/32QLhUL1GZvg3kjpZKuHfo) | 4:00 | 2023-08-31 | 2023-09-15 |
 | [Atmos](https://open.spotify.com/track/4xU6ffjSMcVAbzmHTlqTfv) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat XVIII](https://open.spotify.com/album/5Un8Z6OvTjj2DKLoBWdFMP) | 5:17 | 2022-12-22 | 2022-12-30 |
@@ -2378,6 +2378,7 @@
 | [Time After Time](https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Time After Time](https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx) | 2:52 | 2023-01-05 | 2023-02-05 |
 | [Time After Time \- 220 KID Remix](https://open.spotify.com/track/5NBHKH5VK04VwR4x8ZkTfv) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [Time After Time \(220 KID Remix\)](https://open.spotify.com/album/6IesemgjOiiYE8UYpAyLAF) | 2:21 | 2023-05-11 | 2023-05-19 |
 | [Timeless](https://open.spotify.com/track/3C1OCkoGoHjBzlsNw1xDhs) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Timeless](https://open.spotify.com/album/29LlZkCJcYziwYFj0LVlyv) | 2:26 | 2024-05-30 | 2024-06-07 |
+| [Timeless](https://open.spotify.com/track/4IldCADeVBKGVMwOFOwbk4) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat 36](https://open.spotify.com/album/0QryR7GBjDuTTpHWJxPC2d) | 2:26 | 2024-06-06 |  |
 | [Times Like These](https://open.spotify.com/track/49z3Hm57j9aq7b1YlzH5U6) | [Bella Goldwin](https://open.spotify.com/artist/1iGopxKoGRFIEyBfdncWzJ) | [Times Like These](https://open.spotify.com/album/19WFPhXbFISNEsN5BztwFm) | 3:54 | 2022-10-06 | 2022-10-14 |
 | [Titanium \(Megan's V3rsion\)](https://open.spotify.com/track/4DtKD1Ftxh2wfxjSdGv4g7) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Titanium \(Megan's V3rsion\)](https://open.spotify.com/album/1nFSFPGbTNi9mIRvOwspc9) | 4:03 | 2023-01-12 | 2023-02-05 |
 | [To Be A God](https://open.spotify.com/track/6V4euxc2gvdJ7XBKjKNM2U) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [White Bat X](https://open.spotify.com/album/5keHb0YxBC7xEuhuKPQEPm) | 3:30 | 2022-12-15 | 2022-12-21 |
