@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,772 songs - 6 day 23 hr 56 min - not published yet
+2,773 songs - 7 day 0 hr 2 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -870,6 +870,7 @@
 | [Florile Tale \- suckrPunch Remix](https://open.spotify.com/track/6oRRBjhaJeNkh8JeFyMhpp) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [suckrPunch](https://open.spotify.com/artist/36bPz3oaSlA0eM0qrELzDU) | [Florile Tale \(suckrPunch Remix\)](https://open.spotify.com/album/20fOAOmcnyDhm2OXsfFVXL) | 3:16 | 2022-05-26 | 2022-06-19 |
 | [Flowing](https://open.spotify.com/track/5uqBMmbWGaltlZ7bUwtZE9) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [Piano: Gentle Words](https://open.spotify.com/album/70d4ZivTSelDmHMCtDWaJw) | 3:06 | 2023-12-14 | 2024-01-01 |
 | [Fluorescent Flowers](https://open.spotify.com/track/4NvpHrdQKIq46Ep43cBDt7) | [Bella Goldwin](https://open.spotify.com/artist/1iGopxKoGRFIEyBfdncWzJ) | [Fluorescent Flowers](https://open.spotify.com/album/6FfJfdKFwqbXbCt8K8eFKQ) | 5:01 | 2022-11-17 | 2022-12-18 |
+| [Flying through space](https://open.spotify.com/track/5pHeBu8CpFIoIGeFLBnDjm) | [Ryan Martin](https://open.spotify.com/artist/2rKsi5wfR504NeLStpEFJI), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Riyadh Fashion Week \(The Official Soundtrack\)](https://open.spotify.com/album/4wlwzi861xVFUa8OWG1EaJ) | 6:02 | 2024-06-27 |  |
 | [Fog Dancer](https://open.spotify.com/track/0JAVCJzRHovS5Bjbdnu8B4) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Fog Dancer](https://open.spotify.com/album/5q5iCX6WdiUrnXOWxMosvG) | 4:57 | 2023-06-15 | 2023-06-23 |
 | [Follow \- Danny Burg Remix](https://open.spotify.com/track/49w6u11Uht4EjWt1Cmg8B6) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq), [Danny Burg](https://open.spotify.com/artist/57QHJxFz7v59E65VG1VtVf) | [Follow \(Danny Burg Remix\)](https://open.spotify.com/album/5jzVxHfOjfiIcqdtatA2p1) | 2:41 | 2022-12-08 | 2023-01-09 |
 | [Follow Me \- Sick Individuals Remix](https://open.spotify.com/track/6BtVqI4JYCYi6mPmkzr5Rv) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [Follow Me \(Sick Individuals Remix\)](https://open.spotify.com/album/2DmvFfaBJeA9hy0yDQGuhf) | 2:46 | 2022-08-25 | 2022-09-24 |
@@ -1523,7 +1524,7 @@
 | [Manchild \- TOKiMONSTA Remix](https://open.spotify.com/track/0B10uWxWneaba7D2bXaHBe) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Neneh Cherry](https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Manchild \(TOKiMONSTA Remix\)](https://open.spotify.com/album/52328WXPKDhZVhSeCsl91E) | 2:57 | 2022-06-02 | 2022-06-10 |
 | [Mango](https://open.spotify.com/track/6MrL4huJTR6g3sUr3fM5rd) | [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV), [Soaky Siren](https://open.spotify.com/artist/1XWxrP7USdeZ3LKlXxdhpC), [SAK PASE](https://open.spotify.com/artist/3XmoV7DZj1XxUulBFTv7tc) | [Mango](https://open.spotify.com/album/74A3wReBLDHbTC03w76gcW) | 2:28 | 2023-05-25 | 2023-06-18 |
 | [Mantra](https://open.spotify.com/track/3OmitTH3Y6yamai1Q4NVGp) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Mantra](https://open.spotify.com/album/19KMJhqGiMHXK0NbEWHG3y) | 3:17 | 2023-02-23 | 2023-03-03 |
-| [Map of the clouds](https://open.spotify.com/track/1R1BWesFo38LBobnIkxn3E) | [Ryan Martin](https://open.spotify.com/artist/2rKsi5wfR504NeLStpEFJI), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Riyadh Fashion Week \(The Official Soundtrack\)](https://open.spotify.com/album/4wlwzi861xVFUa8OWG1EaJ) | 6:45 | 2024-06-27 |  |
+| [Map of the clouds](https://open.spotify.com/track/1R1BWesFo38LBobnIkxn3E) | [Ryan Martin](https://open.spotify.com/artist/2rKsi5wfR504NeLStpEFJI), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Riyadh Fashion Week \(The Official Soundtrack\)](https://open.spotify.com/album/4wlwzi861xVFUa8OWG1EaJ) | 6:45 | 2024-06-27 | 2024-07-04 |
 | [Maserati](https://open.spotify.com/track/4sclaxSap8rn4PZRKQaEvm) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Metamorphosis](https://open.spotify.com/album/2RzDn0t2eqppGwXK3szhIn) | 2:24 | 2022-12-22 | 2023-01-24 |
 | [MASOCHIST](https://open.spotify.com/track/3wlU8UYOvnnbt9BYkBqrgH) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [OVER HER DEAD BODY](https://open.spotify.com/album/16VkEvSvpJZVdqchm8E6F2) | 2:23 | 2023-10-12 | 2023-11-03 |
 | [Massla](https://open.spotify.com/track/5vO3ojSCXpP3drYMTDrkVa) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Singhsta](https://open.spotify.com/artist/2JkJfNbvLY88Fvzspynu6G) | [Massla](https://open.spotify.com/album/6m5qvz8fkjD4mBpOHmxiB2) | 2:54 | 2023-04-13 | 2023-05-07 |
