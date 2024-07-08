@@ -187,22 +187,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "VICE VERSA",
-                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-            },
-            "artists": [
-                {
-                    "name": "Rauw Alejandro",
-                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-                }
-            ],
-            "duration_ms": 164705,
-            "name": "Cúrame",
-            "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Morenita",
                 "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
             },
@@ -243,6 +227,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "VICE VERSA",
+                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "artists": [
+                {
+                    "name": "Rauw Alejandro",
+                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                }
+            ],
+            "duration_ms": 164705,
+            "name": "Cúrame",
+            "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Love?",
                 "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
             },
@@ -263,42 +263,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Tabú",
-                "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
+                "name": "Familia",
+                "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
             },
             "artists": [
                 {
-                    "name": "Pablo Alborán",
-                    "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-                },
-                {
-                    "name": "Ava Max",
-                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                    "name": "Camila Cabello",
+                    "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
                 }
             ],
-            "duration_ms": 179774,
-            "name": "Tabú",
-            "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "NASTU",
-                "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
-            },
-            "artists": [
-                {
-                    "name": "Rvfv",
-                    "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
-                },
-                {
-                    "name": "Pablo Mas",
-                    "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
-                }
-            ],
-            "duration_ms": 168960,
-            "name": "Yo No Sé",
-            "url": "https://open.spotify.com/track/3YTQh24t7bQfPMm3PfyL0W"
+            "duration_ms": 164842,
+            "name": "Don't Go Yet",
+            "url": "https://open.spotify.com/track/1qCHidBbWAgv3pn6UbZ4Lg"
         },
         {
             "added_at": null,
@@ -323,6 +299,50 @@
         {
             "added_at": null,
             "album": {
+                "name": "Dancing On Dangerous (feat. Sofía Reyes)",
+                "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
+            },
+            "artists": [
+                {
+                    "name": "Imanbek",
+                    "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+                },
+                {
+                    "name": "Sean Paul",
+                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+                },
+                {
+                    "name": "Sofía Reyes",
+                    "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+                }
+            ],
+            "duration_ms": 124065,
+            "name": "Dancing On Dangerous (feat. Sofía Reyes)",
+            "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "NASTU",
+                "url": "https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk"
+            },
+            "artists": [
+                {
+                    "name": "Rvfv",
+                    "url": "https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8"
+                },
+                {
+                    "name": "Pablo Mas",
+                    "url": "https://open.spotify.com/artist/2f6TzIGIIxEuwp6o7kEbhy"
+                }
+            ],
+            "duration_ms": 168960,
+            "name": "Yo No Sé",
+            "url": "https://open.spotify.com/track/3YTQh24t7bQfPMm3PfyL0W"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "La Bebe (David Guetta Remix)",
                 "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
             },
@@ -343,6 +363,74 @@
             "duration_ms": 158739,
             "name": "La Bebe - David Guetta Remix",
             "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
+                "url": "https://open.spotify.com/album/6tKMULzJzBkwS3RZvgddKa"
+            },
+            "artists": [
+                {
+                    "name": "RedOne",
+                    "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
+                },
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                },
+                {
+                    "name": "R. City",
+                    "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
+                },
+                {
+                    "name": "Serayah",
+                    "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
+                },
+                {
+                    "name": "Shaggy",
+                    "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+                }
+            ],
+            "duration_ms": 207719,
+            "name": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
+            "url": "https://open.spotify.com/track/1TPUbLdzpfgF7wrPEXIAAB"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Tabú",
+                "url": "https://open.spotify.com/album/4js3JAU4F9I0iBMGHzEOvn"
+            },
+            "artists": [
+                {
+                    "name": "Pablo Alborán",
+                    "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+                },
+                {
+                    "name": "Ava Max",
+                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                }
+            ],
+            "duration_ms": 179774,
+            "name": "Tabú",
+            "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Fuego",
+                "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
+            },
+            "artists": [
+                {
+                    "name": "Eleni Foureira",
+                    "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
+                }
+            ],
+            "duration_ms": 183397,
+            "name": "Fuego",
+            "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
         },
         {
             "added_at": null,
@@ -383,70 +471,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Familia",
-                "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-            },
-            "artists": [
-                {
-                    "name": "Camila Cabello",
-                    "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-                }
-            ],
-            "duration_ms": 164842,
-            "name": "Don't Go Yet",
-            "url": "https://open.spotify.com/track/1qCHidBbWAgv3pn6UbZ4Lg"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Fuego",
-                "url": "https://open.spotify.com/album/1Kix2Ho3LgJI4tmtcFdNr8"
-            },
-            "artists": [
-                {
-                    "name": "Eleni Foureira",
-                    "url": "https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2"
-                }
-            ],
-            "duration_ms": 183397,
-            "name": "Fuego",
-            "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
-                "url": "https://open.spotify.com/album/6tKMULzJzBkwS3RZvgddKa"
-            },
-            "artists": [
-                {
-                    "name": "RedOne",
-                    "url": "https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx"
-                },
-                {
-                    "name": "Enrique Iglesias",
-                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-                },
-                {
-                    "name": "R. City",
-                    "url": "https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX"
-                },
-                {
-                    "name": "Serayah",
-                    "url": "https://open.spotify.com/artist/3N3R2mEESjTYM3W6ye2bod"
-                },
-                {
-                    "name": "Shaggy",
-                    "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-                }
-            ],
-            "duration_ms": 207719,
-            "name": "Don't You Need Somebody (feat. Enrique Iglesias, R. City, Serayah & Shaggy)",
-            "url": "https://open.spotify.com/track/1TPUbLdzpfgF7wrPEXIAAB"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "2000",
                 "url": "https://open.spotify.com/album/7ubO2LZJZFpyhiWMZkRwcH"
             },
@@ -459,30 +483,6 @@
             "duration_ms": 162637,
             "name": "La Bachata",
             "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Alibi (with Pabllo Vittar & Yseult)",
-                "url": "https://open.spotify.com/album/2m0euKZUDcoyEXHIS5MFCq"
-            },
-            "artists": [
-                {
-                    "name": "Sevdaliza",
-                    "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-                },
-                {
-                    "name": "Pabllo Vittar",
-                    "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-                },
-                {
-                    "name": "Yseult",
-                    "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-                }
-            ],
-            "duration_ms": 161655,
-            "name": "Alibi (with Pabllo Vittar & Yseult)",
-            "url": "https://open.spotify.com/track/5496lks6V3fh1mZAB6IAap"
         },
         {
             "added_at": null,
@@ -503,26 +503,26 @@
         {
             "added_at": null,
             "album": {
-                "name": "Dancing On Dangerous (feat. Sofía Reyes)",
-                "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
+                "name": "Mi Amor (with JVKE & Anitta)",
+                "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
             },
             "artists": [
                 {
-                    "name": "Imanbek",
-                    "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+                    "name": "Sam Feldt",
+                    "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
                 },
                 {
-                    "name": "Sean Paul",
-                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+                    "name": "JVKE",
+                    "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
                 },
                 {
-                    "name": "Sofía Reyes",
-                    "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+                    "name": "Anitta",
+                    "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
                 }
             ],
-            "duration_ms": 124065,
-            "name": "Dancing On Dangerous (feat. Sofía Reyes)",
-            "url": "https://open.spotify.com/track/6OYZvwKN8GaauTrJS1TuuH"
+            "duration_ms": 139428,
+            "name": "Mi Amor (with JVKE & Anitta)",
+            "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
         },
         {
             "added_at": null,
@@ -571,26 +571,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Amanece",
-                "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
-            },
-            "artists": [
-                {
-                    "name": "Anuel AA",
-                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-                },
-                {
-                    "name": "Haze",
-                    "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-                }
-            ],
-            "duration_ms": 190004,
-            "name": "Amanece",
-            "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Euphoria",
                 "url": "https://open.spotify.com/album/5JNhQFH8HMKQWP4SITzdoc"
             },
@@ -615,58 +595,82 @@
         {
             "added_at": null,
             "album": {
-                "name": "Mi Amor (with JVKE & Anitta)",
-                "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
+                "name": "Amanece",
+                "url": "https://open.spotify.com/album/464FQ8gr0oKlQ1a0TCK4Yj"
             },
             "artists": [
                 {
-                    "name": "Sam Feldt",
-                    "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+                    "name": "Anuel AA",
+                    "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
                 },
                 {
-                    "name": "JVKE",
-                    "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-                },
-                {
-                    "name": "Anitta",
-                    "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+                    "name": "Haze",
+                    "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
                 }
             ],
-            "duration_ms": 139428,
-            "name": "Mi Amor (with JVKE & Anitta)",
-            "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
+            "duration_ms": 190004,
+            "name": "Amanece",
+            "url": "https://open.spotify.com/track/1LiN0Z98FkR1t0m8KmLcAH"
         },
         {
             "added_at": null,
             "album": {
-                "name": "3 Malas",
-                "url": "https://open.spotify.com/album/4mPEpJuDTFsPoZhgZkQ6mm"
+                "name": "Revelación - EP",
+                "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
             },
             "artists": [
                 {
-                    "name": "BADDIES ONLY",
-                    "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+                    "name": "Selena Gomez",
+                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                },
+                {
+                    "name": "Rauw Alejandro",
+                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
                 }
             ],
-            "duration_ms": 95039,
-            "name": "3 Malas",
-            "url": "https://open.spotify.com/track/7hcsfB62NBGaBHdin3V2o5"
+            "duration_ms": 186087,
+            "name": "Baila Conmigo (with Rauw Alejandro)",
+            "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Colores",
-                "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+                "name": "Candela",
+                "url": "https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ"
             },
             "artists": [
                 {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+                    "name": "Lucas Estrada",
+                    "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+                },
+                {
+                    "name": "Raffa Fl",
+                    "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+                },
+                {
+                    "name": "TECHOLOGY",
+                    "url": "https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s"
                 }
             ],
-            "duration_ms": 150720,
-            "name": "Rojo",
-            "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
+            "duration_ms": 128709,
+            "name": "Candela",
+            "url": "https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Magia",
+                "url": "https://open.spotify.com/album/01mv5qdkrK2Fndwr9pd6eH"
+            },
+            "artists": [
+                {
+                    "name": "Alvaro Soler",
+                    "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+                }
+            ],
+            "duration_ms": 191339,
+            "name": "Magia",
+            "url": "https://open.spotify.com/track/1zxZ9yi8ddRPghXntx4U5Q"
         },
         {
             "added_at": null,
@@ -711,30 +715,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Aguila (feat. Cumbiafrica)",
-                "url": "https://open.spotify.com/album/1ewDn1vURADZMGulxAeeol"
-            },
-            "artists": [
-                {
-                    "name": "HUGEL",
-                    "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-                },
-                {
-                    "name": "Westend",
-                    "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
-                },
-                {
-                    "name": "Cumbiafrica",
-                    "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-                }
-            ],
-            "duration_ms": 168600,
-            "name": "Aguila (feat. Cumbiafrica)",
-            "url": "https://open.spotify.com/track/7MqutWIllOwYhtKOFhl5ST"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull) - Single",
                 "url": "https://open.spotify.com/album/4UX2aOcTCIC1D17b0ApqKH"
             },
@@ -747,94 +727,6 @@
             "duration_ms": 222057,
             "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull)",
             "url": "https://open.spotify.com/track/77ePeF9L2QKvKrSsWpJXBF"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Candela",
-                "url": "https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ"
-            },
-            "artists": [
-                {
-                    "name": "Lucas Estrada",
-                    "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-                },
-                {
-                    "name": "Raffa Fl",
-                    "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-                },
-                {
-                    "name": "TECHOLOGY",
-                    "url": "https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s"
-                }
-            ],
-            "duration_ms": 128709,
-            "name": "Candela",
-            "url": "https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Revelación - EP",
-                "url": "https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9"
-            },
-            "artists": [
-                {
-                    "name": "Selena Gomez",
-                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-                },
-                {
-                    "name": "Rauw Alejandro",
-                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-                }
-            ],
-            "duration_ms": 186087,
-            "name": "Baila Conmigo (with Rauw Alejandro)",
-            "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Mas Que Nada",
-                "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
-            },
-            "artists": [
-                {
-                    "name": "Oliver Heldens",
-                    "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-                },
-                {
-                    "name": "Ian Asher",
-                    "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-                },
-                {
-                    "name": "Sérgio Mendes",
-                    "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-                }
-            ],
-            "duration_ms": 127016,
-            "name": "Mas Que Nada",
-            "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "CONTIGO (with Tiësto)",
-                "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
-            },
-            "artists": [
-                {
-                    "name": "KAROL G",
-                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 192786,
-            "name": "CONTIGO (with Tiësto)",
-            "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
         },
         {
             "added_at": null,
@@ -859,50 +751,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Freedom, Pt. 2",
-                "url": "https://open.spotify.com/album/6SKMlxzXLclHtsbkb4p0eP"
+                "name": "Colores",
+                "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
             },
             "artists": [
                 {
-                    "name": "Dan Balan",
-                    "url": "https://open.spotify.com/artist/19rUh2xW9SuBUv5BflsdKq"
-                },
-                {
-                    "name": "Tany Vander",
-                    "url": "https://open.spotify.com/artist/483QpfZLvxl9CCB0AtCMFo"
-                },
-                {
-                    "name": "Brasco",
-                    "url": "https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL"
+                    "name": "J Balvin",
+                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
                 }
             ],
-            "duration_ms": 211287,
-            "name": "Lendo Calendo",
-            "url": "https://open.spotify.com/track/2G30WsboDlFNJPjZ4eQvB3"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Danza Kuduro (Tiësto Remix)",
-                "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
-            },
-            "artists": [
-                {
-                    "name": "Don Omar",
-                    "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-                },
-                {
-                    "name": "Lucenzo",
-                    "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 219047,
-            "name": "Danza Kuduro - Tiësto Remix",
-            "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
+            "duration_ms": 150720,
+            "name": "Rojo",
+            "url": "https://open.spotify.com/track/380HmhwTE2NJgawn1NwkXi"
         },
         {
             "added_at": null,
@@ -931,38 +791,46 @@
         {
             "added_at": null,
             "album": {
-                "name": "VICE VERSA",
-                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+                "name": "Danza Kuduro (Tiësto Remix)",
+                "url": "https://open.spotify.com/album/6Kd4z1ibE3aDC6lXOs3eMV"
             },
             "artists": [
                 {
-                    "name": "Rauw Alejandro",
-                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                    "name": "Don Omar",
+                    "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
                 },
                 {
-                    "name": "Chencho Corleone",
-                    "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+                    "name": "Lucenzo",
+                    "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+                },
+                {
+                    "name": "Tiësto",
+                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
                 }
             ],
-            "duration_ms": 224996,
-            "name": "Desesperados",
-            "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+            "duration_ms": 219047,
+            "name": "Danza Kuduro - Tiësto Remix",
+            "url": "https://open.spotify.com/track/7mdDd1a4TtNGqDW1lXc14o"
         },
         {
             "added_at": null,
             "album": {
-                "name": "La Danza",
-                "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+                "name": "CONTIGO (with Tiësto)",
+                "url": "https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl"
             },
             "artists": [
                 {
-                    "name": "John Summit",
-                    "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+                    "name": "KAROL G",
+                    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+                },
+                {
+                    "name": "Tiësto",
+                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
                 }
             ],
-            "duration_ms": 157619,
-            "name": "La Danza",
-            "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+            "duration_ms": 192786,
+            "name": "CONTIGO (with Tiësto)",
+            "url": "https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh"
         },
         {
             "added_at": null,
@@ -991,6 +859,70 @@
         {
             "added_at": null,
             "album": {
+                "name": "Freedom, Pt. 2",
+                "url": "https://open.spotify.com/album/6SKMlxzXLclHtsbkb4p0eP"
+            },
+            "artists": [
+                {
+                    "name": "Dan Balan",
+                    "url": "https://open.spotify.com/artist/19rUh2xW9SuBUv5BflsdKq"
+                },
+                {
+                    "name": "Tany Vander",
+                    "url": "https://open.spotify.com/artist/483QpfZLvxl9CCB0AtCMFo"
+                },
+                {
+                    "name": "Brasco",
+                    "url": "https://open.spotify.com/artist/3tKR0XXN0pW0Kl7UDAVSHL"
+                }
+            ],
+            "duration_ms": 211287,
+            "name": "Lendo Calendo",
+            "url": "https://open.spotify.com/track/2G30WsboDlFNJPjZ4eQvB3"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Mas Que Nada",
+                "url": "https://open.spotify.com/album/44wLGCkvr83VxYsioCROFf"
+            },
+            "artists": [
+                {
+                    "name": "Oliver Heldens",
+                    "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+                },
+                {
+                    "name": "Ian Asher",
+                    "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+                },
+                {
+                    "name": "Sérgio Mendes",
+                    "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+                }
+            ],
+            "duration_ms": 127016,
+            "name": "Mas Que Nada",
+            "url": "https://open.spotify.com/track/6yW6Q8ZPgDBQA1yHWL4Jmh"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "3 Malas",
+                "url": "https://open.spotify.com/album/4mPEpJuDTFsPoZhgZkQ6mm"
+            },
+            "artists": [
+                {
+                    "name": "BADDIES ONLY",
+                    "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+                }
+            ],
+            "duration_ms": 95039,
+            "name": "3 Malas",
+            "url": "https://open.spotify.com/track/7hcsfB62NBGaBHdin3V2o5"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
                 "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
             },
@@ -1011,42 +943,90 @@
         {
             "added_at": null,
             "album": {
-                "name": "Coño",
-                "url": "https://open.spotify.com/album/1h3x5tLWXhf438Y5AK60Ml"
+                "name": "Mar De Colores (Versión Extendida)",
+                "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
             },
             "artists": [
                 {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-                },
-                {
-                    "name": "Puri",
-                    "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-                },
-                {
-                    "name": "Jhorrmountain",
-                    "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+                    "name": "Alvaro Soler",
+                    "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
                 }
             ],
-            "duration_ms": 111852,
-            "name": "Coño",
-            "url": "https://open.spotify.com/track/5DV4ZSCqbFv74ui3ZhimXo"
+            "duration_ms": 192853,
+            "name": "La Libertad",
+            "url": "https://open.spotify.com/track/3DsLBZjoU5AYxZXsepHtsW"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Barrio Fino (Bonus Track Version)",
-                "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
+                "name": "Si No Estás",
+                "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
             },
             "artists": [
                 {
-                    "name": "Daddy Yankee",
-                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+                    "name": "iñigo quintero",
+                    "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
                 }
             ],
-            "duration_ms": 192600,
-            "name": "Gasolina",
-            "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
+            "duration_ms": 184061,
+            "name": "Si No Estás",
+            "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "La Danza",
+                "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+            },
+            "artists": [
+                {
+                    "name": "John Summit",
+                    "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+                }
+            ],
+            "duration_ms": 157619,
+            "name": "La Danza",
+            "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "VICE VERSA",
+                "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
+            },
+            "artists": [
+                {
+                    "name": "Rauw Alejandro",
+                    "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+                },
+                {
+                    "name": "Chencho Corleone",
+                    "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+                }
+            ],
+            "duration_ms": 224996,
+            "name": "Desesperados",
+            "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Cupido",
+                "url": "https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE"
+            },
+            "artists": [
+                {
+                    "name": "TINI",
+                    "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+                },
+                {
+                    "name": "Maria Becerra",
+                    "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+                }
+            ],
+            "duration_ms": 165275,
+            "name": "Miénteme",
+            "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
         }
     ],
     "unique_name": "Latin Mix",
