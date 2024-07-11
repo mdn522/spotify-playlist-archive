@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,804 songs - 7 day 1 hr 47 min - not published yet
+2,805 songs - 7 day 1 hr 51 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,7 +689,8 @@
 | [Don't Get Mad Get Famous](https://open.spotify.com/track/7IuomHmZSfJ4uPutjsirXk) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Don't Get Mad Get Famous](https://open.spotify.com/album/7rk5wAxdZZaiKlRtuX6uTB) | 1:20 | 2023-11-02 | 2023-11-11 |
 | [Don't Go](https://open.spotify.com/track/5WPlEcG2l7SjwKpKLyoTsG) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Don't Go](https://open.spotify.com/album/3QOzjtNi9xMPzC6r82Je6S) | 2:55 | 2023-01-26 | 2023-02-17 |
 | [Don't Hesitate](https://open.spotify.com/track/6M53y0LxlX2IWg0I40O30z) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Don't Hesitate](https://open.spotify.com/album/4E5BSDVkjrWYrO8Y5K2Tcj) | 4:31 | 2023-12-28 | 2024-01-26 |
-| [Don't Love You](https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09) | [Cloudy Parallels](https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Don't Love You](https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi) | 3:48 | 2024-06-20 |  |
+| [Don't Love You](https://open.spotify.com/track/2Fs6grACGmcdj22iiqlGXw) | [Cloudy Parallels](https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Overcast](https://open.spotify.com/album/4e6GIC29VghKkCUtc7FH5o) | 3:48 | 2024-07-04 |  |
+| [Don't Love You](https://open.spotify.com/track/3M1kMOsErj6GHmI7H9Jj09) | [Cloudy Parallels](https://open.spotify.com/artist/3tyyLpDvIuGiCqDKY41WxC), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Don't Love You](https://open.spotify.com/album/1FQK1u3PsnftXXvmYJKuzi) | 3:48 | 2024-06-20 | 2024-07-11 |
 | [Don't Stop The Rhythm](https://open.spotify.com/track/1MmcxXTDEClYVwr4Nfev7u) | [Thomas Gold](https://open.spotify.com/artist/1XLjkBxFokuDTlHt0mQkRe), [Aloma Steele](https://open.spotify.com/artist/0Th7ebqyWRIwNfNDIkEpNX) | [Don't Stop The Rhythm](https://open.spotify.com/album/0CWC64YcRgtV6fjdfTYqF6) | 2:43 | 2023-03-16 | 2023-03-24 |
 | [Don't Think Twice](https://open.spotify.com/track/0LAfp66SyhLp0wRdDH6EMH) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:06 | 2023-08-03 | 2023-08-05 |
 | [Don't Think Twice \- Edit](https://open.spotify.com/track/3kWMO7rpr9VpJF8csmCPec) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Don't Think Twice](https://open.spotify.com/album/2IdMh8hq88MtWZ9ZKNkqoa) | 2:49 | 2023-06-29 | 2023-07-29 |
