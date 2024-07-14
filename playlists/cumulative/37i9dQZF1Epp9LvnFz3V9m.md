@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-1,120 songs - 2 day 10 hr 48 min - not published yet
+1,121 songs - 2 day 10 hr 51 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 | 2023-06-12 | 2023-06-19 |
 | [Dreamer](https://open.spotify.com/track/1nTZaxitQCBDygfq7EUDo4) | [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Dreamer](https://open.spotify.com/album/1GhFSuxTZYpL2wITGRM4od) | 3:23 | 2022-09-09 | 2022-11-25 |
 | [Dreamer](https://open.spotify.com/track/22QDeFGmLiEDKvtb5BF4sZ) | [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Dreamer](https://open.spotify.com/album/4l7IQEFRLFSsbIYssU51AJ) | 3:23 | 2022-09-03 | 2022-09-10 |
-| [Dreaming](https://open.spotify.com/track/5ZRj9x7D4h9W05Vf5rsavc) | [SAINT X](https://open.spotify.com/artist/3QITsvXjuT3fuazHWI5Qmu) | [Dreaming](https://open.spotify.com/album/40qRDWz7uVqiEA0kROdPkA) | 2:31 | 2024-07-10 |  |
+| [Dreaming](https://open.spotify.com/track/5ZRj9x7D4h9W05Vf5rsavc) | [SAINT X](https://open.spotify.com/artist/3QITsvXjuT3fuazHWI5Qmu) | [Dreaming](https://open.spotify.com/album/40qRDWz7uVqiEA0kROdPkA) | 2:31 | 2024-07-10 | 2024-07-14 |
 | [Dreams](https://open.spotify.com/track/6qmRL16HotbUJMd0cXuB0U) | [JeanJiño](https://open.spotify.com/artist/3qCx2KCdxS3wKdRpKarZKN) | [Dreams](https://open.spotify.com/album/5IYyMqkowWVx4hpFq6Jhwj) | 3:42 | 2023-04-19 | 2023-04-29 |
 | [Drink And Shout](https://open.spotify.com/track/6V5LMAIGNd7qMjco5JjUSa) | [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Drink And Shout](https://open.spotify.com/album/3osV0Sq28dZop5Db7ugcwi) | 2:18 | 2024-01-26 | 2024-05-05 |
 | [Drive](https://open.spotify.com/track/6FiYhc84q8hslbpp34mgpv) | [Valerie Broussard](https://open.spotify.com/artist/6eVWXmKBW7Iltub01D9R1c) | [Voyager](https://open.spotify.com/album/4oW79uwZX037zy4Z7h8YYf) | 3:08 | 2022-05-26 | 2022-06-14 |
@@ -775,6 +775,7 @@
 | [Rapture](https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Rapture](https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz) | 3:21 | 2022-12-27 | 2022-12-31 |
 | [Rasputin](https://open.spotify.com/track/0b18g3G5spr4ZCkz7Y6Q0Q) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Rasputin](https://open.spotify.com/album/6PzYuR9c0CYCPJTnqylPhd) | 3:06 | 2024-02-13 | 2024-03-18 |
 | [Razor Sharp](https://open.spotify.com/track/1C7jwcMQQtzUxfaS9OmmZA) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Tristam](https://open.spotify.com/artist/28Ky95tmlHktB96DBUoB0g) | [Monstercat \- Best of 2013](https://open.spotify.com/album/76cX37uc6ebY9Ie34sbpBW) | 4:41 | 2023-02-25 | 2023-03-06 |
+| [REACT](https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi) | [Switch Disco](https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [REACT](https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv) | 3:21 | 2024-07-13 |  |
 | [Ready or Not](https://open.spotify.com/track/5xvUgoVED1F4mBu8FL0HaW) | [Bridgit Mendler](https://open.spotify.com/artist/4VhL8KLjVso4vLfOLVViTb) | [Hello My Name Is...](https://open.spotify.com/album/114sumrk5wTeMWHVin86QC) | 3:20 | 2023-05-01 | 2023-05-05 |
 | [Ready Set Go](https://open.spotify.com/track/5YGqM0z5A6APBDNW677hrG) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:35 | 2022-07-02 | 2022-07-06 |
 | [Reasons](https://open.spotify.com/track/4FQqwtrVJFsliLCrlN0zrz) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Reasons](https://open.spotify.com/album/0rHdJzccejp5TytlhCMP5Q) | 2:48 | 2022-11-27 | 2022-12-10 |
