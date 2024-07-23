@@ -1,49 +1,13 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIYyS0XkaRXdd>Alle Farben</a>, <a href=spotify:playlist:37i9dQZF1EIUsMFRYDZVzn>Mae Stephens</a>, <a href=spotify:playlist:37i9dQZF1EIYhWU3N4zhuh>WIER</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIYhWU3N4zhuh>WIER</a>, <a href=spotify:playlist:37i9dQZF1EIUsMFRYDZVzn>Mae Stephens</a>, <a href=spotify:playlist:37i9dQZF1EIXfNyVZiNURh>Icona Pop</a> and more",
     "num_followers": 0,
     "original_name": "Pop Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "AAAAAAAAAAAq4CAAaeB9GiXRUW/xqH9p",
+    "snapshot_id": "AAAAAAAAAABgm89x5I1Brh2SyxGSDPLF",
     "tracks": [
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sticker on My Suitcase",
-                "url": "https://open.spotify.com/album/6qCYObNjXCIDrW3MBXTWLy"
-            },
-            "artists": [
-                {
-                    "name": "Alle Farben",
-                    "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-                },
-                {
-                    "name": "ILIRA",
-                    "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-                }
-            ],
-            "duration_ms": 206373,
-            "name": "Fading",
-            "url": "https://open.spotify.com/track/2WyNqDHLRJLzJuidCsO1Ey"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "If We Ever Broke Up",
-                "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
-            },
-            "artists": [
-                {
-                    "name": "Mae Stephens",
-                    "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
-                }
-            ],
-            "duration_ms": 142758,
-            "name": "If We Ever Broke Up",
-            "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
-        },
         {
             "added_at": null,
             "album": {
@@ -135,6 +99,42 @@
         {
             "added_at": null,
             "album": {
+                "name": "If We Ever Broke Up",
+                "url": "https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO"
+            },
+            "artists": [
+                {
+                    "name": "Mae Stephens",
+                    "url": "https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E"
+                }
+            ],
+            "duration_ms": 142758,
+            "name": "If We Ever Broke Up",
+            "url": "https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Icona Pop",
+                "url": "https://open.spotify.com/album/5ntm6HNABamnxHMI3T3OUb"
+            },
+            "artists": [
+                {
+                    "name": "Icona Pop",
+                    "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                },
+                {
+                    "name": "Charli xcx",
+                    "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                }
+            ],
+            "duration_ms": 156773,
+            "name": "I Love It",
+            "url": "https://open.spotify.com/track/27ilMN1oiW9849fReEYgOj"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "All Night",
                 "url": "https://open.spotify.com/album/1KjhmSCqQhS2PjuK4Vytiy"
             },
@@ -219,22 +219,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Remember Home",
-                "url": "https://open.spotify.com/album/17T6YAm5Xn7tv9z0E4tcq1"
-            },
-            "artists": [
-                {
-                    "name": "ELYAZ",
-                    "url": "https://open.spotify.com/artist/4WvhNAwHJWsXeKrLkU54Yp"
-                }
-            ],
-            "duration_ms": 189290,
-            "name": "Remember Home",
-            "url": "https://open.spotify.com/track/04ia5yBQX0APpu6oigtip2"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Lovesick",
                 "url": "https://open.spotify.com/album/7aGIguck0AadCRMNP5fEZX"
             },
@@ -247,6 +231,22 @@
             "duration_ms": 151024,
             "name": "Lovesick",
             "url": "https://open.spotify.com/track/2bsygdSQc5XZfvRm1BA0H5"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Remember Home",
+                "url": "https://open.spotify.com/album/17T6YAm5Xn7tv9z0E4tcq1"
+            },
+            "artists": [
+                {
+                    "name": "ELYAZ",
+                    "url": "https://open.spotify.com/artist/4WvhNAwHJWsXeKrLkU54Yp"
+                }
+            ],
+            "duration_ms": 189290,
+            "name": "Remember Home",
+            "url": "https://open.spotify.com/track/04ia5yBQX0APpu6oigtip2"
         },
         {
             "added_at": null,
@@ -315,18 +315,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Daredevil",
-                "url": "https://open.spotify.com/album/5PjRlROe9F4vmxS0kZBmJj"
+                "name": "Overdrive (feat. Norma Jean Martine)",
+                "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
             },
             "artists": [
                 {
-                    "name": "Stellar",
-                    "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
+                    "name": "Ofenbach",
+                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+                },
+                {
+                    "name": "Norma Jean Martine",
+                    "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
                 }
             ],
-            "duration_ms": 135336,
-            "name": "Daredevil",
-            "url": "https://open.spotify.com/track/5Nakyq7fHFlhxkMfNqG4Fv"
+            "duration_ms": 155905,
+            "name": "Overdrive (feat. Norma Jean Martine)",
+            "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
         },
         {
             "added_at": null,
@@ -387,6 +391,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "Daredevil",
+                "url": "https://open.spotify.com/album/5PjRlROe9F4vmxS0kZBmJj"
+            },
+            "artists": [
+                {
+                    "name": "Stellar",
+                    "url": "https://open.spotify.com/artist/5yw4tA8D5uG7tT3NaDvq10"
+                }
+            ],
+            "duration_ms": 135336,
+            "name": "Daredevil",
+            "url": "https://open.spotify.com/track/5Nakyq7fHFlhxkMfNqG4Fv"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "I",
                 "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
             },
@@ -419,22 +439,6 @@
             "duration_ms": 148235,
             "name": "Anyone",
             "url": "https://open.spotify.com/track/5BsepQcEQTKwAcbu8hGQrT"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Stumblin' In",
-                "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
-            },
-            "artists": [
-                {
-                    "name": "CYRIL",
-                    "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-                }
-            ],
-            "duration_ms": 213363,
-            "name": "Stumblin' In",
-            "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
         },
         {
             "added_at": null,
@@ -483,22 +487,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "Overdrive (feat. Norma Jean Martine)",
-                "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+                "name": "Stumblin' In",
+                "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
             },
             "artists": [
                 {
-                    "name": "Ofenbach",
-                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-                },
-                {
-                    "name": "Norma Jean Martine",
-                    "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+                    "name": "CYRIL",
+                    "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
                 }
             ],
-            "duration_ms": 155905,
-            "name": "Overdrive (feat. Norma Jean Martine)",
-            "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+            "duration_ms": 213363,
+            "name": "Stumblin' In",
+            "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Words (feat. Zara Larsson)",
+                "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
+            },
+            "artists": [
+                {
+                    "name": "Alesso",
+                    "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+                },
+                {
+                    "name": "Zara Larsson",
+                    "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+                }
+            ],
+            "duration_ms": 142677,
+            "name": "Words (feat. Zara Larsson)",
+            "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
         },
         {
             "added_at": null,
@@ -543,22 +563,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Nice",
-                "url": "https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m"
-            },
-            "artists": [
-                {
-                    "name": "Nonô",
-                    "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
-                }
-            ],
-            "duration_ms": 147840,
-            "name": "Nice",
-            "url": "https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "I'm Good (Blue)",
                 "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
             },
@@ -579,42 +583,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Gloria",
-                "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
+                "name": "Nice",
+                "url": "https://open.spotify.com/album/5dkQ8nDcT4UAIuTIjrIp1m"
             },
             "artists": [
                 {
-                    "name": "Sam Smith",
-                    "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-                },
-                {
-                    "name": "Kim Petras",
-                    "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+                    "name": "Nonô",
+                    "url": "https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO"
                 }
             ],
-            "duration_ms": 156943,
-            "name": "Unholy (feat. Kim Petras)",
-            "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Words (feat. Zara Larsson)",
-                "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-            },
-            "artists": [
-                {
-                    "name": "Alesso",
-                    "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-                },
-                {
-                    "name": "Zara Larsson",
-                    "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-                }
-            ],
-            "duration_ms": 142677,
-            "name": "Words (feat. Zara Larsson)",
-            "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
+            "duration_ms": 147840,
+            "name": "Nice",
+            "url": "https://open.spotify.com/track/0nV68m9WV17hrbzIUnDSUk"
         },
         {
             "added_at": null,
@@ -635,6 +615,26 @@
             "duration_ms": 144648,
             "name": "Deep In Your Love",
             "url": "https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Call It Love",
+                "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+            },
+            "artists": [
+                {
+                    "name": "Felix Jaehn",
+                    "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+                },
+                {
+                    "name": "Ray Dalton",
+                    "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+                }
+            ],
+            "duration_ms": 154560,
+            "name": "Call It Love",
+            "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
         },
         {
             "added_at": null,
@@ -663,62 +663,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Nothing but the Beat (Ultimate Edition)",
-                "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+                "name": "Motion",
+                "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
             },
             "artists": [
                 {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                    "name": "Calvin Harris",
+                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
                 },
                 {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                    "name": "Ellie Goulding",
+                    "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
                 }
             ],
-            "duration_ms": 245040,
-            "name": "Titanium (feat. Sia)",
-            "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Call It Love",
-                "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-            },
-            "artists": [
-                {
-                    "name": "Felix Jaehn",
-                    "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-                },
-                {
-                    "name": "Ray Dalton",
-                    "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-                }
-            ],
-            "duration_ms": 154560,
-            "name": "Call It Love",
-            "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "World Of Walker",
-                "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-            },
-            "artists": [
-                {
-                    "name": "Alan Walker",
-                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-                },
-                {
-                    "name": "Benjamin Ingrosso",
-                    "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-                }
-            ],
-            "duration_ms": 178625,
-            "name": "Man On The Moon",
-            "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+            "duration_ms": 227266,
+            "name": "Outside (feat. Ellie Goulding)",
+            "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
         },
         {
             "added_at": null,
@@ -743,22 +703,42 @@
         {
             "added_at": null,
             "album": {
-                "name": "Exotica (Deluxe)",
-                "url": "https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv"
+                "name": "World Of Walker",
+                "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
             },
             "artists": [
                 {
-                    "name": "Purple Disco Machine",
-                    "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+                    "name": "Alan Walker",
+                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
                 },
                 {
-                    "name": "Sophie and the Giants",
-                    "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+                    "name": "Benjamin Ingrosso",
+                    "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
                 }
             ],
-            "duration_ms": 185564,
-            "name": "In the Dark",
-            "url": "https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41"
+            "duration_ms": 178625,
+            "name": "Man On The Moon",
+            "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Nothing but the Beat (Ultimate Edition)",
+                "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                }
+            ],
+            "duration_ms": 245040,
+            "name": "Titanium (feat. Sia)",
+            "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
         },
         {
             "added_at": null,
@@ -779,6 +759,134 @@
             "duration_ms": 148960,
             "name": "My Heart Goes (La Di Da) (feat. Topic)",
             "url": "https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Rock My Body (with INNA & Sash!)",
+                "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
+            },
+            "artists": [
+                {
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+                },
+                {
+                    "name": "INNA",
+                    "url": "https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8"
+                },
+                {
+                    "name": "Sash!",
+                    "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
+                }
+            ],
+            "duration_ms": 137419,
+            "name": "Rock My Body",
+            "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Whistle (feat. Calum Scott)",
+                "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+            },
+            "artists": [
+                {
+                    "name": "Jax Jones",
+                    "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+                },
+                {
+                    "name": "Calum Scott",
+                    "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+                }
+            ],
+            "duration_ms": 181957,
+            "name": "Whistle (feat. Calum Scott)",
+            "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "MEDUZA",
+                "url": "https://open.spotify.com/album/1ipPj2xEiVWibPm6V1LqEc"
+            },
+            "artists": [
+                {
+                    "name": "MEDUZA",
+                    "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+                },
+                {
+                    "name": "James Carter",
+                    "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+                },
+                {
+                    "name": "Elley Duhé",
+                    "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+                },
+                {
+                    "name": "FAST BOY",
+                    "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+                }
+            ],
+            "duration_ms": 147629,
+            "name": "Bad Memories",
+            "url": "https://open.spotify.com/track/3JhgPs7rbmzLBWRvHlel8U"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Something To Give Each Other",
+                "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+            },
+            "artists": [
+                {
+                    "name": "Troye Sivan",
+                    "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+                }
+            ],
+            "duration_ms": 156391,
+            "name": "Rush",
+            "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Demi",
+                "url": "https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5"
+            },
+            "artists": [
+                {
+                    "name": "Demi Lovato",
+                    "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+                },
+                {
+                    "name": "Cher Lloyd",
+                    "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+                }
+            ],
+            "duration_ms": 201600,
+            "name": "Really Don't Care",
+            "url": "https://open.spotify.com/track/5vTPxzm4h2bY9rYyVrGEU5"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Only Honest On The Weekend",
+                "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
+            },
+            "artists": [
+                {
+                    "name": "Becky Hill",
+                    "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+                },
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                }
+            ],
+            "duration_ms": 161386,
+            "name": "Remember (with David Guetta)",
+            "url": "https://open.spotify.com/track/6feiJqgHqeSvkGUzf11AYs"
         },
         {
             "added_at": null,
@@ -819,22 +927,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Whistle (feat. Calum Scott)",
-                "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
+                "name": "Heaven & Hell",
+                "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
             },
             "artists": [
                 {
-                    "name": "Jax Jones",
-                    "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
-                },
-                {
-                    "name": "Calum Scott",
-                    "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+                    "name": "Ava Max",
+                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
                 }
             ],
-            "duration_ms": 181957,
-            "name": "Whistle (feat. Calum Scott)",
-            "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
+            "duration_ms": 174760,
+            "name": "My Head & My Heart",
+            "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
         },
         {
             "added_at": null,
@@ -855,126 +959,6 @@
             "duration_ms": 222160,
             "name": "This Is What You Came For",
             "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Nothing but the Beat (Ultimate Edition)",
-                "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Nicki Minaj",
-                    "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-                }
-            ],
-            "duration_ms": 199680,
-            "name": "Turn Me On (feat. Nicki Minaj)",
-            "url": "https://open.spotify.com/track/6T27IN7Ai94BeDv6PPCmoC"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Only Honest On The Weekend",
-                "url": "https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q"
-            },
-            "artists": [
-                {
-                    "name": "Becky Hill",
-                    "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-                },
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                }
-            ],
-            "duration_ms": 161386,
-            "name": "Remember (with David Guetta)",
-            "url": "https://open.spotify.com/track/6feiJqgHqeSvkGUzf11AYs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "I",
-                "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
-            },
-            "artists": [
-                {
-                    "name": "Ofenbach",
-                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-                },
-                {
-                    "name": "SVEA",
-                    "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
-                }
-            ],
-            "duration_ms": 139422,
-            "name": "Body Talk",
-            "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Love Again (feat. Alida)",
-                "url": "https://open.spotify.com/album/5S8QFORgv9orFYCqSVSjzq"
-            },
-            "artists": [
-                {
-                    "name": "Alok",
-                    "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-                },
-                {
-                    "name": "Alida",
-                    "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-                }
-            ],
-            "duration_ms": 147401,
-            "name": "Love Again (feat. Alida)",
-            "url": "https://open.spotify.com/track/63bWXWGcWnRQvdS8bJWdkB"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Forget You",
-                "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-            },
-            "artists": [
-                {
-                    "name": "FAST BOY",
-                    "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-                },
-                {
-                    "name": "Topic",
-                    "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-                }
-            ],
-            "duration_ms": 147986,
-            "name": "Forget You",
-            "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Listen",
-                "url": "https://open.spotify.com/album/77UW17CZFyCaRLHdHeofZu"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Sam Martin",
-                    "url": "https://open.spotify.com/artist/66AE89GQTx88zLYhXn1wFK"
-                }
-            ],
-            "duration_ms": 203641,
-            "name": "Dangerous (feat. Sam Martin)",
-            "url": "https://open.spotify.com/track/7pqgMEKsDMOHUdFQ7n0N9K"
         },
         {
             "added_at": null,
@@ -1003,18 +987,62 @@
         {
             "added_at": null,
             "album": {
-                "name": "Heaven & Hell",
-                "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+                "name": "I",
+                "url": "https://open.spotify.com/album/7IZ1wot5qS4ne7aB5pkedo"
             },
             "artists": [
                 {
-                    "name": "Ava Max",
-                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                    "name": "Ofenbach",
+                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+                },
+                {
+                    "name": "SVEA",
+                    "url": "https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx"
                 }
             ],
-            "duration_ms": 174760,
-            "name": "My Head & My Heart",
-            "url": "https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm"
+            "duration_ms": 139422,
+            "name": "Body Talk",
+            "url": "https://open.spotify.com/track/7jLoUQCN6HeC4MNQxr0wcD"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Forget You",
+                "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+            },
+            "artists": [
+                {
+                    "name": "FAST BOY",
+                    "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+                },
+                {
+                    "name": "Topic",
+                    "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+                }
+            ],
+            "duration_ms": 147986,
+            "name": "Forget You",
+            "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Exotica (Deluxe)",
+                "url": "https://open.spotify.com/album/4lPKHjh6OjSKP4SsIxXIsv"
+            },
+            "artists": [
+                {
+                    "name": "Purple Disco Machine",
+                    "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+                },
+                {
+                    "name": "Sophie and the Giants",
+                    "url": "https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF"
+                }
+            ],
+            "duration_ms": 185564,
+            "name": "In the Dark",
+            "url": "https://open.spotify.com/track/3W4BmmQVuhF8rBUQY3Ga41"
         },
         {
             "added_at": null,
@@ -1039,26 +1067,6 @@
             "duration_ms": 158400,
             "name": "Headlights (feat. KIDDO)",
             "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Miracle (with Ellie Goulding)",
-                "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
-            },
-            "artists": [
-                {
-                    "name": "Calvin Harris",
-                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-                },
-                {
-                    "name": "Ellie Goulding",
-                    "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-                }
-            ],
-            "duration_ms": 186496,
-            "name": "Miracle (with Ellie Goulding)",
-            "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
         }
     ],
     "unique_name": "Pop Mix",
