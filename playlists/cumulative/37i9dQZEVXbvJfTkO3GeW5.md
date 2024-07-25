@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,887 songs - 7 day 6 hr 28 min - not published yet
+2,888 songs - 7 day 6 hr 30 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -533,7 +533,8 @@
 | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/track/4KaVXStyiR2tyhVlsujknj) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Coming Your Way \(with Anne\-Marie & Becky G\)](https://open.spotify.com/album/3np99Rv4dl5VxoArSuzyy4) | 2:25 | 2023-08-31 | 2023-09-10 |
 | [Common Sense](https://open.spotify.com/track/6yUVdNOeBqKIy49CTM7oE6) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Common Sense](https://open.spotify.com/album/4io0hGtwrvxJT1GHYyiUc0) | 2:50 | 2024-01-11 | 2024-02-11 |
 | [Como El Agua](https://open.spotify.com/track/4NNLZewShVx5Jwaau7YWhM) | [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Como El Agua](https://open.spotify.com/album/3y0N6BewyYnCKSCcnxXLVb) | 2:23 | 2024-07-04 | 2024-07-24 |
-| [Como El Agua \- Slowed](https://open.spotify.com/track/5uUH2lb32hK9HkDbjDYEug) | [Slow Lee](https://open.spotify.com/artist/5VG9fIMAQTrnrA0BXinwG4), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Como El Agua \(Slowed\)](https://open.spotify.com/album/4Tx6EziFCKkzBPJyIsQ900) | 2:39 | 2024-07-18 |  |
+| [Como El Agua \- Slowed](https://open.spotify.com/track/5uUH2lb32hK9HkDbjDYEug) | [Slow Lee](https://open.spotify.com/artist/5VG9fIMAQTrnrA0BXinwG4), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Como El Agua \(Slowed\)](https://open.spotify.com/album/4Tx6EziFCKkzBPJyIsQ900) | 2:39 | 2024-07-18 | 2024-07-25 |
+| [Como El Agua \- Sped Up](https://open.spotify.com/track/4KPP7WAWrF07wGwODL2Vcq) | [FSTR](https://open.spotify.com/artist/6Rg8W1e1C5vsHp6ZFEgf8Z), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF), [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Como El Agua \(Sped Up\)](https://open.spotify.com/album/0Ym5Lv675GmChS8ujqYNGr) | 1:59 | 2024-07-18 |  |
 | [Complementary Dance](https://open.spotify.com/track/1zFegM36D9qiB1ODrQmUNb) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I) | [Complementary Dance](https://open.spotify.com/album/3vyxRQBS5PO8I9mY4WHKFr) | 3:43 | 2023-06-29 | 2023-07-07 |
 | [Conquer](https://open.spotify.com/track/19Dzreszyxy7dJDJuVRCoZ) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Conquer](https://open.spotify.com/album/6rFe0D0d7h5xbC49yXrWsK) | 3:11 | 2024-02-01 | 2024-02-25 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-15 | 2024-03-01 |
