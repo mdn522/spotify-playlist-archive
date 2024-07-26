@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-829 songs - 1 day 19 hr 7 min - not published yet
+830 songs - 1 day 19 hr 10 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -378,7 +378,8 @@
 | [It's My Life](https://open.spotify.com/track/1oDQTTMRXdVO1TrQR4xa1n) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Rainbows](https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm) | 3:11 | 2022-07-23 | 2022-09-15 |
 | [It's Okay](https://open.spotify.com/track/3cxLYMIUju7Vby24AZOZ0a) | [Reagan Beem](https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM) | [&](https://open.spotify.com/album/0CCly7tJMs9RCNlKE3YdP1) | 2:37 | 2022-10-12 | 2022-11-16 |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2023-01-05 | 2023-02-20 |
-| [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2024-05-28 |  |
+| [I’m Blue](https://open.spotify.com/track/1GOEIbuYVU3CQdzPT2NL65) | [DJ Alex Man](https://open.spotify.com/artist/2LWTGoof8RKOgZTgnyatSk), [Dj Diac](https://open.spotify.com/artist/2OHXRrSozCFXJZ8xiiobvE), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [I’m Blue](https://open.spotify.com/album/6wUBJfXurHzot0CaLJax8R) | 3:11 | 2024-07-25 |  |
+| [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2024-05-28 | 2024-07-26 |
 | [Joan of Arc on the Dance Floor](https://open.spotify.com/track/6OtjXmAe3pGZxcrT1Cx2Br) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [We Don’t Stop](https://open.spotify.com/album/21mYdkYstr4I2gyzoV4nES) | 3:26 | 2023-08-11 | 2023-08-15 |
 | [Judai \(From "Jannat"\)](https://open.spotify.com/track/3HHIa0CxwaFQnfTRhCJ5Xj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Kamran Ahmed](https://open.spotify.com/artist/2OMafVUM7PrgRrasNPZbKN) | [Bollywood Grooves, 2](https://open.spotify.com/album/3G3DdbuXpsCWl9SHcCkkmd) | 5:02 | 2024-02-16 | 2024-04-17 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2024-02-19 | 2024-06-29 |
