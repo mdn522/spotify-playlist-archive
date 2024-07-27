@@ -6,10 +6,506 @@
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "ZqLnAAAAAAA2pMDLz8RFD614unzb1I3A",
+    "snapshot_id": "ZqQ4gAAAAAC5Fjyuj/ek4HRTxkLdPWdH",
     "tracks": [
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Made In The A.M. (Deluxe Edition)",
+                "url": "https://open.spotify.com/album/1gMxiQQSg5zeu4htBosASY"
+            },
+            "artists": [
+                {
+                    "name": "One Direction",
+                    "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+                }
+            ],
+            "duration_ms": 230333,
+            "name": "Perfect",
+            "url": "https://open.spotify.com/track/3NLnwwAQbbFKcEcV8hDItk"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Revival (Deluxe)",
+                "url": "https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE"
+            },
+            "artists": [
+                {
+                    "name": "Selena Gomez",
+                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+                }
+            ],
+            "duration_ms": 229080,
+            "name": "Same Old Love",
+            "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Super Hits Of Yo Yo Honey Singh",
+                "url": "https://open.spotify.com/album/3QiwVIciEpzLwgHUugRvP5"
+            },
+            "artists": [
+                {
+                    "name": "Yo Yo Honey Singh",
+                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+                },
+                {
+                    "name": "Neha Kakkar",
+                    "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+                }
+            ],
+            "duration_ms": 243319,
+            "name": "Sunny Sunny (From \"Yaariyan\")",
+            "url": "https://open.spotify.com/track/29SW8ywfy532uKw8O04HY6"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "More Than Just a Dream (Deluxe Edition)",
+                "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
+            },
+            "artists": [
+                {
+                    "name": "Fitz and The Tantrums",
+                    "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+                }
+            ],
+            "duration_ms": 209386,
+            "name": "Out of My League",
+            "url": "https://open.spotify.com/track/2AYEOC02WLhUiOoaig2SEH"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Teenage Dream",
+                "url": "https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1"
+            },
+            "artists": [
+                {
+                    "name": "Katy Perry",
+                    "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+                }
+            ],
+            "duration_ms": 227893,
+            "name": "Firework",
+            "url": "https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Kaminey",
+                "url": "https://open.spotify.com/album/1qv61iBeeO95BnymDWUgWI"
+            },
+            "artists": [
+                {
+                    "name": "Mohit Chauhan",
+                    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                }
+            ],
+            "duration_ms": 321282,
+            "name": "Pehli Baar Mohabbat",
+            "url": "https://open.spotify.com/track/58xpZwxUpgrnJMTEmvkZMP"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Nothing but the Beat Ultimate",
+                "url": "https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Flo Rida",
+                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                },
+                {
+                    "name": "Nicki Minaj",
+                    "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+                }
+            ],
+            "duration_ms": 194840,
+            "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
+            "url": "https://open.spotify.com/track/7yO48FWUkqsrdxrwkGcnwl"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Aashiqui 2",
+                "url": "https://open.spotify.com/album/0Rkv5iqjF2uenfL0OVB8hg"
+            },
+            "artists": [
+                {
+                    "name": "Mustafa Zahid",
+                    "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+                }
+            ],
+            "duration_ms": 240723,
+            "name": "Bhula Dena",
+            "url": "https://open.spotify.com/track/0WNCYgCd33LnBnw22WFuq8"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Vinnathaandi Varuvaayaa (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/1VAR4nGvZh6KW3PLioooYM"
+            },
+            "artists": [
+                {
+                    "name": "A.R. Rahman",
+                    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                },
+                {
+                    "name": "Vijay Prakash",
+                    "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+                },
+                {
+                    "name": "Suzanne D'Mello",
+                    "url": "https://open.spotify.com/artist/4HQeSXwG2BVH0KvxHE5oCf"
+                },
+                {
+                    "name": "Blaaze",
+                    "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+                }
+            ],
+            "duration_ms": 330546,
+            "name": "Hosanna",
+            "url": "https://open.spotify.com/track/3l7JaDIJmWMpvcJqhTJjrk"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Billu",
+                "url": "https://open.spotify.com/album/0Yh63z8eqUG51rnjnah5NN"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Sukhwinder Singh",
+                    "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+                },
+                {
+                    "name": "Sunidhi Chauhan",
+                    "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+                }
+            ],
+            "duration_ms": 323941,
+            "name": "Marjaani",
+            "url": "https://open.spotify.com/track/2nNaw1QUcqiEX6pBFxcpp3"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "On The Floor",
+                "url": "https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm"
+            },
+            "artists": [
+                {
+                    "name": "Jennifer Lopez",
+                    "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+                },
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                }
+            ],
+            "duration_ms": 230906,
+            "name": "On The Floor - Radio Edit",
+            "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Dua Lipa (Deluxe)",
+                "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+            },
+            "artists": [
+                {
+                    "name": "Dua Lipa",
+                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ],
+            "duration_ms": 178583,
+            "name": "Blow Your Mind (Mwah)",
+            "url": "https://open.spotify.com/track/2eAAEa8pxKF7My0EO4rFgR"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Bilionera (Radio Edit)",
+                "url": "https://open.spotify.com/album/05o9u7xPjSoe0M5FYGa6mC"
+            },
+            "artists": [
+                {
+                    "name": "Otilia",
+                    "url": "https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT"
+                }
+            ],
+            "duration_ms": 185294,
+            "name": "Bilionera - Radio Edit",
+            "url": "https://open.spotify.com/track/0sWilEfhUbTedj2CF073St"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "R.O.O.T.S. (Route of Overcoming the Struggle)",
+                "url": "https://open.spotify.com/album/7k16AC80j4xHu5jWiZlym1"
+            },
+            "artists": [
+                {
+                    "name": "Flo Rida",
+                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                },
+                {
+                    "name": "Kesha",
+                    "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+                }
+            ],
+            "duration_ms": 207973,
+            "name": "Right Round (feat. Ke$ha)",
+            "url": "https://open.spotify.com/track/2QQuKHdhPoAJchgY0HPw96"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "High Heels",
+                "url": "https://open.spotify.com/album/0w0QR9R3DL9fPiGFej2hA1"
+            },
+            "artists": [
+                {
+                    "name": "Jaz Dhami",
+                    "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
+                },
+                {
+                    "name": "Yo Yo Honey Singh",
+                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+                }
+            ],
+            "duration_ms": 297770,
+            "name": "High Heels",
+            "url": "https://open.spotify.com/track/7q7eYVerltlW2sYBuga6Mj"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Jeena Jeena (From \"Badlapur\")",
+                "url": "https://open.spotify.com/album/0U2bBiUD6j9q0GIDsY3J7v"
+            },
+            "artists": [
+                {
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                }
+            ],
+            "duration_ms": 228968,
+            "name": "Jeena Jeena (From \"Badlapur\")",
+            "url": "https://open.spotify.com/track/5ZhKD46Q7mhsl0awl7ZMJc"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Surface",
+                "url": "https://open.spotify.com/album/3YqdoeqJqrTdv6TzydmojY"
+            },
+            "artists": [
+                {
+                    "name": "Aero Chord",
+                    "url": "https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU"
+                }
+            ],
+            "duration_ms": 254117,
+            "name": "Surface",
+            "url": "https://open.spotify.com/track/63bR379dNknfAws2hBBsq7"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "31 Minutes to Takeoff",
+                "url": "https://open.spotify.com/album/2V7Z0e4YnXyNfpoK3cYIGp"
+            },
+            "artists": [
+                {
+                    "name": "Mike Posner",
+                    "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+                },
+                {
+                    "name": "Gigamesh",
+                    "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
+                }
+            ],
+            "duration_ms": 213293,
+            "name": "Cooler Than Me - Single Mix",
+            "url": "https://open.spotify.com/track/495O1Affo7AurEPQcvcr18"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "The Dirty Picture",
+                "url": "https://open.spotify.com/album/2u6skpG85FhJuV5AGvvSAO"
+            },
+            "artists": [
+                {
+                    "name": "Kamal Khan",
+                    "url": "https://open.spotify.com/artist/01DlVvmRpQFutrYzh0HmF8"
+                }
+            ],
+            "duration_ms": 325257,
+            "name": "Ishq Sufiyana (Male)",
+            "url": "https://open.spotify.com/track/5zcfnScTSFGCHGY1yeXWke"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "BADLANDS",
+                "url": "https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO"
+            },
+            "artists": [
+                {
+                    "name": "Halsey",
+                    "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+                }
+            ],
+            "duration_ms": 183808,
+            "name": "New Americana",
+            "url": "https://open.spotify.com/track/6Xs7OKt6i0Ddq8B4M5Dgvr"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Groove With Arijit Singh",
+                "url": "https://open.spotify.com/album/7kSY0fqrPep5vcwOb1juye"
+            },
+            "artists": [
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "duration_ms": 228982,
+            "name": "Ilahi (From \"Yeh Jawaani Hai Deewani\")",
+            "url": "https://open.spotify.com/track/0VxgNsSywsjapKGXvzj8RH"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Euphoria (Standard US/Latin version)",
+                "url": "https://open.spotify.com/album/12HeDZhPHHzCe7VE0uEYwD"
+            },
+            "artists": [
+                {
+                    "name": "Enrique Iglesias",
+                    "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+                },
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                }
+            ],
+            "duration_ms": 231786,
+            "name": "I Like It",
+            "url": "https://open.spotify.com/track/4nVyHATevhl5RC6Qmoko5H"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Planet Pit (Deluxe Version)",
+                "url": "https://open.spotify.com/album/4rG0MhkU6UojACJxkMHIXB"
+            },
+            "artists": [
+                {
+                    "name": "Pitbull",
+                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+                },
+                {
+                    "name": "Chris Brown",
+                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+                }
+            ],
+            "duration_ms": 227280,
+            "name": "International Love (feat. Chris Brown)",
+            "url": "https://open.spotify.com/track/62zFEHfAYl5kdHYOivj4BC"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "HAIZ",
+                "url": "https://open.spotify.com/album/5m01tty1948HnkXUhG0urw"
+            },
+            "artists": [
+                {
+                    "name": "Hailee Steinfeld",
+                    "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+                }
+            ],
+            "duration_ms": 218746,
+            "name": "Love Myself",
+            "url": "https://open.spotify.com/track/3Bjr9MzHM7KHk6zq7KvJRN"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Animals",
+                "url": "https://open.spotify.com/album/4kSmXzyr1iRnHvh3DWXeIW"
+            },
+            "artists": [
+                {
+                    "name": "Martin Garrix",
+                    "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+                }
+            ],
+            "duration_ms": 304228,
+            "name": "Animals",
+            "url": "https://open.spotify.com/track/1BjYMNDcZqIXe4rwnUUyF6"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "THIS IS... ICONA POP",
+                "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
+            },
+            "artists": [
+                {
+                    "name": "Icona Pop",
+                    "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+                },
+                {
+                    "name": "Charli xcx",
+                    "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+                }
+            ],
+            "duration_ms": 157152,
+            "name": "I Love It (feat. Charli XCX)",
+            "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Zindagi Na Milegi Dobara",
+                "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
+            },
+            "artists": [
+                {
+                    "name": "Alyssa Mendonsa",
+                    "url": "https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN"
+                },
+                {
+                    "name": "Mohit Chauhan",
+                    "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+                }
+            ],
+            "duration_ms": 251704,
+            "name": "Khaabon Ke Parinday",
+            "url": "https://open.spotify.com/track/14eotumM24MhIgzidgN3Jx"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
             "album": {
                 "name": "GUNSHIP",
                 "url": "https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf"
@@ -33,407 +529,7 @@
             "url": "https://open.spotify.com/track/5VKEsChbUowEF2BT0gJSGX"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "International Villager",
-                "url": "https://open.spotify.com/album/5swVDCkdenx3AU263fhjFP"
-            },
-            "artists": [
-                {
-                    "name": "Yo Yo Honey Singh",
-                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-                }
-            ],
-            "duration_ms": 211394,
-            "name": "Brown Rang",
-            "url": "https://open.spotify.com/track/6NTwjo8MMAg0Ht2OlKdDir"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "1000 Forms Of Fear",
-                "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
-            },
-            "artists": [
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                }
-            ],
-            "duration_ms": 216120,
-            "name": "Chandelier",
-            "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Free Wired",
-                "url": "https://open.spotify.com/album/1TuKgkCGIxiIns9Bc5XKRC"
-            },
-            "artists": [
-                {
-                    "name": "Far East Movement",
-                    "url": "https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq"
-                },
-                {
-                    "name": "The Cataracs",
-                    "url": "https://open.spotify.com/artist/7C64wNX3howEFZjAYRKsfP"
-                },
-                {
-                    "name": "DEV",
-                    "url": "https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE"
-                }
-            ],
-            "duration_ms": 216893,
-            "name": "Like A G6",
-            "url": "https://open.spotify.com/track/4DvhkX2ic4zWkQeWMwQ2qf"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Communion (Deluxe)",
-                "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
-            },
-            "artists": [
-                {
-                    "name": "Olly Alexander (Years & Years)",
-                    "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-                }
-            ],
-            "duration_ms": 215360,
-            "name": "King",
-            "url": "https://open.spotify.com/track/5Z3zRrMIJk7CVpfcLsM9wD"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "On The Floor",
-                "url": "https://open.spotify.com/album/543NK5YT3RjGmP7nFzWJPm"
-            },
-            "artists": [
-                {
-                    "name": "Jennifer Lopez",
-                    "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-                },
-                {
-                    "name": "Pitbull",
-                    "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-                }
-            ],
-            "duration_ms": 230906,
-            "name": "On The Floor - Radio Edit",
-            "url": "https://open.spotify.com/track/0Oe49j06Bjrxs8PltuVeaW"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "High Heels",
-                "url": "https://open.spotify.com/album/0w0QR9R3DL9fPiGFej2hA1"
-            },
-            "artists": [
-                {
-                    "name": "Jaz Dhami",
-                    "url": "https://open.spotify.com/artist/5IfJHO9jIE1GVuC517P3nr"
-                },
-                {
-                    "name": "Yo Yo Honey Singh",
-                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-                }
-            ],
-            "duration_ms": 297770,
-            "name": "High Heels",
-            "url": "https://open.spotify.com/track/7q7eYVerltlW2sYBuga6Mj"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Dabangg",
-                "url": "https://open.spotify.com/album/6iQgQoOdousn3fw6kkEhMZ"
-            },
-            "artists": [
-                {
-                    "name": "Mamta Sharma",
-                    "url": "https://open.spotify.com/artist/0RMsiUCTjsdGjoKyhEm8Y4"
-                },
-                {
-                    "name": "Aishwarya",
-                    "url": "https://open.spotify.com/artist/1c9i7ZEcpmRugZrD3AgQgE"
-                }
-            ],
-            "duration_ms": 305017,
-            "name": "Munni Badnaam",
-            "url": "https://open.spotify.com/track/6fORBVECjNDJ1gdq5uuoAz"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Dheere Dheere",
-                "url": "https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2"
-            },
-            "artists": [
-                {
-                    "name": "Yo Yo Honey Singh",
-                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-                }
-            ],
-            "duration_ms": 212412,
-            "name": "Dheere Dheere",
-            "url": "https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Talk That Talk (Explicit)",
-                "url": "https://open.spotify.com/album/16ySsalaP2FiKVDlYCWnYh"
-            },
-            "artists": [
-                {
-                    "name": "Rihanna",
-                    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-                }
-            ],
-            "duration_ms": 242680,
-            "name": "Where Have You Been",
-            "url": "https://open.spotify.com/track/1uN0f4NqMDcReSwXO6PLuG"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Talaash",
-                "url": "https://open.spotify.com/album/7ASasKA02nhm5nI7tlZNjQ"
-            },
-            "artists": [
-                {
-                    "name": "Vishal Dadlani",
-                    "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-                }
-            ],
-            "duration_ms": 215202,
-            "name": "Jee Le Zaraa",
-            "url": "https://open.spotify.com/track/2r32XiAWtZbT3eLUvf4pag"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "My House",
-                "url": "https://open.spotify.com/album/5lkNnHVlnCCCV304t89wOH"
-            },
-            "artists": [
-                {
-                    "name": "Flo Rida",
-                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-                },
-                {
-                    "name": "Sage The Gemini",
-                    "url": "https://open.spotify.com/artist/6d47Z08T4snK50HgTEHo5Z"
-                },
-                {
-                    "name": "Lookas",
-                    "url": "https://open.spotify.com/artist/27fy6rHPC58Eo2VUu0iJSG"
-                }
-            ],
-            "duration_ms": 190185,
-            "name": "GDFR (feat. Sage the Gemini & Lookas)",
-            "url": "https://open.spotify.com/track/26rdOwwjC2UnweK3xeS58u"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Billu",
-                "url": "https://open.spotify.com/album/0Yh63z8eqUG51rnjnah5NN"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Neeraj Shridhar",
-                    "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
-                },
-                {
-                    "name": "Tulsi Kumar",
-                    "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-                }
-            ],
-            "duration_ms": 286034,
-            "name": "Love Mera Hit Hit",
-            "url": "https://open.spotify.com/track/2VgbvKdaSOXWByBKYgBsEc"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Jeena Jeena (From \"Badlapur\")",
-                "url": "https://open.spotify.com/album/0U2bBiUD6j9q0GIDsY3J7v"
-            },
-            "artists": [
-                {
-                    "name": "Atif Aslam",
-                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-                }
-            ],
-            "duration_ms": 228968,
-            "name": "Jeena Jeena (From \"Badlapur\")",
-            "url": "https://open.spotify.com/track/5ZhKD46Q7mhsl0awl7ZMJc"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Best Of Shreya Ghoshal",
-                "url": "https://open.spotify.com/album/4WELDMV021TUCe87ryn25t"
-            },
-            "artists": [
-                {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                }
-            ],
-            "duration_ms": 289196,
-            "name": "Raabta (Kehte Hain Khuda Ne) [From \"Agent Vinod\"]",
-            "url": "https://open.spotify.com/track/3HYJsH8OUNvk2DrxPv4s5u"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Days of Thunder",
-                "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
-            },
-            "artists": [
-                {
-                    "name": "The Midnight",
-                    "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
-                }
-            ],
-            "duration_ms": 324018,
-            "name": "Days of Thunder",
-            "url": "https://open.spotify.com/track/6tJPdGKrbAeyhkkhn44RHR"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "The Fame Monster (Deluxe Edition)",
-                "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-            },
-            "artists": [
-                {
-                    "name": "Lady Gaga",
-                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-                }
-            ],
-            "duration_ms": 294573,
-            "name": "Bad Romance",
-            "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Revival (Deluxe)",
-                "url": "https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE"
-            },
-            "artists": [
-                {
-                    "name": "Selena Gomez",
-                    "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-                }
-            ],
-            "duration_ms": 229080,
-            "name": "Same Old Love",
-            "url": "https://open.spotify.com/track/6ZANrVuAMp2rpjhfbOuJly"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Wild Ones",
-                "url": "https://open.spotify.com/album/0wmVf2KCcKnQbAYclahHYb"
-            },
-            "artists": [
-                {
-                    "name": "Flo Rida",
-                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-                }
-            ],
-            "duration_ms": 223800,
-            "name": "I Cry",
-            "url": "https://open.spotify.com/track/3zrYNl1aMdFrQkcOjKVr5u"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Groove With Arijit Singh",
-                "url": "https://open.spotify.com/album/7kSY0fqrPep5vcwOb1juye"
-            },
-            "artists": [
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Chinmayi",
-                    "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-                }
-            ],
-            "duration_ms": 280161,
-            "name": "Mast Magan (From \"2 States\")",
-            "url": "https://open.spotify.com/track/4wIWWEhbdgKAxhR68eE0Ye"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "31 Minutes to Takeoff",
-                "url": "https://open.spotify.com/album/2V7Z0e4YnXyNfpoK3cYIGp"
-            },
-            "artists": [
-                {
-                    "name": "Mike Posner",
-                    "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-                },
-                {
-                    "name": "Gigamesh",
-                    "url": "https://open.spotify.com/artist/1Bo8Afb2Qbjs4x6kJHyjle"
-                }
-            ],
-            "duration_ms": 213293,
-            "name": "Cooler Than Me - Single Mix",
-            "url": "https://open.spotify.com/track/495O1Affo7AurEPQcvcr18"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Loud (Japan Version)",
-                "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-            },
-            "artists": [
-                {
-                    "name": "Rihanna",
-                    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-                }
-            ],
-            "duration_ms": 243600,
-            "name": "S&M",
-            "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Ice On The Dune",
-                "url": "https://open.spotify.com/album/1olQuvonXXUEourYrj6daN"
-            },
-            "artists": [
-                {
-                    "name": "Empire Of The Sun",
-                    "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-                }
-            ],
-            "duration_ms": 204591,
-            "name": "Alive",
-            "url": "https://open.spotify.com/track/5WBnKCEsPwsvWHUZmLjS3s"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
                 "name": "ARTPOP",
                 "url": "https://open.spotify.com/album/2eRJUtI7nXrQ5uYQ7tzTo9"
@@ -449,226 +545,150 @@
             "url": "https://open.spotify.com/track/5ka2ajep9OAvU5Sgduhiex"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Zindagi Na Milegi Dobara",
-                "url": "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
+                "name": "Until Now",
+                "url": "https://open.spotify.com/album/2OW1FFaG8vgbRl0WilKz1B"
             },
             "artists": [
                 {
-                    "name": "Joi Barua",
-                    "url": "https://open.spotify.com/artist/1UdYhDdrXVNJMAKghjdU6v"
+                    "name": "Swedish House Mafia",
+                    "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
                 },
                 {
-                    "name": "Suraj Jagan",
-                    "url": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
+                    "name": "John Martin",
+                    "url": "https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq"
                 }
             ],
-            "duration_ms": 230318,
-            "name": "Dil Dhadakne Do",
-            "url": "https://open.spotify.com/track/46elU7IBKWf55D5sjHGqO7"
+            "duration_ms": 213168,
+            "name": "Don't You Worry Child - Radio Edit",
+            "url": "https://open.spotify.com/track/1MlAkYV0nbRKWhhfvTt3zc"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Nightcall",
-                "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
+                "name": "Love Aaj Kal",
+                "url": "https://open.spotify.com/album/4u7WFjehsC5sUibLEOaqLf"
             },
             "artists": [
                 {
-                    "name": "Kavinsky",
-                    "url": "https://open.spotify.com/artist/0UF7XLthtbSF2Eur7559oV"
+                    "name": "Neeraj Shridhar",
+                    "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
                 }
             ],
-            "duration_ms": 344266,
-            "name": "Pacific Coast Highway",
-            "url": "https://open.spotify.com/track/5GDzL9A3IihC8zm00RlH6Q"
+            "duration_ms": 299440,
+            "name": "Twist (From \"Love Aaj Kal\")",
+            "url": "https://open.spotify.com/track/2W94YEMyahGhIrsjx35dVQ"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Lost & Found",
-                "url": "https://open.spotify.com/album/6vTjBvaHqYA32A6KtG0mh4"
+                "name": "Groove With Arijit Singh",
+                "url": "https://open.spotify.com/album/7kSY0fqrPep5vcwOb1juye"
             },
             "artists": [
                 {
-                    "name": "The Midnight",
-                    "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
                 }
             ],
-            "duration_ms": 350886,
-            "name": "Lost & Found",
-            "url": "https://open.spotify.com/track/18QnuOfBATMFLDxfYwSqbX"
+            "duration_ms": 326121,
+            "name": "Chal Wahan Jaate Hain (From \"Chal Wahan Jaate Hain\")",
+            "url": "https://open.spotify.com/track/6qElTDh0OatDTUoROu0vup"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Sadnecessary",
-                "url": "https://open.spotify.com/album/5D20ZzsNB377xbshIFP9Nb"
+                "name": "SUCKER",
+                "url": "https://open.spotify.com/album/0DgLboDoKVcueitwtpQxe2"
             },
             "artists": [
-                {
-                    "name": "Milky Chance",
-                    "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-                }
-            ],
-            "duration_ms": 313684,
-            "name": "Stolen Dance",
-            "url": "https://open.spotify.com/track/6vECYJHxYmm3Ydt3fF01pE"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Nothing but the Beat Ultimate",
-                "url": "https://open.spotify.com/album/1fAn5gw4Q5HN8Wpx2neYd2"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                }
-            ],
-            "duration_ms": 245040,
-            "name": "Titanium (feat. Sia)",
-            "url": "https://open.spotify.com/track/2dOTkLZFbpNXrhc24CnTFd"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "The Music of Grand Theft Auto V, Vol. 1: Original Music",
-                "url": "https://open.spotify.com/album/63fPXLpTxvDR7LgSOZIaly"
-            },
-            "artists": [
-                {
-                    "name": "The Chain Gang Of 1974",
-                    "url": "https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM"
-                }
-            ],
-            "duration_ms": 218693,
-            "name": "Sleepwalking",
-            "url": "https://open.spotify.com/track/1zdsOgv1hdGGGe9CK1QPY7"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Paathshaala",
-                "url": "https://open.spotify.com/album/15bbskXdtqo6uN2IMC1NlF"
-            },
-            "artists": [
-                {
-                    "name": "Salim Merchant",
-                    "url": "https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm"
-                }
-            ],
-            "duration_ms": 280497,
-            "name": "Aye Khuda",
-            "url": "https://open.spotify.com/track/1vgVsR5rkXGP4NmUcoroJH"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Chennai Express",
-                "url": "https://open.spotify.com/album/08hhqmG2yI7741tXn2Zs4g"
-            },
-            "artists": [
-                {
-                    "name": "Amitabh Bhattacharya",
-                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-                },
-                {
-                    "name": "Anusha Mani",
-                    "url": "https://open.spotify.com/artist/03yzClwzHK7M7wiQMQixry"
-                }
-            ],
-            "duration_ms": 252963,
-            "name": "Tera Rastaa Chhodoon Na",
-            "url": "https://open.spotify.com/track/7cLGKaJXLFpUU7Up34vVr1"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Agneepath (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/3EXIPmWRsSM1sXol5g4t7j"
-            },
-            "artists": [
-                {
-                    "name": "Ajay-Atul",
-                    "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
-                },
-                {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                }
-            ],
-            "duration_ms": 301586,
-            "name": "Chikni Chameli",
-            "url": "https://open.spotify.com/track/1vSXwYeKnzsVvekSpqVabx"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "THIS IS... ICONA POP",
-                "url": "https://open.spotify.com/album/3qpAHoOLWeXRNTaGzeYf13"
-            },
-            "artists": [
-                {
-                    "name": "Icona Pop",
-                    "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-                },
                 {
                     "name": "Charli xcx",
                     "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
                 }
             ],
-            "duration_ms": 157152,
-            "name": "I Love It (feat. Charli XCX)",
-            "url": "https://open.spotify.com/track/2U8NXPTXZWG2O0ye2sYRiH"
+            "duration_ms": 169866,
+            "name": "Boom Clap",
+            "url": "https://open.spotify.com/track/3x2YIvkLcxvZQsA5x6xyIR"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Fifty Shades Freed (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy"
+                "name": "The Golden Age",
+                "url": "https://open.spotify.com/album/7oRzNo0PkoRJlvI9Eocyf2"
             },
             "artists": [
                 {
-                    "name": "Ellie Goulding",
-                    "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+                    "name": "Woodkid",
+                    "url": "https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9"
                 }
             ],
-            "duration_ms": 253520,
-            "name": "Love Me Like You Do",
-            "url": "https://open.spotify.com/track/0Cy7wt6IlRfBPHXXjmZbcP"
+            "duration_ms": 213266,
+            "name": "Run Boy Run",
+            "url": "https://open.spotify.com/track/0boS4e6uXwp3zAvz1mLxZS"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Tattoos (Deluxe Edition)",
-                "url": "https://open.spotify.com/album/3wDeTllVvayYsWTHsFNWZQ"
+                "name": "3 Idiots",
+                "url": "https://open.spotify.com/album/5RpLgeHQA69nLrBzxELRxP"
             },
             "artists": [
                 {
-                    "name": "Jason Derulo",
-                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+                    "name": "Shaan",
+                    "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
                 },
                 {
-                    "name": "Snoop Dogg",
-                    "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+                    "name": "Shantanu Moitra",
+                    "url": "https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1"
                 }
             ],
-            "duration_ms": 193295,
-            "name": "Wiggle (feat. Snoop Dogg)",
-            "url": "https://open.spotify.com/track/4B4zDmbHdkXZ1wUJv1yKFy"
+            "duration_ms": 299776,
+            "name": "Behti Hawa Sa Tha Woh",
+            "url": "https://open.spotify.com/track/2DxhfuyHsvTvY5uUdClqYu"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Pink Friday (Deluxe)",
-                "url": "https://open.spotify.com/album/51HDsvvActcDmYy7NQl6oL"
+                "name": "Mad Love The Prequel",
+                "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
+            },
+            "artists": [
+                {
+                    "name": "Sean Paul",
+                    "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+                },
+                {
+                    "name": "Dua Lipa",
+                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                }
+            ],
+            "duration_ms": 221176,
+            "name": "No Lie",
+            "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Blue Eyes",
+                "url": "https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB"
+            },
+            "artists": [
+                {
+                    "name": "Yo Yo Honey Singh",
+                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+                }
+            ],
+            "duration_ms": 220943,
+            "name": "Blue Eyes",
+            "url": "https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "The Pinkprint (International Deluxe Explicit)",
+                "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
             },
             "artists": [
                 {
@@ -676,15 +696,71 @@
                     "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
                 }
             ],
-            "duration_ms": 200013,
-            "name": "Super Bass",
-            "url": "https://open.spotify.com/track/0iYebKFUSfF72fUu2OW6ZT"
+            "duration_ms": 260239,
+            "name": "Anaconda",
+            "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Bang Bang (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/5zhx5FG1P3Rc9Ufbr9bIgF"
+                "name": "Ready",
+                "url": "https://open.spotify.com/album/3fRvoWSlsK90ii0PVRvw4P"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Neeraj Shridhar",
+                    "url": "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+                },
+                {
+                    "name": "Amrita Kak",
+                    "url": "https://open.spotify.com/artist/4BTpn8TkJe0FnqlpTY1ZJ2"
+                }
+            ],
+            "duration_ms": 226300,
+            "name": "Character Dheela",
+            "url": "https://open.spotify.com/track/1r4oikmMdZZiGHkPA4hSoe"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Loveholic Arijit Singh",
+                "url": "https://open.spotify.com/album/7patNeMdCSnjhX082Uv3yg"
+            },
+            "artists": [
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "duration_ms": 288176,
+            "name": "Sawan Aaya Hai (From \"Creature 3D\")",
+            "url": "https://open.spotify.com/track/2Hl4HIcTTu5AWjgZq3MaGw"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Table No. 21",
+                "url": "https://open.spotify.com/album/3O895TQZsINpYkZuMtIwFF"
+            },
+            "artists": [
+                {
+                    "name": "Gajendra Verma",
+                    "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+                }
+            ],
+            "duration_ms": 198125,
+            "name": "Mann Mera (From \"Table No. 21\")",
+            "url": "https://open.spotify.com/track/2BeY2dQPbD8xYxx3yhBTVD"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Musical Bond: Vishal Shekhar & Anvita Dutt",
+                "url": "https://open.spotify.com/album/5wtaq4QPH2WnUGrYerQuIJ"
             },
             "artists": [
                 {
@@ -692,87 +768,119 @@
                     "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
                 },
                 {
-                    "name": "Vishal Dadlani",
-                    "url": "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
-                }
-            ],
-            "duration_ms": 257089,
-            "name": "Tu Meri",
-            "url": "https://open.spotify.com/track/39TJkE0AEkfWii8VB3JqSV"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "One Love (New Version)",
-                "url": "https://open.spotify.com/album/4uZaHeEPBWpLilXGg5sJs1"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                    "name": "Ash King",
+                    "url": "https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo"
                 },
                 {
-                    "name": "Kid Cudi",
-                    "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+                    "name": "Shilpa Rao",
+                    "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+                },
+                {
+                    "name": "Shekhar Ravjiani",
+                    "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
                 }
             ],
-            "duration_ms": 210853,
-            "name": "Memories (feat. Kid Cudi)",
-            "url": "https://open.spotify.com/track/0Xh6R6XLoTDRBYriQRgkHj"
+            "duration_ms": 307407,
+            "name": "Meherbaan (From \"Bang Bang\")",
+            "url": "https://open.spotify.com/track/5Hyo4nF609f7aTmdgQdFjU"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Avril Lavigne (Expanded Edition)",
-                "url": "https://open.spotify.com/album/7qjA5gbagHWVbqKUgVt49l"
+                "name": "My Head Is An Animal",
+                "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
             },
             "artists": [
                 {
-                    "name": "Avril Lavigne",
-                    "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+                    "name": "Of Monsters and Men",
+                    "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
                 }
             ],
-            "duration_ms": 214320,
-            "name": "Here's to Never Growing Up",
-            "url": "https://open.spotify.com/track/0qwcGscxUHGZTgq0zcaqk1"
+            "duration_ms": 266600,
+            "name": "Little Talks",
+            "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Tamasha",
-                "url": "https://open.spotify.com/album/2CUXo26JAWIbQx0EVMnjpA"
+                "name": "Know-It-All (Deluxe)",
+                "url": "https://open.spotify.com/album/3rDbA12I5duZnlwakqDdZa"
             },
             "artists": [
                 {
-                    "name": "Lucky Ali",
-                    "url": "https://open.spotify.com/artist/2L16nDKTxhFGaDriR2AHTB"
+                    "name": "Alessia Cara",
+                    "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
                 }
             ],
-            "duration_ms": 251402,
-            "name": "Safarnama",
-            "url": "https://open.spotify.com/track/6w458kA8WOAIZr1ublxnK9"
+            "duration_ms": 199453,
+            "name": "Here",
+            "url": "https://open.spotify.com/track/1wYZZtamWTQAoj8B812uKQ"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Wild Ones",
-                "url": "https://open.spotify.com/album/7eLwoxxWs6lfkVYJGkGNbk"
+                "name": "Twelve",
+                "url": "https://open.spotify.com/album/0dyMhOWJuoVRKPImXwgDFR"
             },
             "artists": [
                 {
-                    "name": "Flo Rida",
-                    "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+                    "name": "Bilal Saeed",
+                    "url": "https://open.spotify.com/artist/7hHDO4bJGlEaEHlY2lj1eZ"
                 }
             ],
-            "duration_ms": 248133,
-            "name": "Good Feeling",
-            "url": "https://open.spotify.com/track/2LEF1A8DOZ9wRYikWgVlZ8"
+            "duration_ms": 234097,
+            "name": "Adhi Adhi Raat",
+            "url": "https://open.spotify.com/track/1eHQw3b3um0TzAPb9ypHbn"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Crook (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/298NO23hfv1nhAE0gQ5vLN"
+                "name": "Queen Of The Clouds",
+                "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
+            },
+            "artists": [
+                {
+                    "name": "Tove Lo",
+                    "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+                },
+                {
+                    "name": "Hippie Sabotage",
+                    "url": "https://open.spotify.com/artist/4dM6NDYSfLcspt8GLoT5aE"
+                }
+            ],
+            "duration_ms": 258933,
+            "name": "Habits (Stay High) - Hippie Sabotage Remix",
+            "url": "https://open.spotify.com/track/62N2JSA0jHmSH7Va9t7hIf"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
+            },
+            "artists": [
+                {
+                    "name": "A.R. Rahman",
+                    "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                },
+                {
+                    "name": "Jaswinder Singh",
+                    "url": "https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g"
+                },
+                {
+                    "name": "Shiraz Uppal",
+                    "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+                }
+            ],
+            "duration_ms": 254653,
+            "name": "Raanjhanaa",
+            "url": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b"
+        },
+        {
+            "added_at": "2024-07-27 00:00:00",
+            "album": {
+                "name": "Bajrangi Bhaijaan",
+                "url": "https://open.spotify.com/album/4nZOPP0atfJbBlkedLYi7t"
             },
             "artists": [
                 {
@@ -780,141 +888,53 @@
                     "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
                 },
                 {
-                    "name": "Nikhil D'Souza",
-                    "url": "https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC"
+                    "name": "Adnan Sami",
+                    "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
                 }
             ],
-            "duration_ms": 289560,
-            "name": "Mere Bina",
-            "url": "https://open.spotify.com/track/4rSmmC6OYmjVOYxr8ruVWN"
+            "duration_ms": 499383,
+            "name": "Bhar Do Jholi Meri",
+            "url": "https://open.spotify.com/track/52qnHAlqWpo3kgEteAPjRf"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Yeh Jawaani Hai Deewani",
-                "url": "https://open.spotify.com/album/2Lxoc72vRTGdQfMvj7Ovi1"
+                "name": "Sorry For Party Rocking",
+                "url": "https://open.spotify.com/album/6g2Ig47IgyqyatDpj7UpHo"
             },
             "artists": [
                 {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                    "name": "LMFAO",
+                    "url": "https://open.spotify.com/artist/3sgFRtyBnxXD5ESfmbK4dl"
                 },
                 {
-                    "name": "Tochi Raina",
-                    "url": "https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW"
+                    "name": "Lauren Bennett",
+                    "url": "https://open.spotify.com/artist/2jLE4BoXHriQ96JagEtiDP"
                 },
                 {
-                    "name": "Rekha Bhardwaj",
-                    "url": "https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT"
+                    "name": "GoonRock",
+                    "url": "https://open.spotify.com/artist/53sIBaVjXQhfH89Vu6nEGh"
                 }
             ],
-            "duration_ms": 223459,
-            "name": "Kabira",
-            "url": "https://open.spotify.com/track/4bD9z9qa4qg9BhryvYWB7c"
+            "duration_ms": 262146,
+            "name": "Party Rock Anthem",
+            "url": "https://open.spotify.com/track/4650WGL6InVqP7YN5POqIz"
         },
         {
-            "added_at": "2024-07-26 00:00:00",
+            "added_at": "2024-07-27 00:00:00",
             "album": {
-                "name": "Amplifier",
-                "url": "https://open.spotify.com/album/5EC9dpKhvj5niMAA4HRmfQ"
+                "name": "Days of Thunder",
+                "url": "https://open.spotify.com/album/54xM746igJkdPJenRhW1za"
             },
             "artists": [
                 {
-                    "name": "Imran Khan",
-                    "url": "https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js"
+                    "name": "The Midnight",
+                    "url": "https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw"
                 }
             ],
-            "duration_ms": 232906,
-            "name": "Amplifier",
-            "url": "https://open.spotify.com/track/0l1i3nJ4aDMk0inxnvzYTz"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Murder 2",
-                "url": "https://open.spotify.com/album/1vUKBCizrhzhTZ8tgqL8db"
-            },
-            "artists": [
-                {
-                    "name": "Harshit Saxena",
-                    "url": "https://open.spotify.com/artist/4auibajZua9Ld8sPMOmPYc"
-                }
-            ],
-            "duration_ms": 346627,
-            "name": "Hale Dil",
-            "url": "https://open.spotify.com/track/6GQK4G5o60E8YA18DGpAzv"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Mesmeric Vocalzz - Tulsi Kumar",
-                "url": "https://open.spotify.com/album/1u0ZBlBziWi5PQGLMQtnuE"
-            },
-            "artists": [
-                {
-                    "name": "Rahat Fateh Ali Khan",
-                    "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-                },
-                {
-                    "name": "Tulsi Kumar",
-                    "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
-                }
-            ],
-            "duration_ms": 286443,
-            "name": "Tum Jo Aaye (From \"Once Upon A Time In Mumbaai\")",
-            "url": "https://open.spotify.com/track/0zqYmOjuMqpgUNOcO8wmKH"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "AM",
-                "url": "https://open.spotify.com/album/6645HGh7ZOZSUTpqW9iYLR"
-            },
-            "artists": [
-                {
-                    "name": "Arctic Monkeys",
-                    "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-                }
-            ],
-            "duration_ms": 183956,
-            "name": "I Wanna Be Yours",
-            "url": "https://open.spotify.com/track/7a8GawTVgHZvBLQOh46he7"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Bollywood Romantic Songs With Armaan Malik",
-                "url": "https://open.spotify.com/album/0TKg5tmAFIIC6iytdXXiM2"
-            },
-            "artists": [
-                {
-                    "name": "Armaan Malik",
-                    "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
-                }
-            ],
-            "duration_ms": 357633,
-            "name": "Wajah Tum Ho",
-            "url": "https://open.spotify.com/track/6q1QIBUfxyZJhygVIiG6c9"
-        },
-        {
-            "added_at": "2024-07-26 00:00:00",
-            "album": {
-                "name": "Nothing but the Beat 2.0",
-                "url": "https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                }
-            ],
-            "duration_ms": 222500,
-            "name": "She Wolf (Falling to Pieces) [feat. Sia]",
-            "url": "https://open.spotify.com/track/1HfPcQ3c2HyGeID3u1lmCa"
+            "duration_ms": 389094,
+            "name": "Los Angeles",
+            "url": "https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh"
         }
     ],
     "unique_name": "Your Time Capsule",
