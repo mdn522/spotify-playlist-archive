@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,910 songs - 7 day 7 hr 45 min - not published yet
+2,911 songs - 7 day 7 hr 46 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2185,6 +2185,7 @@
 | [Sad Girls \(feat\. Rema\) \- MOTi Remix](https://open.spotify.com/track/1KepQ8aCgeS1sXFpXzbmJ8) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sad Girls \(feat\. Rema\) \[MOTi Remix\]](https://open.spotify.com/album/1lDctUb1ijFpzNU6t369le) | 3:18 | 2022-10-06 | 2022-10-14 |
 | [Sad Robot \(Lofi Version\)](https://open.spotify.com/track/1rIzDzUNYa2kChQGqfs0wj) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Sad Robot \(Lofi Version\)](https://open.spotify.com/album/4neeWH5cGp8MTmBSGXqQ9M) | 3:12 | 2022-10-20 | 2022-11-11 |
 | [Sad Songs](https://open.spotify.com/track/7FNBs0uJ316QqcVutWKz3O) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Sad Songs](https://open.spotify.com/album/5BAJ0ZYVeoioYv1PqZgsQz) | 3:09 | 2022-07-07 | 2022-08-07 |
+| [Safa Chat](https://open.spotify.com/track/3nBinigvgeybyRlPVvIuxy) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Brisk Pack](https://open.spotify.com/album/6PFmL2hkkIRxu98BkgdrJt) | 1:20 | 2024-07-25 |  |
 | [Saga](https://open.spotify.com/track/0OWR8o8uvWL7JaI3gzYWbL) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Saga](https://open.spotify.com/album/5Xk2X86wEPPx9HE8t2zyxH) | 3:35 | 2022-11-24 | 2022-12-09 |
 | [Sail Away \(feat\. Laura Brehm\)](https://open.spotify.com/track/5nZ3fj5icOnJhmVsvGSqVL) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Sail Away \(feat\. Laura Brehm\)](https://open.spotify.com/album/0ePoBRHuZ055Sy40GNgE6i) | 2:36 | 2024-01-25 | 2024-02-25 |
 | [Saiyaan Dheere Dheere](https://open.spotify.com/track/6yQdyYfDSu6IPoi2vEGayZ) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Tony Jr.](https://open.spotify.com/artist/4Sr1MAzsmE9ouUGzWD83Qp) | [Saiyaan Dheere Dheere](https://open.spotify.com/album/3tYSyucp2sb3UHYx3Q6JJ0) | 2:51 | 2024-02-15 | 2024-02-23 |
@@ -2567,7 +2568,7 @@
 | [Tightrope](https://open.spotify.com/track/5Cpi5g6jl87vxKOfVYMoUN) | [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE) | [Tightrope](https://open.spotify.com/album/17I46SMDd5zbo7g5zEdmfZ) | 2:24 | 2022-05-26 | 2022-06-19 |
 | [Tigi \- تيجي](https://open.spotify.com/track/49QGBrI182c8yb2ZG3ipoB) | [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [Tigi \(تيجي\)](https://open.spotify.com/album/6PiXm749gSZpCyzyQ6O1Yi) | 3:07 | 2022-07-14 | 2022-08-07 |
 | [Tiki Tiki](https://open.spotify.com/track/1DuVv6Cvr7Nz1k6iiJKKmD) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I) | [Tiki Tiki](https://open.spotify.com/album/0xLfD97AZz54kxJV6NRm3Y) | 2:40 | 2024-01-18 | 2024-01-26 |
-| [Tilt](https://open.spotify.com/track/6Ymf5Kepn9DuupF1wYo4dy) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Tilt](https://open.spotify.com/album/6Bfd6EzF0LiAuiHltuXZtm) | 2:25 | 2024-07-25 |  |
+| [Tilt](https://open.spotify.com/track/6Ymf5Kepn9DuupF1wYo4dy) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Tilt](https://open.spotify.com/album/6Bfd6EzF0LiAuiHltuXZtm) | 2:25 | 2024-07-25 | 2024-08-01 |
 | [Time \(feat\. Ariana Grande\)](https://open.spotify.com/track/0hYh0vcM53aRbksX7ZcpOI) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 5:34 | 2024-05-16 | 2024-06-09 |
 | [Time \- Remix](https://open.spotify.com/track/0ToNV3iOC4ZLYUxM7bKaCB) | [dj\-Nate](https://open.spotify.com/artist/4HAgxJjvwvvWiYNWmj5cB4), [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Time \(Remix\)](https://open.spotify.com/album/5YkRnYqw8HXUUK5kbsNXdv) | 3:11 | 2023-07-13 | 2023-07-28 |
 | [Time After Time](https://open.spotify.com/track/0W98yebOu4MC2ULhurYbAZ) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Time After Time](https://open.spotify.com/album/2xl4YF1t2nMHIooLxeipdx) | 2:52 | 2023-01-05 | 2023-02-05 |
