@@ -1,6 +1,6 @@
 {
     "date_first_scraped": "2022-05-21",
-    "description": "<a href=spotify:playlist:37i9dQZF1EIUXOuZhF0kzy>ILIRA</a>, <a href=spotify:playlist:37i9dQZF1EIY2YWrggB9aV>FloyyMenor</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIY2YWrggB9aV>FloyyMenor</a>, <a href=spotify:playlist:37i9dQZF1EIUXOuZhF0kzy>ILIRA</a> and more",
     "name": "Latin Mix",
     "published_playlist_ids": [],
     "tracks": [
@@ -153,7 +153,7 @@
             ],
             "date_added": "2022-07-18",
             "date_added_asterisk": false,
-            "date_removed": "2024-05-01",
+            "date_removed": null,
             "duration_ms": 201526,
             "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
             "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
@@ -1231,7 +1231,7 @@
             ],
             "date_added": "2024-02-22",
             "date_added_asterisk": false,
-            "date_removed": "2024-07-29",
+            "date_removed": null,
             "duration_ms": 139672,
             "name": "Acapulco",
             "url": "https://open.spotify.com/track/6H0gZ1R4W9tIbb6HVvjNEe"
@@ -2127,7 +2127,7 @@
             ],
             "date_added": "2022-10-03",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-01",
+            "date_removed": null,
             "duration_ms": 221508,
             "name": "Allegro Ventigo",
             "url": "https://open.spotify.com/track/16DIrIswfV76PWOg54XS0F"
@@ -4009,7 +4009,7 @@
             ],
             "date_added": "2024-04-04",
             "date_added_asterisk": false,
-            "date_removed": "2024-07-25",
+            "date_removed": null,
             "duration_ms": 180842,
             "name": "Baianá",
             "url": "https://open.spotify.com/track/780be5fB7823aHG06mwTat"
@@ -4193,7 +4193,7 @@
             ],
             "date_added": "2024-03-10",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 146249,
             "name": "Baila Conmigo",
             "url": "https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl"
@@ -4233,7 +4233,7 @@
             ],
             "date_added": "2022-06-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 186087,
             "name": "Baila Conmigo (with Rauw Alejandro)",
             "url": "https://open.spotify.com/track/079Ey5uxL04AKPQgVQwx5h"
@@ -6827,7 +6827,7 @@
             ],
             "date_added": "2024-08-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 150000,
             "name": "Buscando Money",
             "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
@@ -10133,7 +10133,7 @@
             ],
             "date_added": "2024-08-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 173333,
             "name": "Corocito (Manguelena)",
             "url": "https://open.spotify.com/track/61GOXPwH81y1I7KIfBXHlB"
@@ -10743,7 +10743,7 @@
             ],
             "date_added": "2023-12-06",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 164705,
             "name": "Cúrame",
             "url": "https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA"
@@ -12349,7 +12349,7 @@
             ],
             "date_added": "2023-09-28",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 166426,
             "name": "Dientes",
             "url": "https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm"
@@ -17545,7 +17545,7 @@
             ],
             "date_added": "2022-09-27",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 199357,
             "name": "Fuego",
             "url": "https://open.spotify.com/track/6iDZO7Qbi9R0L54D7DiJVV"
@@ -17563,7 +17563,7 @@
             ],
             "date_added": "2023-12-02",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-05",
+            "date_removed": null,
             "duration_ms": 183397,
             "name": "Fuego",
             "url": "https://open.spotify.com/track/4TwWOcvjY1qt3QJvtveAGm"
@@ -18081,6 +18081,32 @@
             "duration_ms": 222000,
             "name": "Gata Only",
             "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+        },
+        {
+            "album": {
+                "name": "Gata Only (Remix)",
+                "url": "https://open.spotify.com/album/3j6Hr2FWIsjgTKWbfRx0tu"
+            },
+            "artists": [
+                {
+                    "name": "FloyyMenor",
+                    "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+                },
+                {
+                    "name": "Ozuna",
+                    "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+                },
+                {
+                    "name": "Anitta",
+                    "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+                }
+            ],
+            "date_added": "2024-08-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 230513,
+            "name": "Gata Only (Remix)",
+            "url": "https://open.spotify.com/track/0JGTfiC4Z41GEEpMYLbWwO"
         },
         {
             "album": {
@@ -18869,6 +18895,28 @@
             "duration_ms": 123025,
             "name": "Guyana",
             "url": "https://open.spotify.com/track/37SeoK88fmHJLPI4rzzuzh"
+        },
+        {
+            "album": {
+                "name": "Gyal You a Party Animal (Remix)",
+                "url": "https://open.spotify.com/album/1drLzJJL0Voqt9GfD4cAly"
+            },
+            "artists": [
+                {
+                    "name": "Charly Black",
+                    "url": "https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or"
+                },
+                {
+                    "name": "Daddy Yankee",
+                    "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+                }
+            ],
+            "date_added": "2024-08-08",
+            "date_added_asterisk": false,
+            "date_removed": null,
+            "duration_ms": 223366,
+            "name": "Gyal You a Party Animal - Remix",
+            "url": "https://open.spotify.com/track/3rK30dzS17JWgft6PIvEjt"
         },
         {
             "album": {
@@ -22095,7 +22143,7 @@
             ],
             "date_added": "2024-01-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 174229,
             "name": "LA FALDA",
             "url": "https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC"
@@ -25019,7 +25067,7 @@
             ],
             "date_added": "2024-02-07",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 132386,
             "name": "Loca Loca",
             "url": "https://open.spotify.com/track/3JbxNrWdx6Di9I5E62vZzK"
@@ -25263,7 +25311,7 @@
             ],
             "date_added": "2024-06-06",
             "date_added_asterisk": false,
-            "date_removed": "2024-07-17",
+            "date_removed": null,
             "duration_ms": 178560,
             "name": "Loco Papi",
             "url": "https://open.spotify.com/track/5EuVplVa6I5vbAUBuCRnvS"
@@ -25627,7 +25675,7 @@
             ],
             "date_added": "2023-10-16",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 158826,
             "name": "Los Ángeles",
             "url": "https://open.spotify.com/track/0knbcslkZje0qdsqbd8jwj"
@@ -26223,7 +26271,7 @@
             ],
             "date_added": "2024-03-10",
             "date_added_asterisk": false,
-            "date_removed": "2024-07-25",
+            "date_removed": null,
             "duration_ms": 233693,
             "name": "Magic in the Air (feat. Ahmed Chawki)",
             "url": "https://open.spotify.com/track/3s6ltUrI93LBKU8taezsLn"
@@ -28913,7 +28961,7 @@
             ],
             "date_added": "2024-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-01",
+            "date_removed": null,
             "duration_ms": 139428,
             "name": "Mi Amor (with JVKE & Anitta)",
             "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
@@ -29687,7 +29735,7 @@
             ],
             "date_added": "2024-04-14",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 135914,
             "name": "Mirándote",
             "url": "https://open.spotify.com/track/6wywJ7RutAY0JL7cMP7uFN"
@@ -29789,7 +29837,7 @@
             ],
             "date_added": "2023-03-26",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 165275,
             "name": "Miénteme",
             "url": "https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz"
@@ -34297,7 +34345,7 @@
             ],
             "date_added": "2024-06-20",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-01",
+            "date_removed": null,
             "duration_ms": 166198,
             "name": "Papa",
             "url": "https://open.spotify.com/track/3gD2EgOb6UHhzPSz78xzvt"
@@ -34965,7 +35013,7 @@
             ],
             "date_added": "2024-07-04",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 186341,
             "name": "Patadas de Ahogado / LATÍN MAFIA, HUMBE - Rework",
             "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
@@ -37839,7 +37887,7 @@
             ],
             "date_added": "2022-05-21",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 231573,
             "name": "Rain Over Me (feat. Marc Anthony)",
             "url": "https://open.spotify.com/track/2cZrrQMjB63c0iIugYH9zS"
@@ -37861,7 +37909,7 @@
             ],
             "date_added": "2024-08-01",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 137419,
             "name": "Rakata",
             "url": "https://open.spotify.com/track/7mexjF66Y0kvZXv5c1n0OX"
@@ -40017,7 +40065,7 @@
             ],
             "date_added": "2022-06-21",
             "date_added_asterisk": false,
-            "date_removed": "2024-07-04",
+            "date_removed": null,
             "duration_ms": 225600,
             "name": "SG (with Ozuna, Megan Thee Stallion & LISA of BLACKPINK)",
             "url": "https://open.spotify.com/track/6IPNp9PfaEqrzotY47TIWy"
@@ -41653,7 +41701,7 @@
             ],
             "date_added": "2024-03-10",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-07",
+            "date_removed": null,
             "duration_ms": 154376,
             "name": "Spicy Margarita",
             "url": "https://open.spotify.com/track/22bZVqJfATps2ETj7017Ms"
@@ -41895,7 +41943,7 @@
             ],
             "date_added": "2022-10-02",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-07",
+            "date_removed": null,
             "duration_ms": 222057,
             "name": "Suave (Kiss Me) (feat. Mohombi & Pitbull)",
             "url": "https://open.spotify.com/track/77ePeF9L2QKvKrSsWpJXBF"
@@ -42647,7 +42695,7 @@
             ],
             "date_added": "2022-05-28",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-06",
+            "date_removed": null,
             "duration_ms": 179774,
             "name": "Tabú",
             "url": "https://open.spotify.com/track/471HeGJPKw07MObixON0Um"
@@ -47433,7 +47481,7 @@
             ],
             "date_added": "2023-12-03",
             "date_added_asterisk": false,
-            "date_removed": "2024-08-07",
+            "date_removed": null,
             "duration_ms": 179960,
             "name": "Vamos a la Playa",
             "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
@@ -49575,7 +49623,7 @@
             ],
             "date_added": "2024-06-13",
             "date_added_asterisk": false,
-            "date_removed": null,
+            "date_removed": "2024-08-08",
             "duration_ms": 168960,
             "name": "Yo No Sé",
             "url": "https://open.spotify.com/track/3YTQh24t7bQfPMm3PfyL0W"
