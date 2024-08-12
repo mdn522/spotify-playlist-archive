@@ -2,7 +2,7 @@
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a> and more
 
 2,011 songs - 4 day 17 hr 42 min - not published yet
 
