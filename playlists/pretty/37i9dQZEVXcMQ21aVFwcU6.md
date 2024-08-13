@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Easy Come, Easy Go \(La Vida\)](https://open.spotify.com/track/3j0NQEBjKF1tDvtVohDgwz) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK), [Sugar Jesus](https://open.spotify.com/artist/1cdXZUfRhXZ8DnwMV4CcS5), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Easy Come, Easy Go \(La Vida\)](https://open.spotify.com/album/344N6rlE2KjpFXHc8AcqdP) | 2:49 |
 | 30 | [Say It Right](https://open.spotify.com/track/26eq3GwtoSaOtEQdzAyo1J) | [AIZZO](https://open.spotify.com/artist/1ZZdKHHFrEYmBD8M8yzjrq) | [Say It Right](https://open.spotify.com/album/5TTDgKWviZM4KBC49Nd58n) | 2:06 |
 
-Snapshot ID: `AAAAAAAAAABVv2XFJsUwxFzpMHok2/cu`
+Snapshot ID: `AAAAAAAAAAAF3+1IGx77UQEfu5g4tO3E`
