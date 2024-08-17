@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 74 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,15 +73,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbvJfTkO3GeW5.md) - [plain]
 | 63 | [Oxygen](https://open.spotify.com/track/0ujDMlxKJpK6T85Go7CrDT) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Oxygen](https://open.spotify.com/album/44iLj8cIiKZw9IUwc64YIm) | 2:36 |
 | 64 | [A Billion Stars Above \(UpOnly 587\) \- Ciaran McAuley Remix \- Mix Cut](https://open.spotify.com/track/0mxb1k9JhNKG3Iy3ObnBgG) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Arctic Moon](https://open.spotify.com/artist/1uAQR5uku7pQGEiaG7VqiE), [Stine Grove](https://open.spotify.com/artist/51GkQKgac6wqdicVA2DvPu), [Ciaran McAuley](https://open.spotify.com/artist/4tTgD3KLaNlHg2nxAgGaRi) | [Uplifting Only 587: No\-Talking DJ Mix \(May 2024\) \[FULL\]](https://open.spotify.com/album/1dpdREqiQOhIJWNHpLJvjE) | 4:34 |
 | 65 | [BAD4US](https://open.spotify.com/track/1CqGRxs4nQsbMVCuiPOgjX) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [J.Tajor](https://open.spotify.com/artist/0VpMOC5IZU06u29fWjv3qJ), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [BAD4US](https://open.spotify.com/album/34eSMGvz4VxxuZEWsSi9iX) | 2:32 |
-| 66 | [the boy is mine \(with Brandy, Monica\) – Remix a cappella](https://open.spotify.com/track/3IkYXPbjFyDRthPSEFApMr) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Monica](https://open.spotify.com/artist/6nzxy2wXs6tLgzEtqOkEi2) | [the boy is mine](https://open.spotify.com/album/2isY5pnJX1gyNzqVg7EECt) | 3:32 |
-| 67 | [ICE](https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [ICE](https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W) | 3:05 |
-| 68 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 |
-| 69 | [Female Intuition](https://open.spotify.com/track/1Cu9t41fZH6LzU8zVyQMxB) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/0bqn6SS8mXoLkvwRaVoG74) | 2:14 |
-| 70 | [Take Me](https://open.spotify.com/track/3wmDZR8USLWjVx8hd7gGrZ) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [Take Me](https://open.spotify.com/album/6nyBe52AM9EW40kivGLU4D) | 3:28 |
-| 71 | [Questions](https://open.spotify.com/track/3dJAScUv9WRtbQGYeqHnAX) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Questions](https://open.spotify.com/album/2M0LtUuhQMWTIbAMMRJ1UQ) | 4:45 |
-| 72 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 |
-| 73 | [HAWK TUAH \- OR DONT TALK TUAH](https://open.spotify.com/track/3L0wDiJbGHh2DSXDq5yiio) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [HAWK TUAH \(OR DONT TALK TUAH\)](https://open.spotify.com/album/0vXymb5cb5v0Ui3kAwXGHa) | 2:01 |
-| 74 | [Ghost Of You](https://open.spotify.com/track/0KZEmObkT0XViXB7gAFUBk) | [Stang](https://open.spotify.com/artist/6idDEsvueca5VOpR3NFIaR), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Ghost Of You](https://open.spotify.com/album/2VofPudmoGRm8k3ObEgfeL) | 2:52 |
-| 75 | [when the sun goes down](https://open.spotify.com/track/3mTmZL6TNxOQSsae4CsRy6) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [when the sun goes down](https://open.spotify.com/album/39A2SAejhycVct4d5oOMy6) | 1:50 |
+| 66 | [ICE](https://open.spotify.com/track/0zqZJ7iBj9Jpoy1pdyPnqV) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [ICE](https://open.spotify.com/album/1CfMEQLm2odm1spSvQas9W) | 3:05 |
+| 67 | [Hearts in Stereo \- Radio Edit](https://open.spotify.com/track/2M3TPAGbcyQySxZn9OGsyI) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Hearts in Stereo \(Versions\)](https://open.spotify.com/album/2vdlQ1eSzJYe5jdfwEeapn) | 2:27 |
+| 68 | [Female Intuition](https://open.spotify.com/track/1Cu9t41fZH6LzU8zVyQMxB) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Female Intuition](https://open.spotify.com/album/0bqn6SS8mXoLkvwRaVoG74) | 2:14 |
+| 69 | [Take Me](https://open.spotify.com/track/3wmDZR8USLWjVx8hd7gGrZ) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [Take Me](https://open.spotify.com/album/6nyBe52AM9EW40kivGLU4D) | 3:28 |
+| 70 | [Questions](https://open.spotify.com/track/3dJAScUv9WRtbQGYeqHnAX) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Questions](https://open.spotify.com/album/2M0LtUuhQMWTIbAMMRJ1UQ) | 4:45 |
+| 71 | [SLAY](https://open.spotify.com/track/4817tQ61XvNQxGzIiwlT0e) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [LSZEE](https://open.spotify.com/album/633geRmMguveturqYAb9k2) | 4:01 |
+| 72 | [HAWK TUAH \- OR DONT TALK TUAH](https://open.spotify.com/track/3L0wDiJbGHh2DSXDq5yiio) | [Aero Chord](https://open.spotify.com/artist/6lO3fSdhsdpeOcrbqAJsRU) | [HAWK TUAH \(OR DONT TALK TUAH\)](https://open.spotify.com/album/0vXymb5cb5v0Ui3kAwXGHa) | 2:01 |
+| 73 | [Ghost Of You](https://open.spotify.com/track/0KZEmObkT0XViXB7gAFUBk) | [Stang](https://open.spotify.com/artist/6idDEsvueca5VOpR3NFIaR), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Ghost Of You](https://open.spotify.com/album/2VofPudmoGRm8k3ObEgfeL) | 2:52 |
+| 74 | [when the sun goes down](https://open.spotify.com/track/3mTmZL6TNxOQSsae4CsRy6) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [when the sun goes down](https://open.spotify.com/album/39A2SAejhycVct4d5oOMy6) | 1:50 |
 
-Snapshot ID: `AAAAAAAAAAAsQnC7OMsXrm0aI3jVtdOb`
+Snapshot ID: `AAAAAAAAAAD4no94fnXJrE/W4dP80iaH`
