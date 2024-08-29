@@ -1,13 +1,53 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIUTH1fp1JZAr>Shreya Ghoshal</a>, <a href=spotify:playlist:37i9dQZF1EIXeNJWMQwMkP>Kilotile</a>, <a href=spotify:playlist:37i9dQZF1EIUO0qdRCfzui>Nico</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIXwSAjqa3t0H>Basixx</a>, <a href=spotify:playlist:37i9dQZF1EIWsirilzCahm>Pete Bellis & Tommy</a>, <a href=spotify:playlist:37i9dQZF1EIUTH1fp1JZAr>Shreya Ghoshal</a> and more",
     "num_followers": 0,
     "original_name": "2010s Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "AAAAAAAAAADxNzhLPXd0IxaLUjTGr3/B",
+    "snapshot_id": "AAAAAAAAAACbv6Bmk9fqFy6moz+EiRIn",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "All Night",
+                "url": "https://open.spotify.com/album/1KjhmSCqQhS2PjuK4Vytiy"
+            },
+            "artists": [
+                {
+                    "name": "Basixx",
+                    "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
+                },
+                {
+                    "name": "Frigga",
+                    "url": "https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC"
+                }
+            ],
+            "duration_ms": 213034,
+            "name": "Let's Stay Up All Night",
+            "url": "https://open.spotify.com/track/4JusMRWTXLRa6VJGMfp02y"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Top Tunes",
+                "url": "https://open.spotify.com/album/4d2r1cBi1hF8De8XilzD23"
+            },
+            "artists": [
+                {
+                    "name": "Pete Bellis & Tommy",
+                    "url": "https://open.spotify.com/artist/2yCXS70BMsWAebyvC1j6E1"
+                },
+                {
+                    "name": "Marc Philippe",
+                    "url": "https://open.spotify.com/artist/0U3VVYAAivfifX8Dul3vO1"
+                }
+            ],
+            "duration_ms": 229180,
+            "name": "Treat Me Right - Marc Philippe Remix",
+            "url": "https://open.spotify.com/track/0oHnbydVD1Y23DTFpE9nYk"
+        },
         {
             "added_at": null,
             "album": {
@@ -27,42 +67,6 @@
             "duration_ms": 274201,
             "name": "Rozana",
             "url": "https://open.spotify.com/track/1mYcukuz7uow0wc7DmPXHU"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Cry To Me",
-                "url": "https://open.spotify.com/album/1Mtkqv1xJVgi0Ca2nzt6Rr"
-            },
-            "artists": [
-                {
-                    "name": "Kilotile",
-                    "url": "https://open.spotify.com/artist/3C59nNYSN4g74UVo3LMdyo"
-                }
-            ],
-            "duration_ms": 208368,
-            "name": "Cry To Me",
-            "url": "https://open.spotify.com/track/0hr9IMEqFqNAdtNd2fJNtE"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Am I Wrong (Win x Woo Remix)",
-                "url": "https://open.spotify.com/album/1vTdc3DdFvhMGlFLsnwZcB"
-            },
-            "artists": [
-                {
-                    "name": "Nico",
-                    "url": "https://open.spotify.com/artist/6eMemJWxuoFB5uSFHkN4sk"
-                },
-                {
-                    "name": "Vinz",
-                    "url": "https://open.spotify.com/artist/6rBu7BvaUsk6VeLtFBox5y"
-                }
-            ],
-            "duration_ms": 271621,
-            "name": "Am I Wrong (Win x Woo Remix)",
-            "url": "https://open.spotify.com/track/19C9dSMekf6AbnQyod6EZ6"
         },
         {
             "added_at": null,
@@ -87,30 +91,6 @@
             "duration_ms": 170000,
             "name": "Hanging Tree - Alex Great Remix",
             "url": "https://open.spotify.com/track/2rhSduBNjteGhpqGA55PV1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "In The End",
-                "url": "https://open.spotify.com/album/4ogDiddFmcxnT4PC9lVEoV"
-            },
-            "artists": [
-                {
-                    "name": "Tommee Profitt",
-                    "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
-                },
-                {
-                    "name": "Fleurie",
-                    "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
-                },
-                {
-                    "name": "Mellen Gi",
-                    "url": "https://open.spotify.com/artist/6Hpe3EZqFMWYtJ61D0GjSa"
-                }
-            ],
-            "duration_ms": 218188,
-            "name": "In The End - Mellen Gi Remix",
-            "url": "https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2"
         },
         {
             "added_at": null,
@@ -143,6 +123,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "Cry To Me",
+                "url": "https://open.spotify.com/album/1Mtkqv1xJVgi0Ca2nzt6Rr"
+            },
+            "artists": [
+                {
+                    "name": "Kilotile",
+                    "url": "https://open.spotify.com/artist/3C59nNYSN4g74UVo3LMdyo"
+                }
+            ],
+            "duration_ms": 208368,
+            "name": "Cry To Me",
+            "url": "https://open.spotify.com/track/0hr9IMEqFqNAdtNd2fJNtE"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Monster",
                 "url": "https://open.spotify.com/album/4XQN9sq92HwyTj476FMzYz"
             },
@@ -159,6 +155,22 @@
             "duration_ms": 144000,
             "name": "Monster",
             "url": "https://open.spotify.com/track/0oWN1xuaWUrx8QGiYqxAs9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Blue Monday",
+                "url": "https://open.spotify.com/album/743cLwhIfyy5dFZNEF6zOw"
+            },
+            "artists": [
+                {
+                    "name": "Above & Beyond",
+                    "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+                }
+            ],
+            "duration_ms": 252919,
+            "name": "Blue Monday",
+            "url": "https://open.spotify.com/track/5dXZhZbDHWu6zwXkssFQcs"
         },
         {
             "added_at": null,
@@ -183,62 +195,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Blue Monday",
-                "url": "https://open.spotify.com/album/743cLwhIfyy5dFZNEF6zOw"
-            },
-            "artists": [
-                {
-                    "name": "Above & Beyond",
-                    "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
-                }
-            ],
-            "duration_ms": 252919,
-            "name": "Blue Monday",
-            "url": "https://open.spotify.com/track/5dXZhZbDHWu6zwXkssFQcs"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Top Tunes",
-                "url": "https://open.spotify.com/album/4d2r1cBi1hF8De8XilzD23"
-            },
-            "artists": [
-                {
-                    "name": "Pete Bellis & Tommy",
-                    "url": "https://open.spotify.com/artist/2yCXS70BMsWAebyvC1j6E1"
-                },
-                {
-                    "name": "Marc Philippe",
-                    "url": "https://open.spotify.com/artist/0U3VVYAAivfifX8Dul3vO1"
-                }
-            ],
-            "duration_ms": 229180,
-            "name": "Treat Me Right - Marc Philippe Remix",
-            "url": "https://open.spotify.com/track/0oHnbydVD1Y23DTFpE9nYk"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "The Sound of Silence (CYRIL Remix)",
-                "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-            },
-            "artists": [
-                {
-                    "name": "Disturbed",
-                    "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-                },
-                {
-                    "name": "CYRIL",
-                    "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-                }
-            ],
-            "duration_ms": 185238,
-            "name": "The Sound of Silence - CYRIL Remix",
-            "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Every Breath You Take",
                 "url": "https://open.spotify.com/album/7AAKCABCnLAUFSgoWkYK3e"
             },
@@ -251,26 +207,6 @@
             "duration_ms": 198058,
             "name": "Every Breath You Take",
             "url": "https://open.spotify.com/track/3pIpa33ZYgL6ZEkpBRA8BF"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "All Night",
-                "url": "https://open.spotify.com/album/1KjhmSCqQhS2PjuK4Vytiy"
-            },
-            "artists": [
-                {
-                    "name": "Basixx",
-                    "url": "https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd"
-                },
-                {
-                    "name": "Frigga",
-                    "url": "https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC"
-                }
-            ],
-            "duration_ms": 213034,
-            "name": "Let's Stay Up All Night",
-            "url": "https://open.spotify.com/track/4JusMRWTXLRa6VJGMfp02y"
         },
         {
             "added_at": null,
@@ -299,42 +235,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Unstoppable (R3HAB Remix)",
-                "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
+                "name": "Let's Go (Rnbstylerz Remix)",
+                "url": "https://open.spotify.com/album/5VstnG0weh7whtQ3zryciu"
             },
             "artists": [
                 {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                    "name": "AREES",
+                    "url": "https://open.spotify.com/artist/7Dgw2K9HNp00tTrU0Vx1i5"
                 },
                 {
-                    "name": "R3HAB",
-                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+                    "name": "Rnbstylerz",
+                    "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
                 }
             ],
-            "duration_ms": 162352,
-            "name": "Unstoppable - R3HAB Remix",
-            "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Summertime Sadness (Imanbek Remix)",
-                "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
-            },
-            "artists": [
-                {
-                    "name": "Lana Del Rey",
-                    "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-                },
-                {
-                    "name": "Imanbek",
-                    "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-                }
-            ],
-            "duration_ms": 265997,
-            "name": "Summertime - Imanbek Remix",
-            "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+            "duration_ms": 176183,
+            "name": "Let's Go (Rnbstylerz Remix)",
+            "url": "https://open.spotify.com/track/2cI6holAnYeSBfk6qnA6NK"
         },
         {
             "added_at": null,
@@ -355,6 +271,130 @@
             "duration_ms": 230453,
             "name": "Starboy",
             "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "The Sound of Silence (CYRIL Remix)",
+                "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
+            },
+            "artists": [
+                {
+                    "name": "Disturbed",
+                    "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+                },
+                {
+                    "name": "CYRIL",
+                    "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+                }
+            ],
+            "duration_ms": 185238,
+            "name": "The Sound of Silence - CYRIL Remix",
+            "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Unstoppable (R3HAB Remix)",
+                "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
+            },
+            "artists": [
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                },
+                {
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+                }
+            ],
+            "duration_ms": 162352,
+            "name": "Unstoppable - R3HAB Remix",
+            "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Am I Wrong (Win x Woo Remix)",
+                "url": "https://open.spotify.com/album/1vTdc3DdFvhMGlFLsnwZcB"
+            },
+            "artists": [
+                {
+                    "name": "Nico",
+                    "url": "https://open.spotify.com/artist/6eMemJWxuoFB5uSFHkN4sk"
+                },
+                {
+                    "name": "Vinz",
+                    "url": "https://open.spotify.com/artist/6rBu7BvaUsk6VeLtFBox5y"
+                }
+            ],
+            "duration_ms": 271621,
+            "name": "Am I Wrong (Win x Woo Remix)",
+            "url": "https://open.spotify.com/track/19C9dSMekf6AbnQyod6EZ6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
+                "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "MORTEN",
+                    "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+                },
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                }
+            ],
+            "duration_ms": 211428,
+            "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
+            "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Another Love (Tiësto Remix)",
+                "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
+            },
+            "artists": [
+                {
+                    "name": "Tom Odell",
+                    "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+                },
+                {
+                    "name": "Tiësto",
+                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                }
+            ],
+            "duration_ms": 185365,
+            "name": "Another Love - Tiësto Remix",
+            "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Stay Young",
+                "url": "https://open.spotify.com/album/0CDyYekVPlSSlyji3cg2sn"
+            },
+            "artists": [
+                {
+                    "name": "Mike Perry",
+                    "url": "https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c"
+                },
+                {
+                    "name": "Tessa",
+                    "url": "https://open.spotify.com/artist/1mlram0F0Bgzf47j6wpYd8"
+                }
+            ],
+            "duration_ms": 157004,
+            "name": "Stay Young",
+            "url": "https://open.spotify.com/track/5Zhm8qMnDwXR3soSSurN8T"
         },
         {
             "added_at": null,
@@ -391,6 +431,26 @@
         {
             "added_at": null,
             "album": {
+                "name": "One More Love",
+                "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Rihanna",
+                    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+                }
+            ],
+            "duration_ms": 201040,
+            "name": "Who's That Chick? (feat. Rihanna)",
+            "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "1000 Forms Of Fear",
                 "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
             },
@@ -403,150 +463,6 @@
             "duration_ms": 216120,
             "name": "Chandelier",
             "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Another Love (Tiësto Remix)",
-                "url": "https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa"
-            },
-            "artists": [
-                {
-                    "name": "Tom Odell",
-                    "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-                },
-                {
-                    "name": "Tiësto",
-                    "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-                }
-            ],
-            "duration_ms": 185365,
-            "name": "Another Love - Tiësto Remix",
-            "url": "https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Titanium (feat. Sia) [David Guetta & MORTEN Future Rave Remix]",
-                "url": "https://open.spotify.com/album/2Eke7bWyUPKdFx3UdQh4rI"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "MORTEN",
-                    "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
-                },
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                }
-            ],
-            "duration_ms": 211428,
-            "name": "Titanium (feat. Sia) - David Guetta & MORTEN Future Rave Remix",
-            "url": "https://open.spotify.com/track/5072hCBK3Z15qRnTEzd8fy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Remixed Eighties - 80's Anthem Dance Remixes",
-                "url": "https://open.spotify.com/album/27ikWVfn42z7PmDukmyVxX"
-            },
-            "artists": [
-                {
-                    "name": "Decimal Eon",
-                    "url": "https://open.spotify.com/artist/34UH327OMopbpEJBjxqBkb"
-                }
-            ],
-            "duration_ms": 301949,
-            "name": "Running Up That Hill",
-            "url": "https://open.spotify.com/track/187pvIBVN2lcJ7MeJDEpVn"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Synthian",
-                "url": "https://open.spotify.com/album/63L4x13H3mr4mzpUMWTO4Z"
-            },
-            "artists": [
-                {
-                    "name": "NINA",
-                    "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
-                },
-                {
-                    "name": "LAU",
-                    "url": "https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4"
-                }
-            ],
-            "duration_ms": 305173,
-            "name": "Automatic Call",
-            "url": "https://open.spotify.com/track/7JinJGlnDplCzm3Cp23rWm"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Let's Go (Rnbstylerz Remix)",
-                "url": "https://open.spotify.com/album/5VstnG0weh7whtQ3zryciu"
-            },
-            "artists": [
-                {
-                    "name": "AREES",
-                    "url": "https://open.spotify.com/artist/7Dgw2K9HNp00tTrU0Vx1i5"
-                },
-                {
-                    "name": "Rnbstylerz",
-                    "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
-                }
-            ],
-            "duration_ms": 176183,
-            "name": "Let's Go (Rnbstylerz Remix)",
-            "url": "https://open.spotify.com/track/2cI6holAnYeSBfk6qnA6NK"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Play",
-                "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
-            },
-            "artists": [
-                {
-                    "name": "K-391",
-                    "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-                },
-                {
-                    "name": "Alan Walker",
-                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-                },
-                {
-                    "name": "Tungevaag",
-                    "url": "https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck"
-                },
-                {
-                    "name": "Mangoo",
-                    "url": "https://open.spotify.com/artist/6ObeGN1qTsep95QRNOfNc3"
-                }
-            ],
-            "duration_ms": 167976,
-            "name": "Play",
-            "url": "https://open.spotify.com/track/4jp4Z02kzzg8gK0NmDGgml"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "195",
-                "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
-            },
-            "artists": [
-                {
-                    "name": "OGRE Sound",
-                    "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
-                }
-            ],
-            "duration_ms": 125142,
-            "name": "Revengeance Overcharge",
-            "url": "https://open.spotify.com/track/4dp9rRLfAW1VzEoAjvSQEW"
         },
         {
             "added_at": null,
@@ -571,6 +487,138 @@
         {
             "added_at": null,
             "album": {
+                "name": "Remixed Eighties - 80's Anthem Dance Remixes",
+                "url": "https://open.spotify.com/album/27ikWVfn42z7PmDukmyVxX"
+            },
+            "artists": [
+                {
+                    "name": "Decimal Eon",
+                    "url": "https://open.spotify.com/artist/34UH327OMopbpEJBjxqBkb"
+                }
+            ],
+            "duration_ms": 301949,
+            "name": "Running Up That Hill",
+            "url": "https://open.spotify.com/track/187pvIBVN2lcJ7MeJDEpVn"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dernière danse (Techno Mix)",
+                "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
+            },
+            "artists": [
+                {
+                    "name": "Indila",
+                    "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+                },
+                {
+                    "name": "BENNETT",
+                    "url": "https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48"
+                }
+            ],
+            "duration_ms": 197142,
+            "name": "Dernière danse - Techno Mix",
+            "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Synthian",
+                "url": "https://open.spotify.com/album/63L4x13H3mr4mzpUMWTO4Z"
+            },
+            "artists": [
+                {
+                    "name": "NINA",
+                    "url": "https://open.spotify.com/artist/31KAV0Dg1UNmnfSmvLT2XG"
+                },
+                {
+                    "name": "LAU",
+                    "url": "https://open.spotify.com/artist/3i1ZPTMkrfR7cAHBY77Bz4"
+                }
+            ],
+            "duration_ms": 305173,
+            "name": "Automatic Call",
+            "url": "https://open.spotify.com/track/7JinJGlnDplCzm3Cp23rWm"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Beautiful Lies (Deluxe)",
+                "url": "https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz"
+            },
+            "artists": [
+                {
+                    "name": "Birdy",
+                    "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+                }
+            ],
+            "duration_ms": 208395,
+            "name": "Keeping Your Head Up",
+            "url": "https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "7: Anniversary Edition",
+                "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
+            },
+            "artists": [
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                },
+                {
+                    "name": "Justin Bieber",
+                    "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+                }
+            ],
+            "duration_ms": 194893,
+            "name": "2U (feat. Justin Bieber)",
+            "url": "https://open.spotify.com/track/61WR5FfGNLJxpLsAc61qWQ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Summertime Sadness (Imanbek Remix)",
+                "url": "https://open.spotify.com/album/5XRtJEsQ1jLvOkQZdBjPZZ"
+            },
+            "artists": [
+                {
+                    "name": "Lana Del Rey",
+                    "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                },
+                {
+                    "name": "Imanbek",
+                    "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+                }
+            ],
+            "duration_ms": 265997,
+            "name": "Summertime - Imanbek Remix",
+            "url": "https://open.spotify.com/track/0f3cLpriwmAnZu5kRrssc5"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Less Is More",
+                "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
+            },
+            "artists": [
+                {
+                    "name": "Lost Frequencies",
+                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+                },
+                {
+                    "name": "Janieck",
+                    "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
+                }
+            ],
+            "duration_ms": 159480,
+            "name": "Reality",
+            "url": "https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Intense",
                 "url": "https://open.spotify.com/album/5ZsK5SUsZilbAJ4B0vRVxF"
             },
@@ -587,6 +635,46 @@
             "duration_ms": 204360,
             "name": "This Is What It Feels Like",
             "url": "https://open.spotify.com/track/5GjnIpUlLGEIYk052ISOw9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "195",
+                "url": "https://open.spotify.com/album/6rXwhbgEy5Kiss3ETnuxuC"
+            },
+            "artists": [
+                {
+                    "name": "OGRE Sound",
+                    "url": "https://open.spotify.com/artist/1cSXroP62yDewheYORCPoj"
+                }
+            ],
+            "duration_ms": 125142,
+            "name": "Revengeance Overcharge",
+            "url": "https://open.spotify.com/track/4dp9rRLfAW1VzEoAjvSQEW"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "In The End",
+                "url": "https://open.spotify.com/album/4ogDiddFmcxnT4PC9lVEoV"
+            },
+            "artists": [
+                {
+                    "name": "Tommee Profitt",
+                    "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+                },
+                {
+                    "name": "Fleurie",
+                    "url": "https://open.spotify.com/artist/647D92XNDYTUt5A0idePJ4"
+                },
+                {
+                    "name": "Mellen Gi",
+                    "url": "https://open.spotify.com/artist/6Hpe3EZqFMWYtJ61D0GjSa"
+                }
+            ],
+            "duration_ms": 218188,
+            "name": "In The End - Mellen Gi Remix",
+            "url": "https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2"
         },
         {
             "added_at": null,
@@ -615,8 +703,8 @@
         {
             "added_at": null,
             "album": {
-                "name": "One More Love",
-                "url": "https://open.spotify.com/album/7fHeCs5cgtXYqxBPG1iK1n"
+                "name": "Nothing but the Beat (Ultimate Edition)",
+                "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
             },
             "artists": [
                 {
@@ -624,49 +712,13 @@
                     "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
                 },
                 {
-                    "name": "Rihanna",
-                    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
                 }
             ],
-            "duration_ms": 201040,
-            "name": "Who's That Chick? (feat. Rihanna)",
-            "url": "https://open.spotify.com/track/7e1h7rqNB0BBC2fUuWEEFe"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Makeba (Ian Asher Remix)",
-                "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-            },
-            "artists": [
-                {
-                    "name": "Jain",
-                    "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-                },
-                {
-                    "name": "Ian Asher",
-                    "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-                }
-            ],
-            "duration_ms": 125178,
-            "name": "Makeba - Ian Asher Remix",
-            "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Indigo (Extended)",
-                "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
-            },
-            "artists": [
-                {
-                    "name": "Chris Brown",
-                    "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-                }
-            ],
-            "duration_ms": 184613,
-            "name": "Under The Influence",
-            "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+            "duration_ms": 245040,
+            "name": "Titanium (feat. Sia)",
+            "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
         },
         {
             "added_at": null,
@@ -687,46 +739,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Scared to Be Lonely",
-                "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
+                "name": "Makeba (Ian Asher Remix)",
+                "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
             },
             "artists": [
                 {
-                    "name": "Martin Garrix",
-                    "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+                    "name": "Jain",
+                    "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
                 },
                 {
-                    "name": "Dua Lipa",
-                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+                    "name": "Ian Asher",
+                    "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
                 }
             ],
-            "duration_ms": 220883,
-            "name": "Scared to Be Lonely",
-            "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "7: Anniversary Edition",
-                "url": "https://open.spotify.com/album/0GJU424RiEyYQTLbZcHVA7"
-            },
-            "artists": [
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                },
-                {
-                    "name": "Bebe Rexha",
-                    "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-                },
-                {
-                    "name": "J Balvin",
-                    "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-                }
-            ],
-            "duration_ms": 198946,
-            "name": "Say My Name",
-            "url": "https://open.spotify.com/track/4wqIXeDppYSMXaWsnTzpzT"
+            "duration_ms": 125178,
+            "name": "Makeba - Ian Asher Remix",
+            "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
         },
         {
             "added_at": null,
@@ -755,6 +783,46 @@
         {
             "added_at": null,
             "album": {
+                "name": "Nevada",
+                "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
+            },
+            "artists": [
+                {
+                    "name": "Vicetone",
+                    "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+                },
+                {
+                    "name": "Cozi Zuehlsdorff",
+                    "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+                }
+            ],
+            "duration_ms": 208561,
+            "name": "Nevada",
+            "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Invisible",
+                "url": "https://open.spotify.com/album/1QK215qFVGRk5ReFGXdxzT"
+            },
+            "artists": [
+                {
+                    "name": "Zeus X Crona",
+                    "url": "https://open.spotify.com/artist/6uzCPyGMlp97ATH1yQYNNq"
+                },
+                {
+                    "name": "Julius Dreisig",
+                    "url": "https://open.spotify.com/artist/72fdBvuHxCR7PLvj0osbhR"
+                }
+            ],
+            "duration_ms": 201015,
+            "name": "Invisible",
+            "url": "https://open.spotify.com/track/1QQ1Dx8dcLgWvUaY5fk84y"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Pehli Dafa",
                 "url": "https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt"
             },
@@ -775,22 +843,86 @@
         {
             "added_at": null,
             "album": {
-                "name": "The Hum (Short Edit)",
-                "url": "https://open.spotify.com/album/7AUAYHT6Xzz1CB7TKB5jAx"
+                "name": "Crazy",
+                "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
             },
             "artists": [
                 {
-                    "name": "Dimitri Vegas & Like Mike",
-                    "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+                    "name": "Lost Frequencies",
+                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
                 },
                 {
-                    "name": "Ummet Ozcan",
-                    "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+                    "name": "Zonderling",
+                    "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
                 }
             ],
-            "duration_ms": 211000,
-            "name": "The Hum - Short Edit",
-            "url": "https://open.spotify.com/track/2y139opKwoNM0pPmKeTcpd"
+            "duration_ms": 153391,
+            "name": "Crazy",
+            "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "SOLACE",
+                "url": "https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd"
+            },
+            "artists": [
+                {
+                    "name": "RÜFÜS DU SOL",
+                    "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+                }
+            ],
+            "duration_ms": 237986,
+            "name": "No Place",
+            "url": "https://open.spotify.com/track/6rLQZW36LaEUGWl3sWTg7v"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Born To Die - The Paradise Edition",
+                "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
+            },
+            "artists": [
+                {
+                    "name": "Lana Del Rey",
+                    "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+                }
+            ],
+            "duration_ms": 265427,
+            "name": "Summertime Sadness",
+            "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Walk Thru Fire",
+                "url": "https://open.spotify.com/album/19cloFhfD0cKbMEzUAxugB"
+            },
+            "artists": [
+                {
+                    "name": "Vicetone",
+                    "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+                }
+            ],
+            "duration_ms": 194482,
+            "name": "Walk Thru Fire",
+            "url": "https://open.spotify.com/track/2wQ411UQL2MRsdAgPRUstT"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Quran Kareem",
+                "url": "https://open.spotify.com/album/6lBgX1by0I1EBb064qwPZG"
+            },
+            "artists": [
+                {
+                    "name": "Mashary Rashid Al-Afassy",
+                    "url": "https://open.spotify.com/artist/6Qfu9DUaEqAAThHqgvcST9"
+                }
+            ],
+            "duration_ms": 692715,
+            "name": "Alrahman",
+            "url": "https://open.spotify.com/track/35sozvQCTY7SvaS1VjVPYr"
         },
         {
             "added_at": null,
@@ -819,194 +951,42 @@
         {
             "added_at": null,
             "album": {
-                "name": "Fearless Pt. II",
-                "url": "https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr"
+                "name": "Tsunami",
+                "url": "https://open.spotify.com/album/7p38vlEZaMNySKQVSSWUm8"
             },
             "artists": [
                 {
-                    "name": "Lost Sky",
-                    "url": "https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh"
+                    "name": "DVBBS",
+                    "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
                 },
                 {
-                    "name": "Chris Linton",
-                    "url": "https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI"
+                    "name": "Borgeous",
+                    "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
                 }
             ],
-            "duration_ms": 194181,
-            "name": "Fearless Pt. II",
-            "url": "https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis"
+            "duration_ms": 236706,
+            "name": "Tsunami",
+            "url": "https://open.spotify.com/track/0vZCG0H9KhtU7K8MEUVAoV"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Nothing but the Beat (Ultimate Edition)",
-                "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
+                "name": "Scared to Be Lonely",
+                "url": "https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF"
             },
             "artists": [
                 {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                    "name": "Martin Garrix",
+                    "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
                 },
                 {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                    "name": "Dua Lipa",
+                    "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
                 }
             ],
-            "duration_ms": 245040,
-            "name": "Titanium (feat. Sia)",
-            "url": "https://open.spotify.com/track/0TDLuuLlV54CkRRUOahJb4"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Run Free",
-                "url": "https://open.spotify.com/album/37QAucQUcm3aCvRLxjtwKj"
-            },
-            "artists": [
-                {
-                    "name": "Deep Chills",
-                    "url": "https://open.spotify.com/artist/12rBrcOPP50qIan8ew4iTP"
-                },
-                {
-                    "name": "IVIE",
-                    "url": "https://open.spotify.com/artist/2ol1cb6xyYpaxRTUsl1CYN"
-                }
-            ],
-            "duration_ms": 170562,
-            "name": "Run Free",
-            "url": "https://open.spotify.com/track/1oIdcFtf58sZbS7QyZQJ2P"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Less Is More",
-                "url": "https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG"
-            },
-            "artists": [
-                {
-                    "name": "Lost Frequencies",
-                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-                },
-                {
-                    "name": "Janieck",
-                    "url": "https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0"
-                }
-            ],
-            "duration_ms": 159480,
-            "name": "Reality",
-            "url": "https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Born To Die - The Paradise Edition",
-                "url": "https://open.spotify.com/album/5VoeRuTrGhTbKelUfwymwu"
-            },
-            "artists": [
-                {
-                    "name": "Lana Del Rey",
-                    "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-                }
-            ],
-            "duration_ms": 265427,
-            "name": "Summertime Sadness",
-            "url": "https://open.spotify.com/track/3BJe4B8zGnqEdQPMvfVjuS"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Light It Up",
-                "url": "https://open.spotify.com/album/4GbTZ3H4jqJPAZGjKiu8xS"
-            },
-            "artists": [
-                {
-                    "name": "Robin Hustin",
-                    "url": "https://open.spotify.com/artist/6FPDULwgllPquFdqdzj5gi"
-                },
-                {
-                    "name": "TobiMorrow",
-                    "url": "https://open.spotify.com/artist/7CSAJPH9eLCOvPc9jn1I6e"
-                },
-                {
-                    "name": "Jex",
-                    "url": "https://open.spotify.com/artist/0NO8SsF6umjI3iQJzTycVF"
-                }
-            ],
-            "duration_ms": 185390,
-            "name": "Light It Up",
-            "url": "https://open.spotify.com/track/6ibayfvVOby1NSKJFohtZp"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Motion",
-                "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
-            },
-            "artists": [
-                {
-                    "name": "Calvin Harris",
-                    "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-                },
-                {
-                    "name": "Ellie Goulding",
-                    "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-                }
-            ],
-            "duration_ms": 227266,
-            "name": "Outside (feat. Ellie Goulding)",
-            "url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Beautiful Lies (Deluxe)",
-                "url": "https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz"
-            },
-            "artists": [
-                {
-                    "name": "Birdy",
-                    "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-                }
-            ],
-            "duration_ms": 208395,
-            "name": "Keeping Your Head Up",
-            "url": "https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Crazy",
-                "url": "https://open.spotify.com/album/6SysUU95ns1m8xfNrLCWDx"
-            },
-            "artists": [
-                {
-                    "name": "Lost Frequencies",
-                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-                },
-                {
-                    "name": "Zonderling",
-                    "url": "https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr"
-                }
-            ],
-            "duration_ms": 153391,
-            "name": "Crazy",
-            "url": "https://open.spotify.com/track/64fwanXDvwmsQrLsDSVHMv"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Different World",
-                "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-            },
-            "artists": [
-                {
-                    "name": "Alan Walker",
-                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-                }
-            ],
-            "duration_ms": 212106,
-            "name": "Faded",
-            "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
+            "duration_ms": 220883,
+            "name": "Scared to Be Lonely",
+            "url": "https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH"
         }
     ],
     "unique_name": "2010s Mix",
