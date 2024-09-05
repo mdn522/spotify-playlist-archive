@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,066 songs - 7 day 16 hr 37 min - not published yet
+3,067 songs - 7 day 16 hr 41 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3063,7 +3063,8 @@
 | [告白畫面 \(影視劇《別對我動心》插曲\)](https://open.spotify.com/track/6bNsq0QmQywAHplp4bw7AX) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [告白畫面 \(影視劇《別對我動心》插曲\)](https://open.spotify.com/album/1BP530Dm7hq1bNMxOi5iJf) | 2:59 | 2024-03-07 | 2024-03-31 |
 | [愿为你](https://open.spotify.com/track/1T9nzhog5pMIxhVintpwUL) | [理塘丁真](https://open.spotify.com/artist/5EBr9yiLbzSQDpZv6sZRfo) | [赤梦华夏](https://open.spotify.com/album/3rb3FAQZ97Lr9HYCnD61L0) | 4:18 | 2023-07-06 | 2023-07-23 |
 | [攏麥吵](https://open.spotify.com/track/2Jqtjpn6MPJKtkqV6hwB0o) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [攏麥吵](https://open.spotify.com/album/67Nhl3ChDaAIPP8uKXvNgn) | 3:22 | 2023-04-20 | 2023-04-28 |
-| [沒了我你依然擁有太陽](https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒了我你依然擁有太陽](https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t) | 4:32 | 2024-08-29 |  |
+| [沒了我你依然擁有太陽](https://open.spotify.com/track/1kdorEa0Fro4lvhFWvQIqN) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒了我你依然擁有太陽](https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t) | 4:32 | 2024-08-29 | 2024-09-05 |
+| [沒了我你依然擁有太陽 \- 伴奏](https://open.spotify.com/track/2sgwNOorvZdNkgZkbdDZ3H) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒了我你依然擁有太陽](https://open.spotify.com/album/7L76pG9DApHkvbfl4UVp3t) | 4:35 | 2024-08-29 |  |
 | [沒語季節](https://open.spotify.com/track/4XMNBcoQgel3dQ5Klp5iwL) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒語季節](https://open.spotify.com/album/4jvwEC3SR9Xa6SBpYpUoNM) | 4:29 | 2024-07-25 | 2024-08-02 |
 | [海豚泪](https://open.spotify.com/track/5ZtbN1q9aQIwwFLtHEQ8T8) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [海豚泪](https://open.spotify.com/album/5MFKpe1TPz86HQAZAA4T5f) | 3:51 | 2022-12-22 | 2023-01-09 |
 | [玫瑰星雲](https://open.spotify.com/track/6Ah3Hulq4myZxCzl6R6jTS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [玫瑰星雲](https://open.spotify.com/album/6Oe1h2vT2NxbDicHJorcNN) | 4:11 | 2024-08-01 | 2024-08-09 |
