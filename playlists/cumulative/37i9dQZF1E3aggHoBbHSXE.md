@@ -4,7 +4,7 @@
 
 > Aero Chord, Disfigure, Alan Walker and more
 
-7,546 songs - 16 day 18 hr 26 min - not published yet
+7,547 songs - 16 day 18 hr 29 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2162,6 +2162,7 @@
 | [Feels Like a Dream](https://open.spotify.com/track/5NDrYaYzObrqyNsYmfTdxK) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Feels Like a Dream](https://open.spotify.com/album/0FhNkfNlwNQVBHKS9SiF0B) | 2:50 | 2022-07-10 | 2022-07-19 |
 | [Feels Like Destiny](https://open.spotify.com/track/0XpSMjNCNTxxVJbsNdL1Mh) | [Brainheart](https://open.spotify.com/artist/6WbG5UvM4fTvxSms7Gj2hI), [Brett Miller](https://open.spotify.com/artist/5WKSAch6loISTLupOa9Ilb) | [Feels Like Destiny](https://open.spotify.com/album/1rmFvaECzRRuyW42ngNneO) | 3:35 | 2022-09-13 | 2022-09-14 |
 | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/track/4R4gOp9ybG85RqbrY7JELc) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [MIYA MIYA](https://open.spotify.com/artist/62T4eJZxaNKzBzm8qbNnBy) | [Feels Like Love \(feat\. MIYA MIYA\)](https://open.spotify.com/album/5Xwq3PGZ30tYPIK402Bp29) | 2:49 | 2022-06-27 | 2022-08-16 |
+| [Feels Like Summer](https://open.spotify.com/track/3WkDoMgqtbQ34vToj64QcT) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Feels Like Summer](https://open.spotify.com/album/5iKPexFQ4fxWgCvEiqdn4r) | 2:58 | 2024-09-08 |  |
 | [Feels Like This \(feat\. Indiiana\)](https://open.spotify.com/track/0SGunE3qppk4PajqOvR6uu) | [Drenchill](https://open.spotify.com/artist/3nmaO18tcMzfrrR7sdJHnH), [Indiiana](https://open.spotify.com/artist/6oHCxanXnGoT4ntOtXwsWX) | [Feels Like This \(feat\. Indiiana\)](https://open.spotify.com/album/1XcUKgfwd3LG9EYvxSK7Lh) | 2:11 | 2023-02-15 | 2023-02-16 |
 | [Feker Libi](https://open.spotify.com/track/3Ll7yobqpKBCwxxNwTWeTL) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Feker Libi](https://open.spotify.com/album/0B50UPzhmmtU69BdRGV8UG) | 3:03 | 2024-01-01 | 2024-01-11 |
 | [Fell In Love With An Alien](https://open.spotify.com/track/5pOaB3p7eT1lyOPOxAuife) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Fell In Love With An Alien](https://open.spotify.com/album/7bK0u3PjYGd1iLFC4DGwfu) | 2:55 | 2023-03-15 | 2023-03-18 |
@@ -6962,7 +6963,7 @@
 | [We Will Rise \(Arknights Soundtrack\)](https://open.spotify.com/track/7zHL1OYrxUuxHxpCdHea4v) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [We Will Rise \(Arknights Soundtrack\)](https://open.spotify.com/album/5INa7MOsLir2U3srMW4UXN) | 2:52 | 2022-11-03 | 2023-01-03 |
 | [We Won't Be Alone](https://open.spotify.com/track/0u4TL9G2yVsd8U2eHYBq2v) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Monstercat \- Best of 2015](https://open.spotify.com/album/3AyUEbDJw533TIUwo6hwlE) | 3:54 | 2023-04-22 | 2023-09-30 |
 | [We Won't Be Alone](https://open.spotify.com/track/3AayefDdUFxivRs79bX7kV) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [We Won't Be Alone](https://open.spotify.com/album/70My3uuhRpziiFJl9x6qtw) | 3:54 | 2023-03-10 | 2024-05-29 |
-| [We Won't Let You Go](https://open.spotify.com/track/7BNzSt5xzEcky1L1om7JtY) | [Cyran](https://open.spotify.com/artist/0B54WRxCckBlGOi8yEuPpG) | [We Won't Let You Go](https://open.spotify.com/album/5t2Md5wqPWaNVOSZhgkv2V) | 3:12 | 2024-09-07 |  |
+| [We Won't Let You Go](https://open.spotify.com/track/7BNzSt5xzEcky1L1om7JtY) | [Cyran](https://open.spotify.com/artist/0B54WRxCckBlGOi8yEuPpG) | [We Won't Let You Go](https://open.spotify.com/album/5t2Md5wqPWaNVOSZhgkv2V) | 3:12 | 2024-09-07 | 2024-09-08 |
 | [We'll Meet Again](https://open.spotify.com/track/0saGACKtFP1ZVW4Nd4IkCw) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [We'll Meet Again](https://open.spotify.com/album/2BJTCbrtgoZEkufTmVBp0h) | 3:15 | 2023-03-01 | 2024-06-14 |
 | [We're Dynamite \(Hallman Remix\)](https://open.spotify.com/track/1GYKVzJ9GQuYrdXsE3Xba9) | [Craig Reever](https://open.spotify.com/artist/3OEFtQRq38Ysp1BZdmbK7h), [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5), [Willow](https://open.spotify.com/artist/4d2xTWSBnfKWxt1sG2YPQ4) | [We're Dynamite](https://open.spotify.com/album/5J0eYCZqwoUMo6dtSbeIEk) | 2:56 | 2022-06-14 | 2023-06-10 |
 | [We're Good](https://open.spotify.com/track/1diS6nkxMQc3wwC4G1j0bh) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia \(The Moonlight Edition\)](https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX) | 2:45 | 2022-05-21 | 2022-06-06 |
