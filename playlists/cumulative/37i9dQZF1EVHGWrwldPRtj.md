@@ -2,7 +2,7 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIWXSuLqfksmo>TommyMuzzic</a>, <a href=spotify:playlist:37i9dQZF1EIURIJJSnCGTo>SAINT X</a>, <a href=spotify:playlist:37i9dQZF1EIZap0kUUguqg>Rammor</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZHtXOxIdn9o>Reflekt</a>, <a href=spotify:playlist:37i9dQZF1EIURIJJSnCGTo>SAINT X</a>, <a href=spotify:playlist:37i9dQZF1EIWXSuLqfksmo>TommyMuzzic</a> and more
 
 2,619 songs - 5 day 23 hr 22 min - not published yet
 
@@ -342,7 +342,7 @@
 | [butterfly](https://open.spotify.com/track/34ZfAjSGM4vxJ1P6N5geSp) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [butterfly](https://open.spotify.com/album/4n0NmhE2JvEhqkfdQnPDW6) | 3:09 | 2022-06-16 | 2022-11-06 |
 | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/track/6iXGivPFpsqKmrINhIbPvx) | [Lynk Lee](https://open.spotify.com/artist/7H9jPV9qWyp6V629038aXU) | [Buồn Thì Cứ Khóc Đi](https://open.spotify.com/album/6mgn507pXtwFXRcEGcg4bA) | 3:42 | 2023-06-03 | 2023-11-24 |
 | [By My Side](https://open.spotify.com/track/6nzCvAtyADh0wwZEVMoujK) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [By My Side](https://open.spotify.com/album/6RkSKePFywXU4SlO2R0nRS) | 3:26 | 2023-11-30 | 2024-01-24 |
-| [By My Side](https://open.spotify.com/track/7CuirbdoToNGURPTSxXUyV) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [By My Side](https://open.spotify.com/album/1fx0N8LTKcYMOXsGooO7Dq) | 2:35 | 2022-07-02 |  |
+| [By My Side](https://open.spotify.com/track/7CuirbdoToNGURPTSxXUyV) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [By My Side](https://open.spotify.com/album/1fx0N8LTKcYMOXsGooO7Dq) | 2:35 | 2022-07-02 | 2024-09-13 |
 | [By My Side](https://open.spotify.com/track/25JmQ3qFQkhbLZMJpdftO9) | [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | ['Til the End](https://open.spotify.com/album/09dfll1eY4PRh0nSWIuFBi) | 3:10 | 2022-12-22 | 2023-01-04 |
 | [by now.](https://open.spotify.com/track/1TnVNBUTqp0QYMP0LaLmPR) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [parris mitchell](https://open.spotify.com/album/3LIS7KohYJl7mjWgE4oY3J) | 3:11 | 2022-12-08 | 2022-12-18 |
 | [by now.](https://open.spotify.com/track/1vwfNbiJGxrVOtvwM5tyOT) | [PARRIS MITCHELL](https://open.spotify.com/artist/151qX7FdFzbxCQ8lttcotn) | [parris mitchell](https://open.spotify.com/album/2AUh8VGQuONcMLyWxUXxN4) | 3:11 | 2022-06-16 | 2022-10-10 |
@@ -2202,7 +2202,7 @@
 | [Tell Me](https://open.spotify.com/track/19BoXyNUZB8M9PgAyMHVRg) | [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Hanne Mjøen](https://open.spotify.com/artist/2xDZ8qyyE2Ti4wL1Ob1T7V) | [Tell Me](https://open.spotify.com/album/7qnMJEfvGH0G9X6Y3RgJrP) | 2:07 | 2024-05-06 | 2024-07-04 |
 | [Tell Me](https://open.spotify.com/track/3mgcpUMKPWZLOdOhRPLobW) | [TRITICUM](https://open.spotify.com/artist/4ZoQmoFXF0JJAMTcgopOjd) | [Tell Me](https://open.spotify.com/album/7u5HbIA6vVr8eaBMebNXd0) | 2:23 | 2023-01-10 | 2023-01-17 |
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2024-04-01 | 2024-07-01 |
-| [Tell Me When](https://open.spotify.com/track/7DuIkFVdUdeyrIF5ucvW9a) | [MNTN RVR](https://open.spotify.com/artist/5DAjTvbPnjnGWlLU37xZDO), [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Tell Me When](https://open.spotify.com/album/4oUxC7KaORx5e7Sp2iesAs) | 2:13 | 2024-02-17 | 2024-09-01 |
+| [Tell Me When](https://open.spotify.com/track/7DuIkFVdUdeyrIF5ucvW9a) | [MNTN RVR](https://open.spotify.com/artist/5DAjTvbPnjnGWlLU37xZDO), [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE), [Lisa Rowe](https://open.spotify.com/artist/4WCciDwAfaLXtcH4yjfaDq) | [Tell Me When](https://open.spotify.com/album/4oUxC7KaORx5e7Sp2iesAs) | 2:13 | 2024-02-17 |  |
 | [Tell Your Friends](https://open.spotify.com/track/1mhVXWduD8ReDwusfaHNwU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 5:34 | 2023-08-29 | 2023-08-30 |
 | [Temple](https://open.spotify.com/track/6pH8WZDzS7wdWZSunqCUo2) | [Amy Zou](https://open.spotify.com/artist/7qAKj622p4OsUlFwiPAXog) | [Temple](https://open.spotify.com/album/4TORmhbjtNqzO0AGtuwEbc) | 3:13 | 2022-06-11 | 2022-11-17 |
 | [ten](https://open.spotify.com/track/5QOBT97OmYCZo1W5u7tRrB) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY), [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [ten](https://open.spotify.com/album/0GuEvq4vzB9QqUaU8lVL0F) | 3:01 | 2024-02-20 | 2024-03-08 |
