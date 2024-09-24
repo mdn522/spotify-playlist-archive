@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [S1R1](https://open.spotify.com/track/177jHmS4lU3rQ0ChQgnJNg) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [S1R1](https://open.spotify.com/album/4TSOXgTFZqsDHTqYVLwZEM) | 3:03 |
 | 30 | [Blinding Lights](https://open.spotify.com/track/0wI0S42Cg41DVGqIIVimTM) | [Revelries](https://open.spotify.com/artist/7KigP1NA8s7IiVIxP5ndwJ), [Victoria Voss](https://open.spotify.com/artist/2o1DwIg0eMGpA5m6zLLG2I) | [Blinding Lights](https://open.spotify.com/album/1RinMQThKCHcrk6hMf6QiN) | 2:56 |
 
-Snapshot ID: `AAAAAAAAAAA+3wd379WQ/ugshHfEXVSJ`
+Snapshot ID: `AAAAAAAAAAA04eyOHR9FDHfuSsOt/1/t`
