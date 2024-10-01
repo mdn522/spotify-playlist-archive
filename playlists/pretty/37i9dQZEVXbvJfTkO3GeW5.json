@@ -1,12 +1,12 @@
 {
     "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
-    "num_followers": null,
+    "num_followers": 0,
     "original_name": "Release Radar",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "AAAAAAAAAAA8HaWs4oQlqDO/WQiN2t4m",
+    "snapshot_id": "AAAAAAAAAAAJQkkI04JH1db/eVC7qaEm",
     "tracks": [
         {
             "added_at": "2024-09-26 18:00:00",
@@ -143,22 +143,18 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Silver & Gold (He's a Pirate)",
-                "url": "https://open.spotify.com/album/6vwAI2NpWeQxqIr717NzWl"
+                "name": "Soltera",
+                "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
             },
             "artists": [
                 {
-                    "name": "Jim Yosef",
-                    "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
-                },
-                {
-                    "name": "Scarlett",
-                    "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+                    "name": "Shakira",
+                    "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
                 }
             ],
-            "duration_ms": 182386,
-            "name": "Silver & Gold (He's a Pirate)",
-            "url": "https://open.spotify.com/track/2IZ5ujvazArdOpEvZgkvcO"
+            "duration_ms": 214642,
+            "name": "Soltera",
+            "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -191,34 +187,22 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Soltera",
-                "url": "https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ"
+                "name": "Silver & Gold (He's a Pirate)",
+                "url": "https://open.spotify.com/album/6vwAI2NpWeQxqIr717NzWl"
             },
             "artists": [
                 {
-                    "name": "Shakira",
-                    "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-                }
-            ],
-            "duration_ms": 214642,
-            "name": "Soltera",
-            "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
-                "name": "Black & Blue",
-                "url": "https://open.spotify.com/album/3PNIaTovKqdy09y99oPJ8a"
-            },
-            "artists": [
+                    "name": "Jim Yosef",
+                    "url": "https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO"
+                },
                 {
-                    "name": "Rachel Lorin",
-                    "url": "https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2"
+                    "name": "Scarlett",
+                    "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
                 }
             ],
-            "duration_ms": 166169,
-            "name": "Black & Blue",
-            "url": "https://open.spotify.com/track/297I4FGnmabWI4KNnJMiWc"
+            "duration_ms": 182386,
+            "name": "Silver & Gold (He's a Pirate)",
+            "url": "https://open.spotify.com/track/2IZ5ujvazArdOpEvZgkvcO"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -239,22 +223,34 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Can We Still Feel",
-                "url": "https://open.spotify.com/album/6Z8IMYRdfZtSu3w8XmtZ8F"
+                "name": "Harlequin",
+                "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
             },
             "artists": [
                 {
-                    "name": "Andrew Rayel",
-                    "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-                },
-                {
-                    "name": "Adara",
-                    "url": "https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY"
+                    "name": "Lady Gaga",
+                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
                 }
             ],
-            "duration_ms": 235000,
-            "name": "Can We Still Feel",
-            "url": "https://open.spotify.com/track/4Kr9WurHeaE1JaI9WK3zGq"
+            "duration_ms": 245435,
+            "name": "Happy Mistake",
+            "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
+                "name": "Black & Blue",
+                "url": "https://open.spotify.com/album/3PNIaTovKqdy09y99oPJ8a"
+            },
+            "artists": [
+                {
+                    "name": "Rachel Lorin",
+                    "url": "https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2"
+                }
+            ],
+            "duration_ms": 166169,
+            "name": "Black & Blue",
+            "url": "https://open.spotify.com/track/297I4FGnmabWI4KNnJMiWc"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -279,18 +275,50 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Harlequin",
-                "url": "https://open.spotify.com/album/6eKdAMXNBlXNtPy7OdBL50"
+                "name": "Can We Still Feel",
+                "url": "https://open.spotify.com/album/6Z8IMYRdfZtSu3w8XmtZ8F"
             },
             "artists": [
                 {
-                    "name": "Lady Gaga",
-                    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+                    "name": "Andrew Rayel",
+                    "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+                },
+                {
+                    "name": "Adara",
+                    "url": "https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY"
                 }
             ],
-            "duration_ms": 245435,
-            "name": "Happy Mistake",
-            "url": "https://open.spotify.com/track/5DQIZ8XC0EP7cfRFrtzY5h"
+            "duration_ms": 235000,
+            "name": "Can We Still Feel",
+            "url": "https://open.spotify.com/track/4Kr9WurHeaE1JaI9WK3zGq"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
+                "name": "Find My Way",
+                "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
+            },
+            "artists": [
+                {
+                    "name": "Seven Lions",
+                    "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+                },
+                {
+                    "name": "Wooli",
+                    "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+                },
+                {
+                    "name": "Trivecta",
+                    "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
+                },
+                {
+                    "name": "JIM",
+                    "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
+                }
+            ],
+            "duration_ms": 259862,
+            "name": "Light In The Dark",
+            "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -347,34 +375,6 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Find My Way",
-                "url": "https://open.spotify.com/album/1ldY76Rx5BjH8cCYHSX7cB"
-            },
-            "artists": [
-                {
-                    "name": "Seven Lions",
-                    "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-                },
-                {
-                    "name": "Wooli",
-                    "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-                },
-                {
-                    "name": "Trivecta",
-                    "url": "https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye"
-                },
-                {
-                    "name": "JIM",
-                    "url": "https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr"
-                }
-            ],
-            "duration_ms": 259862,
-            "name": "Light In The Dark",
-            "url": "https://open.spotify.com/track/1yh9noITAWOzxCtJdkD40W"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
                 "name": "Moon & Sun (off vocal)",
                 "url": "https://open.spotify.com/album/3laW8mRUysyA0S5U80vuJs"
             },
@@ -391,22 +391,6 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "弦上生花",
-                "url": "https://open.spotify.com/album/1gtTAGedjEJbJX9Gzjcn23"
-            },
-            "artists": [
-                {
-                    "name": "黄霄雲",
-                    "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
-                }
-            ],
-            "duration_ms": 292765,
-            "name": "弦上生花",
-            "url": "https://open.spotify.com/track/2vNZ6cI6U6Yl3DC6YvJvNV"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
                 "name": "You For Christmas",
                 "url": "https://open.spotify.com/album/30Kw3uH0UKxEllvLTZuE4q"
             },
@@ -419,6 +403,22 @@
             "duration_ms": 174004,
             "name": "You For Christmas",
             "url": "https://open.spotify.com/track/0JnT4HGgwKZspTP55W7EaN"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
+                "name": "弦上生花",
+                "url": "https://open.spotify.com/album/1gtTAGedjEJbJX9Gzjcn23"
+            },
+            "artists": [
+                {
+                    "name": "黄霄雲",
+                    "url": "https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU"
+                }
+            ],
+            "duration_ms": 292765,
+            "name": "弦上生花",
+            "url": "https://open.spotify.com/track/2vNZ6cI6U6Yl3DC6YvJvNV"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -687,30 +687,18 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Lady - Remixes",
-                "url": "https://open.spotify.com/album/6LqndVTWIod4IHOCTdXDHW"
+                "name": "Mai frumoasă",
+                "url": "https://open.spotify.com/album/1Q1NpQ3hluy4lde1v0fvwx"
             },
             "artists": [
                 {
-                    "name": "LANNÉ",
-                    "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-                },
-                {
-                    "name": "Giorgio Gee",
-                    "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
-                },
-                {
-                    "name": "Scott Rill",
-                    "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
-                },
-                {
-                    "name": "feva.",
-                    "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
+                    "name": "Lidia Buble",
+                    "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
                 }
             ],
-            "duration_ms": 169713,
-            "name": "Lady - feva. Remix",
-            "url": "https://open.spotify.com/track/1LfZ0RNwV0Pr8upxHxTTpu"
+            "duration_ms": 179076,
+            "name": "Mai frumoasă",
+            "url": "https://open.spotify.com/track/2vE8U48UhRlLKyQvNM9Kqp"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -735,18 +723,30 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Mai frumoasă",
-                "url": "https://open.spotify.com/album/1Q1NpQ3hluy4lde1v0fvwx"
+                "name": "Lady - Remixes",
+                "url": "https://open.spotify.com/album/6LqndVTWIod4IHOCTdXDHW"
             },
             "artists": [
                 {
-                    "name": "Lidia Buble",
-                    "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+                    "name": "LANNÉ",
+                    "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+                },
+                {
+                    "name": "Giorgio Gee",
+                    "url": "https://open.spotify.com/artist/2uNkbVQ2yfwLDR79cYe92R"
+                },
+                {
+                    "name": "Scott Rill",
+                    "url": "https://open.spotify.com/artist/7dNg7OLrxcWU9cVe3sQoMV"
+                },
+                {
+                    "name": "feva.",
+                    "url": "https://open.spotify.com/artist/17jt0BZZK9k3gonW1osVSH"
                 }
             ],
-            "duration_ms": 179076,
-            "name": "Mai frumoasă",
-            "url": "https://open.spotify.com/track/2vE8U48UhRlLKyQvNM9Kqp"
+            "duration_ms": 169713,
+            "name": "Lady - feva. Remix",
+            "url": "https://open.spotify.com/track/1LfZ0RNwV0Pr8upxHxTTpu"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -1051,6 +1051,22 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
+                "name": "Live at Montreux Jazz Festival",
+                "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+            },
+            "artists": [
+                {
+                    "name": "RAYE",
+                    "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                }
+            ],
+            "duration_ms": 419683,
+            "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
+            "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
                 "name": "Clear Your Mind",
                 "url": "https://open.spotify.com/album/0efDgl1rF7FPQ2f5axXgJR"
             },
@@ -1067,18 +1083,18 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Live at Montreux Jazz Festival",
-                "url": "https://open.spotify.com/album/0uqyhvc8HEyztLSTE8RKmx"
+                "name": "Touching The Ether",
+                "url": "https://open.spotify.com/album/5wvmLDbsJCgIF1i00mt7aR"
             },
             "artists": [
                 {
-                    "name": "RAYE",
-                    "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+                    "name": "Aurora Night",
+                    "url": "https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12"
                 }
             ],
-            "duration_ms": 419683,
-            "name": "It's A Man's Man's Man's World - Live at Montreux Jazz Festival",
-            "url": "https://open.spotify.com/track/6L1bCa0ff2yknczfXwPLId"
+            "duration_ms": 196285,
+            "name": "Touching The Ether",
+            "url": "https://open.spotify.com/track/5DNubcqwUcETmJLeubsf0c"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -1115,22 +1131,6 @@
             "duration_ms": 203023,
             "name": "Tere Dar Pe Sanam (From \"Beinteha\")",
             "url": "https://open.spotify.com/track/5ptEDqo1Tqu7siiyfAHZ9x"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
-                "name": "Touching The Ether",
-                "url": "https://open.spotify.com/album/5wvmLDbsJCgIF1i00mt7aR"
-            },
-            "artists": [
-                {
-                    "name": "Aurora Night",
-                    "url": "https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12"
-                }
-            ],
-            "duration_ms": 196285,
-            "name": "Touching The Ether",
-            "url": "https://open.spotify.com/track/5DNubcqwUcETmJLeubsf0c"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -1303,22 +1303,6 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Hope For The Hopeless",
-                "url": "https://open.spotify.com/album/4Jy5Jtg9dazPW4bWdZ5MKm"
-            },
-            "artists": [
-                {
-                    "name": "Susana",
-                    "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
-                }
-            ],
-            "duration_ms": 224516,
-            "name": "Hope For The Hopeless",
-            "url": "https://open.spotify.com/track/3irhEv7RNyIfC2zirXvV2t"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
                 "name": "RiTiTi",
                 "url": "https://open.spotify.com/album/1qlv95s2d9lUHn2E4X7Uzm"
             },
@@ -1335,6 +1319,22 @@
             "duration_ms": 139805,
             "name": "RiTiTi",
             "url": "https://open.spotify.com/track/1sHlpmqRbbLSufAKcyPYVl"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
+                "name": "Hope For The Hopeless",
+                "url": "https://open.spotify.com/album/4Jy5Jtg9dazPW4bWdZ5MKm"
+            },
+            "artists": [
+                {
+                    "name": "Susana",
+                    "url": "https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf"
+                }
+            ],
+            "duration_ms": 224516,
+            "name": "Hope For The Hopeless",
+            "url": "https://open.spotify.com/track/3irhEv7RNyIfC2zirXvV2t"
         },
         {
             "added_at": "2024-09-26 18:00:00",
@@ -1371,22 +1371,6 @@
         {
             "added_at": "2024-09-26 18:00:00",
             "album": {
-                "name": "Hurt With You",
-                "url": "https://open.spotify.com/album/0mt2Jf9NXY4Hh8t83gdxtY"
-            },
-            "artists": [
-                {
-                    "name": "Ruelle",
-                    "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
-                }
-            ],
-            "duration_ms": 273024,
-            "name": "Hurt With You",
-            "url": "https://open.spotify.com/track/2jmvlzTbRkaND2nZrl2XpJ"
-        },
-        {
-            "added_at": "2024-09-26 18:00:00",
-            "album": {
                 "name": "Within (Remix EP)",
                 "url": "https://open.spotify.com/album/5thBUyeTyR8sJXr49ECdqo"
             },
@@ -1403,6 +1387,22 @@
             "duration_ms": 157241,
             "name": "Resolve - Ahrix Remix",
             "url": "https://open.spotify.com/track/0X7ZZmvo2tSBjE72Bo8pRp"
+        },
+        {
+            "added_at": "2024-09-26 18:00:00",
+            "album": {
+                "name": "Hurt With You",
+                "url": "https://open.spotify.com/album/0mt2Jf9NXY4Hh8t83gdxtY"
+            },
+            "artists": [
+                {
+                    "name": "Ruelle",
+                    "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+                }
+            ],
+            "duration_ms": 273024,
+            "name": "Hurt With You",
+            "url": "https://open.spotify.com/track/2jmvlzTbRkaND2nZrl2XpJ"
         }
     ],
     "unique_name": "Release Radar",

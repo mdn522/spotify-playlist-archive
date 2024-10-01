@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
 
-[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 30 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Symphony](https://open.spotify.com/track/2bsEQshjXVy8ZyVPkYDwWb) | [FLX](https://open.spotify.com/artist/5ReEaUoPEJMxR0hefo2QZ4), [Dtrch](https://open.spotify.com/artist/69iYNBeJLpQOXY0AbD2Cln) | [Symphony](https://open.spotify.com/album/1Z8i2DpruXb6nWwRlsCMwx) | 2:18 |
 | 30 | [We Found Love](https://open.spotify.com/track/2TYfZGxwtGxYSwclg34AlL) | [ASKAIØ](https://open.spotify.com/artist/5IRpfp3uwWFXBp1L2y9Q3F), [Hoop Records](https://open.spotify.com/artist/47Ad2VIyZw89AWmkM9QtSc), [ABBY M.](https://open.spotify.com/artist/7ctrKlHGrafDZ9LvSneAAM) | [We Found Love](https://open.spotify.com/album/1mNBl09yAdK8yjyylQtJf7) | 2:51 |
 
-Snapshot ID: `AAAAAAAAAAA04eyOHR9FDHfuSsOt/1/t`
+Snapshot ID: `AAAAAAAAAAAXTnsVX5iQhw0fZTlwkgRc`
