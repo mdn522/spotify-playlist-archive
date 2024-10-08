@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [I Only Smoke When I Drink](https://open.spotify.com/track/39glDGcpBhLVMSsQhvtqHR) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [I Only Smoke When I Drink](https://open.spotify.com/album/05iJvxOa8h8GjGPe5JnvDG) | 3:18 |
 | 30 | [Sunny Day](https://open.spotify.com/track/3WNZCfPoouCRTbZR0pi0Vn) | [MR TOUT LE MONDE](https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn) | [SUN](https://open.spotify.com/album/22BibCTT5nG6VhRDRAzFMs) | 3:12 |
 
-Snapshot ID: `AAAAAAAAAAAXTnsVX5iQhw0fZTlwkgRc`
+Snapshot ID: `AAAAAAAAAAA3M7B/J4mktZhQoOiloCAU`

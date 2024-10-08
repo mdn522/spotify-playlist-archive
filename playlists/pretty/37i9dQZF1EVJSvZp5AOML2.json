@@ -1,13 +1,33 @@
 {
-    "description": "<a href=spotify:playlist:37i9dQZF1EIVmkna7DTk3K>Alan Walker</a>, <a href=spotify:playlist:37i9dQZF1EIW2EENT59bKH>Edward Maya</a>, <a href=spotify:playlist:37i9dQZF1EIUXOuZhF0kzy>ILIRA</a> and more",
+    "description": "<a href=spotify:playlist:37i9dQZF1EIUCsUAIEMmLY>Michael Schulte</a>, <a href=spotify:playlist:37i9dQZF1EIVmkna7DTk3K>Alan Walker</a>, <a href=spotify:playlist:37i9dQZF1EIXGqb7XgGZf1>Nicky Youre</a> and more",
     "num_followers": 0,
     "original_name": "Happy Mix",
     "owner": {
         "name": "Spotify",
         "url": "https://open.spotify.com/user/spotify"
     },
-    "snapshot_id": "AAAAAAAAAAAGUpohQuEwZaB0I8oZzAhU",
+    "snapshot_id": "AAAAAAAAAAAUnfvtfGHFKEa6Fvdp1sgk",
     "tracks": [
+        {
+            "added_at": null,
+            "album": {
+                "name": "Remember Me",
+                "url": "https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF"
+            },
+            "artists": [
+                {
+                    "name": "Michael Schulte",
+                    "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+                },
+                {
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+                }
+            ],
+            "duration_ms": 166080,
+            "name": "Better Me",
+            "url": "https://open.spotify.com/track/1bXXncvQipWmG8kOpQqaYM"
+        },
         {
             "added_at": null,
             "album": {
@@ -31,34 +51,22 @@
         {
             "added_at": null,
             "album": {
-                "name": "Someone Like You",
-                "url": "https://open.spotify.com/album/7LRh9QBMrayXTVHP9szJEX"
+                "name": "Good Times Go",
+                "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
             },
             "artists": [
                 {
-                    "name": "Edward Maya",
-                    "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
-                }
-            ],
-            "duration_ms": 209032,
-            "name": "Someone Like You",
-            "url": "https://open.spotify.com/track/7uYhYArtFbfoNy3QC2yNkv"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "PAY ME BACK!",
-                "url": "https://open.spotify.com/album/0FdEEw1vJvO8hCUJUoYjRd"
-            },
-            "artists": [
+                    "name": "Nicky Youre",
+                    "url": "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+                },
                 {
-                    "name": "ILIRA",
-                    "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+                    "name": "dazy",
+                    "url": "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
                 }
             ],
-            "duration_ms": 188200,
-            "name": "PAY ME BACK!",
-            "url": "https://open.spotify.com/track/0XO1KK7qiUGVK8t3FZdM4w"
+            "duration_ms": 163025,
+            "name": "Sunroof",
+            "url": "https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA"
         },
         {
             "added_at": null,
@@ -103,26 +111,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Barcelona",
-                "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-            },
-            "artists": [
-                {
-                    "name": "Alan Walker",
-                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-                },
-                {
-                    "name": "Ina Wroldsen",
-                    "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-                }
-            ],
-            "duration_ms": 205086,
-            "name": "Barcelona",
-            "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "The Sound of Silence (CYRIL Remix)",
                 "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
             },
@@ -139,6 +127,26 @@
             "duration_ms": 185238,
             "name": "The Sound of Silence - CYRIL Remix",
             "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Barcelona",
+                "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+            },
+            "artists": [
+                {
+                    "name": "Alan Walker",
+                    "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+                },
+                {
+                    "name": "Ina Wroldsen",
+                    "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+                }
+            ],
+            "duration_ms": 205086,
+            "name": "Barcelona",
+            "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
         },
         {
             "added_at": null,
@@ -227,6 +235,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "Someone Like You",
+                "url": "https://open.spotify.com/album/7LRh9QBMrayXTVHP9szJEX"
+            },
+            "artists": [
+                {
+                    "name": "Edward Maya",
+                    "url": "https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq"
+                }
+            ],
+            "duration_ms": 209032,
+            "name": "Someone Like You",
+            "url": "https://open.spotify.com/track/7uYhYArtFbfoNy3QC2yNkv"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Whistle (feat. Calum Scott)",
                 "url": "https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj"
             },
@@ -243,26 +267,6 @@
             "duration_ms": 181957,
             "name": "Whistle (feat. Calum Scott)",
             "url": "https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "I",
-                "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
-            },
-            "artists": [
-                {
-                    "name": "Ofenbach",
-                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-                },
-                {
-                    "name": "Ella Henderson",
-                    "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-                }
-            ],
-            "duration_ms": 147139,
-            "name": "Hurricane",
-            "url": "https://open.spotify.com/track/3P3i2ratUjex3HJEF8aAVi"
         },
         {
             "added_at": null,
@@ -327,6 +331,26 @@
         {
             "added_at": null,
             "album": {
+                "name": "I",
+                "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
+            },
+            "artists": [
+                {
+                    "name": "Ofenbach",
+                    "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+                },
+                {
+                    "name": "Ella Henderson",
+                    "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+                }
+            ],
+            "duration_ms": 147139,
+            "name": "Hurricane",
+            "url": "https://open.spotify.com/track/3P3i2ratUjex3HJEF8aAVi"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Where Did You Go (feat. MNEK)",
                 "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
             },
@@ -343,30 +367,6 @@
             "duration_ms": 177689,
             "name": "Where Did You Go? (feat. MNEK)",
             "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Cry Baby",
-                "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
-            },
-            "artists": [
-                {
-                    "name": "Clean Bandit",
-                    "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-                },
-                {
-                    "name": "Anne-Marie",
-                    "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-                },
-                {
-                    "name": "David Guetta",
-                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-                }
-            ],
-            "duration_ms": 157086,
-            "name": "Cry Baby",
-            "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
         },
         {
             "added_at": null,
@@ -395,18 +395,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Shackles (Praise You)",
-                "url": "https://open.spotify.com/album/07krOSTHksEiKzSWALQ4Mn"
+                "name": "Rockwood",
+                "url": "https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE"
             },
             "artists": [
                 {
-                    "name": "MALARKEY",
-                    "url": "https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV"
+                    "name": "Mark Ambor",
+                    "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
                 }
             ],
-            "duration_ms": 140018,
-            "name": "Shackles (Praise You)",
-            "url": "https://open.spotify.com/track/4xWyU0pUsm25vh4v4omUkC"
+            "duration_ms": 148317,
+            "name": "Belong Together",
+            "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
         },
         {
             "added_at": null,
@@ -427,6 +427,30 @@
             "duration_ms": 178273,
             "name": "Whatever",
             "url": "https://open.spotify.com/track/4rTPLtqJxa4UtCBkdMwSp6"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Cry Baby",
+                "url": "https://open.spotify.com/album/2wPD7JNjWWmAysbcHzD70b"
+            },
+            "artists": [
+                {
+                    "name": "Clean Bandit",
+                    "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+                },
+                {
+                    "name": "Anne-Marie",
+                    "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+                },
+                {
+                    "name": "David Guetta",
+                    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+                }
+            ],
+            "duration_ms": 157086,
+            "name": "Cry Baby",
+            "url": "https://open.spotify.com/track/7oDSG2Q9RBU0QjgtfYQOdD"
         },
         {
             "added_at": null,
@@ -455,22 +479,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Another Heart",
-                "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
-            },
-            "artists": [
-                {
-                    "name": "ILIRA",
-                    "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
-                }
-            ],
-            "duration_ms": 142786,
-            "name": "Another Heart",
-            "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Radical Optimism",
                 "url": "https://open.spotify.com/album/1Mo92916G2mmG7ajpmSVrc"
             },
@@ -487,18 +495,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Riptide",
-                "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+                "name": "Another Heart",
+                "url": "https://open.spotify.com/album/4l4nNA4kBnWJKWeGZyb12d"
             },
             "artists": [
                 {
-                    "name": "TWOPILOTS",
-                    "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+                    "name": "ILIRA",
+                    "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
                 }
             ],
-            "duration_ms": 154731,
-            "name": "Riptide",
-            "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
+            "duration_ms": 142786,
+            "name": "Another Heart",
+            "url": "https://open.spotify.com/track/4azu3mztPqAbJLDGrcraQK"
         },
         {
             "added_at": null,
@@ -543,26 +551,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "All Stand Together",
-                "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
-            },
-            "artists": [
-                {
-                    "name": "Lost Frequencies",
-                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-                },
-                {
-                    "name": "Calum Scott",
-                    "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-                }
-            ],
-            "duration_ms": 149066,
-            "name": "Where Are You Now",
-            "url": "https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Golden Hour",
                 "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
             },
@@ -583,18 +571,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "My Lovin'",
-                "url": "https://open.spotify.com/album/4L8gT2dMvOHkhyUBchmy2h"
+                "name": "All Stand Together",
+                "url": "https://open.spotify.com/album/6Kk0U3JRoniLtiSjypjEVL"
             },
             "artists": [
                 {
-                    "name": "GAMPER & DADONI",
-                    "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+                    "name": "Lost Frequencies",
+                    "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+                },
+                {
+                    "name": "Calum Scott",
+                    "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
                 }
             ],
-            "duration_ms": 150023,
-            "name": "My Lovin'",
-            "url": "https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9"
+            "duration_ms": 149066,
+            "name": "Where Are You Now",
+            "url": "https://open.spotify.com/track/3mfER4ORePHvN35cbZ3dkV"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Riptide",
+                "url": "https://open.spotify.com/album/2zx1E2Yv7eYSWvfbPDDF7P"
+            },
+            "artists": [
+                {
+                    "name": "TWOPILOTS",
+                    "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+                }
+            ],
+            "duration_ms": 154731,
+            "name": "Riptide",
+            "url": "https://open.spotify.com/track/6yv0ZjBlZy2oRFq7jAis2C"
         },
         {
             "added_at": null,
@@ -615,18 +623,34 @@
         {
             "added_at": null,
             "album": {
-                "name": "=",
-                "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
+                "name": "My Lovin'",
+                "url": "https://open.spotify.com/album/4L8gT2dMvOHkhyUBchmy2h"
             },
             "artists": [
                 {
-                    "name": "Ed Sheeran",
-                    "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+                    "name": "GAMPER & DADONI",
+                    "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
                 }
             ],
-            "duration_ms": 207853,
-            "name": "Shivers",
-            "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
+            "duration_ms": 150023,
+            "name": "My Lovin'",
+            "url": "https://open.spotify.com/track/2hSGBHKZgOjWaPckW4mVf9"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Heaven & Hell",
+                "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+            },
+            "artists": [
+                {
+                    "name": "Ava Max",
+                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                }
+            ],
+            "duration_ms": 187436,
+            "name": "Sweet but Psycho",
+            "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
         },
         {
             "added_at": null,
@@ -647,18 +671,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Heaven & Hell",
-                "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+                "name": "=",
+                "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
             },
             "artists": [
                 {
-                    "name": "Ava Max",
-                    "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+                    "name": "Ed Sheeran",
+                    "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
                 }
             ],
-            "duration_ms": 187436,
-            "name": "Sweet but Psycho",
-            "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI"
+            "duration_ms": 207853,
+            "name": "Shivers",
+            "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
         },
         {
             "added_at": null,
@@ -743,6 +767,46 @@
         {
             "added_at": null,
             "album": {
+                "name": "Reasonable Woman",
+                "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
+            },
+            "artists": [
+                {
+                    "name": "Sia",
+                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+                },
+                {
+                    "name": "Kylie Minogue",
+                    "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+                }
+            ],
+            "duration_ms": 172321,
+            "name": "Dance Alone",
+            "url": "https://open.spotify.com/track/383JWnOj0A0CfIylM8wPIz"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Remember Me",
+                "url": "https://open.spotify.com/album/2VYn7cSOxVkl8MwEJr7UCF"
+            },
+            "artists": [
+                {
+                    "name": "Michael Schulte",
+                    "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+                },
+                {
+                    "name": "R3HAB",
+                    "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+                }
+            ],
+            "duration_ms": 139826,
+            "name": "Waterfall",
+            "url": "https://open.spotify.com/track/09EhgVA4blwhSic4hF2TFZ"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "I",
                 "url": "https://open.spotify.com/album/5JPF8D6pm5x5eOVL8pvw2l"
             },
@@ -767,42 +831,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Reasonable Woman",
-                "url": "https://open.spotify.com/album/5xcBkdfDSd1g00yPt78ROb"
-            },
-            "artists": [
-                {
-                    "name": "Sia",
-                    "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-                },
-                {
-                    "name": "Kylie Minogue",
-                    "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-                }
-            ],
-            "duration_ms": 172321,
-            "name": "Dance Alone",
-            "url": "https://open.spotify.com/track/383JWnOj0A0CfIylM8wPIz"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "So Good",
-                "url": "https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B"
-            },
-            "artists": [
-                {
-                    "name": "Zara Larsson",
-                    "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-                }
-            ],
-            "duration_ms": 201122,
-            "name": "Lush Life",
-            "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "=",
                 "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
             },
@@ -815,38 +843,6 @@
             "duration_ms": 230746,
             "name": "Bad Habits",
             "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sunshine",
-                "url": "https://open.spotify.com/album/1fjm9tF70Y0HMV795Q1tsj"
-            },
-            "artists": [
-                {
-                    "name": "Lavern",
-                    "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
-                }
-            ],
-            "duration_ms": 142674,
-            "name": "Sunshine",
-            "url": "https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Rockwood",
-                "url": "https://open.spotify.com/album/3Kb9vAa1RBNXEQltJpPxwE"
-            },
-            "artists": [
-                {
-                    "name": "Mark Ambor",
-                    "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-                }
-            ],
-            "duration_ms": 148317,
-            "name": "Belong Together",
-            "url": "https://open.spotify.com/track/0rtDE9zfXbamTlRUSwY7zy"
         },
         {
             "added_at": null,
@@ -899,6 +895,22 @@
         {
             "added_at": null,
             "album": {
+                "name": "Sunshine",
+                "url": "https://open.spotify.com/album/1fjm9tF70Y0HMV795Q1tsj"
+            },
+            "artists": [
+                {
+                    "name": "Lavern",
+                    "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+                }
+            ],
+            "duration_ms": 142674,
+            "name": "Sunshine",
+            "url": "https://open.spotify.com/track/66BDXKHZOvvz4CwZovEMwH"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Raise Your Glass",
                 "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
             },
@@ -915,42 +927,38 @@
         {
             "added_at": null,
             "album": {
-                "name": "How Will I Know",
-                "url": "https://open.spotify.com/album/0ieUgrqfmWB4Ywu2CLWNWQ"
+                "name": "Be Kind (with Halsey)",
+                "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC"
             },
             "artists": [
                 {
-                    "name": "Whitney Houston",
-                    "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+                    "name": "Marshmello",
+                    "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
                 },
                 {
-                    "name": "Clean Bandit",
-                    "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+                    "name": "Halsey",
+                    "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
                 }
             ],
-            "duration_ms": 213435,
-            "name": "How Will I Know",
-            "url": "https://open.spotify.com/track/79wbJeLkXOlJh4AzaWCWfL"
+            "duration_ms": 172761,
+            "name": "Be Kind (with Halsey)",
+            "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
         },
         {
             "added_at": null,
             "album": {
-                "name": "More Than I Can Say",
-                "url": "https://open.spotify.com/album/7uIapyvYvTGZtM3Osj9kiB"
+                "name": "Nu King",
+                "url": "https://open.spotify.com/album/5yrqPWuCSAo6beZdIBYAUU"
             },
             "artists": [
                 {
-                    "name": "GAMPER & DADONI",
-                    "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
-                },
-                {
-                    "name": "D.T.E",
-                    "url": "https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q"
+                    "name": "Jason Derulo",
+                    "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
                 }
             ],
-            "duration_ms": 153197,
-            "name": "More Than I Can Say",
-            "url": "https://open.spotify.com/track/1Kmth9jEjaymopjSRBmtkz"
+            "duration_ms": 190306,
+            "name": "Take You Dancing",
+            "url": "https://open.spotify.com/track/3at4D3FZnJnYR0Mfcn6JSN"
         },
         {
             "added_at": null,
