@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [I Got Summer On My Mind](https://open.spotify.com/track/6HJiKaPc4LYPczBFGSMBFs) | [Jay Dunham](https://open.spotify.com/artist/4JWZwoacJTvnATTK9BUE34) | [I Got Summer On My Mind](https://open.spotify.com/album/1yVct2QPNbEAwI4kljQiOF) | 3:08 |
 | 30 | [Lucky You](https://open.spotify.com/track/4xfe65RFV2JTGCc9Of8jZY) | [Andy Dust](https://open.spotify.com/artist/4Lko1bJ6FNUnE6Ud95YSPf), [Cyril M](https://open.spotify.com/artist/4wK7xzsbUZ1jC7qDgmIWpV), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Lucky You](https://open.spotify.com/album/4GrDV2uOi1V53gi5FPfcqd) | 2:22 |
 
-Snapshot ID: `AAAAAAAAAAA3M7B/J4mktZhQoOiloCAU`
+Snapshot ID: `AAAAAAAAAABMKw+Y0udL+nK7BDkau+1g`
