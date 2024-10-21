@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-903 songs - 1 day 22 hr 51 min - not published yet
+904 songs - 1 day 22 hr 55 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,7 @@
 | [Live And Die Together](https://open.spotify.com/track/3JeaPFm9uSisDgEgFXEiHF) | [Palane](https://open.spotify.com/artist/393dtQjlemWfdJUUGRKbRr) | [Live And Die Together](https://open.spotify.com/album/4PG6pRMTxBGpHOtmeUxVhd) | 2:42 | 2023-02-13 | 2023-03-18 |
 | [Live for the Night](https://open.spotify.com/track/457p7UH7hoHrbA2iI4PSCA) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:26 | 2023-10-16 | 2023-10-26 |
 | [Locked In](https://open.spotify.com/track/7CTcpzlvGIAOhE0ESO2mVJ) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0) | [Earth Signs](https://open.spotify.com/album/7sqAuwtX9WY7yTqEu2UPHu) | 3:00 | 2022-07-05 | 2022-09-01 |
-| [Lonely](https://open.spotify.com/track/14CvCEVYRiWCJU70hzY7oF) | [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lonely](https://open.spotify.com/album/7tcUQJCPM0pyhCZDANx5Fq) | 2:13 | 2024-10-05 |  |
+| [Lonely](https://open.spotify.com/track/14CvCEVYRiWCJU70hzY7oF) | [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Lonely](https://open.spotify.com/album/7tcUQJCPM0pyhCZDANx5Fq) | 2:13 | 2024-10-05 | 2024-10-21 |
 | [Lonely Heart](https://open.spotify.com/track/4iGjLLvo4Pax82YX3jE3Q1) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Lonely Heart](https://open.spotify.com/album/4vyvkwkkwuCdLhQjWJG01q) | 2:47 | 2023-04-13 | 2023-06-04 |
 | [Lose You](https://open.spotify.com/track/7sFk2PA3NsrrSsGa4CM3rs) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [The London Sessions](https://open.spotify.com/album/6CIslPQSknp875cigkhKJC) | 2:28 | 2024-07-04 | 2024-07-17 |
 | [Losing You](https://open.spotify.com/track/3JC7UABWAy8SBt9lPNGTog) | [Cerberuh](https://open.spotify.com/artist/6vYSj8UGQKDTwIvraBXwE9) | [Losing You](https://open.spotify.com/album/6q0uPcjpgFmdHUJkGTs1aK) | 2:40 | 2022-10-15 | 2022-10-25 |
@@ -810,6 +810,7 @@
 | [Tomboy](https://open.spotify.com/track/4fdRbN2V08D3lGn8axracp) | [Jessica Hammond](https://open.spotify.com/artist/2lsJv6qUERUm02g6uaxRri) | [Tomboy](https://open.spotify.com/album/7yr1sTvzUeBph4S0uU77jS) | 3:15 | 2022-09-06 | 2022-10-31 |
 | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/track/4y2SshixeFlqPprLmoZtJe) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [TOMBOY \(R3HAB Remix\)](https://open.spotify.com/album/16UgZxoo4YMJIJItRxi7qb) | 2:09 | 2023-10-28 | 2023-12-22 |
 | [Too Late](https://open.spotify.com/track/0ssjVff1nfH3E2KIGLapAE) | [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8), [Siera](https://open.spotify.com/artist/2t2DBBFg6vpPplx5nrKJYn) | [Too Late](https://open.spotify.com/album/6jS3XjYZR0b0KH1l0ZjJOf) | 2:15 | 2023-04-07 | 2023-04-11 |
+| [Too Sweet \- Slap House Remix](https://open.spotify.com/track/5bAmB6JkLjeTIwsgsMOImN) | [Bitran](https://open.spotify.com/artist/28G1E8v7tSt5a7m3fS5fKW) | [Too Sweet \(Slap House Remix\)](https://open.spotify.com/album/3lbjiFGrXzX2ov1VVKlFIR) | 3:53 | 2024-10-20 |  |
 | [Too Well](https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Everything To Everyone](https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ) | 2:36 | 2024-04-01 | 2024-05-29 |
 | [Touch](https://open.spotify.com/track/73qPSAbRWPnO5ARBueTFPL) | [Glaceo](https://open.spotify.com/artist/2FnjEL8SlmLe3YBFmPkV9N), [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Touch](https://open.spotify.com/album/2XJzEuJeBd9SecLhjPxwaV) | 2:30 | 2022-05-24 | 2022-06-05 |
 | [TOUCH](https://open.spotify.com/track/5X2fdUeKzMTSLrOYYe11hl) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [TOUCH](https://open.spotify.com/album/3HuLKflvzcpYxiuDLfDA21) | 3:04 | 2023-08-29 | 2023-10-17 |
