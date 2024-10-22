@@ -9,7 +9,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Mi Amor \(with JVKE & Anitta\)](https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz) | 2:19 |
-| 2 | [The Power of Love \- House Mix](https://open.spotify.com/track/0EKS6d2WsfvFxEqhYfIy7K) | [TTO](https://open.spotify.com/artist/6ZwMBC1nNUHmgHjL4UAowI) | [The Power of Love \- House Mix](https://open.spotify.com/album/77XxL1esZriVWScdrELgel) | 3:36 |
+| 2 | [The Power of Love \- House Mix](https://open.spotify.com/track/0EKS6d2WsfvFxEqhYfIy7K) | [TTO](https://open.spotify.com/artist/6ZwMBC1nNUHmgHjL4UAowI) | [The Power of Love \(House Mix\)](https://open.spotify.com/album/77XxL1esZriVWScdrELgel) | 3:36 |
 | 3 | [Fiesta](https://open.spotify.com/track/1v03tMJZRX2eN4dM89pCfS) | [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [ALTÉGO](https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS) | [Fiesta](https://open.spotify.com/album/43GxzJfjtDyFx1m58gA3rd) | 2:20 |
 | 4 | [Titanium](https://open.spotify.com/track/2OPKMxexVm8Rz4IEsrPr8z) | [Titov](https://open.spotify.com/artist/3SuQprUc8N1kIOs2Hm2mAk), [Rachela](https://open.spotify.com/artist/5g83Sw70TBwIsA5QCI85OE) | [Titanium](https://open.spotify.com/album/0InUd1C3rUmZKX6Ull8naK) | 2:53 |
 | 5 | [Outta Your Mind \- Radio Edit](https://open.spotify.com/track/2ZdU81kQJ4T536OhpevdFC) | [Xavi del Mundo](https://open.spotify.com/artist/7Buhhx93PEJ1wNGh4iGfQ8), [Menno](https://open.spotify.com/artist/1MPTYMphF5G5cdiATErmvM) | [Outta Your Mind](https://open.spotify.com/album/5G0wizgBz0dovdoqaP0hVY) | 2:16 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Don't Waste Your Love](https://open.spotify.com/track/5d9qv5kTsvJHA5wtgtoAVn) | [Whitepumpkin](https://open.spotify.com/artist/10NlN9XAoQgAjPfLk2cW32) | [Don't Waste Your Love](https://open.spotify.com/album/028pCVrbmdBPEdKcdlnwGc) | 2:22 |
 | 30 | [Don't \(Fall in Love\)](https://open.spotify.com/track/6hcC7pHXDSS5ybqWb7YN2z) | [Just Kiddin](https://open.spotify.com/artist/4bazJLWIv8CuqmgxJRiGqo) | [Don't \(Fall in Love\)](https://open.spotify.com/album/2lHY8Wj18jVV6Ql9upGU2S) | 2:21 |
 
-Snapshot ID: `AAAAAAAAAABMKw+Y0udL+nK7BDkau+1g`
+Snapshot ID: `AAAAAAAAAACkNpnkT7xWYG9pW3YMvow+`
