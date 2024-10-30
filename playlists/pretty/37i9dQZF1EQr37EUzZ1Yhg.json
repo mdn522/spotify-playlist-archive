@@ -51,30 +51,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Naina (From \"Crew\")",
-                "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
-            },
-            "artists": [
-                {
-                    "name": "Diljit Dosanjh",
-                    "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-                },
-                {
-                    "name": "Badshah",
-                    "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-                },
-                {
-                    "name": "Raj Ranjodh",
-                    "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-                }
-            ],
-            "duration_ms": 180000,
-            "name": "Naina (From \"Crew\")",
-            "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Best of Romance: Atif Aslam & Pritam",
                 "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
             },
@@ -95,6 +71,30 @@
             "duration_ms": 299827,
             "name": "Tera Hone Laga Hoon",
             "url": "https://open.spotify.com/track/48Ix6ReYdJf2H4mKb3TIpj"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Naina (From \"Crew\")",
+                "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
+            },
+            "artists": [
+                {
+                    "name": "Diljit Dosanjh",
+                    "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+                },
+                {
+                    "name": "Badshah",
+                    "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+                },
+                {
+                    "name": "Raj Ranjodh",
+                    "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+                }
+            ],
+            "duration_ms": 180000,
+            "name": "Naina (From \"Crew\")",
+            "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
         },
         {
             "added_at": null,
@@ -187,22 +187,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Roy",
-                "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
-            },
-            "artists": [
-                {
-                    "name": "Ankit Tiwari",
-                    "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
-                }
-            ],
-            "duration_ms": 333922,
-            "name": "Tu Hai Ki Nahi",
-            "url": "https://open.spotify.com/track/4brSaQIT3bnnE41D042fgL"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "O Saathi (From \"Baaghi 2\")",
                 "url": "https://open.spotify.com/album/23L9JSXD0RrynRb71ZfL9A"
             },
@@ -223,26 +207,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Airlift",
-                "url": "https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju"
+                "name": "Roy",
+                "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
             },
             "artists": [
                 {
-                    "name": "Amaal Mallik",
-                    "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Tulsi Kumar",
-                    "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+                    "name": "Ankit Tiwari",
+                    "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
                 }
             ],
-            "duration_ms": 281322,
-            "name": "Soch Na Sake",
-            "url": "https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE"
+            "duration_ms": 333922,
+            "name": "Tu Hai Ki Nahi",
+            "url": "https://open.spotify.com/track/4brSaQIT3bnnE41D042fgL"
         },
         {
             "added_at": null,
@@ -271,6 +247,30 @@
         {
             "added_at": null,
             "album": {
+                "name": "Airlift",
+                "url": "https://open.spotify.com/album/1IwC3SdQXPgXSs8FLvOUju"
+            },
+            "artists": [
+                {
+                    "name": "Amaal Mallik",
+                    "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                },
+                {
+                    "name": "Tulsi Kumar",
+                    "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+                }
+            ],
+            "duration_ms": 281322,
+            "name": "Soch Na Sake",
+            "url": "https://open.spotify.com/track/6mTvwBzWTGDOVeCNQEqtOE"
+        },
+        {
+            "added_at": null,
+            "album": {
                 "name": "Hass Hass",
                 "url": "https://open.spotify.com/album/7F8VISoJUWFEY57b66QZxC"
             },
@@ -291,26 +291,6 @@
             "duration_ms": 153016,
             "name": "Hass Hass",
             "url": "https://open.spotify.com/track/72vuBPMhwFNlSYpTSf6fVD"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dard",
-                "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
-            },
-            "artists": [
-                {
-                    "name": "Darshan Raval",
-                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-                },
-                {
-                    "name": "Prakriti Kakar",
-                    "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
-                }
-            ],
-            "duration_ms": 159600,
-            "name": "Mannat",
-            "url": "https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF"
         },
         {
             "added_at": null,
@@ -363,6 +343,98 @@
             "duration_ms": 206181,
             "name": "Love Stereo Again",
             "url": "https://open.spotify.com/track/1LncMhHiC46mKQy7bIrcTp"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dard",
+                "url": "https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM"
+            },
+            "artists": [
+                {
+                    "name": "Darshan Raval",
+                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+                },
+                {
+                    "name": "Prakriti Kakar",
+                    "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+                }
+            ],
+            "duration_ms": 159600,
+            "name": "Mannat",
+            "url": "https://open.spotify.com/track/26elzgFl8tvajnDfeoY1YF"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Badlapur (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI"
+            },
+            "artists": [
+                {
+                    "name": "Sachin-Jigar",
+                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+                },
+                {
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                }
+            ],
+            "duration_ms": 228969,
+            "name": "Jeena Jeena",
+            "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dilbar (From \"Satyameva Jayate\")",
+                "url": "https://open.spotify.com/album/27u2VWTy7ZtiL9ExdzRoXS"
+            },
+            "artists": [
+                {
+                    "name": "Neha Kakkar",
+                    "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+                },
+                {
+                    "name": "Dhvani Bhanushali",
+                    "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+                },
+                {
+                    "name": "Ikka",
+                    "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
+                },
+                {
+                    "name": "Tanishk Bagchi",
+                    "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+                }
+            ],
+            "duration_ms": 184432,
+            "name": "Dilbar (From \"Satyameva Jayate\")",
+            "url": "https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Ramaiya Vastavaiya (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/1VgXTSQsIrRn150j5MJrxR"
+            },
+            "artists": [
+                {
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                },
+                {
+                    "name": "Shreya Ghoshal",
+                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                },
+                {
+                    "name": "Sachin-Jigar",
+                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+                }
+            ],
+            "duration_ms": 236933,
+            "name": "Jeene Laga Hoon",
+            "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
         },
         {
             "added_at": null,
@@ -439,8 +511,32 @@
         {
             "added_at": null,
             "album": {
-                "name": "Laila Majnu (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/1RNEvKlb3YovuiE8Gw5VOO"
+                "name": "Bhediya (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L"
+            },
+            "artists": [
+                {
+                    "name": "Sachin-Jigar",
+                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                },
+                {
+                    "name": "Amitabh Bhattacharya",
+                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+                }
+            ],
+            "duration_ms": 261702,
+            "name": "Apna Bana Le",
+            "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Best of Romance: Atif Aslam & Pritam",
+                "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
             },
             "artists": [
                 {
@@ -448,41 +544,13 @@
                     "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
                 },
                 {
-                    "name": "Jyotica Tangri",
-                    "url": "https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp"
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
                 }
             ],
-            "duration_ms": 281856,
-            "name": "O Meri Laila",
-            "url": "https://open.spotify.com/track/5sUSbJo0brScvv48ZZ1HrQ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dilbar (From \"Satyameva Jayate\")",
-                "url": "https://open.spotify.com/album/27u2VWTy7ZtiL9ExdzRoXS"
-            },
-            "artists": [
-                {
-                    "name": "Neha Kakkar",
-                    "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-                },
-                {
-                    "name": "Dhvani Bhanushali",
-                    "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-                },
-                {
-                    "name": "Ikka",
-                    "url": "https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR"
-                },
-                {
-                    "name": "Tanishk Bagchi",
-                    "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
-                }
-            ],
-            "duration_ms": 184432,
-            "name": "Dilbar (From \"Satyameva Jayate\")",
-            "url": "https://open.spotify.com/track/4tjLYTXFqZhkUDga4bQ0yl"
+            "duration_ms": 341933,
+            "name": "Tu Jaane Na",
+            "url": "https://open.spotify.com/track/5vGiuYFSGekGLgbxhV1rD5"
         },
         {
             "added_at": null,
@@ -511,22 +579,6 @@
         {
             "added_at": null,
             "album": {
-                "name": "Manjha",
-                "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
-            },
-            "artists": [
-                {
-                    "name": "Vishal Mishra",
-                    "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
-                }
-            ],
-            "duration_ms": 191647,
-            "name": "Manjha",
-            "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
-        },
-        {
-            "added_at": null,
-            "album": {
                 "name": "Ghost",
                 "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
             },
@@ -547,94 +599,18 @@
         {
             "added_at": null,
             "album": {
-                "name": "Best of Romance: Atif Aslam & Pritam",
-                "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+                "name": "Manjha",
+                "url": "https://open.spotify.com/album/1N9rGbn2M9lzU6YcJ6081E"
             },
             "artists": [
                 {
-                    "name": "Atif Aslam",
-                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-                },
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                    "name": "Vishal Mishra",
+                    "url": "https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507"
                 }
             ],
-            "duration_ms": 341933,
-            "name": "Tu Jaane Na",
-            "url": "https://open.spotify.com/track/5vGiuYFSGekGLgbxhV1rD5"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Humraah (From \"Malang - Unleash The Madness\")",
-                "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
-            },
-            "artists": [
-                {
-                    "name": "Sachet Tandon",
-                    "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-                },
-                {
-                    "name": "Kunaal Vermaa",
-                    "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-                },
-                {
-                    "name": "The Fusion Project",
-                    "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
-                }
-            ],
-            "duration_ms": 299821,
-            "name": "Humraah (From \"Malang - Unleash The Madness\")",
-            "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Darshan Raval",
-                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-                },
-                {
-                    "name": "Antara Mitra",
-                    "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
-                }
-            ],
-            "duration_ms": 249415,
-            "name": "Mehrama",
-            "url": "https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Heeriye (feat. Arijit Singh)",
-                "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
-            },
-            "artists": [
-                {
-                    "name": "Jasleen Royal",
-                    "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Dulquer Salmaan",
-                    "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
-                }
-            ],
-            "duration_ms": 194857,
-            "name": "Heeriye (feat. Arijit Singh)",
-            "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
+            "duration_ms": 191647,
+            "name": "Manjha",
+            "url": "https://open.spotify.com/track/0UZLaEOSIc5kg0cc7eszqC"
         },
         {
             "added_at": null,
@@ -663,8 +639,116 @@
         {
             "added_at": null,
             "album": {
-                "name": "Ramaiya Vastavaiya (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/1VgXTSQsIrRn150j5MJrxR"
+                "name": "YRF Top 10 - Falling in Love",
+                "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+            },
+            "artists": [
+                {
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                }
+            ],
+            "duration_ms": 260536,
+            "name": "Dil Diyan Gallan",
+            "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/6IXfWhC7omotM4lt0ROmEr"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Darshan Raval",
+                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+                },
+                {
+                    "name": "Antara Mitra",
+                    "url": "https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2"
+                }
+            ],
+            "duration_ms": 249415,
+            "name": "Mehrama",
+            "url": "https://open.spotify.com/track/6cUOiOY5qh2FpIQWIYAd2h"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Humraah (From \"Malang - Unleash The Madness\")",
+                "url": "https://open.spotify.com/album/1R72FwrqoofsuAM2xil26G"
+            },
+            "artists": [
+                {
+                    "name": "Sachet Tandon",
+                    "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+                },
+                {
+                    "name": "Kunaal Vermaa",
+                    "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
+                },
+                {
+                    "name": "The Fusion Project",
+                    "url": "https://open.spotify.com/artist/6kNlPxUqmZMUyeGRMrWnuQ"
+                }
+            ],
+            "duration_ms": 299821,
+            "name": "Humraah (From \"Malang - Unleash The Madness\")",
+            "url": "https://open.spotify.com/track/4xmkpE1Si5JL7NFxWrhV0S"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Sajni (From \"Laapataa Ladies\")",
+                "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+            },
+            "artists": [
+                {
+                    "name": "Ram Sampath",
+                    "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                },
+                {
+                    "name": "Prashant Pandey",
+                    "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+                }
+            ],
+            "duration_ms": 170044,
+            "name": "Sajni (From \"Laapataa Ladies\")",
+            "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Yo Yo Honey Singh Is Back",
+                "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
+            },
+            "artists": [
+                {
+                    "name": "Yo Yo Honey Singh",
+                    "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+                },
+                {
+                    "name": "Neha Kakkar",
+                    "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+                }
+            ],
+            "duration_ms": 243319,
+            "name": "Sunny Sunny (From \"Yaariyan\")",
+            "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Pehli Dafa",
+                "url": "https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt"
             },
             "artists": [
                 {
@@ -672,17 +756,37 @@
                     "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
                 },
                 {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                },
-                {
-                    "name": "Sachin-Jigar",
-                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+                    "name": "Shiraz Uppal",
+                    "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
                 }
             ],
-            "duration_ms": 236933,
-            "name": "Jeene Laga Hoon",
-            "url": "https://open.spotify.com/track/3t3wsY5IdLVzB9WidegJSU"
+            "duration_ms": 298771,
+            "name": "Pehli Dafa",
+            "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Dunki",
+                "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Arijit Singh",
+                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                },
+                {
+                    "name": "Irshad Kamil",
+                    "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+                }
+            ],
+            "duration_ms": 233453,
+            "name": "O Maahi",
+            "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
         },
         {
             "added_at": null,
@@ -711,30 +815,6 @@
             "duration_ms": 231486,
             "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
             "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Dunki",
-                "url": "https://open.spotify.com/album/6mOSDGo8ZREISAbaiTMW5J"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Irshad Kamil",
-                    "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
-                }
-            ],
-            "duration_ms": 233453,
-            "name": "O Maahi",
-            "url": "https://open.spotify.com/track/6bmmHeCvZI92pRiTHxEdTC"
         },
         {
             "added_at": null,
@@ -771,58 +851,150 @@
         {
             "added_at": null,
             "album": {
-                "name": "YRF Top 10 - Falling in Love",
-                "url": "https://open.spotify.com/album/1ujIERX0vWqw9kcYr6VMRp"
+                "name": "Bol (Original Motion Picture Soundtrack)",
+                "url": "https://open.spotify.com/album/7AXmb2bA5LW5DclaDElH4l"
             },
             "artists": [
                 {
                     "name": "Atif Aslam",
                     "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                },
+                {
+                    "name": "Hadiqa Kiani",
+                    "url": "https://open.spotify.com/artist/24X1z32aFn59XU4P9Vh9gP"
                 }
             ],
-            "duration_ms": 260536,
-            "name": "Dil Diyan Gallan",
-            "url": "https://open.spotify.com/track/0FBQ4NrrHUbR9kus7rzrOj"
+            "duration_ms": 221986,
+            "name": "Hona Tha Pyar",
+            "url": "https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Hawa Banke",
-                "url": "https://open.spotify.com/album/0dUZaBEeoXNmy6wL2M3r0c"
+                "name": "Heeriye (feat. Arijit Singh)",
+                "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
             },
             "artists": [
                 {
-                    "name": "Darshan Raval",
-                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-                }
-            ],
-            "duration_ms": 171987,
-            "name": "Hawa Banke",
-            "url": "https://open.spotify.com/track/1L3Nsi7YXtBxTdnbqektia"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Sajni (From \"Laapataa Ladies\")",
-                "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
-            },
-            "artists": [
-                {
-                    "name": "Ram Sampath",
-                    "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+                    "name": "Jasleen Royal",
+                    "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
                 },
                 {
                     "name": "Arijit Singh",
                     "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
                 },
                 {
-                    "name": "Prashant Pandey",
-                    "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+                    "name": "Dulquer Salmaan",
+                    "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
                 }
             ],
-            "duration_ms": 170044,
-            "name": "Sajni (From \"Laapataa Ladies\")",
-            "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+            "duration_ms": 194857,
+            "name": "Heeriye (feat. Arijit Singh)",
+            "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Brilliant Melodist Pritam",
+                "url": "https://open.spotify.com/album/0umUqrxgbd2r0vnUUYmIa4"
+            },
+            "artists": [
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+                },
+                {
+                    "name": "Mika Singh",
+                    "url": "https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13"
+                }
+            ],
+            "duration_ms": 245099,
+            "name": "Mauja Hi Mauja (From \"Jab We Met\")",
+            "url": "https://open.spotify.com/track/2mTFrtswcKRUAC6rwoW63X"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Samjho Na",
+                "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
+            },
+            "artists": [
+                {
+                    "name": "Aditya Rikhari",
+                    "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+                }
+            ],
+            "duration_ms": 172408,
+            "name": "Samjho Na",
+            "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Aaj Ki Raat (From \"Stree 2\")",
+                "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
+            },
+            "artists": [
+                {
+                    "name": "Sachin-Jigar",
+                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+                },
+                {
+                    "name": "Amitabh Bhattacharya",
+                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+                },
+                {
+                    "name": "Madhubanti Bagchi",
+                    "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+                },
+                {
+                    "name": "Divya Kumar",
+                    "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+                }
+            ],
+            "duration_ms": 228620,
+            "name": "Aaj Ki Raat (From \"Stree 2\")",
+            "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Best of Romance: Atif Aslam & Pritam",
+                "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
+            },
+            "artists": [
+                {
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                },
+                {
+                    "name": "Shreya Ghoshal",
+                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+                }
+            ],
+            "duration_ms": 279826,
+            "name": "Tere Liye",
+            "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
+        },
+        {
+            "added_at": null,
+            "album": {
+                "name": "Roy",
+                "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
+            },
+            "artists": [
+                {
+                    "name": "Meet Bros Anjjan",
+                    "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
+                },
+                {
+                    "name": "Kanika Kapoor",
+                    "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
+                }
+            ],
+            "duration_ms": 246100,
+            "name": "Chittiyaan Kalaiyaan",
+            "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
         },
         {
             "added_at": null,
@@ -863,162 +1035,54 @@
         {
             "added_at": null,
             "album": {
-                "name": "Badlapur (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI"
+                "name": "The Way That Lovers Do",
+                "url": "https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA"
             },
             "artists": [
                 {
-                    "name": "Atif Aslam",
-                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                    "name": "Prateek Kuhad",
+                    "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
                 }
             ],
-            "duration_ms": 228969,
-            "name": "Jeena Jeena",
-            "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
+            "duration_ms": 163653,
+            "name": "Co2",
+            "url": "https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Mujhe Peene Do",
-                "url": "https://open.spotify.com/album/5XurzQE6FZrn7fQPrX4Vcc"
-            },
-            "artists": [
-                {
-                    "name": "Darshan Raval",
-                    "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-                }
-            ],
-            "duration_ms": 196071,
-            "name": "Mujhe Peene Do",
-            "url": "https://open.spotify.com/track/3FbZoPzEaUBOD84l1FwFEH"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Roy",
-                "url": "https://open.spotify.com/album/4ixAjixkWs8mCNdlTH1Cdf"
-            },
-            "artists": [
-                {
-                    "name": "Meet Bros Anjjan",
-                    "url": "https://open.spotify.com/artist/5isfxZ3RSdBlSLn3cSFhnI"
-                },
-                {
-                    "name": "Kanika Kapoor",
-                    "url": "https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8"
-                }
-            ],
-            "duration_ms": 246100,
-            "name": "Chittiyaan Kalaiyaan",
-            "url": "https://open.spotify.com/track/6XjJXPP3UiGtAQpYkD01c0"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Tere Pyaar Mein (From \"Tu Jhoothi Main Makkaar\")",
-                "url": "https://open.spotify.com/album/5uAi4ZZc7zRdd6PsKNcJXO"
-            },
-            "artists": [
-                {
-                    "name": "Pritam",
-                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Amitabh Bhattacharya",
-                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-                },
-                {
-                    "name": "Nikhita Gandhi",
-                    "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-                }
-            ],
-            "duration_ms": 266094,
-            "name": "Tere Pyaar Mein",
-            "url": "https://open.spotify.com/track/2ZD4aIEepqZsdxPxLSuUhm"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Bhediya (Original Motion Picture Soundtrack)",
-                "url": "https://open.spotify.com/album/1pw0xzpe4O0OMohBwau50L"
-            },
-            "artists": [
-                {
-                    "name": "Sachin-Jigar",
-                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-                },
-                {
-                    "name": "Arijit Singh",
-                    "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-                },
-                {
-                    "name": "Amitabh Bhattacharya",
-                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-                }
-            ],
-            "duration_ms": 261702,
-            "name": "Apna Bana Le",
-            "url": "https://open.spotify.com/track/1hA697u7e1jX2XM8sWA6Uy"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Pehli Dafa",
-                "url": "https://open.spotify.com/album/5pAPEuGi48iywzO2NT5Ddt"
-            },
-            "artists": [
-                {
-                    "name": "Atif Aslam",
-                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-                },
-                {
-                    "name": "Shiraz Uppal",
-                    "url": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
-                }
-            ],
-            "duration_ms": 298771,
-            "name": "Pehli Dafa",
-            "url": "https://open.spotify.com/track/4Tkb7zsDmsawB7S5TpKQV1"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Yo Yo Honey Singh Is Back",
-                "url": "https://open.spotify.com/album/1xXv2wox60JAkIKUl8QwWp"
+                "name": "Dheere Dheere",
+                "url": "https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2"
             },
             "artists": [
                 {
                     "name": "Yo Yo Honey Singh",
                     "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-                },
-                {
-                    "name": "Neha Kakkar",
-                    "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
                 }
             ],
-            "duration_ms": 243319,
-            "name": "Sunny Sunny (From \"Yaariyan\")",
-            "url": "https://open.spotify.com/track/1TaeNA6443E9MHtbGXV0s8"
+            "duration_ms": 212412,
+            "name": "Dheere Dheere",
+            "url": "https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla"
         },
         {
             "added_at": null,
             "album": {
-                "name": "Samjho Na",
-                "url": "https://open.spotify.com/album/6qe761tZyhwboJVLXlXJ7B"
+                "name": "Best of Romance: Atif Aslam & Pritam",
+                "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
             },
             "artists": [
                 {
-                    "name": "Aditya Rikhari",
-                    "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+                    "name": "Atif Aslam",
+                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+                },
+                {
+                    "name": "Pritam",
+                    "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
                 }
             ],
-            "duration_ms": 172408,
-            "name": "Samjho Na",
-            "url": "https://open.spotify.com/track/1d5lpW3gUyq537iuyrb9Lf"
+            "duration_ms": 312892,
+            "name": "Pehli Nazar Mein",
+            "url": "https://open.spotify.com/track/5llaVhaIoowKT3fqf2NfPO"
         },
         {
             "added_at": null,
@@ -1039,82 +1103,6 @@
             "duration_ms": 224206,
             "name": "Afghan Jalebi (Film Version)",
             "url": "https://open.spotify.com/track/1rEVydQSe04NJUqyyEyeEq"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Duniyaa (From \"Luka Chuppi\")",
-                "url": "https://open.spotify.com/album/5hzAIEMlQpsEGIQFvnFOQx"
-            },
-            "artists": [
-                {
-                    "name": "Akhil",
-                    "url": "https://open.spotify.com/artist/6zZrFenNe3YPttxZsnQQs1"
-                },
-                {
-                    "name": "Dhvani Bhanushali",
-                    "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
-                },
-                {
-                    "name": "Kunaal Vermaa",
-                    "url": "https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx"
-                },
-                {
-                    "name": "Abhijit Vaghani",
-                    "url": "https://open.spotify.com/artist/70voqWnL1gpuxodufMgBt4"
-                }
-            ],
-            "duration_ms": 222500,
-            "name": "Duniyaa (From \"Luka Chuppi\")",
-            "url": "https://open.spotify.com/track/2tjWCe2W7sgvS3C8NHcdtI"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Best of Romance: Atif Aslam & Pritam",
-                "url": "https://open.spotify.com/album/3vDIjYB1eatEoGlVoZWUFs"
-            },
-            "artists": [
-                {
-                    "name": "Atif Aslam",
-                    "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-                },
-                {
-                    "name": "Shreya Ghoshal",
-                    "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-                }
-            ],
-            "duration_ms": 279826,
-            "name": "Tere Liye",
-            "url": "https://open.spotify.com/track/0xlWd9o8yjKpJ02WJy79kZ"
-        },
-        {
-            "added_at": null,
-            "album": {
-                "name": "Aaj Ki Raat (From \"Stree 2\")",
-                "url": "https://open.spotify.com/album/3UFJUJXBdfDRd2qRZ9ijyn"
-            },
-            "artists": [
-                {
-                    "name": "Sachin-Jigar",
-                    "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-                },
-                {
-                    "name": "Amitabh Bhattacharya",
-                    "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-                },
-                {
-                    "name": "Madhubanti Bagchi",
-                    "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
-                },
-                {
-                    "name": "Divya Kumar",
-                    "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-                }
-            ],
-            "duration_ms": 228620,
-            "name": "Aaj Ki Raat (From \"Stree 2\")",
-            "url": "https://open.spotify.com/track/7EFfeGN5U0zm9C6KpOeNBH"
         }
     ],
     "unique_name": "Hindi Mix",
