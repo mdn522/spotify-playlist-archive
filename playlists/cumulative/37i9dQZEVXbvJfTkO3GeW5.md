@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,400 songs - 8 day 12 hr 9 min - not published yet
+3,401 songs - 8 day 12 hr 14 min - not published yet
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2600,7 +2600,8 @@
 | [Shake It](https://open.spotify.com/track/7G1CCmpXUbjkH9nBZoaHj3) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [VAMERO](https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr) | [Shake It](https://open.spotify.com/album/2VxVieuLHtGN4jOFtgKsgu) | 2:25 | 2023-09-14 | 2023-09-29 |
 | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/track/4nrPB8O7Y7wsOCJdgXkthe) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira: Bzrp Music Sessions, Vol\. 53](https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg) | 3:37 | 2023-01-12 | 2023-02-05 |
 | [Shakti](https://open.spotify.com/track/4eopH8ccHhRVQOarENh9mM) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Shakti](https://open.spotify.com/album/0OUAVcRUP8CJV5JJPWBgP9) | 4:07 | 2024-06-27 | 2024-07-05 |
-| [Shallow \- live \| 典藏](https://open.spotify.com/track/6Gf74VR7gBYdohxuSWYi4u) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [歌手2024　第12期](https://open.spotify.com/album/3mYGfFjbM9OEaDpqJ9TqQu) | 4:32 | 2024-11-07 |  |
+| [Shallow \- live](https://open.spotify.com/track/7tjzKgHZ2JuY1t1VZfbdvG) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [歌手2024　第12期](https://open.spotify.com/album/3mYGfFjbM9OEaDpqJ9TqQu) | 4:31 | 2024-11-07 |  |
+| [Shallow \- live \| 典藏](https://open.spotify.com/track/6Gf74VR7gBYdohxuSWYi4u) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo), [Jason Zhang](https://open.spotify.com/artist/75udD9hen8NeHTe92rUNLa) | [歌手2024　第12期](https://open.spotify.com/album/3mYGfFjbM9OEaDpqJ9TqQu) | 4:32 | 2024-11-07 | 2024-11-11 |
 | [Shambhu Re](https://open.spotify.com/track/1fQz2FRzkj74XamznwLhxh) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1), [Hemant Tiwari](https://open.spotify.com/artist/08DxaBdx4NlLqveElQilUx) | [Shambhu Re](https://open.spotify.com/album/1lo42dv9HjQLzbuzWaBDo6) | 4:32 | 2024-08-15 | 2024-09-06 |
 | [Shankhnaad Kar \- From "Emergency"](https://open.spotify.com/track/1aMAz006DJzvKXO5iCuoGW) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP) | [Emergency \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3cbNwLpbVUHUoH3xVuQyGP) | 3:53 | 2024-09-05 | 2024-09-13 |
 | [Shantavo](https://open.spotify.com/track/5ckarIGsgRwOKzpgqodiLv) | [Kali](https://open.spotify.com/artist/6Wtco45XjSkuGGhQcXwxdz), [BMX Band](https://open.spotify.com/artist/2liFhvETx4WBT1MMXRsQYY), [Alexandra Panayotova](https://open.spotify.com/artist/2EQQzhnn2iTeBvzSSDhbhO) | [Shantavo](https://open.spotify.com/album/6IJr0lbzTJmm3DMQjH0zeo) | 3:00 | 2022-08-04 | 2022-08-28 |
