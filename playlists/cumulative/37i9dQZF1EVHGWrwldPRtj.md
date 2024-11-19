@@ -2,7 +2,7 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIZap0kUUguqg>Rammor</a>, <a href=spotify:playlist:37i9dQZF1EIWWN8EfKnUkK>ONEIL</a>, <a href=spotify:playlist:37i9dQZF1EIYPkP5lhRN1O>Aexcit</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIYPkP5lhRN1O>Aexcit</a>, <a href=spotify:playlist:37i9dQZF1EIY5JE4FVZz1L>HALUNA</a>, <a href=spotify:playlist:37i9dQZF1EIWWN8EfKnUkK>ONEIL</a> and more
 
 2,705 songs - 6 day 3 hr 49 min - not published yet
 
@@ -292,7 +292,7 @@
 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2023-03-01 | 2023-03-04 |
 | [Black Bacardi](https://open.spotify.com/track/6Ceu1jHj30oG7CCFjq3gd4) | [nicebeatzprod.](https://open.spotify.com/artist/5Jcubl6XIYxYIQothI4JsZ) | [Black Bacardi](https://open.spotify.com/album/0dqcNf9Igua0oFGmxYXZre) | 2:53 | 2022-09-25 | 2022-09-29 |
 | [Black Converse](https://open.spotify.com/track/7axPmEf1nwosqBDVoMugvD) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Grown\-ish](https://open.spotify.com/album/4HsUtIgXcWzJetVBHPybg0) | 3:06 | 2022-06-17 | 2023-06-11 |
-| [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-24 |  |
+| [Black Friday \(pretty like the sun\)](https://open.spotify.com/track/4MSj19TwYBLgDFj3ddEeco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday \(pretty like the sun\)](https://open.spotify.com/album/4CAe3r1nsTTAjGcWqGZbAr) | 2:25 | 2024-07-24 | 2024-11-19 |
 | [Black Hole](https://open.spotify.com/track/2T1Ip6knZNC569hVK6sApk) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Black Hole](https://open.spotify.com/album/52eEiJrc5hDu3BiDrx4BzM) | 4:17 | 2022-10-12 | 2023-10-29 |
 | [Black Lake](https://open.spotify.com/track/5NcQLidkHKJHjzhhxPkbx3) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:38 | 2023-01-06 | 2023-01-07 |
 | [Black Sea](https://open.spotify.com/track/17mQDyHasS7sgzQgww0HOS) | [Timebelle](https://open.spotify.com/artist/5HiW8Shh2vPcD16rE8MaBr) | [Black Sea](https://open.spotify.com/album/14c451xg6ncYKz4U4WFeJ8) | 3:36 | 2022-05-28 | 2022-06-10 |
@@ -1914,7 +1914,7 @@
 | [Rocketship](https://open.spotify.com/track/2vGgUcx5zGHhUAXTTV4pq5) | [Jenny Mayhem](https://open.spotify.com/artist/3NTst6yWxqqQscJiYWoUDE), [Tikanter](https://open.spotify.com/artist/73v6tFLGOIy6fwHSXgCtvl) | [Rocketship](https://open.spotify.com/album/0zgieC29NSFFCVnKaRXeVa) | 3:32 | 2022-05-25 | 2022-06-05 |
 | [Rohan](https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Rohan](https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF) | 2:42 | 2024-03-14 | 2024-10-24 |
 | [Room for Two](https://open.spotify.com/track/2Wb7cfgUCj3C95H5vCrsGg) | [Moe Aly](https://open.spotify.com/artist/0v9F2WtCvWVrs367iT5Gix), [Frida Amundsen](https://open.spotify.com/artist/7bWpniIKlAHKaXyn3BFPlr) | [Room for Two](https://open.spotify.com/album/6ZIuGnWaIbnA7kcxiZP9aH) | 3:21 | 2022-10-04 | 2023-04-06 |
-| [Rose Garden](https://open.spotify.com/track/0UiQQoQT0ZfPTGogNR2Qpj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Rose Garden](https://open.spotify.com/album/6otKDeURvkjPqT2ZmX0Pks) | 3:13 | 2024-09-14 | 2024-11-18 |
+| [Rose Garden](https://open.spotify.com/track/0UiQQoQT0ZfPTGogNR2Qpj) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Rose Garden](https://open.spotify.com/album/6otKDeURvkjPqT2ZmX0Pks) | 3:13 | 2024-09-14 |  |
 | [Roses x Children](https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ) | [TommyMuzzic](https://open.spotify.com/artist/2XqXXH9xPa1zucIOtZ3u3A) | [Roses x Children](https://open.spotify.com/album/6EjzGyhe7zi2ZcrGWHXgA0) | 1:50 | 2024-04-21 | 2024-04-24 |
 | [Roses x Children \- TikTok Remix](https://open.spotify.com/track/6bzIfqQslKiszaJZ239HLQ) | [TommyMuzzic](https://open.spotify.com/artist/2XqXXH9xPa1zucIOtZ3u3A), [ZeddMusique](https://open.spotify.com/artist/0ooWCUtppfatIPYRufo0ak) | [Roses x Children \(TikTok Remix\)](https://open.spotify.com/album/5F19wN09x3JlBwJ1iVYAFo) | 1:50 | 2024-03-31 | 2024-04-02 |
 | [Royalty](https://open.spotify.com/track/022gtO2qA9EwjWrXu7OiVt) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [Royalty](https://open.spotify.com/album/29jBoJuXmVcMPZG6xCmfQq) | 3:43 | 2022-05-22 | 2022-05-23 |
