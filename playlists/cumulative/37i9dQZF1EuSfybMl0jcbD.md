@@ -4,7 +4,7 @@
 
 > We made you a personalized playlist with songs to take you back in time.
 
-914 songs - 2 day 14 hr 6 min - not published yet
+914 songs - 2 day 14 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
