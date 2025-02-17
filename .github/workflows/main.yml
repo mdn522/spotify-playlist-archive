@@ -11,17 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout mackorone/spotify-playlist-archive-src
+      - name: Checkout mdn522/spotify-playlist-archive-src
         uses: actions/checkout@v4
         with:
-          repository: mackorone/spotify-playlist-archive-src
+          repository: mdn522/spotify-playlist-archive-src
           path: spotify-playlist-archive-src
           submodules: recursive
 
-      - name: Checkout mackorone/spotify-playlist-archive
+      - name: Checkout mdn522/spotify-playlist-archive
         uses: actions/checkout@v4
         with:
-          repository: mackorone/spotify-playlist-archive
+          repository: mdn522/spotify-playlist-archive
           path: spotify-playlist-archive
           # Also fetch the second-to-last commit so the script can determine,
           # via git commands, which files changed in the most recent commit
@@ -43,6 +43,7 @@ jobs:
         env:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_CLIENT_REFRESH_TOKEN: ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}
         run: >
           python $GITHUB_WORKSPACE/spotify-playlist-archive-src/src/main.py
           --playlists-dir playlists --commit-and-push --auto-register
