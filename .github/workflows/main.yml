@@ -46,4 +46,4 @@ jobs:
           SPOTIFY_CLIENT_REFRESH_TOKEN: ${{ secrets.SPOTIFY_CLIENT_REFRESH_TOKEN }}
         run: >
           python $GITHUB_WORKSPACE/spotify-playlist-archive-src/src/main.py
-          --playlists-dir playlists --commit-and-push --auto-register
+          --playlists-dir playlists --commit-and-push
