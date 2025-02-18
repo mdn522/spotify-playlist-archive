@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIWWXj9kLEemT>Whitney Houston</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a>, <a href=spotify:playlist:37i9dQZF1EIYe2cY3eZQC5>Rita Ora</a> and more
 
-1,992 songs - 4 day 10 hr 6 min
+1,993 songs - 4 day 10 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,7 +1001,7 @@
 | [LIGHT BEAMS](https://open.spotify.com/track/2YKI5E7oHg1VOmrMiTzfl1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 1:06 | 2023-02-23 | 2023-02-24 |
 | [Light Switch](https://open.spotify.com/track/1jEBSDN5vYViJQr78W7jr2) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [CHARLIE](https://open.spotify.com/album/5Jk4Eg7pxYhDrWJCVVzmMt) | 3:07 | 2022-11-06 | 2024-01-17 |
 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 | 2022-06-18 | 2022-09-23 |
-| [Lighter](https://open.spotify.com/track/1uXcsl79LVRf13rGxvaqpk) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 2:52 | 2024-06-04 |  |
+| [Lighter](https://open.spotify.com/track/1uXcsl79LVRf13rGxvaqpk) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Rx](https://open.spotify.com/album/5vegvIWwKcdSc8gYfirlgx) | 2:52 | 2024-06-04 | 2025-02-18 |
 | [Lighter](https://open.spotify.com/track/38VtBT8WjVkvrLsH0LAlD5) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter \(Extended Mix\)](https://open.spotify.com/album/45ypFJgg2Be5cVkFNaSoI3) | 2:52 | 2024-03-28 | 2024-06-01 |
 | [Lighter](https://open.spotify.com/track/7hdNTegC0TCKKoxB6GTFH3) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Lighter](https://open.spotify.com/album/2cmZbWwfMq8VCGN4gqCZn7) | 2:52 | 2024-03-17 | 2024-03-21 |
 | [Lighthouse](https://open.spotify.com/track/2rN51xbGi6n0kB72PBwQQT) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Lighthouse](https://open.spotify.com/album/0ITz7kMihqY42O79jazQTz) | 3:36 | 2022-12-16 | 2023-02-07 |
@@ -1513,6 +1513,7 @@
 | [Shivers](https://open.spotify.com/track/3xWGA8pa0IKFI7IMPri4P0) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [= \(Tour Edition\)](https://open.spotify.com/album/4Hmz9dqVLEO7eVcXNTqkH2) | 3:27 | 2022-10-11 | 2023-06-22 |
 | [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2022-05-21 | 2024-10-11 |
 | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/track/1A3T3npKsrElQTjTEcr3LR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37), [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Shivers \(feat\. Jessi & SUNMI\)](https://open.spotify.com/album/7HRCvQbIY5cRkgCkSM0vO3) | 3:27 | 2023-04-10 | 2024-03-03 |
+| [Shivers \- Ofenbach Remix](https://open.spotify.com/track/1eGlStOBtFJ6Oc4hhN5tUR) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw) | [Shivers \(Ofenbach Remix\)](https://open.spotify.com/album/3Dru9IyxnZXhmrNbSv56yl) | 3:07 | 2025-02-18 |  |
 | [Shoot A Man](https://open.spotify.com/track/2pGpduvDWbGtoZ9htvrVJ4) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Self\-Preservation](https://open.spotify.com/album/6rTAY5UXXQYu00sOGK9ZIt) | 3:48 | 2022-06-02 | 2022-06-09 |
 | [Shot a friend](https://open.spotify.com/track/27yUNsQo2CPPokNw69M23X) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Shot a friend](https://open.spotify.com/album/18n1CRVP0aQYIPKZdzjhlI) | 2:09 | 2022-12-19 | 2023-11-23 |
 | [Shout Out to My Ex](https://open.spotify.com/track/0ErK6K0kYr0Ow2RkPMhmMs) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:06 | 2022-05-26 | 2023-12-24 |

@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIYGU4O9jTDu4>oskar med k</a>, <a href=spotify:playlist:37i9dQZF1EIWQLO6SQpHyG>Ikarus</a>, <a href=spotify:playlist:37i9dQZF1EIVJ9A325b3JT>ORGAN</a> and more
 
-2,741 songs - 6 day 5 hr 33 min
+2,742 songs - 6 day 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1269,6 +1269,7 @@
 | [Last](https://open.spotify.com/track/41r2Q4UEDdU9cktfgQETnx) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [Dawn Defibrillation, Vol.1](https://open.spotify.com/album/2RLFOTUVkm6hCb933QRvm7) | 3:55 | 2023-11-29 | 2023-11-30 |
 | [Last Man Standing](https://open.spotify.com/track/1ZZGkKS8MPMIlYQzQA92Va) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [A Hometown Odyssey](https://open.spotify.com/album/5uKhWGoRFaENvmmdmCN99K) | 3:03 | 2024-03-26 | 2024-03-28 |
 | [Last Man Standing](https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Last Man Standing](https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP) | 3:03 | 2024-02-23 | 2024-03-04 |
+| [Last Night](https://open.spotify.com/track/2fr3zUXQFLztUhpfBu6Wpq) | [Rivo](https://open.spotify.com/artist/2NrprO4CludRmaWtpqud10) | [Last Night](https://open.spotify.com/album/61FSTdvDNl2fNqdGKTrXib) | 3:42 | 2025-02-18 |  |
 | [Last Train Home](https://open.spotify.com/track/7dKYUSJXp0FWmEyon1Iwxr) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD), [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh), [Sønlille](https://open.spotify.com/artist/1vyEXTgG15rVyYkb9LyegZ) | [Last Train Home](https://open.spotify.com/album/3oVtkHPjBWhnPSCSOJQZ4J) | 1:59 | 2022-07-14 | 2022-07-15 |
 | [Late Nights](https://open.spotify.com/track/6Hhoz2lLQh9IqiYQOEeTyQ) | [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [Late Nights](https://open.spotify.com/album/6dOJjUVCx86mjNUX4DjJAH) | 2:31 | 2024-06-16 | 2025-02-17 |
 | [Lazy Sunday](https://open.spotify.com/track/1emoY7ZYSASTsDcsbfjh5z) | [Ghost'n'ghost](https://open.spotify.com/artist/0A06OmS7ErkKarzCDXoXTY) | [Lazy Sunday](https://open.spotify.com/album/0CrZgYgbPQGLwjI1jccS9J) | 3:28 | 2023-01-22 | 2023-01-23 |
@@ -2239,7 +2240,7 @@
 | [Sunrise](https://open.spotify.com/track/5x1RPNP8Uydtz23MR0T2UG) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz) | [Sunrise](https://open.spotify.com/album/5jVu8AJnEQngLJKrcW3mbV) | 3:49 | 2022-07-18 | 2023-03-04 |
 | [Sunrise](https://open.spotify.com/track/1E9YsHOyXkOZP8LcHMynCr) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Sunrise](https://open.spotify.com/album/690R0BEJsHHZ8SAdcGUVv3) | 3:53 | 2023-01-04 | 2023-01-28 |
 | [Sunrise \(feat\. Jason Walker\)](https://open.spotify.com/track/4ODnJrz0C3AJ4DFv8YQhJ8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Jason Walker](https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U) | [Kids in Love](https://open.spotify.com/album/47oyrKaeobswT4T8zyaxdM) | 3:34 | 2024-01-24 | 2024-01-25 |
-| [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-11-28 |  |
+| [Sunroof](https://open.spotify.com/track/5YqEzk3C5c3UZ1D5fJUlXA) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [hey daisy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:43 | 2023-11-28 | 2025-02-18 |
 | [Sunset](https://open.spotify.com/track/4PcsApZvvI8SVnkmuZ7LWu) | [Altair Blake](https://open.spotify.com/artist/7GHdxiYiGpD4ZHM3jfyIOr) | [Let You Go](https://open.spotify.com/album/07YSXcZ2k1Nw3U4J7o09nV) | 2:01 | 2023-03-11 | 2023-09-05 |
 | [Sunset](https://open.spotify.com/track/6oPSRZuGXBtyFRAGO7J5yD) | [Ardo](https://open.spotify.com/artist/2pRsq9sIRuLua9GATrUlYy), [Jake Alva](https://open.spotify.com/artist/2wlOcE87YJtuiJS6fhOedm) | [Sunset](https://open.spotify.com/album/6qg4ulb0Ux2AF4kdJCVEYO) | 2:07 | 2024-09-14 | 2024-10-22 |
 | [Sunset](https://open.spotify.com/track/1UYKCTtPpyX0ZY9obpz80a) | [FYDE](https://open.spotify.com/artist/28kldqXGHic7XjxOlg5V2U) | [Sunset](https://open.spotify.com/album/0G1tlAHV2qh8KBGcp3WG1t) | 1:49 | 2022-10-16 | 2023-07-18 |

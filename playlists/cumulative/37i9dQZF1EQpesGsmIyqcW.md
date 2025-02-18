@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIVNsGbEqyF9o>ILLIT</a> and more
 
-1,724 songs - 3 day 21 hr 44 min
+1,725 songs - 3 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -672,6 +672,7 @@
 | [I](https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [I \- The 1st Mini Album](https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1) | 3:26 | 2022-06-27 | 2023-05-10 |
 | [I AM](https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [I've IVE](https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB) | 3:03 | 2023-04-29 | 2025-02-17 |
 | [I Am The Best](https://open.spotify.com/track/26EM9sZnQkLLQxixGd88KE) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [I Am The Best](https://open.spotify.com/album/7zjLDZzHo2XgvYwpuNwEvK) | 3:28 | 2023-05-11 | 2024-11-03 |
+| [I AM THE BEST](https://open.spotify.com/track/6aRr7IN6X7D7KbpWrafNtf) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [WELCOME BACK](https://open.spotify.com/album/5DBYgBIcS3tgJDrz1au6w6) | 3:28 | 2025-02-18 |  |
 | [I AM THE BEST \- KR Ver.](https://open.spotify.com/track/4jQRqsNX23MfWEtIdnFzY2) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [2NE1 BEST COLLECTION \(Korea Edition\)](https://open.spotify.com/album/36gLx8F56y1Rn9pUdgrGPr) | 3:28 | 2023-10-19 | 2024-01-23 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:25 | 2024-02-06 | 2024-09-13 |
 | [I CAN'T STOP ME](https://open.spotify.com/track/3apeXzypBMnUfYcZYNX6DH) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:25 | 2022-05-26 | 2024-02-06 |
@@ -1455,7 +1456,7 @@
 | [Thank You](https://open.spotify.com/track/08rg9OloHTHRsk9evNPpnd) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [THANK YOU](https://open.spotify.com/album/5RaqvFt71ro3Y8nngoucv6) | 3:15 | 2022-07-22 | 2023-04-24 |
 | [THANXX](https://open.spotify.com/track/0YXpDiXEQlRmVSAFcub7sE) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.1](https://open.spotify.com/album/01IFxHiVOY6uf3vUFVXEoI) | 3:01 | 2023-01-03 | 2023-02-05 |
 | [That That \(prod\. & feat\. SUGA of BTS\)](https://open.spotify.com/track/5oH4DQAuu1J1800RzUsBWa) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 2:54 | 2022-05-21 | 2022-07-18 |
-| [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-08-03 |  |
+| [That That \(prod.&feat\. SUGA of BTS\)](https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 2:54 | 2022-08-03 | 2025-02-18 |
 | [The Astronaut](https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [The Astronaut](https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox) | 4:42 | 2022-12-24 |  |
 | [THE BADDEST](https://open.spotify.com/track/2V4Fx72svQRxrFvNT1eq5f) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/7C8nskYbHG7N0LDrNVvt7x) | 2:42 | 2022-05-28 | 2024-10-31 |
 | [The Ball Is Round \(with FIFA OLP\)](https://open.spotify.com/track/63XRYxPFgnVvEIaqwwPLeG) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [The Ball Is Round](https://open.spotify.com/album/6m0AcMnAOIZIV1oSYN03Mp) | 3:31 | 2022-12-17 | 2022-12-18 |
