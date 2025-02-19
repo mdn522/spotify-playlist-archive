@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,522 songs - 8 day 19 hr 13 min
+3,523 songs - 8 day 19 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1560,7 +1560,8 @@
 | [Infohazards](https://open.spotify.com/track/2sO2XRLSXRTV1UImMfUZkH) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [Infohazards](https://open.spotify.com/album/5A7qtgPRSYHLg58g3Weh29) | 7:24 | 2025-02-13 |  |
 | [Inima](https://open.spotify.com/track/37QpmWZyuxjSCuSJzAJRwK) | [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Inima](https://open.spotify.com/album/2hFlzIG9xfqtD4QvsMjmw2) | 2:40 | 2023-11-09 | 2023-12-10 |
 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 | 2024-11-21 | 2025-02-17 |
-| [Inimi \- Twander & iulian remix](https://open.spotify.com/track/3ZVCZYGKA1wZKmYhFgJiS8) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Twander](https://open.spotify.com/artist/3oKEdhCxWX4AuKHgDHDFsK), [Iulian](https://open.spotify.com/artist/0jKKmanipire6eMWBD3erL) | [Inimi \(Twander & iulian remix\)](https://open.spotify.com/album/1UqPmKfPC3IVxV3N8A3trq) | 2:54 | 2025-02-13 |  |
+| [Inimi \- Arty Violin Remix](https://open.spotify.com/track/5AgwOlNWkbNKjdgDXq2ESF) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Arty Violin](https://open.spotify.com/artist/5CdrfkacqPdiBATnTJdLYv) | [Inimi \(Arty Violin Remix\)](https://open.spotify.com/album/2eZ98DwLoQeWBafakZot4H) | 3:44 | 2025-02-13 |  |
+| [Inimi \- Twander & iulian remix](https://open.spotify.com/track/3ZVCZYGKA1wZKmYhFgJiS8) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Twander](https://open.spotify.com/artist/3oKEdhCxWX4AuKHgDHDFsK), [Iulian](https://open.spotify.com/artist/0jKKmanipire6eMWBD3erL) | [Inimi \(Twander & iulian remix\)](https://open.spotify.com/album/1UqPmKfPC3IVxV3N8A3trq) | 2:54 | 2025-02-13 | 2025-02-19 |
 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 | 2023-03-02 | 2023-03-24 |
 | [Inseparabil \- Tennebreck Remix](https://open.spotify.com/track/4kZf4aUUpZWYZXzAzKpOlR) | [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC), [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn), [Tennebreck](https://open.spotify.com/artist/2XSiI78ghU1qQTsZ5UWRgN) | [Inseparabili \(Tennebreck Remix\)](https://open.spotify.com/album/0cqvRB664jKxIxqDAVXEA1) | 3:49 | 2023-09-14 | 2023-10-06 |
 | [Inseparabili](https://open.spotify.com/track/51w2BPVl5ntx8Wylm1HMID) | [3 Sud Est](https://open.spotify.com/artist/0niQ4Q9nI1Qh0BHpT3b4NC), [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inseparabili](https://open.spotify.com/album/5ziIBOTLpKeslgl4AMPlDl) | 3:21 | 2023-07-13 | 2023-08-06 |
