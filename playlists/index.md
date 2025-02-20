@@ -1,4 +1,4 @@
-## Playlists \(38\)
+## Playlists \(39\)
 
 - [2000s Mix](/playlists/pretty/37i9dQZF1EQn4jwNIohw50.md)
 - [2010s Mix](/playlists/pretty/37i9dQZF1EQqedj0y9Uwvu.md)
@@ -38,3 +38,4 @@
 - [Soul Mix](/playlists/pretty/37i9dQZF1EQntZpEGgfBif.md)
 - [Upbeat Mix](/playlists/pretty/37i9dQZF1EVJHK7Q1TBABQ.md)
 - [Your Time Capsule](/playlists/pretty/37i9dQZF1EuSfybMl0jcbD.md)
+- [daylist • calm yoga afternoon](/playlists/pretty/37i9dQZF1EP6YuccBxUcC1.md)
