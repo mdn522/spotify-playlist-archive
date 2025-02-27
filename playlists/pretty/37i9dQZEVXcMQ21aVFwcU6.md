@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Gypsy Queen](https://open.spotify.com/track/2xPhIEcJkXK0nAeVdZ8Iwk) | [PULLER](https://open.spotify.com/artist/1cbQmMaAHdSeBf0MQcSrzf), [D4NEs](https://open.spotify.com/artist/7hzBvplAVO7NOFvJmVqLJs) | [Gypsy Queen](https://open.spotify.com/album/7y1TNo87peY0I8S3dohObu) | 2:37 |
 | 30 | [Night City](https://open.spotify.com/track/10TJeNyQ3OuwS5yhb9wzKr) | [Black Domino](https://open.spotify.com/artist/6BDngwe9dcvrkw4ex9cqsb) | [Night City](https://open.spotify.com/album/3a10QEf2KensF7qcETjaqx) | 2:36 |
 
-Snapshot ID: `Z7tiIAAAAABY0+QJ2wwceJsQEAz3OHPQ`
+Snapshot ID: `Z7tiIAAAAAAHEG+c4fDVynSeqpdCRaxe`
