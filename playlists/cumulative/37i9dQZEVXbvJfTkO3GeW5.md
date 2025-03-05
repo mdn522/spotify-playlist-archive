@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-3,594 songs - 8 day 23 hr 18 min
+3,595 songs - 8 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,7 +229,7 @@
 | [Ask & You Shall Receive](https://open.spotify.com/track/0ggVVrCbaqhGmz8oI3mSwa) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ask & You Shall Receive](https://open.spotify.com/album/2kBpwY5No7fM1D4eofPyIA) | 3:19 | 2024-05-30 | 2024-06-28 |
 | [Ask & You Shall Receive \- JACONDA Remix](https://open.spotify.com/track/61l2irSgrIgiaXgBSQBIo7) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [JACONDA](https://open.spotify.com/artist/0u2uaeOqln5LVoVe1zlHZb) | [Ask & You Shall Receive \(Remixes\)](https://open.spotify.com/album/0XY8eupMVWChIrSgtwZgRs) | 3:13 | 2024-07-11 | 2024-07-24 |
 | [Asking \(feat\. Clementine Douglas\) \- Tiësto Remix](https://open.spotify.com/track/6bJa9BTNHYGyeHhJr41Kfb) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Asking \(feat\. Clementine Douglas\) \[Tiësto Remix\]](https://open.spotify.com/album/7FlbEc8atVHKLNC8wHKTiS) | 3:12 | 2023-09-14 | 2023-09-22 |
-| [Astral Awakening](https://open.spotify.com/track/02WUM173Wspz7x50b50g5y) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Ruler of Waves](https://open.spotify.com/album/6oT45ygY5zfQX4Js1KeAwo) | 1:09 | 2025-02-27 |  |
+| [Astral Awakening](https://open.spotify.com/track/02WUM173Wspz7x50b50g5y) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Ruler of Waves](https://open.spotify.com/album/6oT45ygY5zfQX4Js1KeAwo) | 1:09 | 2025-02-27 | 2025-03-05 |
 | [Athena](https://open.spotify.com/track/5Hizk2rMcLl7qmOpqO0WsA) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Athena](https://open.spotify.com/album/4n1URRG0FiiV5aAkGA4Ewq) | 3:31 | 2023-06-22 | 2023-06-30 |
 | [Atittude](https://open.spotify.com/track/5OFYjNyz0uAbx8scH7xKR5) | [Nightcore High](https://open.spotify.com/artist/1QKDZusfmkgL3rC9IpvxKk), [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Atittude](https://open.spotify.com/album/75PT4ReD3q8P8Y10RQrkVm) | 2:26 | 2023-02-09 | 2023-02-24 |
 | [Atlanta Traffic](https://open.spotify.com/track/3S618IJRpKCrRUgegLcS0A) | [Ana Grosh](https://open.spotify.com/artist/1EHA30IXQPf3PXKZ8mNHD6) | [Everything's Changing](https://open.spotify.com/album/1Dy2ZtBOOLafz3ustrmQkx) | 2:37 | 2023-11-02 | 2023-12-03 |
@@ -649,6 +649,7 @@
 | [Conquer](https://open.spotify.com/track/19Dzreszyxy7dJDJuVRCoZ) | [Ruelle](https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx) | [Conquer](https://open.spotify.com/album/6rFe0D0d7h5xbC49yXrWsK) | 3:11 | 2024-02-01 | 2024-02-25 |
 | [CONTIGO \(with Tiësto\)](https://open.spotify.com/track/4UkUxO2WlKLc0Q1iEutGGh) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [CONTIGO \(with Tiësto\)](https://open.spotify.com/album/2mKcYIgv7ItYDQXke3uprl) | 3:12 | 2024-02-15 | 2024-03-01 |
 | [Control](https://open.spotify.com/track/0tjk8L9aFCsH9BlkVAixct) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Control](https://open.spotify.com/album/1ygUJq7xxvjmEs56MY5Hjl) | 2:55 | 2024-10-03 | 2024-10-25 |
+| [Convergence](https://open.spotify.com/track/33SKM68DbCdwIfYpb8SmHd) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Ruler of Waves](https://open.spotify.com/album/6oT45ygY5zfQX4Js1KeAwo) | 0:57 | 2025-02-27 |  |
 | [cool](https://open.spotify.com/track/1jniAkJye4noA07XHI3ER4) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [cool](https://open.spotify.com/album/2OFjuK1HVYX3KIFyEnSWDR) | 2:28 | 2024-02-08 | 2024-03-03 |
 | [Cooler Than Me](https://open.spotify.com/track/66o1JE2ZbN6EtjDp3L97yg) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8) | [Cooler Than Me](https://open.spotify.com/album/42aqTX1vVtNPlwH6I9kyya) | 3:00 | 2023-02-23 | 2023-03-25 |
 | [Copa Vacía](https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Copa Vacía](https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7) | 2:53 | 2023-07-06 | 2023-07-30 |
