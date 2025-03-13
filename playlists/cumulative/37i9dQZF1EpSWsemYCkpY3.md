@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-983 songs - 2 day 2 hr 57 min
+984 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,7 +451,7 @@
 | [It's Okay](https://open.spotify.com/track/3cxLYMIUju7Vby24AZOZ0a) | [Reagan Beem](https://open.spotify.com/artist/5tPTpbUqEfk2JU979vtzzM) | [&](https://open.spotify.com/album/0CCly7tJMs9RCNlKE3YdP1) | 2:37 | 2022-10-12 | 2022-11-16 |
 | [It's Only Love, Nobody Dies](https://open.spotify.com/track/4HBaBg9EzXkTspFJ3y3uE0) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [Sofia Carson](https://open.spotify.com/album/5Y63nlA6F7z3yaqHjF7suD) | 3:04 | 2023-01-05 | 2023-02-20 |
 | [I’m Blue](https://open.spotify.com/track/1GOEIbuYVU3CQdzPT2NL65) | [DJ Alex Man](https://open.spotify.com/artist/2LWTGoof8RKOgZTgnyatSk), [Dj Diac](https://open.spotify.com/artist/2OHXRrSozCFXJZ8xiiobvE), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [I’m Blue](https://open.spotify.com/album/6wUBJfXurHzot0CaLJax8R) | 3:11 | 2024-07-25 | 2024-08-04 |
-| [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2024-05-28 |  |
+| [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 | 2024-05-28 | 2025-03-13 |
 | [Jeno Tomari Kache](https://open.spotify.com/track/6iMgrj9v5byFgbl9pyinpF) | [Ash King](https://open.spotify.com/artist/1cfG7UM0OD4O1II1nd15Qo), [Somlata](https://open.spotify.com/artist/2xMZqRbIbvfnDxZmcdq9rN) | [Shudhu Tomari Jonyo](https://open.spotify.com/album/2GICr5p81pM3Z0T9BJFb1o) | 4:36 | 2025-02-11 |  |
 | [Jo Tum Mere Ho](https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Jo Tum Mere Ho](https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW) | 4:11 | 2024-11-07 | 2024-11-20 |
 | [Joan of Arc on the Dance Floor](https://open.spotify.com/track/6OtjXmAe3pGZxcrT1Cx2Br) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [We Don’t Stop](https://open.spotify.com/album/21mYdkYstr4I2gyzoV4nES) | 3:26 | 2023-08-11 | 2023-08-15 |
@@ -891,6 +891,7 @@
 | [Touch](https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx) | [Touch](https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk) | 2:24 | 2022-09-18 | 2022-09-28 |
 | [Traitor](https://open.spotify.com/track/13AxsHppGvU1LsftFSuAJV) | [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Traitor](https://open.spotify.com/album/3pCnOxJezgI4KmcKMznAE7) | 2:57 | 2022-07-07 | 2022-09-01 |
 | [Travel](https://open.spotify.com/track/613vczCKH9hqlOnD1f49mZ) | [JeanJiño](https://open.spotify.com/artist/3qCx2KCdxS3wKdRpKarZKN) | [Parallel Universe](https://open.spotify.com/album/7CY9edyUqJY9A6Wsv925oo) | 2:44 | 2023-07-18 | 2023-12-25 |
+| [Travel](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Travel](https://open.spotify.com/album/6hUUo3Up49OeTMvmWtqLMi) | 2:23 | 2025-03-12 |  |
 | [Traveler In Time](https://open.spotify.com/track/2Dpo8TNsLVmv3wPB34NGri) | [Dimatis](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N) | [Traveler In Time](https://open.spotify.com/album/2RzOr1f4mawYnMKClPF276) | 3:41 | 2023-05-13 | 2023-06-13 |
 | [Treat Me Right \- Marc Philippe Remix](https://open.spotify.com/track/0oHnbydVD1Y23DTFpE9nYk) | [Pete Bellis & Tommy](https://open.spotify.com/artist/2yCXS70BMsWAebyvC1j6E1), [Marc Philippe](https://open.spotify.com/artist/0U3VVYAAivfifX8Dul3vO1) | [Top Tunes](https://open.spotify.com/album/4d2r1cBi1hF8De8XilzD23) | 3:49 | 2024-08-12 | 2024-10-03 |
 | [Treat Myself](https://open.spotify.com/track/1KduF4t7FmMPKbu8U5GvsI) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Treat Myself](https://open.spotify.com/album/641ScO1XFNGOq2YSPrqXyH) | 2:42 | 2022-05-24 | 2022-06-17 |

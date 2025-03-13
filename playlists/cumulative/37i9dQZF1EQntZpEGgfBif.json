@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a>, <a href=spotify:playlist:37i9dQZF1EIWv4XbvL4K6H>Amy Winehouse</a>, <a href=spotify:playlist:37i9dQZF1EIZrafiVeUT0O>The Ronettes</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more",
   "name": "Soul Mix",
   "tracks": [
     {
@@ -4398,7 +4398,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 339044,
       "name": "Baat Unkahi",
       "url": "https://open.spotify.com/track/2q8rYQmDCRdJlv0efz5K0n"
@@ -4950,7 +4950,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 184577,
       "name": "Bad Dreams",
       "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
@@ -5352,7 +5352,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 205286,
       "name": "Be Slow",
       "url": "https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw"
@@ -7056,7 +7056,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 167317,
       "name": "Body Loud",
       "url": "https://open.spotify.com/track/1dKyceHSpbmHEghVvhTrfo"
@@ -9060,7 +9060,7 @@
       ],
       "date_added": "2025-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 233012,
       "name": "Chan Kithan",
       "url": "https://open.spotify.com/track/3DJVLBNKQi8fzhTWFxAzS6"
@@ -9556,7 +9556,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 210299,
       "name": "Cold Little Heart - Radio Edit",
       "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
@@ -18474,7 +18474,7 @@
       ],
       "date_added": "2025-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-07",
+      "date_removed": null,
       "duration_ms": 198157,
       "name": "Great Mother",
       "url": "https://open.spotify.com/track/3mk6US6R13SBKqg017XYax"
@@ -18738,7 +18738,7 @@
       ],
       "date_added": "2025-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 176424,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
@@ -20176,7 +20176,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"
@@ -30436,7 +30436,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 208843,
       "name": "Lose Control - Strings Version",
       "url": "https://open.spotify.com/track/4U954vDqebfDJxSd1HS1Kk"
@@ -31286,7 +31286,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 212076,
       "name": "Love Is The Answer",
       "url": "https://open.spotify.com/track/6mleVuvGjiH9rEJ7jMAdN6"
@@ -31442,7 +31442,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 216166,
       "name": "Love Me Harder",
       "url": "https://open.spotify.com/track/2247qD9kVEBW5bQsfXnPTm"
@@ -38402,6 +38402,24 @@
     {
       "album": {
         "name": "Orange Blossoms",
+        "url": "https://open.spotify.com/album/1rhRxEgWl6CcDM87hJVGwD"
+      },
+      "artists": [
+        {
+          "name": "GoldFord",
+          "url": "https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS"
+        }
+      ],
+      "date_added": "2025-03-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192131,
+      "name": "Orange Blossoms",
+      "url": "https://open.spotify.com/track/3Xg2ZCPPKfWsj9W8cmLbHF"
+    },
+    {
+      "album": {
+        "name": "Orange Blossoms",
         "url": "https://open.spotify.com/album/0kpAo6p1USCL3Qmac5s4Ao"
       },
       "artists": [
@@ -40682,7 +40700,7 @@
       ],
       "date_added": "2025-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 240066,
       "name": "Raanjhan (From \"Do Patti\")",
       "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
@@ -44118,7 +44136,7 @@
       ],
       "date_added": "2025-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 135502,
       "name": "She Knows It",
       "url": "https://open.spotify.com/track/4j6cCpbrkVnxoqwmiw1m8L"
@@ -44906,7 +44924,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 214632,
       "name": "Skin and Bones",
       "url": "https://open.spotify.com/track/6bQ7OdDqE38Gq5dK35dI4T"
@@ -45604,7 +45622,7 @@
       ],
       "date_added": "2024-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 199756,
       "name": "Solo",
       "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
@@ -45676,7 +45694,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
@@ -47756,7 +47774,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 179000,
       "name": "Stronger (Grey's Anatomy Version)",
       "url": "https://open.spotify.com/track/2h444Cn1pbZjKPD4jbjY3E"
@@ -50648,7 +50666,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-13",
       "duration_ms": 231649,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7Js278ET3O52ymQd8LU5bq"
@@ -55824,7 +55842,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 223583,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/1gcbDj7nfYolTr09LklGlr"
@@ -56312,7 +56330,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 174432,
       "name": "weight",
       "url": "https://open.spotify.com/track/6Xs0BBQGIRCQxQwL0zt7lD"

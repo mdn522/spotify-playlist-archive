@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 22 | [Stuck On You](https://open.spotify.com/track/6aevLJZYhcT7IW8WVspnIS) | [MashBit](https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ) | [Stuck On You](https://open.spotify.com/album/3L26xsJtlMRvbB4ECsjEX6) | 2:29 |
 | 23 | [Dance Alone](https://open.spotify.com/track/3RgzcYjdsa2iINZrRzmFGH) | [Phil Dust](https://open.spotify.com/artist/3QjqGZ3r7sMq8XHsRbFU5U) | [Dance Alone](https://open.spotify.com/album/1HoCBss6KTNWCJYLFrDiNO) | 2:34 |
 | 24 | [Mere Dholna 3.0 \(Sonu Nigam Version\) \[From "Bhool Bhulaiyaa 3"\]](https://open.spotify.com/track/7cXwJ84u9sSEuynXLfyMD7) | [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Sameer Anjaan](https://open.spotify.com/artist/5sifufajls8Q6k04Y4F8mH), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Mere Dholna 3.0 \(Sonu Nigam Version\) \[From "Bhool Bhulaiyaa 3"\]](https://open.spotify.com/album/7eeyLtocuJJHjqqGyfCndk) | 4:26 |
-| 25 | [Tell It To My Heart](https://open.spotify.com/track/00wHK6Ivm7sUTkAdRjz3jP) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Tell It To My Heart](https://open.spotify.com/album/3osdrCWYYOwjvGRUrOkWTb) | 2:06 |
-| 26 | [Shivers](https://open.spotify.com/track/2AjoSfMoiYNOe95CSrmnxc) | [Ikarus](https://open.spotify.com/artist/4nJHUc86dUmNx5Cfyqf4zp), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [Michel Dj](https://open.spotify.com/artist/3xkGLkIacZeEl0tXUAWtT5), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [Shivers](https://open.spotify.com/album/2HfSnsMfvVRX1BHZ3mYqwc) | 3:10 |
-| 27 | [Without You](https://open.spotify.com/track/0c9DfqVLA5LGPoOvPIJ7K0) | [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl), [Despotem](https://open.spotify.com/artist/6IJVzOcCM6c9C6YAJCjDi6), [Adeline Um](https://open.spotify.com/artist/4KgNBDUTsA4PHunh86lffT) | [Without You](https://open.spotify.com/album/2qRb2NS8PKT1FTOgaKyfhA) | 2:10 |
-| 28 | [Jeena Jeena](https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Badlapur \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ahg47diWPOQ6d6C8e6PHI) | 3:48 |
+| 25 | [Travel](https://open.spotify.com/track/06tCB0GoFpEAM9rEWiVrX8) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Travel](https://open.spotify.com/album/6hUUo3Up49OeTMvmWtqLMi) | 2:23 |
+| 26 | [Tell It To My Heart](https://open.spotify.com/track/00wHK6Ivm7sUTkAdRjz3jP) | [HUTS](https://open.spotify.com/artist/6d4AePmkVnbu2qIbT6vsem) | [Tell It To My Heart](https://open.spotify.com/album/3osdrCWYYOwjvGRUrOkWTb) | 2:06 |
+| 27 | [Shivers](https://open.spotify.com/track/2AjoSfMoiYNOe95CSrmnxc) | [Ikarus](https://open.spotify.com/artist/4nJHUc86dUmNx5Cfyqf4zp), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [Michel Dj](https://open.spotify.com/artist/3xkGLkIacZeEl0tXUAWtT5), [Milan Gavris](https://open.spotify.com/artist/5Ukdziss6tmNzMRrJ60UKJ) | [Shivers](https://open.spotify.com/album/2HfSnsMfvVRX1BHZ3mYqwc) | 3:10 |
+| 28 | [Without You](https://open.spotify.com/track/0c9DfqVLA5LGPoOvPIJ7K0) | [Subspace](https://open.spotify.com/artist/7nw7Hh1qSVsic7HdEw6kZl), [Despotem](https://open.spotify.com/artist/6IJVzOcCM6c9C6YAJCjDi6), [Adeline Um](https://open.spotify.com/artist/4KgNBDUTsA4PHunh86lffT) | [Without You](https://open.spotify.com/album/2qRb2NS8PKT1FTOgaKyfhA) | 2:10 |
 | 29 | [Cheri Cheri Lady](https://open.spotify.com/track/6dHGS1EnyJ0nXLkjjJNV2b) | [Max Oazo](https://open.spotify.com/artist/5uNCgXcFgj0OyipmIk8ZUi) | [Cheri Cheri Lady](https://open.spotify.com/album/7H5u1If8qjrfs4g90pMUpe) | 2:48 |
 | 30 | [Racing to the Moonlight \(Sped\)](https://open.spotify.com/track/6PVVE1oDyw7FD9C0EBGoaW) | [DJ Samentro](https://open.spotify.com/artist/5lSVkhq0oR4GCue19dkBL4) | [Racing to the Moonlight \(Sped\)](https://open.spotify.com/album/7ob8QnbNOpQ3tZKVxmvU3b) | 2:50 |
 
-Snapshot ID: `Z8z9kAAAAACiCnmI1q/ZUwipCXA3itBj`
+Snapshot ID: `Z9D24gAAAAAeJRNhawfZTbYPy/2a5Wty`
