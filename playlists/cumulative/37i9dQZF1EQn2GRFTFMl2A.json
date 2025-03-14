@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWwYP0fX3vOt>YORK</a>, <a href=spotify:playlist:37i9dQZF1EIXwUP9lmHosa>Atif Aslam</a>, <a href=spotify:playlist:37i9dQZF1EIWrxLdK8DfXt>Delerium</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWwYP0fX3vOt>YORK</a>, <a href=spotify:playlist:37i9dQZF1EIVFWbAj76QAW>ATB</a>, <a href=spotify:playlist:37i9dQZF1EIWrxLdK8DfXt>Delerium</a> and more",
   "name": "90s Mix",
   "tracks": [
     {
@@ -496,7 +496,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-24",
+      "date_removed": null,
       "duration_ms": 210960,
       "name": "1998 - Paul van Dyk Remix",
       "url": "https://open.spotify.com/track/72lRA680a5ZWu0l14phseH"
@@ -6314,7 +6314,7 @@
       ],
       "date_added": "2024-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-11",
+      "date_removed": null,
       "duration_ms": 220565,
       "name": "Barber's Adagio for Strings - Ferry Corsten Remix; Radio Edit;",
       "url": "https://open.spotify.com/track/6qlmPJiL0uQZ45Jirn3VA5"
@@ -6734,7 +6734,7 @@
       ],
       "date_added": "2025-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 234160,
       "name": "Beachball - Vocal Radio Edit",
       "url": "https://open.spotify.com/track/6iyxF36JnQYzqMbpQD861R"
@@ -15822,7 +15822,7 @@
       ],
       "date_added": "2022-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 203440,
       "name": "Doctor Jones",
       "url": "https://open.spotify.com/track/6EBDmMZBQkWrj7jWlGhFU1"
@@ -16212,7 +16212,7 @@
       ],
       "date_added": "2025-02-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-20",
+      "date_removed": null,
       "duration_ms": 227006,
       "name": "Don't You Want Me - KI/KI Remix",
       "url": "https://open.spotify.com/track/2HcD8DL6fVvASQWRFzmIVG"
@@ -16320,7 +16320,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 231986,
       "name": "Dooh Dooh",
       "url": "https://open.spotify.com/track/06MaHjSGleJNvfsugH0mFi"
@@ -21814,7 +21814,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 139636,
       "name": "Frozen (feat. 070 Shake)",
       "url": "https://open.spotify.com/track/34itnB3u4NTwj9ctVfiPmC"
@@ -25192,7 +25192,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 192380,
       "name": "Hey Boy Hey Girl - ARTBAT Remix",
       "url": "https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv"
@@ -25736,7 +25736,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 221986,
       "name": "Hona Tha Pyar",
       "url": "https://open.spotify.com/track/0KSOLEBixnBYIKNHF1VbzF"
@@ -32288,6 +32288,28 @@
       "duration_ms": 206920,
       "name": "King of My Castle - Roy Malone's King Radio Edit",
       "url": "https://open.spotify.com/track/1SjJZewpXEHRuXn7RRszQ5"
+    },
+    {
+      "album": {
+        "name": "Kingston Town",
+        "url": "https://open.spotify.com/album/0a6bKb1VqP9CpaEqCV9YSU"
+      },
+      "artists": [
+        {
+          "name": "89ers",
+          "url": "https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs"
+        },
+        {
+          "name": "Rimini Rockaz",
+          "url": "https://open.spotify.com/artist/7zqZJvgnf9FHhtgBTQxI35"
+        }
+      ],
+      "date_added": "2025-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166621,
+      "name": "Kingston Town",
+      "url": "https://open.spotify.com/track/045pmiAZPTmZw6XLdK9g9l"
     },
     {
       "album": {
@@ -39048,7 +39070,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-27",
+      "date_removed": null,
       "duration_ms": 257466,
       "name": "Mr. Vain - Original Radio Edit",
       "url": "https://open.spotify.com/track/4ih3dyFZoeTdaeJW9mPbOI"
@@ -46088,7 +46110,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 219426,
       "name": "Protect Your Mind (Braveheart) - Vocal Mix",
       "url": "https://open.spotify.com/track/1vWbaoRAG0INnakzFlHJb8"
@@ -47772,7 +47794,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 209773,
       "name": "Rhythm Divine",
       "url": "https://open.spotify.com/track/4XifD1V0kWoG4WwsXTwS3y"
@@ -48292,7 +48314,7 @@
       ],
       "date_added": "2024-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-13",
+      "date_removed": null,
       "duration_ms": 250933,
       "name": "Rock My Heart - Radio Mix",
       "url": "https://open.spotify.com/track/4vS81J1lKj4sflbzyvJSgN"
@@ -55836,7 +55858,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-12",
+      "date_removed": null,
       "duration_ms": 204240,
       "name": "Sweet Dreams - Radio Version",
       "url": "https://open.spotify.com/track/0nw4GKKBab2VEPqEWCMOx2"
@@ -57518,7 +57540,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-06",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "The Age Of Love (Charlotte de Witte & Enrico Sangiuliano Remix) - Charlotte de Witte & Enrico Sangiuliano Remix - Edit",
       "url": "https://open.spotify.com/track/38i2IOw4HtOUDDocgNT0o7"
@@ -65558,7 +65580,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 302000,
       "name": "What Is Love - Club Mix",
       "url": "https://open.spotify.com/track/0gNRzHp1GsQRQXz7EQa4Ox"
@@ -65620,7 +65642,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-03-14",
       "duration_ms": 176026,
       "name": "What Is Love - Reloaded - Radio Edit",
       "url": "https://open.spotify.com/track/5GvueiOy3uZz3dMeWVOAbM"
