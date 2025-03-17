@@ -1,13 +1,33 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXiUfpzgQHu9>Punctual</a>, <a href=spotify:playlist:37i9dQZF1EIWygOafFAhDj>DJ Katch</a>, <a href=spotify:playlist:37i9dQZF1EIVv4IeWXX1Ov>James Carter</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXWDNub5biJY>Purple Disco Machine</a>, <a href=spotify:playlist:37i9dQZF1EIXiUfpzgQHu9>Punctual</a>, <a href=spotify:playlist:37i9dQZF1EIVv4IeWXX1Ov>James Carter</a> and more",
   "num_followers": 0,
   "original_name": "House Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAA4jw1w94FIfpt+Ba8b2WEC",
+  "snapshot_id": "AAAAAAAAAAA0SG23EeZ3SGKDWhMTsxln",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        {
+          "name": "ÁSDÍS",
+          "url": "https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg"
+        }
+      ],
+      "duration_ms": 209186,
+      "name": "Beat Of Your Heart",
+      "url": "https://open.spotify.com/track/1xiUU6OH3ytnZCBfaQQXe0"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,26 +47,6 @@
       "duration_ms": 137419,
       "name": "Do It All Again",
       "url": "https://open.spotify.com/track/6BwPstqf4RoRMbDidFWNxE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're Makin' Me High",
-        "url": "https://open.spotify.com/album/5o3Ob6SHmB5ZnSWOiyGv6N"
-      },
-      "artists": [
-        {
-          "name": "DJ Katch",
-          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
-        },
-        {
-          "name": "Amira Eldine",
-          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
-        }
-      ],
-      "duration_ms": 166520,
-      "name": "You're Makin' Me High",
-      "url": "https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA"
     },
     {
       "added_at": null,
@@ -87,22 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Roses x Children",
-        "url": "https://open.spotify.com/album/6EjzGyhe7zi2ZcrGWHXgA0"
-      },
-      "artists": [
-        {
-          "name": "TommyMuzzic",
-          "url": "https://open.spotify.com/artist/2XqXXH9xPa1zucIOtZ3u3A"
-        }
-      ],
-      "duration_ms": 110721,
-      "name": "Roses x Children",
-      "url": "https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Euphoria (with Alok)",
         "url": "https://open.spotify.com/album/3lFUdKS5aaxORrnAzj7XIp"
       },
@@ -131,6 +115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're Makin' Me High",
+        "url": "https://open.spotify.com/album/5o3Ob6SHmB5ZnSWOiyGv6N"
+      },
+      "artists": [
+        {
+          "name": "DJ Katch",
+          "url": "https://open.spotify.com/artist/1AAfkmCFRTSDg18GQ3itgl"
+        },
+        {
+          "name": "Amira Eldine",
+          "url": "https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst"
+        }
+      ],
+      "duration_ms": 166520,
+      "name": "You're Makin' Me High",
+      "url": "https://open.spotify.com/track/5iP6VWh8goBkJcXBMQSejA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr"
       },
@@ -155,62 +159,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Door (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+        "name": "Roses x Children",
+        "url": "https://open.spotify.com/album/6EjzGyhe7zi2ZcrGWHXgA0"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "TommyMuzzic",
+          "url": "https://open.spotify.com/artist/2XqXXH9xPa1zucIOtZ3u3A"
         }
       ],
-      "duration_ms": 210476,
-      "name": "The Door - CYRIL Remix",
-      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+      "duration_ms": 110721,
+      "name": "Roses x Children",
+      "url": "https://open.spotify.com/track/3GxXPHTRn4vQArX83QprqZ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Neon Nights",
-        "url": "https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT"
+        "name": "BACK OF MY MIND",
+        "url": "https://open.spotify.com/album/19uIrDTrWHNYP4uqmUNVcE"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "Alex LeMirage",
+          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
         },
         {
-          "name": "LOVA",
-          "url": "https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x"
+          "name": "FARLEY",
+          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
         }
       ],
-      "duration_ms": 202719,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Can't Forget You",
-        "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
-      },
-      "artists": [
-        {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
-        },
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        }
-      ],
-      "duration_ms": 156250,
-      "name": "Can't Forget You",
-      "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
+      "duration_ms": 201141,
+      "name": "BACK OF MY MIND",
+      "url": "https://open.spotify.com/track/2KICDTj8KkODjuit7v4AK6"
     },
     {
       "added_at": null,
@@ -239,6 +219,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Door (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/0lFoxDrwrNWwtfw1KohwAN"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 210476,
+      "name": "The Door - CYRIL Remix",
+      "url": "https://open.spotify.com/track/6VD3T09spn64tjPcBih64P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can't Forget You",
+        "url": "https://open.spotify.com/album/17p2hpEP5OkJnFZpbsL3wC"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        },
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        }
+      ],
+      "duration_ms": 156250,
+      "name": "Can't Forget You",
+      "url": "https://open.spotify.com/track/3YOkRTqknv92aUyOXcTxVg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stereo",
         "url": "https://open.spotify.com/album/1tuvLXYPZgkyxDVM1ePw4w"
       },
@@ -259,22 +279,298 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Like It (with Nate Smith)",
-        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "3LAU",
+          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
         },
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "XIRA",
+          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
         }
       ],
-      "duration_ms": 152349,
-      "name": "I Like It (with Nate Smith)",
-      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
+      "duration_ms": 205440,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Anne Gudrun",
+          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
+        }
+      ],
+      "duration_ms": 200625,
+      "name": "Love Is A Drug",
+      "url": "https://open.spotify.com/track/5BYO2o4tpB4rzzVesxtUuT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lucid Dream",
+        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 193235,
+      "name": "Lucid Dream",
+      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Overdrive (feat. Norma Jean Martine)",
+        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        },
+        {
+          "name": "Norma Jean Martine",
+          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
+        }
+      ],
+      "duration_ms": 155905,
+      "name": "Overdrive (feat. Norma Jean Martine)",
+      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me How",
+        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "offrami",
+          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
+        },
+        {
+          "name": "Jeannette",
+          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
+        }
+      ],
+      "duration_ms": 132742,
+      "name": "Tell Me How",
+      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Million Places",
+        "url": "https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "duration_ms": 157548,
+      "name": "Million Places",
+      "url": "https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "These Nights",
+        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
+        }
+      ],
+      "duration_ms": 132417,
+      "name": "These Nights",
+      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/4vkCsDg2I4j0vo2lpBgiWa"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gabriel",
+        "url": "https://open.spotify.com/album/0csMhRMVvKNBPnfNBvfaHu"
+      },
+      "artists": [
+        {
+          "name": "Hydawai",
+          "url": "https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ"
+        },
+        {
+          "name": "CMC$",
+          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
+        },
+        {
+          "name": "Benji",
+          "url": "https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo"
+        }
+      ],
+      "duration_ms": 197073,
+      "name": "Gabriel",
+      "url": "https://open.spotify.com/track/4Qo9UFzbsp5avmUs6Okpl6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Me Up In Paris",
+        "url": "https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN"
+      },
+      "artists": [
+        {
+          "name": "Anthony Keyrouz",
+          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+        },
+        {
+          "name": "Paradigm",
+          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
+        }
+      ],
+      "duration_ms": 136946,
+      "name": "Wake Me Up In Paris",
+      "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I'll Fly With You (L'Amour Toujours)",
+        "url": "https://open.spotify.com/album/1dPTyvKxQlxhlRjg6RXGdO"
+      },
+      "artists": [
+        {
+          "name": "Jovani",
+          "url": "https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U"
+        },
+        {
+          "name": "Chris Crone",
+          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "I'll Fly With You (L'Amour Toujours)",
+      "url": "https://open.spotify.com/track/647ApDC8JCH0CRKNYAwos9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Let's Call It Love",
+        "url": "https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO"
+      },
+      "artists": [
+        {
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Mary Jensen",
+          "url": "https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB"
+        }
+      ],
+      "duration_ms": 140952,
+      "name": "Let's Call It Love",
+      "url": "https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Punctual",
+          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
+        },
+        {
+          "name": "Alika",
+          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
+        }
+      ],
+      "duration_ms": 170578,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "Summer Of Love",
+      "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
     },
     {
       "added_at": null,
@@ -315,378 +611,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me How",
-        "url": "https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv"
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/7ybQ2Vblnsi7QomG9AJtmF"
       },
       "artists": [
         {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
         },
         {
-          "name": "offrami",
-          "url": "https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1"
-        },
-        {
-          "name": "Jeannette",
-          "url": "https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw"
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
         }
       ],
-      "duration_ms": 132742,
-      "name": "Tell Me How",
-      "url": "https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/36G5TgLmtE6At9eSZwij78"
-      },
-      "artists": [
-        {
-          "name": "3LAU",
-          "url": "https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5"
-        },
-        {
-          "name": "XIRA",
-          "url": "https://open.spotify.com/artist/7CWqlWlNqgpEYr4vwcVzCJ"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/6tOd448QY4mwJotfxQPgYR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lucid Dream",
-        "url": "https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 193235,
-      "name": "Lucid Dream",
-      "url": "https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/3dfw820L9e1avL7i8zwvUU"
-      },
-      "artists": [
-        {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
-        },
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "Summer Of Love",
-      "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "These Nights",
-        "url": "https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "KIDDO",
-          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
-        }
-      ],
-      "duration_ms": 132417,
-      "name": "These Nights",
-      "url": "https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/5O5omtkIR6DrDMKM8YCHmw"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Anne Gudrun",
-          "url": "https://open.spotify.com/artist/4CjmulKe83Ymzhud7vD0i5"
-        }
-      ],
-      "duration_ms": 200625,
-      "name": "Love Is A Drug",
-      "url": "https://open.spotify.com/track/5BYO2o4tpB4rzzVesxtUuT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Million Places",
-        "url": "https://open.spotify.com/album/0FDi6UKrT6OaQuzY0a4Hna"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
-        }
-      ],
-      "duration_ms": 157548,
-      "name": "Million Places",
-      "url": "https://open.spotify.com/track/3rCuELlVNqzcG8JHDJh76m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Me Up In Paris",
-        "url": "https://open.spotify.com/album/6TiAOruZ9SPA5FLsD7ACsN"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "Paradigm",
-          "url": "https://open.spotify.com/artist/6WamMeXO2jN9tUYxSBUclQ"
-        }
-      ],
-      "duration_ms": 136946,
-      "name": "Wake Me Up In Paris",
-      "url": "https://open.spotify.com/track/4dq7XLDmFHNwc1yqL339qT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "BACK OF MY MIND",
-        "url": "https://open.spotify.com/album/19uIrDTrWHNYP4uqmUNVcE"
-      },
-      "artists": [
-        {
-          "name": "Alex LeMirage",
-          "url": "https://open.spotify.com/artist/2fYtH8OoLTeDIicmFH9dNu"
-        },
-        {
-          "name": "FARLEY",
-          "url": "https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O"
-        }
-      ],
-      "duration_ms": 201141,
-      "name": "BACK OF MY MIND",
-      "url": "https://open.spotify.com/track/2KICDTj8KkODjuit7v4AK6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gabriel",
-        "url": "https://open.spotify.com/album/0csMhRMVvKNBPnfNBvfaHu"
-      },
-      "artists": [
-        {
-          "name": "Hydawai",
-          "url": "https://open.spotify.com/artist/5adV10VCaQCO3HJLlVQiFZ"
-        },
-        {
-          "name": "CMC$",
-          "url": "https://open.spotify.com/artist/78DWNk8gFHU30TGITAgbM7"
-        },
-        {
-          "name": "Benji",
-          "url": "https://open.spotify.com/artist/4VmGrnGFwIKUkAGfKfeVOo"
-        }
-      ],
-      "duration_ms": 197073,
-      "name": "Gabriel",
-      "url": "https://open.spotify.com/track/4Qo9UFzbsp5avmUs6Okpl6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Let's Call It Love",
-        "url": "https://open.spotify.com/album/59vsEGJiHPbbySFipoLcuO"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Mary Jensen",
-          "url": "https://open.spotify.com/artist/3Lhhz2OmsLzPNnSrhij4XB"
-        }
-      ],
-      "duration_ms": 140952,
-      "name": "Let's Call It Love",
-      "url": "https://open.spotify.com/track/3i7Uzo6SN9Gk5vnEvAsy4C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outside Of Love (Zerb Remix)",
-        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        }
-      ],
-      "duration_ms": 192317,
-      "name": "Outside Of Love - Zerb Remix",
-      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'll Fly With You (L'Amour Toujours)",
-        "url": "https://open.spotify.com/album/1dPTyvKxQlxhlRjg6RXGdO"
-      },
-      "artists": [
-        {
-          "name": "Jovani",
-          "url": "https://open.spotify.com/artist/6jx9UX4W6wVbifcN8U246U"
-        },
-        {
-          "name": "Chris Crone",
-          "url": "https://open.spotify.com/artist/4GrH6djlMelZDucxke8WAk"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "I'll Fly With You (L'Amour Toujours)",
-      "url": "https://open.spotify.com/track/647ApDC8JCH0CRKNYAwos9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cynical",
-        "url": "https://open.spotify.com/album/4vkCsDg2I4j0vo2lpBgiWa"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Safri Duo",
-          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
-        },
-        {
-          "name": "Chris de Sarandy",
-          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "Cynical",
-      "url": "https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hush Hush (Don't Be Shy)",
-        "url": "https://open.spotify.com/album/5fvGw0hlFb6wdSK9MGgY2s"
-      },
-      "artists": [
-        {
-          "name": "Anthony Keyrouz",
-          "url": "https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY"
-        },
-        {
-          "name": "ZANA",
-          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
-        }
-      ],
-      "duration_ms": 131001,
-      "name": "Hush Hush (Don't Be Shy)",
-      "url": "https://open.spotify.com/track/6yotiCxcSIm4HyZdA6wcYH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Words (feat. Zara Larsson)",
-        "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "Words (feat. Zara Larsson)",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Overdrive (feat. Norma Jean Martine)",
-        "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
-      },
-      "artists": [
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        },
-        {
-          "name": "Norma Jean Martine",
-          "url": "https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB"
-        }
-      ],
-      "duration_ms": 155905,
-      "name": "Overdrive (feat. Norma Jean Martine)",
-      "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Heroes",
-        "url": "https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu"
-      },
-      "artists": [
-        {
-          "name": "LUNAX",
-          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
-        },
-        {
-          "name": "Luca Schreiner",
-          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
-        },
-        {
-          "name": "ANY",
-          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
-        }
-      ],
-      "duration_ms": 121135,
-      "name": "No Heroes",
-      "url": "https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO"
+      "duration_ms": 136417,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/0HGpMpt4OrGUtdHq8dVuPN"
     },
     {
       "added_at": null,
@@ -711,66 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feel Again",
-        "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Punctual",
-          "url": "https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF"
-        },
-        {
-          "name": "Alika",
-          "url": "https://open.spotify.com/artist/1U3n3wACHLjc8sS1obMEuf"
-        }
-      ],
-      "duration_ms": 170578,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/6wLqNGHQIja6xqT0cfrzBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2bq4MKtqBv9QsqkflN6tHg"
-      },
-      "artists": [
-        {
-          "name": "Bright Hinze",
-          "url": "https://open.spotify.com/artist/09f3IvRGUZIssocLZvvn9m"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "What It Feels Like",
-        "url": "https://open.spotify.com/album/6w5EasEXNH9NSNpgJLqXO5"
-      },
-      "artists": [
-        {
-          "name": "Toby Romeo",
-          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
-        },
-        {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        }
-      ],
-      "duration_ms": 135276,
-      "name": "What It Feels Like",
-      "url": "https://open.spotify.com/track/7lD0SNdtIYGV30yxu4494I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "KYGO",
         "url": "https://open.spotify.com/album/5BrjR0P59l9SsbODztqs3q"
       },
@@ -787,6 +667,70 @@
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/4rTPLtqJxa4UtCBkdMwSp6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outside Of Love (Zerb Remix)",
+        "url": "https://open.spotify.com/album/24mUalHE64ktRE9OiW5PgE"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        }
+      ],
+      "duration_ms": 192317,
+      "name": "Outside Of Love - Zerb Remix",
+      "url": "https://open.spotify.com/track/7pO5CuNmPjoG2c27YWliB5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Letting Go (feat. Julia Church)",
+        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 122839,
+      "name": "Never Letting Go",
+      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Like It (with Nate Smith)",
+        "url": "https://open.spotify.com/album/2ENPW1y88zy7MAQJ7Vt5XC"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 152349,
+      "name": "I Like It (with Nate Smith)",
+      "url": "https://open.spotify.com/track/3MBJxg2sT7CAdqYcdU8C5K"
     },
     {
       "added_at": null,
@@ -819,70 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Letting Go (feat. Julia Church)",
-        "url": "https://open.spotify.com/album/3D4noTUY4HJPPf3Swo3XM9"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 122839,
-      "name": "Never Letting Go",
-      "url": "https://open.spotify.com/track/50aavjIFmj5VB6Cxkcx2X7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurricane (feat. Clara Mae)",
-        "url": "https://open.spotify.com/album/5lYcf3BCOpocetzJCGWQF4"
-      },
-      "artists": [
-        {
-          "name": "Frank Walker",
-          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 149077,
-      "name": "Hurricane (feat. Clara Mae)",
-      "url": "https://open.spotify.com/track/3K4faFu5uMhTuahytdLxei"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feel Less",
-        "url": "https://open.spotify.com/album/14AAzYmdbb8x9s3i4H3dL6"
-      },
-      "artists": [
-        {
-          "name": "Felix Cartal",
-          "url": "https://open.spotify.com/artist/6roDXEmZ6AARdOUv6x5U2v"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 241951,
-      "name": "Feel Less",
-      "url": "https://open.spotify.com/track/0uEOOlUaUT2bC2a3anIVjG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/40SaMKXFBRBnQJpAkXzcHr"
       },
@@ -903,42 +783,6 @@
       "duration_ms": 215930,
       "name": "In My Head",
       "url": "https://open.spotify.com/track/5zXfHNzmiGLpMJhzFdD7bM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lied To Me",
-        "url": "https://open.spotify.com/album/4SNy6cKk1n44yOtWB6hFQ4"
-      },
-      "artists": [
-        {
-          "name": "Mike Mana",
-          "url": "https://open.spotify.com/artist/54CyPPYrmaRRxsN8rjwYnQ"
-        }
-      ],
-      "duration_ms": 153838,
-      "name": "Lied To Me",
-      "url": "https://open.spotify.com/track/4E3Dbzqn1c7B2opuWf6VOJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Night",
-        "url": "https://open.spotify.com/album/1LEOrxb9axbi2FIglwifa4"
-      },
-      "artists": [
-        {
-          "name": "BROHM",
-          "url": "https://open.spotify.com/artist/33cjmfhkyHbulkQwkuxe3i"
-        },
-        {
-          "name": "KRSTF",
-          "url": "https://open.spotify.com/artist/0HVCl1nyaoINdqF5jJEdMT"
-        }
-      ],
-      "duration_ms": 171272,
-      "name": "One More Night",
-      "url": "https://open.spotify.com/track/7eLTKfgiVfQTCWVtnZImau"
     },
     {
       "added_at": null,
@@ -967,42 +811,122 @@
     {
       "added_at": null,
       "album": {
-        "name": "Edge of Seventeen",
-        "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
+        "name": "No Heroes",
+        "url": "https://open.spotify.com/album/5d6t6Chkt2KDFkfrcjA9Qu"
       },
       "artists": [
         {
-          "name": "Wuki",
-          "url": "https://open.spotify.com/artist/6Se1y4vDcu9fVHLqdj1N3q"
+          "name": "LUNAX",
+          "url": "https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR"
+        },
+        {
+          "name": "Luca Schreiner",
+          "url": "https://open.spotify.com/artist/5fiYAV2DWASxAUKDq7Gbe9"
+        },
+        {
+          "name": "ANY",
+          "url": "https://open.spotify.com/artist/6Kj8Zi8kj1aPKyHX9w8C3L"
         }
       ],
-      "duration_ms": 164042,
-      "name": "Edge of Seventeen",
-      "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
+      "duration_ms": 121135,
+      "name": "No Heroes",
+      "url": "https://open.spotify.com/track/2K7vmv62BpMRIySly2w4nO"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Location",
-        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
+        "name": "Car Keys (Ayla) (feat. Ava Max) [Tiësto Remix]",
+        "url": "https://open.spotify.com/album/5jviRuWm6ZKaJds1qd1zPr"
       },
       "artists": [
         {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
         },
         {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         },
         {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+          "name": "Ayla",
+          "url": "https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq"
+        },
+        {
+          "name": "Tiësto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 148135,
-      "name": "Location",
-      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+      "duration_ms": 136201,
+      "name": "Car Keys (Ayla) - Tiësto Remix",
+      "url": "https://open.spotify.com/track/2sNevT0WU7NXnkm1jnGENF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mind Still (feat. blythe)",
+        "url": "https://open.spotify.com/album/5vQgixmnyYGp53WtWEfBtQ"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "blythe",
+          "url": "https://open.spotify.com/artist/3a6XMXgL5f92tw3wX42kOC"
+        }
+      ],
+      "duration_ms": 156498,
+      "name": "Mind Still (feat. blythe)",
+      "url": "https://open.spotify.com/track/5698qx5K7VmYzeJ6O4WR7v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stars Will Align",
+        "url": "https://open.spotify.com/album/5q923PscX4aJaonXBWTDcj"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 234366,
+      "name": "Stars Will Align",
+      "url": "https://open.spotify.com/track/5REMa10O4aA2mLtYyflWxs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Intro (Rework) [Remix]",
+        "url": "https://open.spotify.com/album/0DL2KSyhJIIzVEcLxrnVdj"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Bruno Be",
+          "url": "https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0"
+        },
+        {
+          "name": "Öwnboss",
+          "url": "https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj"
+        },
+        {
+          "name": "Ashibah",
+          "url": "https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Intro (Rework) - Remix",
+      "url": "https://open.spotify.com/track/27py1Q0fMmpuSYiOAKBZPb"
     },
     {
       "added_at": null,
@@ -1027,6 +951,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Seek Love (On The Beach) (feat. Amanda Wilson & York)",
+        "url": "https://open.spotify.com/album/2Ml22QFYxVvnnz7Me8i21O"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Tazi",
+          "url": "https://open.spotify.com/artist/60Yvub9178MthC7zIgX3rF"
+        },
+        {
+          "name": "Samuele Sartini",
+          "url": "https://open.spotify.com/artist/1mDmwVhkzWBBCC8WDpg7qh"
+        },
+        {
+          "name": "Amanda Wilson",
+          "url": "https://open.spotify.com/artist/5w282f2wMOeeIGJGN4Pmd1"
+        },
+        {
+          "name": "YORK",
+          "url": "https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q"
+        }
+      ],
+      "duration_ms": 150869,
+      "name": "Seek Love (On The Beach)",
+      "url": "https://open.spotify.com/track/0vhxITfBNsA3nBPbu7lRhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rule The World",
+        "url": "https://open.spotify.com/album/4tgL0C4pYRxpNLde755TFr"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "ILIRA",
+          "url": "https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41"
+        }
+      ],
+      "duration_ms": 170785,
+      "name": "Rule The World",
+      "url": "https://open.spotify.com/track/22sKunNSPMCy2lvSLOY5yX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2bq4MKtqBv9QsqkflN6tHg"
+      },
+      "artists": [
+        {
+          "name": "Bright Hinze",
+          "url": "https://open.spotify.com/artist/09f3IvRGUZIssocLZvvn9m"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7dza6AfqBSGOf9VxtBhv19"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Superhero",
         "url": "https://open.spotify.com/album/1UnWKwF6vpxiBxa8ZBslTs"
       },
@@ -1043,22 +1035,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are The People (ARTBAT Remix)",
-        "url": "https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2"
+        "name": "The Cruelest Summer",
+        "url": "https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         },
         {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
         }
       ],
-      "duration_ms": 238080,
-      "name": "We Are The People - ARTBAT Remix",
-      "url": "https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP"
+      "duration_ms": 192900,
+      "name": "Cruel Summer - LP Giobbi Remix",
+      "url": "https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/7nin9VgWvgxpibL3zxc5gR"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        },
+        {
+          "name": "Zoë Johnston",
+          "url": "https://open.spotify.com/artist/3dWyWwLvZWsWtXZHhmAiFL"
+        }
+      ],
+      "duration_ms": 231497,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/273cv9sESQzXxMqEkhXdm4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
+        "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
+      },
+      "artists": [
+        {
+          "name": "Hypaton",
+          "url": "https://open.spotify.com/artist/5GYaRwCWwhU6SIQrQ5G3b7"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "La Bouche",
+          "url": "https://open.spotify.com/artist/488v7rQzthLNK22r0UvMie"
+        }
+      ],
+      "duration_ms": 169523,
+      "name": "Be My Lover (feat. La Bouche) - 2023 Mix",
+      "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     }
   ],
   "unique_name": "House Mix",
