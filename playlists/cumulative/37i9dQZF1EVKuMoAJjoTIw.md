@@ -2,7 +2,7 @@
 
 ### [Moody Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIXdwEUNLfvxN>Damiano David</a>, <a href=spotify:playlist:37i9dQZF1EIUJxng1Tknro>Greg Elenis</a>, <a href=spotify:playlist:37i9dQZF1EIUW7D2ys2jYv>rhianne</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXdwEUNLfvxN>Damiano David</a>, <a href=spotify:playlist:37i9dQZF1EIZ4AYrErvnAW>Amaal Mallik</a>, <a href=spotify:playlist:37i9dQZF1EIWPqWChV5GmM>Anuv Jain</a> and more
 
 2,112 songs - 4 day 23 hr 26 min
 
@@ -1368,7 +1368,7 @@
 | [People Help the People](https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Birdy](https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0) | 4:16 | 2023-08-22 | 2023-08-23 |
 | [People Help the People](https://open.spotify.com/track/1En99nPXGfJS8pgU1UiU0s) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/3ajUIQ9PMEaSCpsYkMpxvu) | 4:16 | 2024-02-17 | 2024-03-26 |
 | [People Watching](https://open.spotify.com/track/3TFoEJe5zNuHZStRboWPxg) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:38 | 2023-09-29 | 2024-07-08 |
-| [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 | 2023-02-13 |  |
+| [People You Know](https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:14 | 2023-02-13 | 2025-03-26 |
 | [People You Know \- Sped Up](https://open.spotify.com/track/4WyWvWcYkL6ZXU7Hz2NKV1) | [ENDUZIX](https://open.spotify.com/artist/3UgGs43l3Ya70ppiJ7c9rC) | [People You Know \(Sped Up\)](https://open.spotify.com/album/3k2fpmjMKIiTWf2tMhiT3x) | 2:40 | 2023-08-10 | 2023-08-11 |
 | [Perfect](https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:23 | 2024-05-18 | 2024-08-10 |
 | [Perfect](https://open.spotify.com/track/6RIOkEJtaFHznEQ0gmsXPJ) | [Lorelei Marcell](https://open.spotify.com/artist/3JUdBypm7CxRBcQRdTucgK) | [Perfect](https://open.spotify.com/album/2uiXvfvABwKRgJezEa2yk9) | 3:10 | 2022-05-21 | 2022-06-27 |
@@ -2002,7 +2002,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/5XHf9PBxxHmJFuiDkGNIOA) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Goodbye Lullaby \(Expanded Edition\)](https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF) | 3:45 | 2024-01-09 | 2024-01-10 |
 | [Wishes](https://open.spotify.com/track/1kSBUhFBZT6z62eTTjeJLi) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Snowdrop \(Original Television Soundtrack, Pt\. 4\)](https://open.spotify.com/album/2rR3MvjhEL8Cd0IauUCZTg) | 3:59 | 2023-06-11 | 2023-12-11 |
 | [Wishing Well](https://open.spotify.com/track/2U5WueTLIK5WJLD7mvDODv) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:14 | 2023-08-20 | 2023-09-01 |
-| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-03-21 | 2025-03-22 |
+| [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 | 2025-03-21 |  |
 | [With You \(with Sofia Camara\)](https://open.spotify.com/track/6UPK99uGkoFmEhHLe1Dx67) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y), [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [With You \(with Sofia Camara\)](https://open.spotify.com/album/703OfuxHtlcsnrdZvAjkan) | 3:08 | 2025-03-18 | 2025-03-21 |
 | [with you...](https://open.spotify.com/track/0tQHRz9UBxZ8tPGUq2kCUR) | [Officialdjaaron](https://open.spotify.com/artist/3FUA9oKRFd7UivBRBBUar0) | [with you...](https://open.spotify.com/album/3yzENeiDfwMjys6gaYRTVA) | 2:16 | 2023-08-21 | 2023-08-22 |
 | [Without Me](https://open.spotify.com/track/6m1hYbfABsUSL3c7QFRBxB) | [Alec Chambers](https://open.spotify.com/artist/3weLeY2Bu0Eij4k0tQ4EzJ) | [Covers](https://open.spotify.com/album/3LfSL8GflXlUnz8H0wlc9z) | 1:56 | 2023-09-02 | 2023-09-03 |
