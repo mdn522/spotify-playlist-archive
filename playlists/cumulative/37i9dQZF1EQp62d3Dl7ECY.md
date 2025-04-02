@@ -2,9 +2,9 @@
 
 ### [Folk & Acoustic Mix](https://open.spotify.com/playlist/37i9dQZF1EQp62d3Dl7ECY)
 
-> <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIW59fyjC7s7V>Alex Warren</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIXDGo0vWYROm>Noah Kahan</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a>, <a href=spotify:playlist:37i9dQZF1EIVEXZTzSrj43>Richy Mitch & The Coal Miners</a> and more
 
-106 songs - 5 hr 48 min
+109 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [All I Ever Wanted](https://open.spotify.com/track/02MxQbsvjcBglrAzUurgPr) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue](https://open.spotify.com/album/5PaINdUpmQ34V0zbg26xlj) | 3:09 | 2025-03-10 | 2025-03-31 |
 | [All The Light](https://open.spotify.com/track/49q67fOFH8hDvyOIN3wtap) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [All The Light](https://open.spotify.com/album/4UPPsy8CfuUSWVt2hNQxbs) | 3:27 | 2025-03-05 | 2025-03-27 |
 | [Anchor](https://open.spotify.com/track/7qH9Z4dJEN0l9bidizW7fq) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:17 | 2025-03-11 |  |
+| [Annie's Song](https://open.spotify.com/track/4J0DbyODwZJcmIAiTSJfMF) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Back Home Again](https://open.spotify.com/album/6zWmAA39H0c4SjnD4MB1Dm) | 3:00 | 2025-04-02 |  |
 | [Be Slow](https://open.spotify.com/track/3j2SaDGyzZhiifh5g5tmNw) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Be Slow](https://open.spotify.com/album/2dUqjfW3uN8obZ6i1XnHCZ) | 3:25 | 2025-03-05 | 2025-04-01 |
 | [Before You Leave Me](https://open.spotify.com/track/2XxpxQ1PeQhPMVikjKnmJy) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 2:56 | 2025-03-05 | 2025-03-31 |
 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 | 2025-03-06 |  |
@@ -32,7 +33,8 @@
 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 | 2025-03-05 |  |
 | [Empire](https://open.spotify.com/track/7fvEYq4YuLOmijzd38CPlV) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [The Epilogue](https://open.spotify.com/album/5PaINdUpmQ34V0zbg26xlj) | 3:04 | 2025-03-10 | 2025-03-31 |
 | [Ends of the Earth](https://open.spotify.com/track/0iMt8ZMe2BsNvsF9LFDOAn) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Lonesome Dreams \(Bonus Track Version\)](https://open.spotify.com/album/4YRpE1Scu5m6nCDdHZZP2M) | 4:44 | 2025-03-17 |  |
-| [Enjoy the view](https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Enjoy the view](https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy) | 2:32 | 2025-03-27 |  |
+| [Enjoy the view](https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Enjoy the view](https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy) | 2:32 | 2025-03-27 | 2025-04-02 |
+| [Evergreen](https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau) | [RMCM](https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ) | 1:27 | 2025-04-02 |  |
 | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/track/0BzTjRJQjOxMZpCAGnPXhp) | [Richy Mitch & The Coal Miners](https://open.spotify.com/artist/4qU7IJSReZnsLy5907Mtau), [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Evergreen \(feat\. Caamp\)](https://open.spotify.com/album/4fzAuOHpDdUDAdIHYbaVjW) | 2:57 | 2025-03-21 | 2025-03-27 |
 | [Every Colour](https://open.spotify.com/track/63RRLZOcm6hiSIIFp6OQb8) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Nothing is Lost](https://open.spotify.com/album/2dJFPS35VJOjEzW87m7lnD) | 3:56 | 2025-03-20 | 2025-03-25 |
 | [Everything We Need](https://open.spotify.com/track/7nsje8483TNyP10db3Axmx) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Where the Wild Ones Grow](https://open.spotify.com/album/6wIGoQABSJfVboocR8nGnA) | 3:33 | 2025-03-17 | 2025-03-20 |
@@ -50,7 +52,7 @@
 | [I'm On Fire](https://open.spotify.com/track/3tY7BVvQ8MVQgF6wLHZEni) | [Salt Tree](https://open.spotify.com/artist/4xNez1q78QXUBq6zvKuNrU) | [I'm On Fire](https://open.spotify.com/album/3Wd9qQ7CahoDfNcguvUyDL) | 2:01 | 2025-03-12 | 2025-03-13 |
 | [Is What It Is](https://open.spotify.com/track/7MDA0WYCgLWU7bRMZD3HF0) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [Ever\-Shifting, Continual Blossoming](https://open.spotify.com/album/2jHVzEpvZ8gV5zn5IywmRB) | 3:23 | 2025-03-05 |  |
 | [Keep Me Honest](https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Keep Me Honest](https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy) | 3:10 | 2025-03-14 | 2025-03-29 |
-| [Liar](https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Liar](https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e) | 2:04 | 2025-03-27 |  |
+| [Liar](https://open.spotify.com/track/0jHnEevYYvE7B2YJoBwz1S) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Liar](https://open.spotify.com/album/3R6tZohZ0UgpffwNA9Q54e) | 2:04 | 2025-03-27 | 2025-04-02 |
 | [Like a River](https://open.spotify.com/track/0LqcdN6104AK55dUCiYF1a) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Like a River](https://open.spotify.com/album/3o8nivVQguilisc4zKinYI) | 3:35 | 2025-03-14 | 2025-03-16 |
 | [Little bit](https://open.spotify.com/track/4BhKnMFUOT1lQHdjTXs3pj) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Little bit](https://open.spotify.com/album/384EOP7ZXUc7WuawttnJ4v) | 2:18 | 2025-03-27 | 2025-03-28 |
 | [Little Bit Better](https://open.spotify.com/track/0GMs3jq70wmCo12pavj4st) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj), [ROSIE](https://open.spotify.com/artist/2bp65KnFOIsIosBoqPzvNL) | [Little Bit Better](https://open.spotify.com/album/4cJHTRsxDkQpMPnLwFcgkV) | 3:47 | 2025-03-05 |  |
@@ -104,6 +106,7 @@
 | [The Night We Met](https://open.spotify.com/track/5Djt1AQnhfhYJjs4m7WS6G) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [The Night We Met](https://open.spotify.com/album/1J9fxloDVUxge0DHLeUjdO) | 3:29 | 2025-03-17 | 2025-03-30 |
 | [The Other Side](https://open.spotify.com/track/7hVZJGsh5fxFtwaqgJq1nf) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [The Other Side](https://open.spotify.com/album/5hJtcqGwi9lmFElCqPRnlS) | 2:44 | 2025-03-05 |  |
 | [The Roads](https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [The Roads](https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU) | 4:10 | 2025-04-01 |  |
+| [Time in a Bottle](https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn) | [Jim Croce](https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM) | [You Don't Mess Around With Jim](https://open.spotify.com/album/0dZaHQ0OJlIyVrEuvnXmS9) | 2:28 | 2025-04-02 |  |
 | [Troubled Waters](https://open.spotify.com/track/3AeqFxtLidWu1awXIErzcO) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [You'll Be Alright, Kid \(Chapter 1\)](https://open.spotify.com/album/1cVpXZnVWHTDUuY8kW6x8M) | 3:17 | 2025-03-05 |  |
 | [Turn out fine](https://open.spotify.com/track/4gdDN4A202OO2u7UDhoMjM) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Turn out fine](https://open.spotify.com/album/4LPDuEPmWtMfOj8argxDrI) | 2:27 | 2025-03-05 | 2025-04-01 |
 | [VERSIONS OF FOREVER](https://open.spotify.com/track/3yDvu7hXpkWFyQSk3RSiD8) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [VERSIONS OF FOREVER](https://open.spotify.com/album/1La2A10EDwizsKONlKdfM8) | 2:57 | 2025-03-05 | 2025-04-01 |
@@ -112,7 +115,7 @@
 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 | 2025-03-05 |  |
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2025-03-05 |  |
 | [Where's My Love \- Acoustic](https://open.spotify.com/track/0ElpbbncWT9aS7mgoqEHbQ) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Where's My Love](https://open.spotify.com/album/6U6yE35iYGweoUiFFjuBdC) | 3:59 | 2025-03-24 | 2025-03-25 |
-| [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2025-03-08 |  |
+| [Whisper](https://open.spotify.com/track/7Ex7Re4Xqf6ZK4E42CA2GY) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Whisper](https://open.spotify.com/album/5PGxqp0RXnRFH8lK1EY3Ku) | 3:14 | 2025-03-08 | 2025-04-02 |
 | [You and I](https://open.spotify.com/track/2ASaiQWWIhao3cniyiwItc) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [The Day My Father Died](https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht) | 3:13 | 2025-03-16 | 2025-03-18 |
 
 \*This playlist was first scraped on 2025-03-05. Prior content cannot be recovered.
