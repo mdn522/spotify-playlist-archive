@@ -4,7 +4,7 @@
 
 > <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
 
-3,404 songs - 8 day 8 hr 2 min
+3,405 songs - 8 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1999,7 +1999,7 @@
 | [Ok Love You Bye](https://open.spotify.com/track/66YywMJbAgzQrGkFKjnSsK) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Ok Love You Bye](https://open.spotify.com/album/7ooSA4xT6dVvDN8j8AeaH0) | 2:34 | 2024-05-02 |  |
 | [Older](https://open.spotify.com/track/52iLDrSoRtf9lcgFuLVfqE) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Older](https://open.spotify.com/album/2mTA1YzwWs39JdjSIQNCBS) | 3:11 | 2023-11-28 | 2024-04-10 |
 | [ON \(Feat\. Sia\)](https://open.spotify.com/track/4JWbH50WabthGhmtduR8b9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [MAP OF THE SOUL : 7](https://open.spotify.com/album/5W1XY5ucNATjTULERvXx9j) | 4:06 | 2023-09-23 | 2024-02-06 |
-| [On Fire](https://open.spotify.com/track/40OlGb7PauRXMks9wVEkeP) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Derik Fein Essentials](https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3) | 2:34 | 2025-04-06 |  |
+| [On Fire](https://open.spotify.com/track/40OlGb7PauRXMks9wVEkeP) | [Derik Fein](https://open.spotify.com/artist/7CzURHjIfP0ClUnjVRyF1i) | [Derik Fein Essentials](https://open.spotify.com/album/0B6rjlqKygAJkJQADXXRU3) | 2:34 | 2025-04-06 | 2025-04-07 |
 | [On Guard](https://open.spotify.com/track/4EUrHNZ1jpFN5xCRU0PsLA) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PRELUDE](https://open.spotify.com/album/5bJM5gaVu6GuKCTE1U97g0) | 3:26 | 2022-11-30 | 2022-12-16 |
 | [On Guard \(feat\. 6lack\)](https://open.spotify.com/track/0VAuyz8H8mgh89sjdR983P) | [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [PRELUDE](https://open.spotify.com/album/6ur2Xhe9Q3YvsQSFIfbuQZ) | 3:26 | 2022-07-18 | 2022-07-27 |
 | [On My Mind Tonight](https://open.spotify.com/track/1maMP5buCf1qv8XYJgj2Zz) | [Vividry](https://open.spotify.com/artist/6CHx9eYXQOlzk5TxiHO4yl) | [Your Good Lies](https://open.spotify.com/album/6nO7yzjPMi7aRYO4OVDiuh) | 3:18 | 2022-09-22 | 2023-02-21 |
@@ -2216,7 +2216,7 @@
 | [Rich Kids](https://open.spotify.com/track/7n7ZuzfTUJEvo7cZJVvCwd) | [Aiyana\-Lee](https://open.spotify.com/artist/2IZXxSIGhFtkHJyMh6UTln) | [Rich Kids](https://open.spotify.com/album/7xKUg94LStzFMZzbVBlWkK) | 3:18 | 2022-07-30 | 2022-11-24 |
 | [Ride](https://open.spotify.com/track/37HhnXqIRFSSJXWsysl6B7) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:01 | 2023-12-06 | 2024-05-04 |
 | [Ride or Die](https://open.spotify.com/track/6KNV6L3b7beomEUnzWgw0X) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 4:14 | 2022-07-06 | 2022-07-27 |
-| [Ride the Storm](https://open.spotify.com/track/6ScGvnnuv1Ag1oouYS8xLW) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Ride the Storm](https://open.spotify.com/album/2aTIx2IkbqhrRyzRz6hfPo) | 4:15 | 2024-10-28 | 2025-04-06 |
+| [Ride the Storm](https://open.spotify.com/track/6ScGvnnuv1Ag1oouYS8xLW) | [GoldFord](https://open.spotify.com/artist/4I2QW85rkIhCRRZt1kuBqS) | [Ride the Storm](https://open.spotify.com/album/2aTIx2IkbqhrRyzRz6hfPo) | 4:15 | 2024-10-28 |  |
 | [Ride with Us](https://open.spotify.com/track/32hBJeRkrez3HwMVyv1KBM) | [Nomi](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Ride with Us](https://open.spotify.com/album/43dp3kF187XsOEHpLk9fLH) | 2:44 | 2022-10-22 | 2023-06-07 |
 | [Ride with You](https://open.spotify.com/track/7l3VQbWDfHykJw91nroXWl) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf), [Andy Delos Santos](https://open.spotify.com/artist/1aIogtqCKbzu2paX17EoHN) | [Ride With You](https://open.spotify.com/album/2XslPOK8fRtrmrBHnSWEJS) | 3:33 | 2022-07-29 | 2022-11-29 |
 | [Right Here \(Departed\)](https://open.spotify.com/track/06G1SCVVYRSDCFGMSnDvpv) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Human](https://open.spotify.com/album/5FzwCzwtVRuep9jjnhGpn4) | 3:37 | 2023-08-16 | 2024-07-28 |
@@ -2580,7 +2580,7 @@
 | [Sweet About Me](https://open.spotify.com/track/5wznxkB792LjSRdbZ1J1zo) | [Gabriella Cilmi](https://open.spotify.com/artist/5v2GEv1pQaCp6oeOQROdKE) | [Lessons To Be Learned](https://open.spotify.com/album/4Bc2LrXbkvNCH99ZSFzhhD) | 3:22 | 2024-08-23 | 2024-08-24 |
 | [Sweet Love](https://open.spotify.com/track/6Ycf7Ch2VlEKlORbz7yfpJ) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Rapture](https://open.spotify.com/album/1C7VOpm96d77zf5yaRqJ2u) | 4:26 | 2023-09-27 | 2023-10-24 |
 | [Sweet Lover](https://open.spotify.com/track/0uLV5fXFiGv9i9UEKDOCGc) | [Lou Rawls](https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od) | [Sweet Chariot](https://open.spotify.com/album/2JQCXARcOl9fbUBZfT6Dal) | 3:11 | 2022-10-19 | 2022-10-20 |
-| [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2024-08-01 |  |
+| [Sweet Moment](https://open.spotify.com/track/3C29msNvApwxpOxhuqD2rX) | [Mackenzy Mackay](https://open.spotify.com/artist/28WNtilgFPn1mdz3h0FjHl) | [Sweet Moment](https://open.spotify.com/album/2nFkX9nkVdBdXvTSt1zXqL) | 2:07 | 2024-08-01 | 2025-04-07 |
 | [Sweet Side](https://open.spotify.com/track/4QqvQUwqigdgbTBZ1Ep06z) | [Raquel Rodriguez](https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q) | [Sweet Side](https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H) | 3:26 | 2022-07-18 | 2023-08-05 |
 | [Sweet Soul Music](https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Rhino Hi\-Five: Arthur Conley](https://open.spotify.com/album/6dYQhuDC49jXh7YvTtb0oT) | 2:21 | 2022-06-24 | 2022-09-16 |
 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 | 2023-09-23 | 2023-11-15 |
@@ -2735,6 +2735,7 @@
 | [Theme From Shaft \- Remastered 2009](https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO) | [Isaac Hayes](https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E) | [Shaft \(Deluxe Edition\)](https://open.spotify.com/album/5HAXYSqdNjjbvoFrXwtrBw) | 4:39 | 2023-08-19 | 2023-09-07 |
 | [Then I Met You](https://open.spotify.com/track/3w3kjtKGqgNCf4dqgXpQXQ) | [Regi Myrix](https://open.spotify.com/artist/1Xy68hWp0rc8iW9rix547w), [Michelle Brooks\-Thompson](https://open.spotify.com/artist/5PV8BVvd0esxUavyFK8cRp) | [Then I Met You](https://open.spotify.com/album/3zYkH4QASlzkWL4O2ZgcU0) | 4:28 | 2022-08-12 | 2022-08-13 |
 | [THEN I MET YOU \- Radio Edit](https://open.spotify.com/track/5sFrv86IWgJAnZR2YtYO1W) | [Regi Myrix](https://open.spotify.com/artist/1Xy68hWp0rc8iW9rix547w), [Michelle Brooks\-Thompson](https://open.spotify.com/artist/5PV8BVvd0esxUavyFK8cRp) | [THEN I MET YOU \(Radio Edit\)](https://open.spotify.com/album/7rLH2kep9rZV1xa36lUI8e) | 3:56 | 2022-08-05 | 2022-10-16 |
+| [Therapy](https://open.spotify.com/track/7MeniYdHjzvKEn8BWzFNI1) | [Budjerah](https://open.spotify.com/artist/4hOb2WdQMQWyG6RQAhR7iE) | [Therapy](https://open.spotify.com/album/58SF72zVryflAg0WvepRzb) | 3:12 | 2025-04-07 |  |
 | [There Isn't Much](https://open.spotify.com/track/1Mbcj4VbSCbafwrRFkoFcP) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Let's Say For Instance](https://open.spotify.com/album/5Z6szusddxn6ySgFMzd837) | 3:47 | 2022-12-09 | 2023-03-11 |
 | [There It Is](https://open.spotify.com/track/2xEuQplqeR6EMGwFKFKHzm) | [Shalamar](https://open.spotify.com/artist/3REpOYo13YkVj1dFzda12A) | [Friends](https://open.spotify.com/album/05WzTHfzupdQFuD7cZBRDs) | 4:25 | 2023-10-23 | 2023-10-27 |
 | [There Till The End](https://open.spotify.com/track/1u0ksHa2Y3ClNM4Q6sdnee) | [JERUB](https://open.spotify.com/artist/2eG0Kf7mNIbn0SMiA2LjBd) | [Finding My Feet \(Acoustic\)](https://open.spotify.com/album/5y1M8ZM2WbY2OtbweUlIav) | 2:23 | 2025-03-07 | 2025-03-09 |
