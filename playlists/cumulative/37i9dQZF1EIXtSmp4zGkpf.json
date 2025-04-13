@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXBkVJSUEqgr>3LAU</a>, <a href=spotify:playlist:37i9dQZF1EIXOPxQtg00BQ>Myon</a> and <a href=spotify:playlist:37i9dQZF1EIXwT2qXyYf5P>Lights</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXOPxQtg00BQ>Myon</a>, <a href=spotify:playlist:37i9dQZF1EIXBkVJSUEqgr>3LAU</a> and <a href=spotify:playlist:37i9dQZF1EIXwT2qXyYf5P>Lights</a>",
   "name": "Cappa Mix",
   "tracks": [
     {
@@ -1148,7 +1148,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 205037,
       "name": "Alive (feat. Opposite the Other)",
       "url": "https://open.spotify.com/track/7GnOfVf6VQVHAUfNdHpKcn"
@@ -3822,7 +3822,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 220976,
       "name": "Before You (feat. Dia Frampton)",
       "url": "https://open.spotify.com/track/2TXG8WRqYDtN4YI4XW1RCs"
@@ -9844,7 +9844,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 214583,
       "name": "Days",
       "url": "https://open.spotify.com/track/7qqASpv3z5IhHT5Z83AOEs"
@@ -10128,7 +10128,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 208421,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/1UtRBq2n0IlQNA1WI3axWX"
@@ -11518,7 +11518,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 199041,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/560HUCEM1YHuhSeZ1dWTCo"
@@ -15172,7 +15172,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 180556,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/5isieawysc6ttKyrVNvrTj"
@@ -15390,7 +15390,7 @@
       ],
       "date_added": "2025-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 237473,
       "name": "forever (want this feeling)",
       "url": "https://open.spotify.com/track/3jnhorT5w4cba7AORWbUGR"
@@ -15613,6 +15613,24 @@
     },
     {
       "album": {
+        "name": "fragments of us",
+        "url": "https://open.spotify.com/album/2UbZfD8vJwGXmgZe0Px4Bl"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Fragments Of Us",
+      "url": "https://open.spotify.com/track/6d3k6uD0D9TQpWR3RzstA6"
+    },
+    {
+      "album": {
         "name": "Freak",
         "url": "https://open.spotify.com/album/6zU2wnyYEmKGrvPyeJuoQ9"
       },
@@ -15766,7 +15784,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 210884,
       "name": "Freesol",
       "url": "https://open.spotify.com/track/4Vxynno5qLZc1dcZCqsZyl"
@@ -18514,7 +18532,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-08",
+      "date_removed": null,
       "duration_ms": 160000,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/4k2ewP5dlP7ChKhLRgeKC5"
@@ -21507,6 +21525,32 @@
     },
     {
       "album": {
+        "name": "fragments of us",
+        "url": "https://open.spotify.com/album/2UbZfD8vJwGXmgZe0Px4Bl"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        },
+        {
+          "name": "MKC",
+          "url": "https://open.spotify.com/artist/2K7SccoQeroXUzYuxPBMQm"
+        },
+        {
+          "name": "She Is Jules",
+          "url": "https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228251,
+      "name": "I Wish You Never Loved Me",
+      "url": "https://open.spotify.com/track/54YO9oZs6rNzWfQk8wRgbs"
+    },
+    {
+      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/5xOY3qepHn4sfEMReT9bAB"
       },
@@ -22252,7 +22296,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 184205,
       "name": "In My Arms Tonight",
       "url": "https://open.spotify.com/track/6qZY2OlzH0AMcHOnC7sSx6"
@@ -25800,7 +25844,7 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 230679,
       "name": "Lost Time",
       "url": "https://open.spotify.com/track/5Z2AVQUoVPvnYVRAyEwsNc"
@@ -28680,7 +28724,7 @@
       ],
       "date_added": "2022-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-12",
+      "date_removed": null,
       "duration_ms": 169411,
       "name": "Money Back",
       "url": "https://open.spotify.com/track/6nwyRCRDRZyQj8fgrxrx8Z"
@@ -31930,7 +31974,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 152181,
       "name": "Old You",
       "url": "https://open.spotify.com/track/4WkD33R3GgvUD42UHFyVdE"
@@ -33394,7 +33438,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 219190,
       "name": "Part-Time Lover",
       "url": "https://open.spotify.com/track/6X4priUWuwcekpnoo9kH1Z"
@@ -34652,7 +34696,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-04-11",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "re-collide",
       "url": "https://open.spotify.com/track/7behMMmmyTzM0MGfMwiq5Z"
@@ -42869,6 +42913,28 @@
     },
     {
       "album": {
+        "name": "fragments of us",
+        "url": "https://open.spotify.com/album/2UbZfD8vJwGXmgZe0Px4Bl"
+      },
+      "artists": [
+        {
+          "name": "GhostDragon",
+          "url": "https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O"
+        },
+        {
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+        }
+      ],
+      "date_added": "2025-04-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "the ugly truth",
+      "url": "https://open.spotify.com/track/3qWZTAWqQh164rvOFrTpUm"
+    },
+    {
+      "album": {
         "name": "The Water",
         "url": "https://open.spotify.com/album/09ETd9lv8nFsRb2dhuclvQ"
       },
@@ -47166,7 +47232,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-30",
+      "date_removed": null,
       "duration_ms": 182988,
       "name": "When This Is Over",
       "url": "https://open.spotify.com/track/6lnCOJa3S9sAfK6qj5eMAT"
@@ -47370,7 +47436,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-04-13",
       "duration_ms": 191250,
       "name": "While We Have Time",
       "url": "https://open.spotify.com/track/3574SVr0ZHKXUUimGATZxc"
