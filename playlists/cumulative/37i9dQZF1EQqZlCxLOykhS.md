@@ -2,7 +2,7 @@
 
 ### [80s Mix](https://open.spotify.com/playlist/37i9dQZF1EQqZlCxLOykhS)
 
-> <a href=spotify:playlist:37i9dQZF1EIWWXj9kLEemT>Whitney Houston</a>, <a href=spotify:playlist:37i9dQZF1EIZiHeWKr1GZH>The Outfield</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZiHeWKr1GZH>The Outfield</a>, <a href=spotify:playlist:37i9dQZF1EIWWXj9kLEemT>Whitney Houston</a> and more
 
 4,119 songs - 11 day 22 hr 24 min
 
@@ -1083,7 +1083,7 @@
 | [Everybody \- You Can Dance Single Edit](https://open.spotify.com/track/2T7Cqpm3D02GYf7je3inR2) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Bruce Forest](https://open.spotify.com/artist/2wTHX8qDt5DVGrDMLFb23y), [Frank Heller](https://open.spotify.com/artist/5DUK9X7MEu8GVfnXDdNii2) | [You Can Dance \(Single Edits\)](https://open.spotify.com/album/5QQ66C39N9ysUf1vr0rIzs) | 4:36 | 2022-12-01 | 2022-12-02 |
 | [Everybody Have Fun Tonight](https://open.spotify.com/track/6qBSGvyUzqNQv8XtnzCr9n) | [Wang Chung](https://open.spotify.com/artist/6Zh3xrWlA0SA9Fsfj9AVwm) | [Mosaic](https://open.spotify.com/album/741fWPbQLcaYT0uVL32KCS) | 4:47 | 2024-02-11 | 2024-02-12 |
 | [Everybody Wants Some!! \- 2015 Remaster](https://open.spotify.com/track/5TnzOUFWoZHUEtOWlxrIlY) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Women and Children First \(Remastered\)](https://open.spotify.com/album/7fRy246Xzz3gez6stjTgKk) | 5:06 | 2023-08-31 | 2023-09-01 |
-| [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-12-19 | 2025-04-13 |
+| [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-12-19 |  |
 | [Everybody Wants To Rule The World \- Sped Up Version](https://open.spotify.com/track/6MRD4fDXBbqa0xodmaFk8Q) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU), [Speed Radio](https://open.spotify.com/artist/1YzaVDzA3EdEipDSUeNQER) | [Everybody Wants To Rule The World \(Sped Up Version\)](https://open.spotify.com/album/1OCUxmIIq0Q1Mj3AFATzsI) | 3:03 | 2023-11-26 | 2023-12-08 |
 | [Everything](https://open.spotify.com/track/5p4xF15jnsw1rfi55Gv1lU) | [Jody Watley](https://open.spotify.com/artist/71aKjsWKYqASAffyIQaocZ) | [Larger Than Life](https://open.spotify.com/album/5uPBrDpKLr6PKnybKoQbbk) | 4:15 | 2022-12-07 | 2022-12-08 |
 | [Everything But My Pride \- Kim & Buran Remix](https://open.spotify.com/track/6eYjhfVlZKbzrLyKUATGhI) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i), [Kim And Buran](https://open.spotify.com/artist/23v4YNVYYEVYddfapeJiR8) | [Everything But My Pride](https://open.spotify.com/album/4hw4KMGMWDJ4ykQd154lBi) | 6:40 | 2022-08-07 | 2023-02-04 |
@@ -1173,7 +1173,7 @@
 | [Forever and a Day](https://open.spotify.com/track/0ApCfDmXXdi7mCsJBgZrLo) | [Hilary Stagg](https://open.spotify.com/artist/635C1HtnImhFBESyPWAdWQ) | [Beyond the Horizon](https://open.spotify.com/album/1YXFWHfd9fRHIE8XTVXboo) | 3:07 | 2023-03-03 | 2023-09-13 |
 | [Forever and a Day](https://open.spotify.com/track/0lmTZFR4FV9BXFTRKWjaHe) | [Hilary Stagg](https://open.spotify.com/artist/635C1HtnImhFBESyPWAdWQ) | [Beyond the Horizon](https://open.spotify.com/album/71TRPWKXtA7W55jLbz565j) | 3:07 | 2022-06-18 | 2022-11-13 |
 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 | 2023-01-15 | 2024-01-02 |
-| [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-07-25 |  |
+| [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-07-25 | 2025-04-18 |
 | [Forever Young](https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Stark Naked and Absolutely Live](https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43) | 5:43 | 2022-06-21 | 2022-07-29 |
 | [Forever Young \- 2019 Remaster](https://open.spotify.com/track/6XHNIbru8xGohLzHNgxQvF) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 3:46 | 2022-12-19 | 2024-02-04 |
 | [Forever Young \- Special Dance Version; 2019 Remaster](https://open.spotify.com/track/3APq3iiagjTHWGLYjSZIaD) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young \(Super Deluxe Edition; 2019 Remaster\)](https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x) | 6:11 | 2022-06-24 | 2025-02-17 |
