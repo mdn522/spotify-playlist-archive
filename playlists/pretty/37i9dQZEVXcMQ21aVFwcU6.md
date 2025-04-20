@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [EYLR](https://open.spotify.com/artist/1uLdAcF0HhI81ediDOg2BV) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 |
 | 30 | [Smells Like Teen Spirit](https://open.spotify.com/track/3jBPMj6TgGa5E6a653m0hB) | [LexMorris](https://open.spotify.com/artist/1IE7Pib3j9e5UDbPer4W6a), [Sam Bagira](https://open.spotify.com/artist/4HGnSYqBdxV2eXZ3V2kqBW), [Maggie Szabo](https://open.spotify.com/artist/1V5IVmwHG2veT0CUw3kb48) | [Smells Like Teen Spirit](https://open.spotify.com/album/0HwyRkENT3oCMIhivbetop) | 2:04 |
 
-Snapshot ID: `Z/v7oAAAAACvqDG2w+EBSn3UnxAnySMC`
+Snapshot ID: `Z/v7oAAAAADCW+E7qSDXh7xWl8LPhJB0`
