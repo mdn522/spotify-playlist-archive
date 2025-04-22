@@ -2,7 +2,7 @@
 
 ### [Indie Mix](https://open.spotify.com/playlist/37i9dQZF1EQqkOPvHGajmW)
 
-> <a href=spotify:playlist:37i9dQZF1EIWLYnCl8tr94>Enjambre</a>, <a href=spotify:playlist:37i9dQZF1EIVyWwNOYKM0S>Grimes</a>, <a href=spotify:playlist:37i9dQZF1EIZrMC7VWOntX>Particle House</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVyWwNOYKM0S>Grimes</a>, <a href=spotify:playlist:37i9dQZF1EIZrMC7VWOntX>Particle House</a>, <a href=spotify:playlist:37i9dQZF1EIWLYnCl8tr94>Enjambre</a> and more
 
 2,423 songs - 5 day 21 hr 38 min
 
@@ -181,7 +181,7 @@
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2023-10-18 | 2023-12-20 |
 | [Bad Days](https://open.spotify.com/track/0kdMzZ1w3x4PE8gHfkhvgW) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [Bad Days](https://open.spotify.com/album/39eAX2WHDwMsa0q7Wrd0Iz) | 2:22 | 2023-03-19 | 2023-07-04 |
 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 | 2023-08-31 | 2023-09-01 |
-| [Bad Dream](https://open.spotify.com/track/5ZJ9NpjYG95TDef8bdD1XG) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 3:22 | 2024-01-17 |  |
+| [Bad Dream](https://open.spotify.com/track/5ZJ9NpjYG95TDef8bdD1XG) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 3:22 | 2024-01-17 | 2025-04-22 |
 | [Bad Dream](https://open.spotify.com/track/6lVhkY4iqf1GF5z6lu3mlp) | [The Jungle Giants](https://open.spotify.com/artist/6wFwvxJkurQPU2UdeD4qVt) | [Quiet Ferocity](https://open.spotify.com/album/0RSKnjggldZx2NrKSOD913) | 4:31 | 2023-01-21 | 2023-01-22 |
 | [Bad Dream Baby](https://open.spotify.com/track/4S7misxIYuUVypO0NwDwuW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bad Dream Baby](https://open.spotify.com/album/1TBnwPS0Mbn5DsRNeSlvrR) | 2:58 | 2022-12-31 | 2023-12-13 |
 | [Bad Habit](https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:52 | 2023-12-21 | 2023-12-22 |
@@ -1135,7 +1135,7 @@
 | [Kissing the Lipless](https://open.spotify.com/track/1iIoUbR480BnaIXi2MPNz1) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:19 | 2023-08-21 | 2023-08-22 |
 | [Knee Socks](https://open.spotify.com/track/2LGdO5MtFdyphi2EihANZG) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:17 | 2023-02-03 | 2024-02-02 |
 | [Knuckles](https://open.spotify.com/track/4Ko3NpExzZe0BBDDV6IZc8) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:40 | 2023-07-01 | 2023-07-17 |
-| [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2024-02-26 | 2025-04-21 |
+| [Kool Aid](https://open.spotify.com/track/2HKDVLcHYBD8asWWttLU3W) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Sofa Kings](https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C) | 3:36 | 2024-02-26 |  |
 | [Kota](https://open.spotify.com/track/7AiPdJcpDWTgRucGKEnQpQ) | [Dere](https://open.spotify.com/artist/3IvlMYb5AvKRfNt7vR8PNP) | [Rubik](https://open.spotify.com/album/0C24r2d6TZhGGGqSwFjQcc) | 3:18 | 2023-10-10 | 2023-11-28 |
 | [KTMBK](https://open.spotify.com/track/4R8VBRb5nKbEfi1EIA2B7p) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Hanita Bhambri](https://open.spotify.com/artist/3Y5nIabMJLTsWgW6Jqdn7n) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:34 | 2022-12-27 | 2023-11-27 |
 | [Kukira Kau Rumah](https://open.spotify.com/track/1xdp8tXLTGbPeUSEODP9N7) | [Amigdala](https://open.spotify.com/artist/0azPQZGt11gedg5Le9hjC2) | [Kukira Kau Rumah](https://open.spotify.com/album/23eyS24eT0cGfKVt0UTFtT) | 3:26 | 2023-06-30 | 2023-11-25 |
@@ -1378,7 +1378,7 @@
 | [Never Gonna Take You Back](https://open.spotify.com/track/0Ut6Bh17PVZkFlR5pU7FLv) | [Satchmode](https://open.spotify.com/artist/7ki0NEYjetAx5KbjEzpVB2) | [Love Hz](https://open.spotify.com/album/765aiTAuEipwjgucFFQR00) | 4:27 | 2023-01-26 | 2023-01-27 |
 | [Never Let Me Go](https://open.spotify.com/track/3HNTLCpAGnizbyJmk7466r) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Original Deluxe Version\)](https://open.spotify.com/album/19J2iqK89BCrNG4El2FRi5) | 4:30 | 2023-12-17 | 2024-01-27 |
 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 | 2023-08-27 | 2023-08-28 |
-| [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-10-31 |  |
+| [Neverender](https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Hyperdrama](https://open.spotify.com/album/6ooBxhsOVedpX4zPTCyL86) | 4:26 | 2024-10-31 | 2025-04-22 |
 | [nevermind](https://open.spotify.com/track/7HieNXpvYAg4bR7GeA3fxw) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [sucks to see you doing better \(extended\)](https://open.spotify.com/album/2W8nO4x2KlHc3z3xxe23PW) | 2:56 | 2023-01-05 | 2023-10-04 |
 | [New Americana](https://open.spotify.com/track/6Xs7OKt6i0Ddq8B4M5Dgvr) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 3:03 | 2023-05-06 | 2023-11-09 |
 | [New Bad Habit](https://open.spotify.com/track/672h5dJCAAHaCHSe9FoAG9) | [Adam Jensen](https://open.spotify.com/artist/7ymrIsmp4vE7vAtcS12J4D) | [New Bad Habit](https://open.spotify.com/album/2AklECMuJc3r5MXIeeiWFl) | 2:06 | 2023-04-27 | 2023-05-23 |
@@ -1855,7 +1855,7 @@
 | [Small Talk](https://open.spotify.com/track/5QUqRp44Trx1tUExhcNyjy) | [Faded Paper Figures](https://open.spotify.com/artist/28CxmkDncu1V04LYxfx0eV) | [New Medium](https://open.spotify.com/album/2KMoKXBmKuGf2j5QTCNY95) | 3:50 | 2023-01-19 | 2023-01-20 |
 | [Smile Like You Mean It](https://open.spotify.com/track/3KANrKOFYyAxfjQJHkgBdb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:54 | 2024-02-16 | 2024-02-18 |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2023-07-05 | 2024-01-30 |
-| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-09-12 | 2025-04-21 |
+| [So Cold](https://open.spotify.com/track/297PYWIVLP38C1a92ND8Kv) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [So Cold](https://open.spotify.com/album/3YaYl0E68bxDnW1gutZAgs) | 3:21 | 2024-09-12 |  |
 | [So Far So Good](https://open.spotify.com/track/2I4u1DU7rCijbtR2F3dgx6) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH) | [Great Good Five Ok](https://open.spotify.com/album/7wSrwRAZqvDKESkUFwqdFG) | 2:51 | 2022-12-19 | 2023-02-18 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2023-05-23 | 2023-11-23 |
 | [So Says I](https://open.spotify.com/track/6WBNQSfB047hAZ7tusGhqB) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 2:48 | 2023-08-23 | 2023-08-24 |
