@@ -2,7 +2,7 @@
 
 ### [2010s Mix](https://open.spotify.com/playlist/37i9dQZF1EQqedj0y9Uwvu)
 
-> <a href=spotify:playlist:37i9dQZF1EIVmJWOWwC7OX>Roop Kumar Rathod</a>, <a href=spotify:playlist:37i9dQZF1EIXe7fVTsVPZS>NINA</a>, <a href=spotify:playlist:37i9dQZF1EIVQP79ZrHO0S>Birdy</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIYZRDlsvEKaX>Ahxello</a>, <a href=spotify:playlist:37i9dQZF1EIVmJWOWwC7OX>Roop Kumar Rathod</a>, <a href=spotify:playlist:37i9dQZF1EIV1oCGxzhRed>Taylor Swift</a> and more
 
 2,593 songs - 6 day 12 hr 50 min
 
@@ -1210,7 +1210,7 @@
 | [Keep You Mine \- Acoustic](https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [SHY Martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [Keep You Mine \(Acoustic\)](https://open.spotify.com/album/2VdpWk3vlznP9XCDpr3tmG) | 3:03 | 2022-07-22 | 2022-10-09 |
 | [Keep You Whole](https://open.spotify.com/track/6paa6GdJDXEIYszZ7NknYX) | [Lost Nights](https://open.spotify.com/artist/2GcwyeNNWcsofm42pOXvAT) | [Rewind](https://open.spotify.com/album/0w69w80dr4pNgM0zMDhpAk) | 3:44 | 2024-10-09 | 2025-04-01 |
 | [Keeping Your Head Up](https://open.spotify.com/track/5vuwXvQTpavYCgcPFnCMS4) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Beautiful Lies \(Deluxe\)](https://open.spotify.com/album/2uNFpEVey5RsxzTdoDmjiz) | 3:28 | 2023-11-04 | 2024-10-03 |
-| [Keeping Your Head Up \- Jonas Blue Remix; Radio Edit \[Radio Edit\]](https://open.spotify.com/track/26uWcFPeunNydCH7rl7nyA) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Keeping Your Head Up \(Jonas Blue Remix; Radio Edit\)](https://open.spotify.com/album/3er2BNkkRFdjHEKySKwjkX) | 3:03 | 2025-02-17 |  |
+| [Keeping Your Head Up \- Jonas Blue Remix; Radio Edit \[Radio Edit\]](https://open.spotify.com/track/26uWcFPeunNydCH7rl7nyA) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Keeping Your Head Up \(Jonas Blue Remix; Radio Edit\)](https://open.spotify.com/album/3er2BNkkRFdjHEKySKwjkX) | 3:03 | 2025-02-17 | 2025-04-27 |
 | [Khachar Bhetor Ochin Pakhi](https://open.spotify.com/track/7MRoAC5UHDbx0FoXQWNihB) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Gorbo Bangladesh](https://open.spotify.com/album/0nAuXmUo9SZSLSgfeQdOfO) | 5:53 | 2022-05-27 | 2022-05-28 |
 | [Khae Momme](https://open.spotify.com/track/7kO2UpCHvf5BwZvxdYyeSh) | [Iván Torrent](https://open.spotify.com/artist/3C6hf9ZIza3e2f2Q3XwfcO) | [Immortalys](https://open.spotify.com/album/2duESsLbpGVnrK2f5CIqJz) | 4:38 | 2022-09-21 | 2022-09-22 |
 | [Khairiyat](https://open.spotify.com/track/5O932cZmzOZGOGZz9RHx20) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Chhichhore](https://open.spotify.com/album/2Svje8vKEM4VCKxoRyAvA4) | 4:40 | 2022-05-28 | 2022-06-06 |
@@ -2368,7 +2368,7 @@
 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 | 2024-02-09 | 2024-04-24 |
 | [TWIT](https://open.spotify.com/track/24WvBDKDDWlRD1fDnPccxt) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [María](https://open.spotify.com/album/4mJlLnCNXANEzq6PEWaFEQ) | 3:10 | 2023-11-23 | 2024-02-05 |
 | [U Do](https://open.spotify.com/track/3OHndKzu5eMJ7OQc1BBRZV) | [TRFN](https://open.spotify.com/artist/5Wj4v7ri4aDONkGEIuo0zp), [Siadou](https://open.spotify.com/artist/6P4MaYD97c9CnGibMPf4rd) | [U Do](https://open.spotify.com/album/6LV6J9nMeo1drM18RiOhYA) | 3:15 | 2023-01-10 | 2023-01-11 |
-| [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 | 2023-11-10 | 2025-04-19 |
+| [Uff Teri Adaa](https://open.spotify.com/track/0og9wKFGgFFNQnrBe7eisG) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Alyssa Mendonsa](https://open.spotify.com/artist/279ZItWl3nzCaO4SJJdzAN) | [Karthik Calling Karthik](https://open.spotify.com/album/13aLziSCr93ULLwPE2JURA) | 5:04 | 2023-11-10 |  |
 | [Ugly Heart](https://open.spotify.com/track/1Vv0MPcooEoQzVZYfKMgKW) | [G.R.L.](https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq) | [Ugly Heart](https://open.spotify.com/album/6cvanscbjwTlkleedLkWhC) | 3:19 | 2022-10-03 | 2023-03-07 |
 | [Un gram de suflet](https://open.spotify.com/track/0C0TQer9z4mwYEN3Dq9eVT) | [Elena](https://open.spotify.com/artist/0LSRPFX4RlecWEbNYUGCp6) | [Un gram de suflet](https://open.spotify.com/album/5iZI2yzrECAExOEW07OWyD) | 3:06 | 2023-02-04 | 2023-02-11 |
 | [Unagi](https://open.spotify.com/track/5Ue7crlM8wFA5oGLXq2ml9) | [Berlinist](https://open.spotify.com/artist/6EUPmAvpY341eXZwJVy6dn) | [Gris \(Original Game Soundtrack\)](https://open.spotify.com/album/2YMWspDGtbDgYULXvVQFM6) | 4:28 | 2022-11-19 | 2022-11-24 |
