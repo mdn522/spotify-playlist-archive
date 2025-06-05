@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Hurricane](https://open.spotify.com/track/5KibnHjPxcxOiFtDSPJvzq) | [Wegner](https://open.spotify.com/artist/2M7i0owWhjokYkekLHFxZZ) | [Hurricane](https://open.spotify.com/album/6tSp8tDfLZthpeIPZvcnAW) | 3:14 |
 | 30 | [Ghosts](https://open.spotify.com/track/2aKoElQmZWu2ZMCB3f2tbc) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [Ghosts](https://open.spotify.com/album/4rMFT5Lx9SPXmptynyPD77) | 3:48 |
 
-Snapshot ID: `aDyVIAAAAABypyy7gffy56lFP/xO8+me`
+Snapshot ID: `aDyVIAAAAADzM8qGnwua61T2e1MfVYnB`
