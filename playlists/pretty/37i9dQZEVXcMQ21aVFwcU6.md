@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 25 | [Over It](https://open.spotify.com/track/6B71yVE88CBwfvX6I9Ypkr) | [Lotus](https://open.spotify.com/artist/7irNamZWVrstQU1HWzY6mj), [Lex Rise](https://open.spotify.com/artist/7CwKY89EajPC85mFvdp539) | [Over It](https://open.spotify.com/album/6xqzxF9tFjMvBFqDFymc8n) | 2:36 |
 | 26 | [Control](https://open.spotify.com/track/6khIJyIvuoJNFMoOgWuu5G) | [Satin Jackets](https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv), [Seint Monet](https://open.spotify.com/artist/36FUrbueTAg6yUYcJuAkAh) | [Control](https://open.spotify.com/album/0I1kGd5ir00A4OCr1JAthz) | 3:42 |
 | 27 | [The Summit](https://open.spotify.com/track/6MibCitmstvzODsfGfV3Hq) | [NUMJA](https://open.spotify.com/artist/291QipJFhiK4dCiCsmXTZ2), [SoulTrain](https://open.spotify.com/artist/18eqYEmodrRZFbJj3rYsAs) | [The Summit](https://open.spotify.com/album/0VFnMD7p6YtVAySsdZicE2) | 3:47 |
-| 28 | [Young Blood](https://open.spotify.com/track/2uYSe1NoDmhI2cwwaaFfh4) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Young Blood](https://open.spotify.com/album/3pGE34PtZB5aBlJZ4Bsjdn) | 2:36 |
+| 28 | [Young Blood](https://open.spotify.com/track/2uYSe1NoDmhI2cwwaaFfh4) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc) | [Young Blood](https://open.spotify.com/album/3pGE34PtZB5aBlJZ4Bsjdn) | 2:35 |
 | 29 | [Hurricane](https://open.spotify.com/track/5KibnHjPxcxOiFtDSPJvzq) | [Wegner](https://open.spotify.com/artist/2M7i0owWhjokYkekLHFxZZ) | [Hurricane](https://open.spotify.com/album/6tSp8tDfLZthpeIPZvcnAW) | 3:14 |
 | 30 | [Ghosts](https://open.spotify.com/track/2aKoElQmZWu2ZMCB3f2tbc) | [Scavenger Hunt](https://open.spotify.com/artist/2CJw5Z0VmlBMrS1J1dtG9Z) | [Ghosts](https://open.spotify.com/album/4rMFT5Lx9SPXmptynyPD77) | 3:48 |
 
-Snapshot ID: `aDyVIAAAAADzM8qGnwua61T2e1MfVYnB`
+Snapshot ID: `aDyVIAAAAABm0m7CsaYSPNfEQQ88a0CN`
