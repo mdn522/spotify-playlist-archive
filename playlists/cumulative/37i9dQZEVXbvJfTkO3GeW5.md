@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-4,066 songs - 10 day 1 hr 21 min
+4,067 songs - 10 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,7 +371,8 @@
 | [Beautiful People \- Miss Monique Extended Remix](https://open.spotify.com/track/1Q8uvsPQ5KGZzGINBl53Xd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Beautiful People \(Miss Monique Remix\)](https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb) | 4:09 | 2025-06-05 | 2025-06-08 |
 | [Beautiful People \- Miss Monique Remix](https://open.spotify.com/track/2xypJtZG2dblYWcD7NUau9) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Beautiful People \(Miss Monique Remix\)](https://open.spotify.com/album/6RbuWWX31va0m3FduVREQb) | 2:38 | 2025-06-05 |  |
 | [Beautiful People \- THEMBA Remix](https://open.spotify.com/track/6UNHnSIMCbHSEy70Ct0tQN) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [Beautiful People \(THEMBA Remix\)](https://open.spotify.com/album/1Ts91jbAisF6dtLd74L7zU) | 3:45 | 2025-05-22 | 2025-05-30 |
-| [Beautiful, awkward love](https://open.spotify.com/track/3CnIda2XizNeZIZJws7sGE) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Beautiful, awkward love](https://open.spotify.com/album/2PKMgwZebiV1Um9R2r9Nfs) | 3:02 | 2025-06-05 |  |
+| [Beautiful, awkward love](https://open.spotify.com/track/177HQwj5af2fUEfL0neWVc) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Before Everything Changes](https://open.spotify.com/album/16d5yN9yDPbXT4iMyzWDtk) | 3:02 | 2025-06-05 |  |
+| [Beautiful, awkward love](https://open.spotify.com/track/3CnIda2XizNeZIZJws7sGE) | [Mr FijiWiji](https://open.spotify.com/artist/2uEo8Rajpdz1AqineCVLHq) | [Beautiful, awkward love](https://open.spotify.com/album/2PKMgwZebiV1Um9R2r9Nfs) | 3:02 | 2025-06-05 | 2025-06-09 |
 | [Beauty](https://open.spotify.com/track/0OiTVXQhGJjeONr8R0iEEd) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Beauty](https://open.spotify.com/album/45qjYVPZGBLS4SGO5a3rfn) | 4:23 | 2023-03-02 | 2023-03-19 |
 | [Beauty In My Scars](https://open.spotify.com/track/7KrAiFu8YRzzthWq8vQ4zf) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Beauty In My Scars](https://open.spotify.com/album/6PJ0petvsBFreXzZffWmv2) | 3:37 | 2025-04-10 | 2025-04-25 |
 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 | 2022-07-14 | 2022-08-13 |
