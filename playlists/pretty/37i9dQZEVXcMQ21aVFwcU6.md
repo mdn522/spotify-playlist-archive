@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [You & I](https://open.spotify.com/track/2PRKdr9T9fq2hax4sU6giF) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [You & I](https://open.spotify.com/album/3uVnRqV5cXQhiXpGR5tbyU) | 2:16 |
 | 30 | [Blue Lights](https://open.spotify.com/track/2e3bRrSjd9kHjSXFVGQnX9) | [Waves\_On\_Waves](https://open.spotify.com/artist/4l1KlqrM9fywoEDVKKiR9u), [Arwelone](https://open.spotify.com/artist/01jHp64ggVZmrGYJbJ5jrB), [Death By Algorithm](https://open.spotify.com/artist/2dp8EV1hwnlib51nuDN1Br) | [Live Wire on the Sunset Strip](https://open.spotify.com/album/0pmyT1Ps9ElMaEVoxDK2s2) | 3:16 |
 
-Snapshot ID: `aEXPoAAAAADEPc9rdwPZ0UAML1wClAsL`
+Snapshot ID: `aEXPoAAAAAAe/3f3nz8Rr/lMhqdFtpWw`
