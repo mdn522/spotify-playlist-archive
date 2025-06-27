@@ -2,9 +2,9 @@
 
 ### [Indie Mix](https://open.spotify.com/playlist/37i9dQZF1EQqkOPvHGajmW)
 
-> <a href=spotify:playlist:37i9dQZF1EIY0EyZHJdgKN>Pearly Drops</a>, <a href=spotify:playlist:37i9dQZF1EIVEAhCg4b3PY>Santigold</a>, <a href=spotify:playlist:37i9dQZF1EIVb0VIJGsgSt>In Color</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIVEAhCg4b3PY>Santigold</a>, <a href=spotify:playlist:37i9dQZF1EIVsHvGi3nlQy>Mareux</a>, <a href=spotify:playlist:37i9dQZF1EIYAinn9l2M3f>Pr0files</a> and more
 
-2,477 songs - 6 day 1 hr 7 min
+2,478 songs - 6 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1213,6 +1213,7 @@
 | [Le Chal](https://open.spotify.com/track/7dNQpEI1bOetj5XZqpKU5M) | [Himonshu Parikh](https://open.spotify.com/artist/0AHysaqWv1LHwqk5P5lTMX) | [Le Chal](https://open.spotify.com/album/3eQWv1miydlthQgTOsgCwn) | 3:16 | 2023-01-18 | 2023-08-15 |
 | [Le luci della città](https://open.spotify.com/track/381VH1JFj9q08V1OMlPU5m) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [Faccio un casino](https://open.spotify.com/album/3aKazjcDl544T21siS8lDp) | 2:57 | 2023-08-19 | 2023-08-20 |
 | [Leave A Trace](https://open.spotify.com/track/5gPvJIm1lXEKiefB0pFmxs) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Every Open Eye](https://open.spotify.com/album/6TEN694l8ifhIRfknsG8DX) | 3:57 | 2022-12-29 | 2022-12-30 |
+| [Leave Me When I Need You](https://open.spotify.com/track/3RighqVouTf9FRWHMUmRtn) | [Lahra](https://open.spotify.com/artist/3VJmc3ZrfHTausmE3eTwYJ) | [Leave Me When I Need You](https://open.spotify.com/album/0ZQ6DmPZA9aEsmf8j1pTFI) | 3:01 | 2025-06-27 |  |
 | [Left Hand Free](https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a) | 2:53 | 2023-01-15 | 2024-01-08 |
 | [Left Hand Free](https://open.spotify.com/track/5qJqzpNdEbt92roedFwoDR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [This Is All Yours](https://open.spotify.com/album/25RG9BGoVlHs4Qr4d0UH9Z) | 2:53 | 2024-02-17 | 2024-06-27 |
 | [Legendary](https://open.spotify.com/track/2bDENJyfbxj0neGiXUFvIX) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [No Place Is Home](https://open.spotify.com/album/4UXg0K9s6iGFntzsrYDdWF) | 3:52 | 2024-03-10 | 2024-09-14 |
@@ -1246,7 +1247,7 @@
 | [Little Lion Man](https://open.spotify.com/track/2KrN3MCNztKcSleZgHEj83) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/0kjj3EUl6EOrKSC9iDurZq) | 4:05 | 2023-12-06 | 2024-07-26 |
 | [Little Secrets](https://open.spotify.com/track/3kb38wezoUA8ki5jPYy3t5) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Manners](https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv) | 3:58 | 2022-12-20 | 2023-09-08 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2022-12-24 | 2024-07-31 |
-| [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 | 2023-12-30 |  |
+| [Live in the Moment](https://open.spotify.com/track/60eOMEt3WNVX1m1jmApmnX) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 4:06 | 2023-12-30 | 2025-06-27 |
 | [Living for the Weekend](https://open.spotify.com/track/0UgHw2x3Nnocajvx62noEn) | [Hard\-FI](https://open.spotify.com/artist/14Gi3Uph96lpNB3utkoVAD) | [Stars Of CCTV](https://open.spotify.com/album/49lMsHtv1i2vAaIs0lHWpD) | 3:42 | 2023-08-22 | 2023-08-23 |
 | [Living In A Haze](https://open.spotify.com/track/6vu5xJWIvukCK8cwBXOOj0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 2:53 | 2023-12-17 | 2025-06-23 |
 | [Living In A Haze \- feat\. The Beaches](https://open.spotify.com/track/5QPRZdajTSKbdUERR8zvWB) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs), [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Living In A Haze \(feat\. The Beaches\)](https://open.spotify.com/album/6MbzxC0YsqsGyVCOF7nO9E) | 2:53 | 2024-08-01 | 2025-06-21 |
@@ -1489,7 +1490,7 @@
 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 | 2024-01-06 | 2024-01-20 |
 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 | 2023-08-14 | 2023-11-03 |
 | [Nothing Matters](https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Nothing Matters](https://open.spotify.com/album/2YSFu2hX0S6fnXlaeqLhP3) | 3:01 | 2023-12-24 | 2024-02-04 |
-| [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-03-04 |  |
+| [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-03-04 | 2025-06-27 |
 | [Nothing New](https://open.spotify.com/track/0kCVkMpsv5wtGx71knh4dG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:29 | 2024-02-13 | 2024-02-14 |
 | [Nothing New](https://open.spotify.com/track/3FvlayEQ7rHflEnZCt1zdH) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:49 | 2023-02-06 | 2025-05-31 |
 | [Nothing’s Impossible](https://open.spotify.com/track/1UegvfqeikDPozAcaIWIuI) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 4:08 | 2023-01-25 | 2023-01-26 |
@@ -2025,7 +2026,7 @@
 | [Surefire](https://open.spotify.com/track/7MbVZOLSUloG4J3nH3Tnos) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Wilderado](https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP) | 4:01 | 2024-03-27 | 2024-03-28 |
 | [Susie Save Your Love](https://open.spotify.com/track/5jYkyOIoEeWZobedmHM50N) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Cape God](https://open.spotify.com/album/47wRFo2As9zFmg6E5VVa8H) | 3:58 | 2023-11-12 | 2023-11-20 |
 | [Sway](https://open.spotify.com/track/40LGKU0kbnbx4NXEMhTTXT) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Konk](https://open.spotify.com/album/37he52Ye10gETvnot9bC2t) | 3:36 | 2023-08-23 | 2023-08-30 |
-| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-12-19 | 2025-06-26 |
+| [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2022-12-19 |  |
 | [Sweater Weather](https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr) | 4:00 | 2024-09-18 | 2025-02-17 |
 | [Sweep Me Off My Feet](https://open.spotify.com/track/7rxdEeEAZ3c5KQ7s1bC3cc) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [The Weather](https://open.spotify.com/album/2SHfOtnJrQc1piY2KyMOIF) | 3:29 | 2023-01-25 | 2023-01-26 |
 | [Sweet](https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:52 | 2024-02-07 | 2024-02-08 |
