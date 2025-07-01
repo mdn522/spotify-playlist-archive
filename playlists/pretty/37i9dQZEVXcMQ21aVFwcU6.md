@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Kiss and Collide](https://open.spotify.com/track/0FUYwHxE0KwHO0VV2Z3kzP) | [Blondfire](https://open.spotify.com/artist/5ySYeIhqg4Rfs5tjteVMz3) | [True Confessions \- EP](https://open.spotify.com/album/1v93TAcKTGyFzNLlm5ewxS) | 3:02 |
 | 30 | [9 to 5](https://open.spotify.com/track/0DXaw9Hm2k8KNIF7cnCzvH) | [Young Ejecta](https://open.spotify.com/artist/54q9bW74hKtp2aua0cmjDb) | [Ride Lonesome](https://open.spotify.com/album/7wtVWWnTpTwzAWxNDYCG5e) | 3:39 |
 
-Snapshot ID: `aFhEoAAAAABiyyLrQ++Wp3tryIYp2MqZ`
+Snapshot ID: `aGF/IAAAAACEW87gvchoAD/A9FNokAlo`
