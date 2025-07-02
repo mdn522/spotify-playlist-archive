@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-4,159 songs - 10 day 6 hr 48 min
+4,160 songs - 10 day 6 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4153,7 +4153,7 @@
 | [然後呢, 最後呢](https://open.spotify.com/track/2EpB5jUMvJNgjQgOL4gokg) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [然後呢, 最後呢](https://open.spotify.com/album/5fAuyGJPVvG2jaVU7uJmzO) | 5:42 | 2024-10-31 | 2024-11-14 |
 | [然後呢, 最後呢](https://open.spotify.com/track/6TLm2jOPhJHdRFGvRiucR6) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [沒語季節](https://open.spotify.com/album/2zMkA1hnJBsoS2Oaf1gIAc) | 5:42 | 2024-11-14 | 2024-11-22 |
 | [然後呢, 最後呢 \- 伴奏](https://open.spotify.com/track/1wYh61YJiOXFw26ejMdUWX) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [然後呢, 最後呢](https://open.spotify.com/album/5fAuyGJPVvG2jaVU7uJmzO) | 5:42 | 2024-10-31 | 2024-11-15 |
-| [爱如此\(影视剧《神隐》铭心·刺情曲\)](https://open.spotify.com/track/5ndu5ZeQ29ix7LpFHqptB1) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [神隐 影视剧原声大碟](https://open.spotify.com/album/4Yr75gqFTORaKaBPFFYlZ3) | 4:32 | 2025-06-12 |  |
+| [爱如此\(影视剧《神隐》铭心·刺情曲\)](https://open.spotify.com/track/5ndu5ZeQ29ix7LpFHqptB1) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [神隐 影视剧原声大碟](https://open.spotify.com/album/4Yr75gqFTORaKaBPFFYlZ3) | 4:32 | 2025-06-12 | 2025-07-02 |
 | [玫瑰星雲](https://open.spotify.com/track/6Ah3Hulq4myZxCzl6R6jTS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [玫瑰星雲](https://open.spotify.com/album/6Oe1h2vT2NxbDicHJorcNN) | 4:11 | 2024-08-01 | 2024-08-09 |
 | [盲選](https://open.spotify.com/track/1AnnHEhv1Vm4DgrrniJt3W) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [盲選](https://open.spotify.com/album/01D6emIjNrzv27yFLNB1di) | 4:47 | 2024-08-08 | 2024-08-16 |
 | [真的爱你](https://open.spotify.com/track/5kTEkdpkhZyT0VmzCF8xqu) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [真的爱你](https://open.spotify.com/album/5uw3Sto2dAgY2LtlBfhVJ2) | 3:18 | 2024-01-18 | 2024-02-11 |
@@ -4167,5 +4167,6 @@
 | [追光](https://open.spotify.com/track/5NlPuLP1BPaKu9A9HQqwTE) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU), [罗一舟](https://open.spotify.com/artist/5MVeUNI9qKxHoM0HxFchEO), [北京高校大学生代表](https://open.spotify.com/artist/5LNcXz2bFV8dsuILVXWCkE) | [追光](https://open.spotify.com/album/5FdTkWXjLENhPBjP1B0DDp) | 3:57 | 2025-04-17 | 2025-05-11 |
 | [追光 \- 伴奏版](https://open.spotify.com/track/7yH4Qzfn1zvU2dwKtzPZWR) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU), [罗一舟](https://open.spotify.com/artist/5MVeUNI9qKxHoM0HxFchEO), [北京高校大学生代表](https://open.spotify.com/artist/5LNcXz2bFV8dsuILVXWCkE) | [追光](https://open.spotify.com/album/5FdTkWXjLENhPBjP1B0DDp) | 3:57 | 2025-04-17 | 2025-05-09 |
 | [逆着光勇敢 \- DNF地下城与勇士动画《破界少女》片尾曲](https://open.spotify.com/track/1mwGHUUpt9PL8uTmV6fSmW) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU), [DNF](https://open.spotify.com/artist/3FzBZhvAW4i3r0zWasOz2k) | [逆着光勇敢 \(DNF地下城与勇士动画《破界少女》片尾曲\)](https://open.spotify.com/album/5WRrRGKxnnMAS10sQMPClN) | 3:58 | 2024-02-22 | 2024-03-08 |
+| [长明](https://open.spotify.com/track/5veS3g3MkAcPtjV8J8wy05) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [长明](https://open.spotify.com/album/3No7x2AllkoLTtsnv13EgW) | 3:59 | 2025-06-26 |  |
 
 \*This playlist was first scraped on 2022-05-21. Prior content cannot be recovered.
