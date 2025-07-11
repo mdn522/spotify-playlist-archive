@@ -2,7 +2,7 @@
 
 ### [Mandopop Mix](https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a)
 
-> <a href=spotify:playlist:37i9dQZF1EIYzdKmwzq1Sx>邹沛沛</a>, <a href=spotify:playlist:37i9dQZF1EIZcgeqoEXuDf>张远</a>, <a href=spotify:playlist:37i9dQZF1EIZCRyFfBvFkA>张妙格</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIYLZF334Ytj1>WeiBird</a>, <a href=spotify:playlist:37i9dQZF1EIZcgeqoEXuDf>張遠</a>, <a href=spotify:playlist:37i9dQZF1EIVM3byTKncMD>吳青峰</a> and more
 
 2,557 songs - 6 day 22 hr 35 min
 
@@ -723,7 +723,7 @@
 | [來自天堂的魔鬼](https://open.spotify.com/track/0g2XnkKghVN22yze1gTJzl) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [新的心跳](https://open.spotify.com/album/1tEl9cDFkTKGmaRpZLB7zW) | 4:05 | 2022-08-12 | 2025-05-28 |
 | [依然愛你](https://open.spotify.com/track/2b7O6Tcku6S4vPAVUpCFl0) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [火力全開 新歌 + 精選](https://open.spotify.com/album/51AiSotGTbqBLQrU89XEhA) | 4:06 | 2023-09-02 | 2023-09-05 |
 | [依然睡公主](https://open.spotify.com/track/6qwcAUoxaqLlS0xTGpDhlS) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [摩天動物園](https://open.spotify.com/album/5BQmFN38iOhEhMVIdtvFhS) | 2:40 | 2022-06-17 | 2023-11-28 |
-| [修煉愛情](https://open.spotify.com/track/101iWa6yaODTI0RWewMK1B) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4) | 4:47 | 2023-08-04 |  |
+| [修煉愛情](https://open.spotify.com/track/101iWa6yaODTI0RWewMK1B) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/4HIHR7UP1Wc04zwGkJDKX4) | 4:47 | 2023-08-04 | 2025-07-11 |
 | [修煉愛情](https://open.spotify.com/track/190kU2WKyIzx9XaBjfWRPk) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [因你 而在](https://open.spotify.com/album/6gQh7mS17suaoPKvc8gnWQ) | 4:47 | 2023-05-14 | 2023-05-17 |
 | [修煉愛情](https://open.spotify.com/track/22Xyjrd93Lvc85FfAnDNsQ) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [收•音•《我是歌手4》原音精選](https://open.spotify.com/album/7aLCQt3xPcOSajVaC2Kjv5) | 4:46 | 2023-08-21 | 2023-08-22 |
 | [倒帶](https://open.spotify.com/track/4XipvtwRgtUrGb2j2l0wNG) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [城堡](https://open.spotify.com/album/6OeSMtENnJV8FpGb1eZheV) | 4:26 | 2023-05-23 | 2024-06-03 |
@@ -1259,7 +1259,7 @@
 | [希望你被这个世界爱着](https://open.spotify.com/track/0gAHXdw7PmB1YWnOEKggcU) | [吕口口](https://open.spotify.com/artist/3Wscg8TgjGseAke9eOrwDC) | [希望你被这个世界爱着](https://open.spotify.com/album/201S9FCOP2b3bjnokMd0Ub) | 3:49 | 2024-04-12 | 2024-10-04 |
 | [帥到分手](https://open.spotify.com/track/3HQtE9VzEeqkGl1zvFeRdJ) | [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [REAL](https://open.spotify.com/album/1xLXqwpR9Z4ks0T1lDmrac) | 3:39 | 2024-04-24 | 2024-04-27 |
 | [带我去很远地方](https://open.spotify.com/track/36qKqHHx0kXjdKGwg7gymO) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [带我去很远地方](https://open.spotify.com/album/34XTfKwuxcHoXxmZGbQkhl) | 4:09 | 2022-07-16 | 2023-11-17 |
-| [帶我去找夜生活](https://open.spotify.com/track/4KjPt8HrShkDOASRyMkTJ4) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶我去找夜生活](https://open.spotify.com/album/3xk8Iced6AQm2zMZcfHmrZ) | 4:59 | 2022-10-12 | 2025-05-11 |
+| [帶我去找夜生活](https://open.spotify.com/track/4KjPt8HrShkDOASRyMkTJ4) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [帶我去找夜生活](https://open.spotify.com/album/3xk8Iced6AQm2zMZcfHmrZ) | 4:59 | 2022-10-12 |  |
 | [帶我走](https://open.spotify.com/track/6xLInOiZPEeqEoLLHlFH8N) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [半熟宣言](https://open.spotify.com/album/7538kuYv86MOmxoHxFkh1o) | 4:49 | 2023-06-30 | 2024-01-22 |
 | [平凡之路](https://open.spotify.com/track/3YFGh5Kga1K40yUhuCVffM) | [Pu Shu](https://open.spotify.com/artist/6lJ36ifxOD2oUsdMdLRPN4) | [獵戶星座](https://open.spotify.com/album/7D2XQNI2pQylrjDB1jsB8J) | 5:02 | 2023-12-29 | 2024-08-12 |
 | [平凡天使](https://open.spotify.com/track/4WnwrZsv8lVHt0ribAeL1I) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [平凡天使](https://open.spotify.com/album/6dOrr1HwvFh5vg1PKP4z4K) | 3:33 | 2022-06-26 | 2023-10-29 |
@@ -2146,7 +2146,7 @@
 | [背叛](https://open.spotify.com/track/48VzfSDNpxIfWohA9bZgfo) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 5:21 | 2023-08-25 | 2024-08-18 |
 | [背對背擁抱](https://open.spotify.com/track/5OZeRuBBRpEY13BagcAOLJ) | [JJ Lin](https://open.spotify.com/artist/7Dx7RhX0mFuXhCOUgB01uM) | [JJ林俊傑100天](https://open.spotify.com/album/6D0BwgO8fScZhwVFP6k6N9) | 3:54 | 2023-08-19 | 2024-09-20 |
 | [能不能和我留在台北\(陪我幾天\)](https://open.spotify.com/track/63N9fNPJ5kkbvtntCwgIbm) | [冰球樂團](https://open.spotify.com/artist/4GsjZQZJ3viOq4Uw8wZDbW) | [能不能和我留在台北 \( 陪我幾天 \)](https://open.spotify.com/album/1dJKc7tL64EpUoqEj2f0JB) | 4:03 | 2024-01-07 | 2024-10-31 |
-| [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:49 | 2024-07-25 | 2025-07-10 |
+| [能遇見，就很不錯了](https://open.spotify.com/track/2ASWo8MTESnHQhJhpMSPbF) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [能遇見，就很不錯了](https://open.spotify.com/album/7gtCv2LMG9F41nwqXvVu2S) | 3:49 | 2024-07-25 |  |
 | [脫胎換骨](https://open.spotify.com/track/2qv2eF6zNjLMEICMB5jxwO) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 4:30 | 2023-03-05 | 2023-08-23 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-07-17 | 2022-12-08 |
 | [脸红接收处](https://open.spotify.com/track/5whk6xbQZmoek0YMiYEEMj) | [PIggy](https://open.spotify.com/artist/5Peky9rOMytKOvpiq5cJcT) | [脸红接收处](https://open.spotify.com/album/7cMRTjNu72uYk5zZJflVGy) | 3:05 | 2022-09-29 | 2022-10-09 |
@@ -2263,7 +2263,7 @@
 | [說好的幸福呢](https://open.spotify.com/track/4OoExItZJ0jePoCZDbHx4t) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [魔杰座](https://open.spotify.com/album/5akBJuVQvCggD0hCzjfeR3) | 4:16 | 2024-01-19 | 2025-06-26 |
 | [說愛你](https://open.spotify.com/track/6u4QtlkKJ879ElNlgw0R7M) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [看我72變](https://open.spotify.com/album/4QUmaboYGilFry5XZeeUi5) | 3:46 | 2022-10-22 | 2024-06-04 |
 | [說故事的歌](https://open.spotify.com/track/6TIqsPTcpTjdIXDp3DFZ1b) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 5:10 | 2022-08-27 | 2023-03-10 |
-| [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 | 2023-12-10 |  |
+| [說散就散](https://open.spotify.com/track/2XFrRuy9Gpu4GuYHTNeHiC) | [JC 陳詠桐](https://open.spotify.com/artist/757epCpvbpqyBoMMzbIC3g) | [Album 1](https://open.spotify.com/album/2AjWUJJJekECU7JAezYTIV) | 3:50 | 2023-12-10 | 2025-07-11 |
 | [說謊](https://open.spotify.com/track/5EXpL9orGpIsscSyBgPdSx) | [Yoga Lin](https://open.spotify.com/artist/1GPoTgvXd5OqZMF1akOsV2) | [感官/世界](https://open.spotify.com/album/5xQZa2Pvi6JoQnZFzYaRAt) | 4:24 | 2023-08-19 | 2024-02-10 |
 | [誰](https://open.spotify.com/track/11DUHbs4Vu8M7ppePmszse) | [Yo Lee](https://open.spotify.com/artist/1D2LuIU6rgg0MGa0l8wYJh) | [誰](https://open.spotify.com/album/4Gs0mmG0ey02lOz3bgqisF) | 4:11 | 2024-02-22 | 2024-02-26 |
 | [請離開我](https://open.spotify.com/track/0rlLkJ8H6vDCTvbS8tF8Kp) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [I](https://open.spotify.com/album/26yqvFjCkJ4W69WDtnnz6f) | 4:31 | 2022-12-17 | 2023-02-08 |
