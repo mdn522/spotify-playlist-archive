@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 ### [Discover Weekly](https://open.spotify.com/playlist/37i9dQZEVXcMQ21aVFwcU6)
 
-> Your weekly mixtape of fresh music\. Enjoy new music and deep cuts picked for you\. Updates every Monday.
+> Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 33 min
 
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [How It Feels](https://open.spotify.com/track/3Atup78nU2bvmeDDnVom6K) | [NIGHTCAP](https://open.spotify.com/artist/6zQzf5rafx9QyRokaqO4qH) | [How It Feels / Every Time I Close My Eyes](https://open.spotify.com/album/7acm1zCjuaJBXXYvxNS7oy) | 2:48 |
 | 30 | [Fire In Her Eyes](https://open.spotify.com/track/2gWo5bUOPAsd83vG2PsDfL) | [BT\-84](https://open.spotify.com/artist/3jbsivQ3WsTvLLCi2v48uf), [Firebrand Vocals](https://open.spotify.com/artist/2f4R6qD2EQQj036VfPb9Ps) | [Fire In Her Eyes](https://open.spotify.com/album/5AFdUpc4xzl3IAg1d6fjnl) | 3:39 |
 
-Snapshot ID: `aJjeIAAAAADQGzAiPK9X4jeWcz0oTowC`
+Snapshot ID: `aJjeIAAAAAAtpAvetD5ZEDUu5XHrEJ0Y`
