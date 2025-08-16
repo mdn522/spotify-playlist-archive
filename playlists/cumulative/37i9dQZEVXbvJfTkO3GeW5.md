@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-4,327 songs - 10 day 16 hr 21 min
+4,328 songs - 10 day 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,6 +140,7 @@
 | [Afterglow](https://open.spotify.com/track/5oWghJEcgrcRzUp7Exrc96) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Nick Strand](https://open.spotify.com/artist/5nFFSwxKDNlZyHEYl48YTd), [Hoaprox](https://open.spotify.com/artist/3tuxyjTQrEDsF0pV0WbqyR) | [Afterglow](https://open.spotify.com/album/5OmTWw9TORqRQOCW6YBOof) | 2:26 | 2025-03-13 | 2025-04-13 |
 | [Afterlife](https://open.spotify.com/track/4W8oyMU1PoAL15vSZwEYym) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Alex M.O.R.P.H.](https://open.spotify.com/artist/478tAnskSff0wa0XxnpwmW) | [Afterlife](https://open.spotify.com/album/45YAoAgFb22mdie9KPRT2O) | 2:54 | 2022-09-22 | 2022-09-30 |
 | [Again](https://open.spotify.com/track/665bqRGCYFrh12XxsjEmlQ) | [TELL YOUR STORY music by Ikson™](https://open.spotify.com/artist/1nJGnf3lzw1sC34D6P8i4I), [Ikson](https://open.spotify.com/artist/0oaw4MsauBh5lIEBWqhi1r) | [Again](https://open.spotify.com/album/7tzwc5pNLZ141kUhNvZoWK) | 3:32 | 2022-12-15 | 2022-12-23 |
+| [again20](https://open.spotify.com/track/78Qbt4GWAbzsdJn3RGF41T) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [VAULT\_01](https://open.spotify.com/album/31zpsPDFk4lcmai9hv8Ix6) | 3:37 | 2025-08-14 |  |
 | [Against The Grain](https://open.spotify.com/track/5yoU7BfgbGcTmJFWy4sRe2) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Against The Grain](https://open.spotify.com/album/4oKyaVDrjuqORtCXhoo2Ja) | 3:11 | 2024-04-25 | 2024-05-03 |
 | [Agar Tum Mil Jao \- Trending Version / From "Zeher"](https://open.spotify.com/track/6GGi2E5pH6AzdkWfXCZwlK) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Anu Malik](https://open.spotify.com/artist/71hjb5G92mGoKRSAW3Cj00), [Sayeed Quadri](https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8) | [Agar Tum Mil Jao \(Trending Version / From "Zeher"\)](https://open.spotify.com/album/7AB7eB48I6HUs8ss4u1Jkl) | 2:07 | 2025-06-05 | 2025-06-12 |
 | [Agent Of Chaos](https://open.spotify.com/track/0mcZbiSWZMpvGC8cAUY4Rw) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Agent Of Chaos](https://open.spotify.com/album/2wXnvkz0MKi0ApB9hPVMHC) | 3:29 | 2024-01-04 | 2024-01-12 |
@@ -3495,7 +3496,7 @@
 | [Still Here With You](https://open.spotify.com/track/2JjS5wksKwaAqaB4Tubijz) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Still Here With You](https://open.spotify.com/album/7kMf2MXLqvDBMH6278lRn5) | 2:28 | 2024-03-14 | 2024-04-13 |
 | [Stimulate](https://open.spotify.com/track/6IuclbYiepYW0wB8XoM0Lo) | [7 Minutes Dead](https://open.spotify.com/artist/6MXp12IK29WvwsSbj5j49p) | [Stimulate](https://open.spotify.com/album/12el3V1ajfxHb4JuKC9zJ7) | 2:27 | 2024-04-25 | 2024-05-19 |
 | [Stinge luminile \- From "Miami Bici 2" The Movie](https://open.spotify.com/track/3rmlywLdrg5deBbXBxFDXl) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [Stinge luminile \(From "Miami Bici 2" The Movie\)](https://open.spotify.com/album/6UGmucv5MdRX8HLagF2WeK) | 3:03 | 2023-11-02 | 2023-12-03 |
-| [stomp\_](https://open.spotify.com/track/6ojQhi5MWa5GyTMvepvLZC) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [VAULT\_01](https://open.spotify.com/album/31zpsPDFk4lcmai9hv8Ix6) | 3:18 | 2025-08-14 |  |
+| [stomp\_](https://open.spotify.com/track/6ojQhi5MWa5GyTMvepvLZC) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [VAULT\_01](https://open.spotify.com/album/31zpsPDFk4lcmai9hv8Ix6) | 3:18 | 2025-08-14 | 2025-08-16 |
 | [Stop Me Cold](https://open.spotify.com/track/394y0vyV2IjA85P2ntXXj3) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Stop Me Cold](https://open.spotify.com/album/1YmwNbEj1O6QbMJEg2BMcu) | 3:38 | 2024-11-07 | 2024-11-15 |
 | [Stories](https://open.spotify.com/track/5BKzCUmyoURfEZkcKuq8Cg) | [Nightcore High](https://open.spotify.com/artist/1QKDZusfmkgL3rC9IpvxKk), [Ronna Riva](https://open.spotify.com/artist/76PdoNdwxIcxZOvqpYrrKq) | [Stories](https://open.spotify.com/album/7LbXcatSXWj750APLbZbOW) | 2:49 | 2022-10-27 | 2022-11-20 |
 | [Storm Chaser](https://open.spotify.com/track/4GfsaAxPGUuZNQcHpBWZmb) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Storm Chaser](https://open.spotify.com/album/6nPD7ezybuvikrcVX0ATj8) | 3:00 | 2023-11-02 | 2023-11-11 |
