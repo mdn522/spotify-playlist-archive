@@ -2,9 +2,9 @@
 
 ### [Mandopop Mix](https://open.spotify.com/playlist/37i9dQZF1EQpwudUiy0F5a)
 
-> <a href=spotify:playlist:37i9dQZF1EIX8UPAgdgzJo>Khalil Fong</a>, <a href=spotify:playlist:37i9dQZF1EIVNNvnXlCxGl>G.E.M.</a>, <a href=spotify:playlist:37i9dQZF1EIZr3Ederk0bs>LBI利比</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZ2NIjOLHoUV>承桓</a>, <a href=spotify:playlist:37i9dQZF1EIXU3Q6t3bSoG>Arcane</a>, <a href=spotify:playlist:37i9dQZF1EIVWAN3QYXOGj>Ryan.B</a> and more
 
-2,619 songs - 7 day 2 hr 11 min
+2,620 songs - 7 day 2 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Dear Life](https://open.spotify.com/track/3ElrSLIbopx5ZWMztvDrc6) | [Yisa Yu](https://open.spotify.com/artist/75CM5fojYdKYD0xYSFh22Z) | [Dear Life](https://open.spotify.com/album/3vkaQi7Nq1WfHAy73YPY2N) | 3:39 | 2023-07-15 | 2023-07-16 |
 | [dear me,](https://open.spotify.com/track/7aGaP4VJ1WOAIL7QlEl1pA) | [Gentle Bones](https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS) | [dear me,](https://open.spotify.com/album/1wsaqmb8RGkDS3bP5uOfcl) | 2:45 | 2022-06-03 | 2022-10-12 |
 | [Deep Down](https://open.spotify.com/track/4MqBQNJeivOhL6kkvunDkN) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [Deep Down](https://open.spotify.com/album/5qrb8OZWqeaLXZbzsVCbff) | 3:31 | 2022-08-25 | 2023-12-03 |
-| [delulu](https://open.spotify.com/track/05ZdGGKBO5N1H3OZnDrSzh) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [delulu](https://open.spotify.com/album/7rGlowBhGcmtTfmc8hnkqI) | 2:19 | 2024-01-18 |  |
+| [delulu](https://open.spotify.com/track/05ZdGGKBO5N1H3OZnDrSzh) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [delulu](https://open.spotify.com/album/7rGlowBhGcmtTfmc8hnkqI) | 2:19 | 2024-01-18 | 2025-08-17 |
 | [DIABLO](https://open.spotify.com/track/6XbJqzYtEFHMOo5jy4bx9F) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [The Happy Star](https://open.spotify.com/album/6TncHvvXh96HDGtWGrsNIV) | 3:51 | 2023-12-10 | 2024-02-14 |
 | [Dip Out](https://open.spotify.com/track/1K9XRyb0lA6rKM3c47FQIn) | [Adam Fan](https://open.spotify.com/artist/1E4g32yGNzPxk7GOhJBulj) | [Like a Fan](https://open.spotify.com/album/33XnMEjVrflMd4tclVeJR1) | 4:25 | 2022-09-23 | 2022-10-12 |
 | [Dirty Tricks](https://open.spotify.com/track/5x6kr8rYbOmKyl4JKgrtVu) | [Nightshift](https://open.spotify.com/artist/7bi9sDWFhwF91OhrBl4V2S) | [Dirty Tricks](https://open.spotify.com/album/1IOOdQRAAzroed4sTMQb9D) | 3:15 | 2022-08-14 | 2022-09-08 |
@@ -636,7 +636,7 @@
 | [也許是愛情](https://open.spotify.com/track/7MgIkl2sYuyp5f5cz9sJ4f) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [縱橫四海](https://open.spotify.com/album/2FbkaXZl2bM5YU7sZYkL6Q) | 3:29 | 2023-07-29 | 2023-07-30 |
 | [也许](https://open.spotify.com/track/2c28E5hZUs0dTkLFj5KnNV) | [joysaaaa](https://open.spotify.com/artist/57BQpa68l2PMgP30MTulze) | [也许](https://open.spotify.com/album/7LrqIWXIiJM3DWj9MRafP8) | 4:10 | 2022-11-18 | 2023-01-06 |
 | [乾杯](https://open.spotify.com/track/1pq8manc3lP5iEbLhzuZv2) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [第二人生\(末日版\)](https://open.spotify.com/album/3Xpf0uptVuuQGiOjRX1EvW) | 4:49 | 2023-08-19 | 2023-08-20 |
-| [了 L](https://open.spotify.com/track/1BArNw5s6pzhaoqrPM8ccF) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [上线了 GONE GOLD](https://open.spotify.com/album/5fDCqCkR3tcZAELkjOPNFO) | 3:15 | 2022-06-19 | 2024-05-02 |
+| [了](https://open.spotify.com/track/1BArNw5s6pzhaoqrPM8ccF) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [上线了 GONE GOLD](https://open.spotify.com/album/5fDCqCkR3tcZAELkjOPNFO) | 3:15 | 2022-06-19 |  |
 | [予你](https://open.spotify.com/track/5ndsbKj1gN5j7mHD0J3hce) | [FS \(Fuying & Sam\)](https://open.spotify.com/artist/0vWI4yyM1HXGoK0tkHqbGi) | [予你](https://open.spotify.com/album/6wHs2SSHbRI864Frz9kfGo) | 3:56 | 2022-12-01 | 2022-12-02 |
 | [予你](https://open.spotify.com/track/5ii92YUmZpeEjRKygY8t9v) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [予你](https://open.spotify.com/album/7FNbElhv35iF0htSWFzasa) | 3:51 | 2022-05-29 | 2022-06-15 |
 | [予你](https://open.spotify.com/track/5wXXUf3KZn986EKI6YVaz7) | [隊長](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz) | [予你](https://open.spotify.com/album/2RFK4djv3JjzNKi2QI8C1k) | 3:51 | 2023-08-18 | 2024-08-23 |
@@ -2060,6 +2060,7 @@
 | [白鷺思一騁\(大型紀錄片《紫禁城》主題歌\)](https://open.spotify.com/track/68YY9m30BLGui3gFGy4JJL) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [白鷺思一騁\(大型紀錄片《紫禁城》主題歌\)](https://open.spotify.com/album/7qemR7s1XUfpQBcOXR15i7) | 3:14 | 2022-08-28 | 2022-08-29 |
 | [百年孤寂](https://open.spotify.com/track/7uyg2rrUOlwE6tGtitXOJC) | [懋懋](https://open.spotify.com/artist/4aY2GVGUuUV9uUJNCtxqD0) | [百年孤寂 \(新版\)](https://open.spotify.com/album/1Xc1MTxyK1VPZ2Z09EHdqk) | 4:16 | 2022-06-07 | 2022-06-08 |
 | [皆你\(電視劇《她們的名字》片頭曲\)](https://open.spotify.com/track/6BqlsfhejFwrtjfuC2KZjV) | [Eve Ai](https://open.spotify.com/artist/6eLpNMX3ZygSrUuxAlIWIx) | [《她們的名字》電視劇原聲帶](https://open.spotify.com/album/3pUFiLUX2hLLqQTCiDKxPD) | 3:40 | 2022-11-10 | 2023-03-15 |
+| [皮箱](https://open.spotify.com/track/2tIPE3RNPK3B3qomnCTftG) | [CORSAK](https://open.spotify.com/artist/1TcbdifqhtxLz77unBYJ7z) | [皮箱](https://open.spotify.com/album/2GWMKRzYm4YJGj8eBGIoCz) | 4:07 | 2025-08-17 |  |
 | [盛夏光年 live in the sky](https://open.spotify.com/track/74VXGc4WjyR2RUat4n9eEt) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [五月天 突然好想見到你 live in the sky](https://open.spotify.com/album/59wHPpctcSa9gHC5sMy6yF) | 3:14 | 2023-06-17 | 2023-06-18 |
 | [盛開](https://open.spotify.com/track/6NlVZaAwoOG5r3txFr1KRw) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9), [Jess Lee](https://open.spotify.com/artist/02Cz717BTulFiQXUuIXH6n) | [盛開](https://open.spotify.com/album/6lYx9p0S8CaAuw4n89hRyL) | 2:49 | 2022-08-05 | 2023-11-01 |
 | [盡情旋轉](https://open.spotify.com/track/7q84sHBw5ANoAfQ4MIYlxr) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 4:14 | 2022-06-19 | 2023-03-29 |
@@ -2512,7 +2513,7 @@
 | [阿拉斯加海湾](https://open.spotify.com/track/6tY7ZBBq0HBPYticlSDIdw) | [张静汶](https://open.spotify.com/artist/6H1fGzH3FVEgBEinAi4rcB) | [阿拉斯加海湾](https://open.spotify.com/album/2gjPZuncZPUb9e7YWbWOKj) | 3:48 | 2023-01-14 | 2023-02-16 |
 | [阿拉斯加海湾](https://open.spotify.com/track/6VYs9NInduwKl1TBLfeSdy) | [菲道尔](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [A Letter](https://open.spotify.com/album/2qViMUzjnHbV7DA09JUZNj) | 4:06 | 2022-06-14 | 2022-06-15 |
 | [阿拉斯加海湾](https://open.spotify.com/track/5DCNAwyomUF3LXunq4NSpJ) | [蔡恩雨 Priscilla Abby](https://open.spotify.com/artist/0zFBdI3ErhNDcIPAKiGoL0) | [阿拉斯加海湾](https://open.spotify.com/album/3pkuo2CnLMggHIWUtNgScR) | 3:57 | 2022-05-28 | 2023-12-24 |
-| [阿衣莫 \- 越南鼓FkHs](https://open.spotify.com/track/39TU5X86FCatLN3I03Y8xN) | [陈小潇](https://open.spotify.com/artist/74xccwcCQJlrEierV7FoiU) | [阿衣莫 \(越南鼓FkHs\)](https://open.spotify.com/album/1VHBI6vH6LwpgBjT8KTCy8) | 6:12 | 2025-08-16 |  |
+| [阿衣莫 \- 越南鼓FkHs](https://open.spotify.com/track/39TU5X86FCatLN3I03Y8xN) | [陈小潇](https://open.spotify.com/artist/74xccwcCQJlrEierV7FoiU) | [阿衣莫 \(越南鼓FkHs\)](https://open.spotify.com/album/1VHBI6vH6LwpgBjT8KTCy8) | 6:12 | 2025-08-16 | 2025-08-17 |
 | [阿飛的小蝴蝶](https://open.spotify.com/track/0lgx4aYzm8PaYW2mIVwEnj) | [Jam Hsiao](https://open.spotify.com/artist/4AJcTAMOLkRl3vf4syay8Q) | [王妃](https://open.spotify.com/album/7pASgjz9BMkv9cAZMWYhfV) | 4:16 | 2023-09-02 | 2023-09-03 |
 | [陌生人](https://open.spotify.com/track/3hKbA5OnjR4wBxwmpjte8h) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [陌生人](https://open.spotify.com/album/2fyyCvT7n5lCS6F45rexOg) | 3:54 | 2023-08-21 | 2025-02-17 |
 | [陌生人](https://open.spotify.com/track/6PeZgyEsUhCbNgQLt7NAMn) | [队长](https://open.spotify.com/artist/4SpsVETdnMLwPHyOW0FlQz), [杨豪](https://open.spotify.com/artist/5aReV45Zsd5yHmbOp3ESOU) | [队长的音乐世界](https://open.spotify.com/album/4WKOFwAsAlJkGYshJD7mhf) | 3:11 | 2022-10-03 | 2022-10-04 |
