@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-4,334 songs - 10 day 16 hr 41 min
+4,335 songs - 10 day 16 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,8 @@
 | [Ain't Backing Down \(Azur Lane Soundtrack\)](https://open.spotify.com/track/5TLG629pWf3vB4xBpujR3S) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [Ain't Backing Down \(Azur Lane Soundtrack\)](https://open.spotify.com/album/1VNzYo4vlMt9PJgSu9nuw2) | 2:28 | 2023-08-17 | 2023-09-10 |
 | [Air \(feat\. Julia Michaels\)](https://open.spotify.com/track/7jc0ABEKe6svpZxSnBhQgx) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(feat\. Julia Michaels\)](https://open.spotify.com/album/025rWUi7mzNNBbECHvCm0j) | 2:40 | 2025-04-24 | 2025-05-02 |
 | [Air \(feat\. Julia Michaels\) \- Angrybaby Remix](https://open.spotify.com/track/4sMz1YLBrAHxp8l0ieN144) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(feat\. Julia Michaels\) \[Angrybaby Remix\]](https://open.spotify.com/album/0wEJuACxMjJu2uYUxbwuoR) | 2:42 | 2025-08-14 | 2025-08-17 |
-| [Air \(feat\. Julia Michaels\) \- LAYZ Remix](https://open.spotify.com/track/2J7Etudo2U6jzOZJTobffh) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(Remixes\)](https://open.spotify.com/album/1zUs78l5kO2iiNQr1qwDSo) | 2:58 | 2025-08-14 |  |
+| [Air \(feat\. Julia Michaels\) \- LAYZ Remix](https://open.spotify.com/track/2J7Etudo2U6jzOZJTobffh) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [LAYZ](https://open.spotify.com/artist/2ozQcs5XxFaj5fvA02zhwo), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(Remixes\)](https://open.spotify.com/album/1zUs78l5kO2iiNQr1qwDSo) | 2:58 | 2025-08-14 | 2025-08-18 |
+| [Air \(feat\. Julia Michaels\) \- RetroVision Remix](https://open.spotify.com/track/25pETri5ZNc82Egbh3uTd5) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Air \(Remixes\)](https://open.spotify.com/album/1zUs78l5kO2iiNQr1qwDSo) | 2:59 | 2025-08-14 |  |
 | [Airy](https://open.spotify.com/track/5Ufl7jaZlZMQuqWzfVPWar) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Airy](https://open.spotify.com/album/2af0lofN5xGQflWYejwDVO) | 2:58 | 2024-02-29 | 2024-03-24 |
 | [Aisha](https://open.spotify.com/track/4lY6sSM1RRPxXPhWizTk1t) | [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [Aisha](https://open.spotify.com/album/10eu4IbCuJUgrGfcq4dLV6) | 3:30 | 2024-06-06 | 2024-07-07 |
 | [Ajun Taralate](https://open.spotify.com/track/0nCWaalm4MiI526AtyWM2A) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Vrindavani Sarang Ha](https://open.spotify.com/album/7n82VA953B4ByUHTLSBkb8) | 3:56 | 2025-08-07 | 2025-08-12 |
