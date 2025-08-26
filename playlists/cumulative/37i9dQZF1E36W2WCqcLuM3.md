@@ -2,7 +2,7 @@
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E36W2WCqcLuM3)
 
-> Pritam, Vishal\-Shekhar, Atif Aslam and more
+> Pritam, Vishal\-Shekhar, Arijit Singh and more
 
 8,777 songs - 19 day 2 hr 42 min
 

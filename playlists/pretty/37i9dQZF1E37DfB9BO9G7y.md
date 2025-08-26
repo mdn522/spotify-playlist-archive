@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E37DfB9BO9G7y.md) - [plain]
 
 ### [Daily Mix 6](https://open.spotify.com/playlist/37i9dQZF1E37DfB9BO9G7y)
 
-> Kylie Minogue, Dua Lipa, The Veronicas and more
+> Ugg'A, LUNAX, VIZE and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 15 min
 

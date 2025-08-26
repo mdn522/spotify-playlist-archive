@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E3ait2RxIZVMp.md) - [plain]
 
 ### [Daily Mix 4](https://open.spotify.com/playlist/37i9dQZF1E3ait2RxIZVMp)
 
-> Timecop1983, Neon Capital, IcoS and more
+> Neon Capital, Lost Nights, Absinth3 and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 3 min
 

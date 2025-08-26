@@ -2,7 +2,7 @@
 
 ### [Daily Mix 4](https://open.spotify.com/playlist/37i9dQZF1E3ait2RxIZVMp)
 
-> Timecop1983, Neon Capital, IcoS and more
+> Neon Capital, Lost Nights, Absinth3 and more
 
 12,725 songs - 28 day 8 hr 0 min
 

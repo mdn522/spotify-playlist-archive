@@ -2,7 +2,7 @@
 
 ### [Daily Mix 3](https://open.spotify.com/playlist/37i9dQZF1E35e9J8tSSlk3)
 
-> David Guetta, Calvin Harris, twocolors and more
+> David Guetta, Tiësto, Martin Garrix and more
 
 11,489 songs - 25 day 15 hr 7 min
 

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E36W2WCqcLuM3.md) - [plain]
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E36W2WCqcLuM3)
 
-> Pritam, Vishal\-Shekhar, Atif Aslam and more
+> Pritam, Vishal\-Shekhar, Arijit Singh and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 3 hr 36 min
 

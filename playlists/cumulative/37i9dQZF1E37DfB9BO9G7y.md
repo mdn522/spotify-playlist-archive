@@ -2,7 +2,7 @@
 
 ### [Daily Mix 6](https://open.spotify.com/playlist/37i9dQZF1E37DfB9BO9G7y)
 
-> Kylie Minogue, Dua Lipa, The Veronicas and more
+> Ugg'A, LUNAX, VIZE and more
 
 13,596 songs - 30 day 3 hr 18 min
 

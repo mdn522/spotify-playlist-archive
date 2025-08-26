@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E35e9J8tSSlk3.md) - [plain]
 
 ### [Daily Mix 3](https://open.spotify.com/playlist/37i9dQZF1E35e9J8tSSlk3)
 
-> David Guetta, Calvin Harris, twocolors and more
+> David Guetta, Tiësto, Martin Garrix and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 36 min
 
