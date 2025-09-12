@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,174 songs - 2 day 13 hr 35 min
+1,175 songs - 2 day 13 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,7 +334,7 @@
 | [Falling](https://open.spotify.com/track/2KvvtJpqHNvIXZsC3V5kun) | [AJ Jordan](https://open.spotify.com/artist/0HWgxoeiKxUHarfIv54x1J) | [Falling](https://open.spotify.com/album/6ByHR2U0lgSI43OGQqETaw) | 2:28 | 2022-05-26 | 2022-06-14 |
 | [Family \(feat\. JAMIE, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/3c1QGMu5S3KdlMDwfRXhfj) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [JAMIE](https://open.spotify.com/artist/2YXlVLKq3X3soXd2aXUtIT), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Family \(feat\. JAMIE, Ty Dolla $ign & A Boogie Wit da Hoodie\)](https://open.spotify.com/album/6PrmJEdYDfeCzdJgCphIUp) | 2:38 | 2023-04-22 | 2023-05-08 |
 | [Fantasize](https://open.spotify.com/track/3IyPfzLIGfAElJ8he2qWMI) | [DEELYLE](https://open.spotify.com/artist/3ui6xKFt5raYplPZ0Lplbs) | [Fantasize](https://open.spotify.com/album/4TPZ3uURb5mF6EMGoNy3te) | 3:32 | 2022-12-12 | 2022-12-16 |
-| [Fast Car \- The Last Concorde Remix](https://open.spotify.com/track/4WWBjuhUNzxiUw5uh55zCw) | [The Lightning Kids](https://open.spotify.com/artist/5swU5DPjch0LugnGOAmjgD), [The Last Concorde](https://open.spotify.com/artist/2KUatsujkauMbv3nhBQzbY) | [FM](https://open.spotify.com/album/2C9S3kCK5YUq5pQRW5ptbJ) | 3:51 | 2025-09-09 |  |
+| [Fast Car \- The Last Concorde Remix](https://open.spotify.com/track/4WWBjuhUNzxiUw5uh55zCw) | [The Lightning Kids](https://open.spotify.com/artist/5swU5DPjch0LugnGOAmjgD), [The Last Concorde](https://open.spotify.com/artist/2KUatsujkauMbv3nhBQzbY) | [FM](https://open.spotify.com/album/2C9S3kCK5YUq5pQRW5ptbJ) | 3:51 | 2025-09-09 | 2025-09-12 |
 | [Fearless](https://open.spotify.com/track/2TiOEFte3Yp6e1QgJ23bpI) | [Alexa Ray](https://open.spotify.com/artist/7KRlMHf9err2cWhAiYpkIv), [Randall Jermaine](https://open.spotify.com/artist/5fbfAGgGXwH97lu9sMSKbx) | [Fearless](https://open.spotify.com/album/4HE0Cyw8nL4JZIVORpT82k) | 3:17 | 2023-01-26 | 2023-01-30 |
 | [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 | 2023-12-03 | 2024-02-05 |
 | [Feel It](https://open.spotify.com/track/0zQdTcjV7Ky2K27no8d7JE) | [Bapti](https://open.spotify.com/artist/7c7xyyjqZ4ZUZ84wIMUYbB), [OANA](https://open.spotify.com/artist/2nMCzoppcjrnuU0DCPaTNr) | [Feel It](https://open.spotify.com/album/5pUrPnKmNqCRVQCuCqEFQK) | 2:55 | 2025-06-26 | 2025-08-20 |
@@ -1017,6 +1017,7 @@
 | [The Mountain](https://open.spotify.com/track/5TxotO7jpRFwG1dR1suT7G) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [GUNSHIP](https://open.spotify.com/album/03Rl4TjvJVdR2nBUupV7Wf) | 4:24 | 2024-03-17 | 2024-04-14 |
 | [The Night](https://open.spotify.com/track/06X0kEI88k7UcZm2C31jUG) | [Albert Vishi](https://open.spotify.com/artist/2gfSW7cI9HtAnCnJM0wqvz), [TonyZ](https://open.spotify.com/artist/0Nq29luCnQbPW0YQ2TPs7M) | [The Night](https://open.spotify.com/album/3gee3jm8bpGgDOK024sCWG) | 3:27 | 2022-07-05 | 2022-07-08 |
 | [The Other Side \- The Voice Australia 2022 / Grand Finalist Original](https://open.spotify.com/track/4oUqCNVled2Pm025xW9jpE) | [Thando Sikwila](https://open.spotify.com/artist/2WByKHyj7648ppvVYNXipD) | [The Other Side \(The Voice Australia 2022 / Grand Finalist Original\)](https://open.spotify.com/album/3wDbsAnP9r1SuAkiOha1BQ) | 3:11 | 2023-09-04 | 2023-10-17 |
+| [THE REASON \(feat\. John Newman\)](https://open.spotify.com/track/1H7izUQD8BKZgcUTIG0t6o) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [PULSE](https://open.spotify.com/album/1w6FcPbvr0g1PlinZesFKt) | 3:17 | 2025-09-11 |  |
 | [The Rush](https://open.spotify.com/track/2ZeDhAQ6oeFR0O31EKguNK) | [Alycia Marie](https://open.spotify.com/artist/7tQYlwgl838bKUud4cZer4) | [The Rush](https://open.spotify.com/album/5Jgkbkg3qej1wyeqAmD2CN) | 3:28 | 2022-11-21 | 2022-12-31 |
 | [The Smallest Thing](https://open.spotify.com/track/1tACfBRItwgU4fki7BZ7RT) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [The Smallest Thing](https://open.spotify.com/album/5wYIhCjLymUSKysOGr59Vc) | 6:41 | 2022-11-09 | 2023-01-06 |
 | [The Summit](https://open.spotify.com/track/6MibCitmstvzODsfGfV3Hq) | [NUMJA](https://open.spotify.com/artist/291QipJFhiK4dCiCsmXTZ2), [SoulTrain](https://open.spotify.com/artist/18eqYEmodrRZFbJj3rYsAs) | [The Summit](https://open.spotify.com/album/0VFnMD7p6YtVAySsdZicE2) | 3:47 | 2025-08-26 | 2025-08-30 |
