@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [Lost in You](https://open.spotify.com/track/1zdVilg0EBtszlPxcbVuxC) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Becca Krueger](https://open.spotify.com/artist/7gYWrkrzD1y5yhakU5kWTE) | [Lost in You](https://open.spotify.com/album/1NN9Ij1QN5xDlnaayD8mj3) | 3:02 |
 | 30 | [In My Mind](https://open.spotify.com/track/2C2tyb1UdSdTntAdR2AwWS) | [Elkana Paz](https://open.spotify.com/artist/4ERpxybHgrP5xx13lGEHwr), [Mai Rubin](https://open.spotify.com/artist/3ae1nfUein5pvFcwG1syO3) | [In My Mind](https://open.spotify.com/album/6pX2QeEMVMj6Qovz92JgL9) | 3:30 |
 
-Snapshot ID: `aNCRgAAAAACBr0YxmwHn2b87fr5BL9MC`
+Snapshot ID: `aNnMAAAAAAD722rdMzK5sw2WepYzRKjv`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIUZByzgp9TdY>Lewis Capaldi</a>, <a href=spotify:playlist:37i9dQZF1EIWQ7iXYvVC5w>Pritam</a>, <a href=spotify:playlist:37i9dQZF1EIWDdJVjMgrLW>Bayaan</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWQ7iXYvVC5w>Pritam</a>, <a href=spotify:playlist:37i9dQZF1EIUmoAgaGIXQb>Zoe Wees</a>, <a href=spotify:playlist:37i9dQZF1EIWAwdcQmhVWB>Selena Gomez</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -5778,7 +5778,7 @@
       ],
       "date_added": "2025-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 179437,
       "name": "Burning Down",
       "url": "https://open.spotify.com/track/6aybzjLxocD14YySwF3aus"
@@ -15558,7 +15558,7 @@
       ],
       "date_added": "2025-03-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-31",
+      "date_removed": null,
       "duration_ms": 161030,
       "name": "How Does It Feel To Be Forgotten",
       "url": "https://open.spotify.com/track/7sFMOSnRBa6td4lZa1oiTI"
@@ -15996,7 +15996,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 217894,
       "name": "Husn",
       "url": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY"
@@ -17192,7 +17192,7 @@
       ],
       "date_added": "2024-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 153633,
       "name": "i wish i hated you",
       "url": "https://open.spotify.com/track/5cQX9BexkPIEESTZijJhXg"
@@ -19804,7 +19804,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-24",
+      "date_removed": null,
       "duration_ms": 251813,
       "name": "Jo Tum Mere Ho",
       "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
@@ -20966,7 +20966,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 213456,
       "name": "Learn To Love (with Dean Lewis)",
       "url": "https://open.spotify.com/track/5qQYndZ8HuHCbN0PZf4l3o"
@@ -24736,7 +24736,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-26",
+      "date_removed": null,
       "duration_ms": 179534,
       "name": "Memories",
       "url": "https://open.spotify.com/track/063zL0vR7PPcFfrlsSdh0v"
@@ -26272,7 +26272,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 285656,
       "name": "Nahin Milta",
       "url": "https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc"
@@ -29200,7 +29200,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 194900,
       "name": "People You Know",
       "url": "https://open.spotify.com/track/63mdJr3NMY3wReOkNE6c6W"
@@ -31655,6 +31655,40 @@
     },
     {
       "album": {
+        "name": "Saiyaara",
+        "url": "https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
+        },
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183072,
+      "name": "Saiyaara Reprise - Female",
+      "url": "https://open.spotify.com/track/1uRTH9LeFh40tFYlq48vcy"
+    },
+    {
+      "album": {
         "name": "Mesmeric Vocalzz - Tulsi Kumar",
         "url": "https://open.spotify.com/album/1u0ZBlBziWi5PQGLMQtnuE"
       },
@@ -32132,7 +32166,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 209156,
       "name": "Say Yes To Heaven",
       "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe"
@@ -34892,6 +34926,24 @@
       "duration_ms": 267520,
       "name": "SPIDERS",
       "url": "https://open.spotify.com/track/0ARuTkOpeNxlsSpLVlpaIJ"
+    },
+    {
+      "album": {
+        "name": "I’m Only F**king Myself",
+        "url": "https://open.spotify.com/album/5jUCvcrzCNng7N3iNVY4ts"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267520,
+      "name": "SPIDERS",
+      "url": "https://open.spotify.com/track/39js1Jxh1R29ht4mAvTdBr"
     },
     {
       "album": {
@@ -37884,7 +37936,7 @@
       ],
       "date_added": "2025-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 251160,
       "name": "The Power of Good-Bye",
       "url": "https://open.spotify.com/track/01VFDkHBNJcCNUjzD3flWg"
@@ -39704,7 +39756,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 207661,
       "name": "Truth",
       "url": "https://open.spotify.com/track/01uDnAnxfCZJKHdamopQMu"
@@ -42510,7 +42562,7 @@
       ],
       "date_added": "2025-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 243599,
       "name": "Where do we go now?",
       "url": "https://open.spotify.com/track/47oXF9VHCqabVcjd2gZBpa"
@@ -43378,8 +43430,8 @@
           "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
         },
         {
-          "name": "Mithun Sharma",
-          "url": "https://open.spotify.com/artist/0enXKnGlBCHSoWgC92umTP"
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
         },
         {
           "name": "Naresh Sharma",
@@ -43388,7 +43440,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-16",
+      "date_removed": null,
       "duration_ms": 320040,
       "name": "Woh Lamhe Woh Baatein - From \"Zeher\"",
       "url": "https://open.spotify.com/track/21kImg7AxLbl7rrciuAwoB"
@@ -44708,7 +44760,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-09-30",
       "duration_ms": 277831,
       "name": "You’re Losing Me (From The Vault)",
       "url": "https://open.spotify.com/track/3CWq0pAKKTWb0K4yiglDc4"
@@ -44820,7 +44872,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 187619,
       "name": "Камин",
       "url": "https://open.spotify.com/track/5KMQGErDASymjKq0LDa0MN"
