@@ -4539,7 +4539,7 @@
 | [长明](https://open.spotify.com/track/5veS3g3MkAcPtjV8J8wy05) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [长明](https://open.spotify.com/album/3No7x2AllkoLTtsnv13EgW) | 3:59 | 2025-06-26 | 2025-07-11 |
 | [陳傷 \- 《獻魚》烙情曲](https://open.spotify.com/track/7kJbV9OWw3j5zV7HzYzRml) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [陳傷 \(《獻魚》烙情曲\)](https://open.spotify.com/album/6j9KprsweaA0dIJqb47u9Q) | 4:10 | 2025-08-21 | 2025-08-29 |
 | [陳傷 \- 伴奏版](https://open.spotify.com/track/4smVzYhJZ5xduQtFJYCtwo) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [陳傷 \(《獻魚》烙情曲\)](https://open.spotify.com/album/6j9KprsweaA0dIJqb47u9Q) | 4:10 | 2025-08-21 | 2025-08-24 |
-| [麥穗上的光 \- 和聲伴奏版](https://open.spotify.com/track/50TUyBrDzWezdyOQrLoIVh) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 | 2025-09-22 |
-| [麥穗上的光 \- 電視劇《灼灼韶華》片尾曲](https://open.spotify.com/track/1RwKRn99h4jUWhuMJciw8i) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 |  |
+| [麥穗上的光 \- 和聲伴奏版](https://open.spotify.com/track/50TUyBrDzWezdyOQrLoIVh) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 |  |
+| [麥穗上的光 \- 電視劇《灼灼韶華》片尾曲](https://open.spotify.com/track/1RwKRn99h4jUWhuMJciw8i) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 | 2025-10-01 |
 
 \*This playlist was first scraped on 2022-05-21. Prior content cannot be recovered.

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWVt4uecj5qV>Kylie Minogue</a>, <a href=spotify:playlist:37i9dQZF1EIYPrEmnVj8Sd>Alina Eremia</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYPrEmnVj8Sd>Alina Eremia</a>, <a href=spotify:playlist:37i9dQZF1EIXDyciTI3o5x>Gryffin</a>, <a href=spotify:playlist:37i9dQZF1EIYtGe2CfPeBI>Sia</a> and more",
   "name": "Pop Mix",
   "tracks": [
     {
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 253751,
       "name": "808 HYMN",
       "url": "https://open.spotify.com/track/3UaOcDgXZVFMopdWX8hukn"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
@@ -6652,7 +6652,7 @@
       ],
       "date_added": "2025-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 215492,
       "name": "Burning Bridges - Crush Club Remix",
       "url": "https://open.spotify.com/track/5LuKKyy1UMkAtTs7PLytBN"
@@ -7436,7 +7436,7 @@
       ],
       "date_added": "2025-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 195524,
       "name": "Can't Stop Loving You",
       "url": "https://open.spotify.com/track/74PcGNoZgATBOecU6A9Cqo"
@@ -8884,7 +8884,7 @@
       ],
       "date_added": "2025-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 170280,
       "name": "Communicate",
       "url": "https://open.spotify.com/track/0Zp8YKVSCvRatlXrSCBFba"
@@ -9348,6 +9348,24 @@
       "duration_ms": 200293,
       "name": "Crush",
       "url": "https://open.spotify.com/track/7aOGFnnVDivtRO1PrYhx64"
+    },
+    {
+      "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/2IdHrETl3jsOYQRsF0nV16"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177118,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/4KImYP109lvIGyewqZCWFf"
     },
     {
       "album": {
@@ -9974,6 +9992,32 @@
       "duration_ms": 245386,
       "name": "Dance Alone (Extended Mix)",
       "url": "https://open.spotify.com/track/6tP46I0k5oWjQUu70KvmUx"
+    },
+    {
+      "album": {
+        "name": "Dance Alone (Kito Remix)",
+        "url": "https://open.spotify.com/album/0QPJ40cXdOLGrLDcLjVsmo"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189871,
+      "name": "Dance Alone (Kito Remix)",
+      "url": "https://open.spotify.com/track/3pPGUUSytWxsBTWpRxV6QC"
     },
     {
       "album": {
@@ -12049,6 +12093,24 @@
     },
     {
       "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/20dY0uZi9SzfrcWYfiWGqH"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217681,
+      "name": "Don’t Look Down",
+      "url": "https://open.spotify.com/track/7tTTe6pCTxB55H9NWLxYNM"
+    },
+    {
+      "album": {
         "name": "Don’t Wake Me Up",
         "url": "https://open.spotify.com/album/6ydP9IJkzpippCnXf2bpNs"
       },
@@ -12828,6 +12890,28 @@
       "duration_ms": 224694,
       "name": "Easy On Me",
       "url": "https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds"
+    },
+    {
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/5N3xdl8DaXXedlMd79ZsNW"
+      },
+      "artists": [
+        {
+          "name": "Neon Capital",
+          "url": "https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J"
+        },
+        {
+          "name": "Clara Sofie",
+          "url": "https://open.spotify.com/artist/1adncZQpQ0JKUUCTJyPho4"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216221,
+      "name": "Easy to Breathe",
+      "url": "https://open.spotify.com/track/3ahxYJaTOsRMmklsX8KWBg"
     },
     {
       "album": {
@@ -15572,7 +15656,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 232666,
       "name": "G.U.Y.",
       "url": "https://open.spotify.com/track/4rYLpaNFzt6pkQnrCvVHUw"
@@ -15724,6 +15808,28 @@
       "duration_ms": 201666,
       "name": "Get To Know You",
       "url": "https://open.spotify.com/track/3oiLlbBynuErymca4Dwp5H"
+    },
+    {
+      "album": {
+        "name": "Get To Love You (feat. LP)",
+        "url": "https://open.spotify.com/album/2zeUvevJOeuYGMDKGmMDzQ"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223225,
+      "name": "Get To Love You (feat. LP)",
+      "url": "https://open.spotify.com/track/1ZKPKDt8wbGVhgyRjjtC8X"
     },
     {
       "album": {
@@ -16740,7 +16846,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 198448,
       "name": "Got Me Started",
       "url": "https://open.spotify.com/track/31MNHKE86sEXzIglbGQ6mu"
@@ -17074,7 +17180,7 @@
       ],
       "date_added": "2025-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-28",
+      "date_removed": null,
       "duration_ms": 165820,
       "name": "Gura ta",
       "url": "https://open.spotify.com/track/48wTHlWCJjJwgYWyjAFaqg"
@@ -18206,7 +18312,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 176832,
       "name": "Here All Night",
       "url": "https://open.spotify.com/track/1MnYnayoEmTfZTM7GoPJGM"
@@ -19502,7 +19608,7 @@
       ],
       "date_added": "2025-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 198260,
       "name": "How Long",
       "url": "https://open.spotify.com/track/5qTSLCyc4KtL4H7aCL1RbY"
@@ -21946,7 +22052,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 195351,
       "name": "If It Ain’t Me",
       "url": "https://open.spotify.com/track/1IdDtg7GhWfHYEWDymq3d2"
@@ -22310,7 +22416,7 @@
       ],
       "date_added": "2025-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 170270,
       "name": "IN A MOOD",
       "url": "https://open.spotify.com/track/7jq2d4lyn2WvP6m5v2Q4fD"
@@ -23926,7 +24032,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 171080,
       "name": "King of Hearts",
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
@@ -24446,7 +24552,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 190909,
       "name": "LAST OF US (feat. Rita Ora)",
       "url": "https://open.spotify.com/track/4CYjabtOnRXJHLClJSvQ1x"
@@ -24902,7 +25008,7 @@
       ],
       "date_added": "2025-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 238286,
       "name": "Let me go OH OH",
       "url": "https://open.spotify.com/track/1Bsj770Tk7TNGMuvNCYWZp"
@@ -26587,6 +26693,28 @@
     },
     {
       "album": {
+        "name": "Revelation",
+        "url": "https://open.spotify.com/album/3My0taql4cY6yHpY1bZILJ"
+      },
+      "artists": [
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Dragonette",
+          "url": "https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205611,
+      "name": "Love Me Alive",
+      "url": "https://open.spotify.com/track/0Upay8wgPd30hQPjeWXHOC"
+    },
+    {
+      "album": {
         "name": "My Everything",
         "url": "https://open.spotify.com/album/41zTgMSJC9mF6NyBkXXxZr"
       },
@@ -26750,7 +26878,7 @@
       ],
       "date_added": "2025-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 170461,
       "name": "Love Me With Your Lie",
       "url": "https://open.spotify.com/track/6LWceFHm38kmnAmgavU1Ba"
@@ -26826,7 +26954,7 @@
       ],
       "date_added": "2022-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-05",
+      "date_removed": null,
       "duration_ms": 196170,
       "name": "Love Of Your Life",
       "url": "https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3"
@@ -27504,7 +27632,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-23",
+      "date_removed": null,
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
@@ -28286,6 +28414,24 @@
       "duration_ms": 193743,
       "name": "Midnight Sun - Alex Chapman Remix",
       "url": "https://open.spotify.com/track/1LFBygPkUZyFE0U7hJDWOb"
+    },
+    {
+      "album": {
+        "name": "MILK",
+        "url": "https://open.spotify.com/album/5ooTnQlUVJfsjSGgeNWMbM"
+      },
+      "artists": [
+        {
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210588,
+      "name": "MILK",
+      "url": "https://open.spotify.com/track/3xnyA3owEyMqQn5nj7thw5"
     },
     {
       "album": {
@@ -29610,7 +29756,7 @@
       ],
       "date_added": "2025-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 181466,
       "name": "My Oh My (with Bebe Rexha & Tove Lo)",
       "url": "https://open.spotify.com/track/6TiYCHMsE3b7YBlWNtvDIj"
@@ -30020,7 +30166,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-11",
+      "date_removed": null,
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
@@ -30856,7 +31002,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 183109,
       "name": "Noi",
       "url": "https://open.spotify.com/track/4VAWfk2XpctswzDkApPagc"
@@ -30910,7 +31056,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
@@ -31400,7 +31546,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 219087,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3gKRTlHyCDpttUD2FHEE6W"
@@ -31772,7 +31918,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 193924,
       "name": "On The Metro",
       "url": "https://open.spotify.com/track/0TdJrsOGVKBzN11ortapNC"
@@ -32394,7 +32540,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-19",
+      "date_removed": null,
       "duration_ms": 186087,
       "name": "Open Water",
       "url": "https://open.spotify.com/track/4HV4qiNaFmz7XG9WhDtJwe"
@@ -33844,7 +33990,7 @@
       ],
       "date_added": "2025-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 201053,
       "name": "Plastic Box",
       "url": "https://open.spotify.com/track/5v5ESV1s4Y964nDJdxb2s4"
@@ -35100,7 +35246,7 @@
       ],
       "date_added": "2025-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 174613,
       "name": "Real Groove (From the Infinite Disco Livestream)",
       "url": "https://open.spotify.com/track/6boI6vkbT0eXRJ3LhfbJR6"
@@ -35740,6 +35886,28 @@
       "duration_ms": 289080,
       "name": "Ride",
       "url": "https://open.spotify.com/track/7yFMhCJOsH7khgpdnyrZAZ"
+    },
+    {
+      "album": {
+        "name": "FM",
+        "url": "https://open.spotify.com/album/2C9S3kCK5YUq5pQRW5ptbJ"
+      },
+      "artists": [
+        {
+          "name": "The Lightning Kids",
+          "url": "https://open.spotify.com/artist/5swU5DPjch0LugnGOAmjgD"
+        },
+        {
+          "name": "Cassetter",
+          "url": "https://open.spotify.com/artist/6rzOP8pWzUuXlniCGCtrcE"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220630,
+      "name": "Ride - Cassetter Remix",
+      "url": "https://open.spotify.com/track/3nCFIwlHXwuLSSMJ6XasLK"
     },
     {
       "album": {
@@ -36718,7 +36886,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 307083,
       "name": "Runaways (feat. Bonnie McKee)",
       "url": "https://open.spotify.com/track/3S9GLal6O79Kqb1HH7f54y"
@@ -37276,7 +37444,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-21",
+      "date_removed": null,
       "duration_ms": 159252,
       "name": "Scandalous (with Tinashe)",
       "url": "https://open.spotify.com/track/4ThOZ5HXGvCfUbptEJRzyF"
@@ -37712,7 +37880,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-04",
+      "date_removed": null,
       "duration_ms": 166800,
       "name": "SexOnTheBeat",
       "url": "https://open.spotify.com/track/4MpketOLD5KhtgWWOBuk9w"
@@ -39726,7 +39894,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 164000,
       "name": "Special",
       "url": "https://open.spotify.com/track/3P8foaWa703hSuKls9vpMx"
@@ -40510,7 +40678,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 219310,
       "name": "Still Breathing",
       "url": "https://open.spotify.com/track/55Ym4P3I3W7zteIu6DBl9N"
@@ -40892,6 +41060,24 @@
       "duration_ms": 191940,
       "name": "Strawberry Dream",
       "url": "https://open.spotify.com/track/3p6iQzC9XHmCmPo4vEYegV"
+    },
+    {
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/6jtiqMXyXnV0v03r0wLE1e"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189666,
+      "name": "Street Lights",
+      "url": "https://open.spotify.com/track/2aqjwMntCOaGuRYgLBGjl8"
     },
     {
       "album": {
@@ -43274,7 +43460,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/5pobX21I8uZdHM8YOWItU7"
@@ -43578,7 +43764,7 @@
       ],
       "date_added": "2025-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-30",
+      "date_removed": null,
       "duration_ms": 159046,
       "name": "The Last Time",
       "url": "https://open.spotify.com/track/23z63OEx2ij2wpKqJVFVSW"
@@ -43862,7 +44048,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 192023,
       "name": "The Walls",
       "url": "https://open.spotify.com/track/2N5I0ZGwlNZQfeK3436bnq"
@@ -45269,6 +45455,28 @@
     },
     {
       "album": {
+        "name": "Trouble (Feat. maryjo)",
+        "url": "https://open.spotify.com/album/2FFuiTyNovRXk8l2wAXItF"
+      },
+      "artists": [
+        {
+          "name": "Two Friends",
+          "url": "https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh"
+        },
+        {
+          "name": "maryjo",
+          "url": "https://open.spotify.com/artist/1s8g8pcFxAOyuQwG4Tku0H"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140059,
+      "name": "Trouble (Feat. maryjo)",
+      "url": "https://open.spotify.com/track/26wU3be0dhMFteDF5oiKOV"
+    },
+    {
+      "album": {
         "name": "Troubled Paradise",
         "url": "https://open.spotify.com/album/7xCaejeRwZ0h10RSfXuBeK"
       },
@@ -45686,7 +45894,7 @@
       ],
       "date_added": "2025-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 143439,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/0qFJaAtOXhT94nwgRxPVpI"
@@ -46189,6 +46397,28 @@
     },
     {
       "album": {
+        "name": "Up So High",
+        "url": "https://open.spotify.com/album/2VtTI06DCiiMvlPcdVArFI"
+      },
+      "artists": [
+        {
+          "name": "Cash Cash",
+          "url": "https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF"
+        },
+        {
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165604,
+      "name": "Up So High",
+      "url": "https://open.spotify.com/track/1vbDIJClwpLHi2gveN1qyn"
+    },
+    {
+      "album": {
         "name": "Urban Legend",
         "url": "https://open.spotify.com/album/3CzL5fWwa4XO0rL3K6pU7w"
       },
@@ -46605,6 +46835,28 @@
     },
     {
       "album": {
+        "name": "Walk of Fame (feat. Brittany Howard) [Edit]",
+        "url": "https://open.spotify.com/album/1vnLbFcRPUR6q9vkFuJY26"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brittany Howard",
+          "url": "https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217582,
+      "name": "Walk of Fame (feat. Brittany Howard) - Edit",
+      "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
+    },
+    {
+      "album": {
         "name": "Walk on Air",
         "url": "https://open.spotify.com/album/2LGPXiguu3pN6RttpTAKeZ"
       },
@@ -46754,7 +47006,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-21",
+      "date_removed": null,
       "duration_ms": 131612,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/2ACWrl6mlRH5nw8WH9B1jY"
@@ -46834,7 +47086,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 207013,
       "name": "Wasting Moonlight",
       "url": "https://open.spotify.com/track/4qDaLv7cjgFDTlr4Aj8x9a"
@@ -49625,6 +49877,24 @@
     },
     {
       "album": {
+        "name": "yes baby",
+        "url": "https://open.spotify.com/album/4arOnJKD3OYnk72Q1i7PEL"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "date_added": "2025-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175324,
+      "name": "yes baby",
+      "url": "https://open.spotify.com/track/2Nh1wIvPLDk4wK356m0nQA"
+    },
+    {
+      "album": {
         "name": "yes, and?",
         "url": "https://open.spotify.com/album/2B9amdrHDIKOoEiPUfZGtb"
       },
@@ -50126,7 +50396,7 @@
       ],
       "date_added": "2025-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-10-01",
       "duration_ms": 193920,
       "name": "You Take Me Home",
       "url": "https://open.spotify.com/track/1XtQrATtfkmMt2g9PIFV5W"
