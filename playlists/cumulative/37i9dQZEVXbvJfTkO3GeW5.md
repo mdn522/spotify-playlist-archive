@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-4,533 songs - 11 day 3 hr 39 min
+4,534 songs - 11 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,8 @@
 | [Back One Day \(Outro Song\)](https://open.spotify.com/track/435BEnoOXQWHrgqSoMTxB3) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4), [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Back One Day \(Outro Song\)](https://open.spotify.com/album/2mSxv98lh6DFO01hyV3HpI) | 3:51 | 2022-12-15 | 2022-12-30 |
 | [Back To Life](https://open.spotify.com/track/4BIKSatBGlQDvQQDNfKMBN) | [NOTSOSW33T](https://open.spotify.com/artist/4Z4kBforInb8i43nRd0ora), [Kaptivate](https://open.spotify.com/artist/5zLufW46LSamuMg9B9MHNd), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Back To Life](https://open.spotify.com/album/6G1ejTi28f8qbPUeyMIW2i) | 4:03 | 2025-08-28 | 2025-09-05 |
 | [Back To Light](https://open.spotify.com/track/29btogkg3diDMsDdLJw1fD) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Back To Light](https://open.spotify.com/album/2tDgBjDw3J8ApPR6F094Wo) | 2:38 | 2025-08-28 | 2025-09-28 |
-| [Back to Light \(Future Horizons 489\)](https://open.spotify.com/track/5o3GiVvVqGsSSlTWKtN4qk) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Future Horizons 489](https://open.spotify.com/album/2AYBBZXKIhVM9l1SlcZs7a) | 5:08 | 2025-09-25 |  |
+| [Back To Light \(FSOE928\)](https://open.spotify.com/track/4nHNJPZnj3vVekWuEoJ5Db) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [FSOE 928 \- Future Sound Of Egypt Episode 928](https://open.spotify.com/album/7nKSsNX17VEVr8imniVFby) | 4:37 | 2025-09-25 |  |
+| [Back to Light \(Future Horizons 489\)](https://open.spotify.com/track/5o3GiVvVqGsSSlTWKtN4qk) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf) | [Future Horizons 489](https://open.spotify.com/album/2AYBBZXKIhVM9l1SlcZs7a) | 5:08 | 2025-09-25 | 2025-10-02 |
 | [Back to Sleep \- marcnord Remix](https://open.spotify.com/track/0R5F0IXNrXSku4FcZcvovK) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1), [marcnord](https://open.spotify.com/artist/1pnzi4uLPF3iHWzHawTeis) | [The Space Between Two Halves of a Heart \(Remixes\)](https://open.spotify.com/album/6gQy3LHNInMwM3L1lQH5Q3) | 3:30 | 2023-12-14 | 2023-12-24 |
 | [Back to Sleep \- Slowed + Reverb](https://open.spotify.com/track/1HCy4BOlAztFu0u50qxgL2) | [Miles Away VIP](https://open.spotify.com/artist/2Puw0PWKJfj02cbPIgDqRT), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [The Space Between Two Halves of a Heart \(VIP\)](https://open.spotify.com/album/19tvb76uf6ftt1uzemL6o6) | 3:16 | 2023-10-19 | 2023-11-03 |
 | [Back To The Start \(feat\. Isaac Warburton\) \- VIP](https://open.spotify.com/track/3Fwl1GzshwNzSNDSsaPM5x) | [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Isaac Warburton](https://open.spotify.com/artist/4PZIzA4TmZMBMDg2soNTQk) | [Back To The Start \(feat\. Isaac Warburton\) \[VIP\]](https://open.spotify.com/album/4iLAYWoO2wr0sJNalprbsL) | 3:30 | 2023-03-09 | 2023-03-31 |
@@ -4539,7 +4540,7 @@
 | [长明](https://open.spotify.com/track/5veS3g3MkAcPtjV8J8wy05) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [长明](https://open.spotify.com/album/3No7x2AllkoLTtsnv13EgW) | 3:59 | 2025-06-26 | 2025-07-11 |
 | [陳傷 \- 《獻魚》烙情曲](https://open.spotify.com/track/7kJbV9OWw3j5zV7HzYzRml) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [陳傷 \(《獻魚》烙情曲\)](https://open.spotify.com/album/6j9KprsweaA0dIJqb47u9Q) | 4:10 | 2025-08-21 | 2025-08-29 |
 | [陳傷 \- 伴奏版](https://open.spotify.com/track/4smVzYhJZ5xduQtFJYCtwo) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [陳傷 \(《獻魚》烙情曲\)](https://open.spotify.com/album/6j9KprsweaA0dIJqb47u9Q) | 4:10 | 2025-08-21 | 2025-08-24 |
-| [麥穗上的光 \- 和聲伴奏版](https://open.spotify.com/track/50TUyBrDzWezdyOQrLoIVh) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 |  |
-| [麥穗上的光 \- 電視劇《灼灼韶華》片尾曲](https://open.spotify.com/track/1RwKRn99h4jUWhuMJciw8i) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 | 2025-10-01 |
+| [麥穗上的光 \- 和聲伴奏版](https://open.spotify.com/track/50TUyBrDzWezdyOQrLoIVh) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 | 2025-10-02 |
+| [麥穗上的光 \- 電視劇《灼灼韶華》片尾曲](https://open.spotify.com/track/1RwKRn99h4jUWhuMJciw8i) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [麥穗上的光 \(電視劇《灼灼韶華》片尾曲\)](https://open.spotify.com/album/1lHdjyINaKnjy38WFgvmBE) | 3:45 | 2025-09-18 |  |
 
 \*This playlist was first scraped on 2022-05-21. Prior content cannot be recovered.
