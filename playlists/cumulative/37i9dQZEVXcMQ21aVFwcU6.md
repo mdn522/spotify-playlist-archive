@@ -4,7 +4,7 @@
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-5,136 songs - 11 day 1 hr 13 min
+5,137 songs - 11 day 1 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4281,7 +4281,8 @@
 | [Tattoo](https://open.spotify.com/track/59yXABEzenH5ADj9eBQqt1) | [Eva Timush](https://open.spotify.com/artist/4DANv10r5yJS3hjpPJ6zTk) | [Tattoo](https://open.spotify.com/album/45Yr5qePcwOrz2Fv8B7R1b) | 2:44 | 2022-09-04 | 2022-09-12 |
 | [Tattoo](https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Tattoo](https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp) | 3:03 | 2023-07-23 | 2023-07-31 |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [KAJAK](https://open.spotify.com/artist/3srwAioEB5zIlrxWpWcPyt) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2024-07-21 | 2024-07-29 |
-| [Teardrop](https://open.spotify.com/track/5Va5bw06JZxkdhVBXnjo6X) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Teardrop](https://open.spotify.com/album/21Bmu3h6ta2AMaWnlQDEG0) | 3:11 | 2025-10-12 |  |
+| [Teardrop](https://open.spotify.com/track/0xnLakFlp3s0FEhM4Bhpzq) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Teardrop](https://open.spotify.com/album/4XFuIYmDT4f7l5GcmeRec9) | 3:11 | 2025-10-19 |  |
+| [Teardrop](https://open.spotify.com/track/5Va5bw06JZxkdhVBXnjo6X) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83) | [Teardrop](https://open.spotify.com/album/21Bmu3h6ta2AMaWnlQDEG0) | 3:11 | 2025-10-12 | 2025-10-21 |
 | [Teardrops](https://open.spotify.com/track/4PIPCsnwZMVllIbh19ADY0) | [NOVUM](https://open.spotify.com/artist/5fbXkFsRWli6BMW6rUOTFv) | [Teardrops](https://open.spotify.com/album/6oB3pmhW2tgP0NE4MqIfOq) | 2:33 | 2022-08-14 | 2022-08-22 |
 | [Tears](https://open.spotify.com/track/1KEXV4nhFG7lkOU7qqiQyi) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [What They'll Say About Us](https://open.spotify.com/album/4mdAcPpvearpFuQm4VZc6a) | 2:32 | 2022-07-10 | 2022-07-18 |
 | [Tears Don’t Fall](https://open.spotify.com/track/3Hsbv9Z19MaIfXOu8S2v34) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Tears Don’t Fall](https://open.spotify.com/album/57nuOUDbXKsN91R9ry5EAj) | 3:34 | 2024-11-10 | 2024-11-18 |

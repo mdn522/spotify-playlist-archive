@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIZL6J8Azw6Yw>Nick Drake</a>, <a href=spotify:playlist:37i9dQZF1EIUv47eoaCnQM>Ocie Elliott</a>, <a href=spotify:playlist:37i9dQZF1EIYpc7a712zhA>Hollow Coves</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUv47eoaCnQM>Ocie Elliott</a>, <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIUxWXiaHBsA5>Novo Amor</a> and more",
   "num_followers": 0,
   "original_name": "Folk & Acoustic Mix",
   "owner": {
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAFWXPv/U7oX4wIw+gIBL1NOpRYXc",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bryter Layter",
-        "url": "https://open.spotify.com/album/0B2E1w5T7PEbZIctZnnt9K"
-      },
-      "artists": [
-        {
-          "name": "Nick Drake",
-          "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        }
-      ],
-      "duration_ms": 289687,
-      "name": "One Of These Things First",
-      "url": "https://open.spotify.com/track/6wuekNiL0KqFbvfdwuequN"
-    },
     {
       "added_at": null,
       "album": {
@@ -43,18 +27,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Woods (Acoustic)",
-        "url": "https://open.spotify.com/album/7HZod7ee2InRlQb8PRS3GI"
+        "name": "Hozier (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
       },
       "artists": [
         {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 239960,
-      "name": "The Woods - Acoustic",
-      "url": "https://open.spotify.com/track/7MIMNleq34UeRnlLRdPpGY"
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/1C042FLYy7rP3MfnkOcnha"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Haven (from Life Is Strange)",
+        "url": "https://open.spotify.com/album/1tCKB58FqUBj5beC5nfpFE"
+      },
+      "artists": [
+        {
+          "name": "Novo Amor",
+          "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "Haven (from Life Is Strange)",
+      "url": "https://open.spotify.com/track/0bndF6tTweNXPjwpPL7Slt"
     },
     {
       "added_at": null,
@@ -103,6 +103,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Is It Love (Orchestral Version)",
+        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 249062,
+      "name": "Is It Love - Orchestral Version",
+      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Adore You (Daecolm’s Acoustic Version)",
         "url": "https://open.spotify.com/album/1XqiUU9dqnAo0EkaVWyUF7"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Is It Love (Orchestral Version)",
-        "url": "https://open.spotify.com/album/1R3WqFfbwCstl1DsOFUMAT"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 249062,
-      "name": "Is It Love - Orchestral Version",
-      "url": "https://open.spotify.com/track/2lRhyOicN7ePTFC2fI5XiD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Regardless (Acoustic)",
         "url": "https://open.spotify.com/album/5xwu9Q6V0oPzTVQtQ06hiz"
       },
@@ -159,6 +159,62 @@
       "duration_ms": 224053,
       "name": "Regardless - Acoustic",
       "url": "https://open.spotify.com/track/055xQfsGKFSnFkeFGupmZ8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Can’t Get Enough (Orchestral Version)",
+        "url": "https://open.spotify.com/album/6gjqAtgFIFpyMg1MD6rL7s"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 197176,
+      "name": "Can’t Get Enough - Orchestral Version",
+      "url": "https://open.spotify.com/track/5h4IPkLQdGIIefYXXe09Yc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Panic (After Hours)",
+        "url": "https://open.spotify.com/album/1Kg8DMfm5tkbFnRCWaHONJ"
+      },
+      "artists": [
+        {
+          "name": "NOTD",
+          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
+        },
+        {
+          "name": "Corbyn Besson",
+          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
+        }
+      ],
+      "duration_ms": 173114,
+      "name": "Panic - After Hours",
+      "url": "https://open.spotify.com/track/0cjf46hlYTujdJQnXat00r"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Sun (Bundle)",
+        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 238807,
+      "name": "Midnight Sun - Live",
+      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
     },
     {
       "added_at": null,
@@ -211,62 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Can’t Get Enough (Orchestral Version)",
-        "url": "https://open.spotify.com/album/6gjqAtgFIFpyMg1MD6rL7s"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 197176,
-      "name": "Can’t Get Enough - Orchestral Version",
-      "url": "https://open.spotify.com/track/5h4IPkLQdGIIefYXXe09Yc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midnight Sun (Bundle)",
-        "url": "https://open.spotify.com/album/601jO1tp8mHigKBy04WjqR"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 238807,
-      "name": "Midnight Sun - Live",
-      "url": "https://open.spotify.com/track/1IgRVcDdvpiqlwJpmBp7Ku"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Panic (After Hours)",
-        "url": "https://open.spotify.com/album/1Kg8DMfm5tkbFnRCWaHONJ"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Corbyn Besson",
-          "url": "https://open.spotify.com/artist/1bWUA5b7GHPymK5dZrf7tj"
-        }
-      ],
-      "duration_ms": 173114,
-      "name": "Panic - After Hours",
-      "url": "https://open.spotify.com/track/0cjf46hlYTujdJQnXat00r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Epilogue (Deluxe)",
         "url": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC"
       },
@@ -283,22 +283,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tick Tock (Acoustic)",
-        "url": "https://open.spotify.com/album/1VlDDhexHyOzRM8hOQENkL"
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
       },
       "artists": [
         {
-          "name": "Clean Bandit",
-          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 188532,
-      "name": "Tick Tock (Acoustic)",
-      "url": "https://open.spotify.com/track/2XWBx4W2jE0O2vTycdvntH"
+      "duration_ms": 202695,
+      "name": "Swing For The Fences",
+      "url": "https://open.spotify.com/track/5K1IDBdLzxEb6LYXsRyR6e"
     },
     {
       "added_at": null,
@@ -315,54 +315,6 @@
       "duration_ms": 179644,
       "name": "last night's mascara - stripped back version",
       "url": "https://open.spotify.com/track/3YZel4Tz4oMvV8N3qNRuvg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fireworks",
-        "url": "https://open.spotify.com/album/0MqgCjyXIKDtXURPHR3nwr"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 242014,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6qIUd9qdVd3xtVYT6CAQZn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing is Lost",
-        "url": "https://open.spotify.com/album/2dJFPS35VJOjEzW87m7lnD"
-      },
-      "artists": [
-        {
-          "name": "Luca Fogale",
-          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
-        }
-      ],
-      "duration_ms": 218253,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/2YZKZQzTbqD1mrAXud4KR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Dreams (Acoustic)",
-        "url": "https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 176019,
-      "name": "Bad Dreams - Acoustic",
-      "url": "https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc"
     },
     {
       "added_at": null,
@@ -391,38 +343,106 @@
     {
       "added_at": null,
       "album": {
-        "name": "At Your Worst (Acoustic)",
-        "url": "https://open.spotify.com/album/7AjjdSBD11I3wyeshnwadT"
+        "name": "Fireworks",
+        "url": "https://open.spotify.com/album/0MqgCjyXIKDtXURPHR3nwr"
       },
       "artists": [
         {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
         }
       ],
-      "duration_ms": 167432,
-      "name": "At Your Worst - Acoustic",
-      "url": "https://open.spotify.com/track/07w40ASi2AaHdnFrXHvKng"
+      "duration_ms": 242014,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6qIUd9qdVd3xtVYT6CAQZn"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Still Breathing",
-        "url": "https://open.spotify.com/album/4GzuVetV8hd2PThv3yMY1M"
+        "name": "Tick Tock (Acoustic)",
+        "url": "https://open.spotify.com/album/1VlDDhexHyOzRM8hOQENkL"
       },
       "artists": [
         {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
         },
         {
-          "name": "G.E.M.",
-          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
         }
       ],
-      "duration_ms": 208554,
-      "name": "Still Breathing (Acoustic)",
-      "url": "https://open.spotify.com/track/691XoDP4tawrGzi4UoAVNK"
+      "duration_ms": 188532,
+      "name": "Tick Tock (Acoustic)",
+      "url": "https://open.spotify.com/track/2XWBx4W2jE0O2vTycdvntH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Dreams (Acoustic)",
+        "url": "https://open.spotify.com/album/3w0fo8UhkhtBUi8i3EcSQg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 176019,
+      "name": "Bad Dreams - Acoustic",
+      "url": "https://open.spotify.com/track/2J0uAddTaXz5mYhAIKhBXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For the Night (Skye Remixes)",
+        "url": "https://open.spotify.com/album/4XaUzgYAjYkUMp4fWEE7HQ"
+      },
+      "artists": [
+        {
+          "name": "Elephant Sessions",
+          "url": "https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq"
+        },
+        {
+          "name": "Valtos",
+          "url": "https://open.spotify.com/artist/6gh1HzdxwTgfznOANixjNQ"
+        }
+      ],
+      "duration_ms": 232740,
+      "name": "FM - Valtos Remix",
+      "url": "https://open.spotify.com/track/2sydEMWICnpo1JdZXRYzYW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing is Lost",
+        "url": "https://open.spotify.com/album/2dJFPS35VJOjEzW87m7lnD"
+      },
+      "artists": [
+        {
+          "name": "Luca Fogale",
+          "url": "https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med"
+        }
+      ],
+      "duration_ms": 218253,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/2YZKZQzTbqD1mrAXud4KR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tattoo (Acoustic)",
+        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 214864,
+      "name": "Tattoo - Acoustic",
+      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
     },
     {
       "added_at": null,
@@ -451,18 +471,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tattoo (Acoustic)",
-        "url": "https://open.spotify.com/album/6EtQsunaDhISsreHCSplVY"
+        "name": "At Your Worst (Acoustic)",
+        "url": "https://open.spotify.com/album/7AjjdSBD11I3wyeshnwadT"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
         }
       ],
-      "duration_ms": 214864,
-      "name": "Tattoo - Acoustic",
-      "url": "https://open.spotify.com/track/5V2wCtKTQEQlWr0igELU4x"
+      "duration_ms": 167432,
+      "name": "At Your Worst - Acoustic",
+      "url": "https://open.spotify.com/track/07w40ASi2AaHdnFrXHvKng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worlds Apart",
+        "url": "https://open.spotify.com/album/0JysckxZlxcv9sTSA5mrqU"
+      },
+      "artists": [
+        {
+          "name": "MAAPS",
+          "url": "https://open.spotify.com/artist/3Y93cY3JZhLEfBVf7HL6o6"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "Worlds Apart",
+      "url": "https://open.spotify.com/track/1dBecge66jMfBAsEednCql"
     },
     {
       "added_at": null,
@@ -487,70 +523,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goddess: Unplugged",
-        "url": "https://open.spotify.com/album/7yHgjXbJdQ2bYMvo1kmFvD"
+        "name": "The Dichotomy",
+        "url": "https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2"
       },
       "artists": [
         {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
         }
       ],
-      "duration_ms": 283690,
-      "name": "Beggin For Thread",
-      "url": "https://open.spotify.com/track/5EE8q94vVYKzpCyk6KjocX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worlds Apart",
-        "url": "https://open.spotify.com/album/0JysckxZlxcv9sTSA5mrqU"
-      },
-      "artists": [
-        {
-          "name": "MAAPS",
-          "url": "https://open.spotify.com/artist/3Y93cY3JZhLEfBVf7HL6o6"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "Worlds Apart",
-      "url": "https://open.spotify.com/track/1dBecge66jMfBAsEednCql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Minute, A Moment...",
-        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 226933,
-      "name": "Made For Me",
-      "url": "https://open.spotify.com/track/5IhYrGhBocYsSMAGaDb1PF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Believes In Angels?",
-        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 313167,
-      "name": "Who Believes In Angels?",
-      "url": "https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg"
+      "duration_ms": 157937,
+      "name": "Darkerside",
+      "url": "https://open.spotify.com/track/20WfXp2gRIFSeJJpnR8bq6"
     },
     {
       "added_at": null,
@@ -575,58 +559,226 @@
     {
       "added_at": null,
       "album": {
-        "name": "For the Night (Skye Remixes)",
-        "url": "https://open.spotify.com/album/4XaUzgYAjYkUMp4fWEE7HQ"
+        "name": "A Minute, A Moment...",
+        "url": "https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj"
       },
       "artists": [
         {
-          "name": "Elephant Sessions",
-          "url": "https://open.spotify.com/artist/1C4qzAoWeKRKYqm26fKvWq"
-        },
-        {
-          "name": "Valtos",
-          "url": "https://open.spotify.com/artist/6gh1HzdxwTgfznOANixjNQ"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 232740,
-      "name": "FM - Valtos Remix",
-      "url": "https://open.spotify.com/track/2sydEMWICnpo1JdZXRYzYW"
+      "duration_ms": 226933,
+      "name": "Made For Me",
+      "url": "https://open.spotify.com/track/5IhYrGhBocYsSMAGaDb1PF"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Die With A Smile (Acoustic)",
-        "url": "https://open.spotify.com/album/5eLr5u0UcnXjtNZgbnsoYS"
+        "name": "Still Breathing",
+        "url": "https://open.spotify.com/album/4GzuVetV8hd2PThv3yMY1M"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
         },
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "G.E.M.",
+          "url": "https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI"
         }
       ],
-      "duration_ms": 251667,
-      "name": "Die With A Smile - Acoustic",
-      "url": "https://open.spotify.com/track/6gSkYEONe1fCvrOUgmXZTy"
+      "duration_ms": 208554,
+      "name": "Still Breathing (Acoustic)",
+      "url": "https://open.spotify.com/track/691XoDP4tawrGzi4UoAVNK"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FUFN (Fuck You For Now) [Acoustic]",
-        "url": "https://open.spotify.com/album/2jYYC2eY7h1bZOtYC6ATFl"
+        "name": "The Voice 2025: Knockout 4 (Live)",
+        "url": "https://open.spotify.com/album/7GVq2hPSVYbImbcgMzRv3G"
       },
       "artists": [
         {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+          "name": "Oda Jonetta Joberg",
+          "url": "https://open.spotify.com/artist/5MmqxWmS63xrs46vgQIaNq"
         }
       ],
-      "duration_ms": 244109,
-      "name": "FUFN (Fuck You For Now) - Acoustic",
-      "url": "https://open.spotify.com/track/4Bth9Q8UF0ysSLeKG4FU5C"
+      "duration_ms": 123725,
+      "name": "Helium - Live",
+      "url": "https://open.spotify.com/track/6C8ozuvlOu7DkB20dTpwgl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Television Love",
+        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 280800,
+      "name": "Television Love",
+      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Voice 2024: Knockout 2",
+        "url": "https://open.spotify.com/album/1Mdl8Ccn7xmaQcxzf0gHAO"
+      },
+      "artists": [
+        {
+          "name": "IAM LAVRANS",
+          "url": "https://open.spotify.com/artist/0Fncx7yOG7VDtLEBqtJjSY"
+        }
+      ],
+      "duration_ms": 117188,
+      "name": "Stay - Live",
+      "url": "https://open.spotify.com/track/4XTCtukcvAl7K4igGCJs5F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "last night you said you missed me",
+        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 276611,
+      "name": "blue jean",
+      "url": "https://open.spotify.com/track/4sZiD2qaCXcpPVrgo1CN2x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Goddess: Unplugged",
+        "url": "https://open.spotify.com/album/7yHgjXbJdQ2bYMvo1kmFvD"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 283690,
+      "name": "Beggin For Thread",
+      "url": "https://open.spotify.com/track/5EE8q94vVYKzpCyk6KjocX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Endless Summer Vacation",
+        "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Thousand Miles (feat. Brandi Carlile)",
+      "url": "https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Afterlife (The Afterglow)",
+        "url": "https://open.spotify.com/album/2vf6gIslydfSOAsY1b5h8W"
+      },
+      "artists": [
+        {
+          "name": "Elliot Greer",
+          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
+        },
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        }
+      ],
+      "duration_ms": 212415,
+      "name": "Afterlife (The Afterglow)",
+      "url": "https://open.spotify.com/track/3VqMWc9IMJD07F8G6jYU5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Epilogue (Deluxe)",
+        "url": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 161420,
+      "name": "I Hate That It's True",
+      "url": "https://open.spotify.com/track/6WVUCSF2fDkuvvCRk7VFkF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Believes In Angels?",
+        "url": "https://open.spotify.com/album/5eS9zcWHCbkOiyXPRiIgg4"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 313167,
+      "name": "Who Believes In Angels?",
+      "url": "https://open.spotify.com/track/7lfyWyus1wg0h0FDCOKkQg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 239027,
+      "name": "Part of Me",
+      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 215506,
+      "name": "Marion",
+      "url": "https://open.spotify.com/track/2dPUne0nHN8nWlx7XSmmal"
     },
     {
       "added_at": null,
@@ -651,22 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Dichotomy",
-        "url": "https://open.spotify.com/album/52O89bnT0vPNtrzF1AtWJ2"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 157937,
-      "name": "Darkerside",
-      "url": "https://open.spotify.com/track/20WfXp2gRIFSeJJpnR8bq6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PROBLEEMID PARADIISIS",
         "url": "https://open.spotify.com/album/42ez3LQ9FDTeFVU8gsHzbH"
       },
@@ -679,6 +815,22 @@
       "duration_ms": 178823,
       "name": "Läbi roosipõõsaste",
       "url": "https://open.spotify.com/track/4oCqS0d1y53LOD20AbuO77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunflowers and Leather",
+        "url": "https://open.spotify.com/album/6QpICdjsPyFcuCkb1M2i59"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "You Again",
+      "url": "https://open.spotify.com/track/5B4bDsnAtPF1gb30IFQhgw"
     },
     {
       "added_at": null,
@@ -703,86 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "last night you said you missed me",
-        "url": "https://open.spotify.com/album/3dp8Y5MGseZ3ahOMIP47O2"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 276611,
-      "name": "blue jean",
-      "url": "https://open.spotify.com/track/4sZiD2qaCXcpPVrgo1CN2x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Epilogue (Deluxe)",
-        "url": "https://open.spotify.com/album/20HEHCknEVHTez1OI0MFiC"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 161420,
-      "name": "I Hate That It's True",
-      "url": "https://open.spotify.com/track/6WVUCSF2fDkuvvCRk7VFkF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 239027,
-      "name": "Part of Me",
-      "url": "https://open.spotify.com/track/1o5WgxPWvoVgo20DQItKOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Voice 2024: Knockout 2",
-        "url": "https://open.spotify.com/album/1Mdl8Ccn7xmaQcxzf0gHAO"
-      },
-      "artists": [
-        {
-          "name": "IAM LAVRANS",
-          "url": "https://open.spotify.com/artist/0Fncx7yOG7VDtLEBqtJjSY"
-        }
-      ],
-      "duration_ms": 117188,
-      "name": "Stay - Live",
-      "url": "https://open.spotify.com/track/4XTCtukcvAl7K4igGCJs5F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Voice 2025: Knockout 4 (Live)",
-        "url": "https://open.spotify.com/album/7GVq2hPSVYbImbcgMzRv3G"
-      },
-      "artists": [
-        {
-          "name": "Oda Jonetta Joberg",
-          "url": "https://open.spotify.com/artist/5MmqxWmS63xrs46vgQIaNq"
-        }
-      ],
-      "duration_ms": 123725,
-      "name": "Helium - Live",
-      "url": "https://open.spotify.com/track/6C8ozuvlOu7DkB20dTpwgl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nothing is Lost",
         "url": "https://open.spotify.com/album/2dJFPS35VJOjEzW87m7lnD"
       },
@@ -795,6 +867,22 @@
       "duration_ms": 236973,
       "name": "Every Colour",
       "url": "https://open.spotify.com/track/63RRLZOcm6hiSIIFp6OQb8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My First Heartbreak",
+        "url": "https://open.spotify.com/album/7mJjkh7HKfdoQTlhQ9BwNm"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 206800,
+      "name": "My First Heartbreak",
+      "url": "https://open.spotify.com/track/5gbUP33wFJPawjY5DxR3OA"
     },
     {
       "added_at": null,
@@ -815,106 +903,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Minute...",
-        "url": "https://open.spotify.com/album/0BNzjDHvi3stIakYKnQoBY"
+        "name": "Valtos & Friends",
+        "url": "https://open.spotify.com/album/0cwJNMnHpyVuXTSEesXK1E"
       },
       "artists": [
         {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Valtos",
+          "url": "https://open.spotify.com/artist/6gh1HzdxwTgfznOANixjNQ"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Waste",
-      "url": "https://open.spotify.com/track/7ElKhgH3NHU368wbdqVley"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Player",
-        "url": "https://open.spotify.com/album/5qPKjblUkTscBgV0Hq8XUg"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 168188,
-      "name": "The Player",
-      "url": "https://open.spotify.com/track/6il2AODycNJgccBNoTQaLn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Through The Storm",
-        "url": "https://open.spotify.com/album/0rRW2hcHSG2WRRul1NRCDK"
-      },
-      "artists": [
-        {
-          "name": "MAAPS",
-          "url": "https://open.spotify.com/artist/3Y93cY3JZhLEfBVf7HL6o6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Through The Storm",
-      "url": "https://open.spotify.com/track/5ih5HsznfegBKTdbZtwgy9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Therapy",
-        "url": "https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 147640,
-      "name": "Nothing But You",
-      "url": "https://open.spotify.com/track/2QohIZLabh2txtLA1RaGq6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Television Love",
-        "url": "https://open.spotify.com/album/2sp7hANBzhnwd3SlUZYPl0"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "Television Love",
-      "url": "https://open.spotify.com/track/4eh6lldHwQEu5yyfLzqrFw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Afterlife (The Afterglow)",
-        "url": "https://open.spotify.com/album/2vf6gIslydfSOAsY1b5h8W"
-      },
-      "artists": [
-        {
-          "name": "Elliot Greer",
-          "url": "https://open.spotify.com/artist/6EFGjOozwPlW4PxLu8SoXD"
-        },
-        {
-          "name": "MC4D",
-          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
-        }
-      ],
-      "duration_ms": 212415,
-      "name": "Afterlife (The Afterglow)",
-      "url": "https://open.spotify.com/track/3VqMWc9IMJD07F8G6jYU5e"
+      "duration_ms": 241454,
+      "name": "Etive",
+      "url": "https://open.spotify.com/track/4RGGBzNOAng0Tef7UVOaTD"
     }
   ],
   "unique_name": "Folk & Acoustic Mix",
