@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a>, <a href=spotify:playlist:37i9dQZF1EIYr92zjvWDpC>Womack & Womack</a>, <a href=spotify:playlist:37i9dQZF1EIXNqgCSFHJso>Sabrina</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIUERGj3R02f9>Bananarama</a>, <a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a>, <a href=spotify:playlist:37i9dQZF1EIWVt4uecj5qV>Kylie Minogue</a> and more",
   "num_followers": 0,
   "original_name": "80s Mix",
   "owner": {
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAHxIWcI6W++1BkF5nhbQCKXBiVGZ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Confessions (Collector's Edition)",
+        "url": "https://open.spotify.com/album/6CVuruIUWoYViZM97wgq9h"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 229164,
+      "name": "Venus",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae"
+    },
     {
       "added_at": null,
       "album": {
@@ -35,38 +51,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teardrops",
-        "url": "https://open.spotify.com/album/5rILtFmg5wcn7pNm9FqC1o"
+        "name": "Kylie",
+        "url": "https://open.spotify.com/album/5bwtR8I9eFLsOU9WWNlw5b"
       },
       "artists": [
         {
-          "name": "Womack & Womack",
-          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
-        },
-        {
-          "name": "Rules",
-          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 192050,
-      "name": "Teardrops - Rules Remix",
-      "url": "https://open.spotify.com/track/4Uyiz6UWIQc9VCPXOJxstd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sabrina",
-        "url": "https://open.spotify.com/album/2VlucjjwY5zQCdnyzPU75v"
-      },
-      "artists": [
-        {
-          "name": "Sabrina",
-          "url": "https://open.spotify.com/artist/2qURodWJech5Dv9T0Irrda"
-        }
-      ],
-      "duration_ms": 234812,
-      "name": "Boys - Summertime Love",
-      "url": "https://open.spotify.com/track/1uI848raFaNWwe9HjHpjQ5"
+      "duration_ms": 194133,
+      "name": "The Loco-Motion",
+      "url": "https://open.spotify.com/track/1L1MWnX8hpdkHWCR4wFk7G"
     },
     {
       "added_at": null,
@@ -83,22 +79,6 @@
       "duration_ms": 207346,
       "name": "Shattered Dreams - Remastered 2008",
       "url": "https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 238266,
-      "name": "Love at First Sight",
-      "url": "https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh"
     },
     {
       "added_at": null,
@@ -135,34 +115,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
+        "name": "Teardrops",
+        "url": "https://open.spotify.com/album/5rILtFmg5wcn7pNm9FqC1o"
       },
       "artists": [
         {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escape From Television",
-        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
-      },
-      "artists": [
+          "name": "Womack & Womack",
+          "url": "https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ"
+        },
         {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+          "name": "Rules",
+          "url": "https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Crockett's Theme",
-      "url": "https://open.spotify.com/track/3TnJ7M6in8Pb5EyGBUK02Y"
+      "duration_ms": 192050,
+      "name": "Teardrops - Rules Remix",
+      "url": "https://open.spotify.com/track/4Uyiz6UWIQc9VCPXOJxstd"
     },
     {
       "added_at": null,
@@ -183,86 +151,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bananarama (Collector's Edition)",
-        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
       },
       "artists": [
         {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
         }
       ],
-      "duration_ms": 215326,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Pump Up The Jam (Hugo Cantarra Remix)",
-        "url": "https://open.spotify.com/album/4e0eolJnPxu9htfouCRFqV"
+        "name": "Don't You Want Me (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq"
       },
       "artists": [
         {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         },
         {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 189677,
-      "name": "Pump Up The Jam - Hugo Cantarra Remix Edit",
-      "url": "https://open.spotify.com/track/1lYnlzVo0DDUPjfqGJRggA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Protection",
-        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
-      },
-      "artists": [
-        {
-          "name": "Starship",
-          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
-        }
-      ],
-      "duration_ms": 270333,
-      "name": "Nothing's Gonna Stop Us Now",
-      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Building The Perfect Beast (Remastered 2024)",
-        "url": "https://open.spotify.com/album/127D8jpZyxTDPf64cK1LSy"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 289880,
-      "name": "The Boys Of Summer - Remastered 2024",
-      "url": "https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 259360,
-      "name": "Don't Stop The Dance",
-      "url": "https://open.spotify.com/track/2bTe1fvWK8mfjSP6NqXDzU"
+      "duration_ms": 210247,
+      "name": "Don't You Want Me - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03"
     },
     {
       "added_at": null,
@@ -283,6 +203,90 @@
     {
       "added_at": null,
       "album": {
+        "name": "When In Rome",
+        "url": "https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x"
+      },
+      "artists": [
+        {
+          "name": "When In Rome",
+          "url": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Escape From Television",
+        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
+      },
+      "artists": [
+        {
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Crockett's Theme",
+      "url": "https://open.spotify.com/track/3TnJ7M6in8Pb5EyGBUK02Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Listen To Your Heart (Alle Farben Remix)",
+        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "Listen To Your Heart (Alle Farben Remix)",
+      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Don't Stop The Dance",
+      "url": "https://open.spotify.com/track/2bTe1fvWK8mfjSP6NqXDzU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Visage",
         "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
@@ -295,6 +299,22 @@
       "duration_ms": 239360,
       "name": "Fade To Grey",
       "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bananarama (Collector's Edition)",
+        "url": "https://open.spotify.com/album/4zHriUoFVrq0YZ2kIEOkIW"
+      },
+      "artists": [
+        {
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
+        }
+      ],
+      "duration_ms": 215326,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D"
     },
     {
       "added_at": null,
@@ -323,130 +343,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "To Be Continued...",
-        "url": "https://open.spotify.com/album/7iKDBfOFUtg8E8RbuDhiux"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 308200,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/2FEJakApJ34PB5CXRYLspv"
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Ring of Ice (Stereoact Remix)",
-        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
+        "name": "Pump Up The Jam (Hugo Cantarra Remix)",
+        "url": "https://open.spotify.com/album/4e0eolJnPxu9htfouCRFqV"
       },
       "artists": [
         {
-          "name": "Jennifer Rush",
-          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
         },
         {
-          "name": "Stereoact",
-          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
         }
       ],
-      "duration_ms": 216344,
-      "name": "Ring of Ice - Stereoact Remix",
-      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Chris Lord-Alge",
-          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
-        }
-      ],
-      "duration_ms": 227973,
-      "name": "La Isla Bonita - Remix",
-      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "When In Rome",
-        "url": "https://open.spotify.com/album/3kt903x5U5IWJlwHyE481x"
-      },
-      "artists": [
-        {
-          "name": "When In Rome",
-          "url": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/48p5E25cFPanxuwCTmTpuL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen To Your Heart (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 146268,
-      "name": "Listen To Your Heart (Alle Farben Remix)",
-      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take on Me (Kygo Remix)",
-        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Take on Me - Kygo Remix",
-      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ready For Romance",
-        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 222666,
-      "name": "Brother Louie",
-      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
+      "duration_ms": 189677,
+      "name": "Pump Up The Jam - Hugo Cantarra Remix Edit",
+      "url": "https://open.spotify.com/track/1lYnlzVo0DDUPjfqGJRggA"
     },
     {
       "added_at": null,
@@ -463,6 +391,38 @@
       "duration_ms": 299253,
       "name": "It's a Sin - 2018 Remaster",
       "url": "https://open.spotify.com/track/5fy4vfEtv6lzqLx2Mt7stF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell It to My Heart (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Tell It to My Heart",
+      "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Isla Bonita",
+        "url": "https://open.spotify.com/album/5XU3Ut4LhXAkr33Ui5z0GJ"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 246436,
+      "name": "La Isla Bonita - Remix Edit",
+      "url": "https://open.spotify.com/track/4SbVuThSNWSUDlZYMzoWNb"
     },
     {
       "added_at": null,
@@ -487,58 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't You Want Me (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 210247,
-      "name": "Don't You Want Me - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tell It to My Heart (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Tell It to My Heart",
-      "url": "https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tango In the Night (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
       },
@@ -548,9 +456,361 @@
           "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 222400,
-      "name": "Seven Wonders - 2017 Remaster",
-      "url": "https://open.spotify.com/track/1VN2vWSkSmMKOhxr8lHzSx"
+      "duration_ms": 226653,
+      "name": "Everywhere - 2017 Remaster",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Secret Wish (Analogue Sequence)",
+        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
+      },
+      "artists": [
+        {
+          "name": "Propaganda",
+          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
+        }
+      ],
+      "duration_ms": 228733,
+      "name": "p:Machinery",
+      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Book Of Love",
+        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
+      },
+      "artists": [
+        {
+          "name": "Book Of Love",
+          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Voyage voyage (Euro Remix)",
+        "url": "https://open.spotify.com/album/0OokXR9VRO4Gwzza0zZGFT"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 374626,
+      "name": "Voyage voyage - Euro Remix",
+      "url": "https://open.spotify.com/track/5ZYAuuGmA0Vf4FPOXT1lal"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Building The Perfect Beast (Remastered 2024)",
+        "url": "https://open.spotify.com/album/127D8jpZyxTDPf64cK1LSy"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 289880,
+      "name": "The Boys Of Summer - Remastered 2024",
+      "url": "https://open.spotify.com/track/4Q3ERWBrb4lhDvAPyANjY5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take on Me (Kygo Remix)",
+        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Take on Me - Kygo Remix",
+      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Look Sharp!",
+        "url": "https://open.spotify.com/album/3ZbAooTInchkC9RH7SPKVb"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        }
+      ],
+      "duration_ms": 237320,
+      "name": "The Look",
+      "url": "https://open.spotify.com/track/1aYkkrAbPmMuorVz5HWIqE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Super Trouper",
+        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Lay All Your Love On Me",
+      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/0lFsOiIEjds6DSqPWrrq8V"
+      },
+      "artists": [
+        {
+          "name": "Eighth Wonder",
+          "url": "https://open.spotify.com/artist/67drSMarzjhEXxEJ2ATLfE"
+        }
+      ],
+      "duration_ms": 273826,
+      "name": "I'm Not Scared",
+      "url": "https://open.spotify.com/track/12Am9I4WChVouBLwocTGf0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hysteria",
+        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 244560,
+      "name": "Animal",
+      "url": "https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timespace - The Best Of Stevie Nicks",
+        "url": "https://open.spotify.com/album/2zLZzOfiwQ4hnPCu2gVtKB"
+      },
+      "artists": [
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 297093,
+      "name": "Stand Back",
+      "url": "https://open.spotify.com/track/6sleEAnBH0sZMe0pOQNidG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Protection",
+        "url": "https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J"
+      },
+      "artists": [
+        {
+          "name": "Starship",
+          "url": "https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf"
+        }
+      ],
+      "duration_ms": 270333,
+      "name": "Nothing's Gonna Stop Us Now",
+      "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ring of Ice (Stereoact Remix)",
+        "url": "https://open.spotify.com/album/7pZQV6kTHSUnKIMLBGAicD"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Rush",
+          "url": "https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX"
+        },
+        {
+          "name": "Stereoact",
+          "url": "https://open.spotify.com/artist/6dXL3SnQlCGX9LCUAyin6a"
+        }
+      ],
+      "duration_ms": 216344,
+      "name": "Ring of Ice - Stereoact Remix",
+      "url": "https://open.spotify.com/track/2PyjUxnsU3VA6KtumvtaES"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 223666,
+      "name": "Opportunities (Let's Make Lots of Money) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/4jgdKiZhbD6BlVMhCf4NJH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ready For Romance",
+        "url": "https://open.spotify.com/album/3g5K7IOTOSY6nIfu7lj562"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 222666,
+      "name": "Brother Louie",
+      "url": "https://open.spotify.com/track/5zWZ9iNevP0397xB3jWV2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "La Isla Bonita - Remix",
+      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
+        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "David Solomon",
+          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
+        }
+      ],
+      "duration_ms": 201711,
+      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
+      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hormonally Yours (Remastered and Expanded)",
+        "url": "https://open.spotify.com/album/4aU1LKKiTUbCk4Qr2tWqVa"
+      },
+      "artists": [
+        {
+          "name": "Shakespears Sister",
+          "url": "https://open.spotify.com/artist/7ooOn6bokl4mGV4CEaUz6A"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/51YxkVZOPfnBqTHCnK1AU3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/03XgnNQDve2dWqBG1ARjvR"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 257834,
+      "name": "Run To You (Classic Version)",
+      "url": "https://open.spotify.com/track/0gLEDVr1QbNtqTR00P1D8N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18 Greatest Hits",
+        "url": "https://open.spotify.com/album/5R4nunnQpi3Kh2t5UeMxYS"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "In The Heat Of The Night",
+      "url": "https://open.spotify.com/track/0MSAWjq5aWfTUNL9hv7Epd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "François",
+        "url": "https://open.spotify.com/album/17EANLCoErHdo9FpzMx25q"
+      },
+      "artists": [
+        {
+          "name": "Desireless",
+          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Voyage voyage",
+      "url": "https://open.spotify.com/track/2d8D7uk3tbAThjRkdfrx9c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jump (Armin van Buuren Remix)",
+        "url": "https://open.spotify.com/album/1mN1oXwwt5QGEnwqqgyNwV"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 219721,
+      "name": "Jump - Armin van Buuren Remix",
+      "url": "https://open.spotify.com/track/6aQ2Xtx7z1p2VM9w26yCZq"
     },
     {
       "added_at": null,
@@ -583,274 +843,6 @@
       "duration_ms": 277688,
       "name": "Someone Somewhere (In Summertime)",
       "url": "https://open.spotify.com/track/4wJq75UFYtFYbMO2KBBnlw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
-        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "David Solomon",
-          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
-      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jump (Armin van Buuren Remix)",
-        "url": "https://open.spotify.com/album/1mN1oXwwt5QGEnwqqgyNwV"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 219721,
-      "name": "Jump - Armin van Buuren Remix",
-      "url": "https://open.spotify.com/track/6aQ2Xtx7z1p2VM9w26yCZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Animals",
-        "url": "https://open.spotify.com/album/56dfEbntfVTMCxjrjggL1e"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 218733,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/54b8qPFqYqIndfdxiLApea"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Thriller (Steve Aoki Midnight Hour Remix)",
-        "url": "https://open.spotify.com/album/2op4ptUiy3MgFkEUgSWzO2"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 300973,
-      "name": "Thriller (Steve Aoki Midnight Hour Remix)",
-      "url": "https://open.spotify.com/track/2SrGtpbPh7czhWKGmXk8Aw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deadpool & Wolverine: Madonna's \"Like a Prayer\" EP",
-        "url": "https://open.spotify.com/album/4Uolzy4jMibs7tewebgYA0"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Rob Simonsen",
-          "url": "https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "Like a Prayer - Battle Royale Mix from “Deadpool & Wolverine”",
-      "url": "https://open.spotify.com/track/1xSDXrcZ16nKUZGsOckUTW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 244560,
-      "name": "Animal",
-      "url": "https://open.spotify.com/track/4qjscZh4jfhkpcQG4ZQfi2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Look Sharp!",
-        "url": "https://open.spotify.com/album/3ZbAooTInchkC9RH7SPKVb"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        }
-      ],
-      "duration_ms": 237320,
-      "name": "The Look",
-      "url": "https://open.spotify.com/track/1aYkkrAbPmMuorVz5HWIqE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Voyage voyage (Euro Remix)",
-        "url": "https://open.spotify.com/album/0OokXR9VRO4Gwzza0zZGFT"
-      },
-      "artists": [
-        {
-          "name": "Desireless",
-          "url": "https://open.spotify.com/artist/1yjAx9cww4f1QuAaN3dUI2"
-        }
-      ],
-      "duration_ms": 374626,
-      "name": "Voyage voyage - Euro Remix",
-      "url": "https://open.spotify.com/track/5ZYAuuGmA0Vf4FPOXT1lal"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Back For Good",
-        "url": "https://open.spotify.com/album/7hoiQ5aP55yfEq8TaMsZ0u"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 181666,
-      "name": "Cheri Cheri Lady - New Version",
-      "url": "https://open.spotify.com/track/2vbJUtO8SZ0nZn5qwRAo3v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 223666,
-      "name": "Opportunities (Let's Make Lots of Money) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4jgdKiZhbD6BlVMhCf4NJH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "18 Greatest Hits",
-        "url": "https://open.spotify.com/album/5R4nunnQpi3Kh2t5UeMxYS"
-      },
-      "artists": [
-        {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-        }
-      ],
-      "duration_ms": 301933,
-      "name": "In The Heat Of The Night",
-      "url": "https://open.spotify.com/track/0MSAWjq5aWfTUNL9hv7Epd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/0lFsOiIEjds6DSqPWrrq8V"
-      },
-      "artists": [
-        {
-          "name": "Eighth Wonder",
-          "url": "https://open.spotify.com/artist/67drSMarzjhEXxEJ2ATLfE"
-        }
-      ],
-      "duration_ms": 273826,
-      "name": "I'm Not Scared",
-      "url": "https://open.spotify.com/track/12Am9I4WChVouBLwocTGf0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Book Of Love",
-        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
-      },
-      "artists": [
-        {
-          "name": "Book Of Love",
-          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Secret Wish (Analogue Sequence)",
-        "url": "https://open.spotify.com/album/4W0pFYAaKVuJwY9ZMTmsUW"
-      },
-      "artists": [
-        {
-          "name": "Propaganda",
-          "url": "https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn"
-        }
-      ],
-      "duration_ms": 228733,
-      "name": "p:Machinery",
-      "url": "https://open.spotify.com/track/7ws5COVtdJoCjK8Zumn43b"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Solid State Logik 1",
-        "url": "https://open.spotify.com/album/1kJY7mRPwF5eJOf8DMZdwa"
-      },
-      "artists": [
-        {
-          "name": "The KLF",
-          "url": "https://open.spotify.com/artist/6dYrdRlNZSKaVxYg5IrvCH"
-        }
-      ],
-      "duration_ms": 232411,
-      "name": "3AM Eternal - Live at the S.S.L.",
-      "url": "https://open.spotify.com/track/0ldLTYuqnHU92weLtw6W9m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
     },
     {
       "added_at": null,
