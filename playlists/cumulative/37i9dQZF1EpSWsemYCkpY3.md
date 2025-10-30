@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,247 songs - 2 day 17 hr 33 min
+1,248 songs - 2 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Get Over You](https://open.spotify.com/track/0ycG3FRZqK3pUGWhQCPgAN) | [Dannic](https://open.spotify.com/artist/1PFc84GHTYPL0G12JHh9Mc), [Parah Dice](https://open.spotify.com/artist/4QBEmbwSxLlo6RIGlFyn1o) | [Get Over You](https://open.spotify.com/album/7uwU8G8qDlHzNyB8LchSBr) | 3:09 | 2024-08-30 | 2024-10-03 |
 | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/42O31gY8N28p4DAk7YYkeM) | [Ian Carey Project](https://open.spotify.com/artist/5PbZIYWcDuRgEbMs7abSTH), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Get Shaky \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/5zy8MwNKpdh8E8nLnEQgHi) | 2:30 | 2024-10-02 | 2024-11-05 |
 | [Get Wild](https://open.spotify.com/track/05vIJo5TbBbbYo7G5bB1Zy) | [LOVE SICK](https://open.spotify.com/artist/3oX23qsyfFiuzyXDBbmhXO) | [Get Wild](https://open.spotify.com/album/6ctKa1fF9AWTGoU2Gf4PII) | 3:21 | 2023-04-04 | 2023-05-02 |
+| [Ghafoor](https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:46 | 2025-10-30 |  |
 | [Ghost \(feat\. Power Glove\)](https://open.spotify.com/track/1I97UEdJWw7uXtlpgGVMIp) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Power Glove](https://open.spotify.com/artist/0dalJaAT80lKfkZsC86lnW) | [Unicorn](https://open.spotify.com/album/4uAOIj4Sxh4sL6G0v5kykv) | 4:22 | 2024-02-10 | 2024-04-20 |
 | [Ghost \- hittrr remix](https://open.spotify.com/track/7gXybQrXTD1nb1iQYxrcdj) | [hittrr](https://open.spotify.com/artist/5p0YhqAiywMqTB10mdN01W) | [Ghost \(hittrr remix\)](https://open.spotify.com/album/6aLKC9FX0DH9QXKYnVJyY7) | 3:38 | 2022-09-18 | 2022-10-01 |
 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 | 2024-03-11 | 2024-03-15 |
@@ -579,7 +580,7 @@
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2024-02-19 | 2024-06-29 |
 | [Jupiter](https://open.spotify.com/track/4RZUTrLYWpDRoTw6vi31mi) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [BLKBX: wht r u hding?](https://open.spotify.com/album/3QD3pBxJGFa9zLYxyz0MRC) | 3:13 | 2022-11-30 | 2022-12-19 |
 | [Just A Kiss \(Muah\)](https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Just A Kiss \(Muah\)](https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy) | 2:36 | 2024-10-08 | 2024-10-18 |
-| [Just Fine](https://open.spotify.com/track/03AZx1BJ2IYSMNnnceMqsu) | [Devereaux](https://open.spotify.com/artist/2OjNsADp36qL4S8aRlFE6G), [Dialectic89](https://open.spotify.com/artist/2XL1TD0QHLlfIN4kJM6y66), [Circadian Cruise](https://open.spotify.com/artist/0Em0UyyKFtdGjeK9gaMO0K) | [Just Fine](https://open.spotify.com/album/3YcOJqtL1S9SG2ft5CmYgw) | 2:11 | 2025-10-12 |  |
+| [Just Fine](https://open.spotify.com/track/03AZx1BJ2IYSMNnnceMqsu) | [Devereaux](https://open.spotify.com/artist/2OjNsADp36qL4S8aRlFE6G), [Dialectic89](https://open.spotify.com/artist/2XL1TD0QHLlfIN4kJM6y66), [Circadian Cruise](https://open.spotify.com/artist/0Em0UyyKFtdGjeK9gaMO0K) | [Just Fine](https://open.spotify.com/album/3YcOJqtL1S9SG2ft5CmYgw) | 2:11 | 2025-10-12 | 2025-10-30 |
 | [Just Saying](https://open.spotify.com/track/7KNwOK2WTnwFn2x5WgkRLC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Just Saying](https://open.spotify.com/album/6nKl2xSHPMMJkS9XfaEF6z) | 2:52 | 2023-02-04 | 2023-04-05 |
 | [Just The Kinda Feeling](https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:34 | 2024-10-05 | 2024-11-05 |
 | [Just The Way You Are](https://open.spotify.com/track/3UqyNXvu7AOogylx28lm8j) | [Craig Reever](https://open.spotify.com/artist/3OEFtQRq38Ysp1BZdmbK7h), [Frigga](https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC) | [Own Tonight](https://open.spotify.com/album/3XJ2ncn459uc7TNAZjeM8H) | 3:17 | 2022-06-16 | 2022-08-11 |

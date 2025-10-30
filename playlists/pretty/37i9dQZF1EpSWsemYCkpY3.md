@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 24 | [Close Call](https://open.spotify.com/track/60pRJgItSKirsKDkXZpZnH) | [Freeweights](https://open.spotify.com/artist/1gYdjzLQVIKiyEzE1Ku5MQ) | [Close Call](https://open.spotify.com/album/0F4ZV7XY3pk6lAm8BqzSKb) | 3:15 |
 | 25 | [Melodia](https://open.spotify.com/track/0G6r9pghzSm8gGfgV64pHn) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Melodia](https://open.spotify.com/album/5ibwloBOv2GUuh8TKVllmL) | 3:03 |
 | 26 | [Ocean Eyes](https://open.spotify.com/track/0uVaUs3Wd9Qc824zd9R6Mc) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Ocean Eyes](https://open.spotify.com/album/5iHlY0zMP5t8yfUc9erWmw) | 3:08 |
-| 27 | [Wasting Moonlight](https://open.spotify.com/track/4qDaLv7cjgFDTlr4Aj8x9a) | [The Ninety2](https://open.spotify.com/artist/29RM8HCj3b2p9RVqS4zT2A), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [EP Rollercoaster](https://open.spotify.com/album/74k1kdyfkoh4eGTNHeuGCU) | 3:27 |
-| 28 | [Zen Cowboy](https://open.spotify.com/track/3oMYPb4dU72MCfGlmEBePS) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Zen Cowboy](https://open.spotify.com/album/1bASL9mRrJUCGjCMm2yLFH) | 2:50 |
-| 29 | [Rhiannon](https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Rhiannon](https://open.spotify.com/album/6WMQodMSRyoGCHs9DN7yKV) | 4:21 |
-| 30 | [Just Fine](https://open.spotify.com/track/03AZx1BJ2IYSMNnnceMqsu) | [Devereaux](https://open.spotify.com/artist/2OjNsADp36qL4S8aRlFE6G), [Dialectic89](https://open.spotify.com/artist/2XL1TD0QHLlfIN4kJM6y66), [Circadian Cruise](https://open.spotify.com/artist/0Em0UyyKFtdGjeK9gaMO0K) | [Just Fine](https://open.spotify.com/album/3YcOJqtL1S9SG2ft5CmYgw) | 2:11 |
+| 27 | [Ghafoor](https://open.spotify.com/track/4Ywwc43oYbL2zRWWcbSo1c) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:46 |
+| 28 | [Wasting Moonlight](https://open.spotify.com/track/4qDaLv7cjgFDTlr4Aj8x9a) | [The Ninety2](https://open.spotify.com/artist/29RM8HCj3b2p9RVqS4zT2A), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [EP Rollercoaster](https://open.spotify.com/album/74k1kdyfkoh4eGTNHeuGCU) | 3:27 |
+| 29 | [Zen Cowboy](https://open.spotify.com/track/3oMYPb4dU72MCfGlmEBePS) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [Zen Cowboy](https://open.spotify.com/album/1bASL9mRrJUCGjCMm2yLFH) | 2:50 |
+| 30 | [Rhiannon](https://open.spotify.com/track/6ZesoJSuyvKskuAH63UBH9) | [LEXXE](https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU) | [Rhiannon](https://open.spotify.com/album/6WMQodMSRyoGCHs9DN7yKV) | 4:21 |
 
-Snapshot ID: `aP7cRgAAAACSLmkqkRv/XY4U4dOHg6Tg`
+Snapshot ID: `aQLR2wAAAADifHSpM+qOuRYoKoraUX9Y`
