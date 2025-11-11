@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,253 songs - 2 day 17 hr 51 min
+1,254 songs - 2 day 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -473,6 +473,7 @@
 | [Heavenly Body](https://open.spotify.com/track/0dKtLH6KrVMDa02wOMZwVy) | [Eternal Crush](https://open.spotify.com/artist/78t57a8M7PXqGC0UvGemQe) | [Heavenly Body](https://open.spotify.com/album/3HXglVVKty3D8HzgOa8iYN) | 2:49 | 2025-10-21 |  |
 | [Hello](https://open.spotify.com/track/7jO1boY6qwRjeu0EBtvDuu) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Hello](https://open.spotify.com/album/7FbPwQGriWa8IT4u6RxjWK) | 3:57 | 2023-10-13 | 2023-11-03 |
 | [Here Again](https://open.spotify.com/track/3vh2kwUj2cRhYFKjHk7YqC) | [Sofia Lafuente](https://open.spotify.com/artist/5SXczWBfDpzmhTiMvNyMo9) | [Here Again](https://open.spotify.com/album/0fQ8fIAL3UtNGzf2HIed2A) | 3:50 | 2022-09-27 | 2022-10-10 |
+| [Here All Night](https://open.spotify.com/track/5sGAAbdvqyRifmUt0IeQia) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep](https://open.spotify.com/album/0bzP9iV2QbM6174JLfGxcc) | 2:56 | 2025-11-11 |  |
 | [HERE TO STAY](https://open.spotify.com/track/6XhaHfApxL7JbW2KBJURVk) | [Ellie White](https://open.spotify.com/artist/16lySlGhucm6kS3sQ0FNFR) | [HERE TO STAY](https://open.spotify.com/album/4r9nkNWYf3BxHjxV4O5h2U) | 3:45 | 2022-05-20 | 2022-05-25 |
 | [Here's To Hope](https://open.spotify.com/track/6AmJIwAsOu4xZlKLADcobh) | [Orlost](https://open.spotify.com/artist/5yN3pUpcQ7tlvYX8fr8bhy), [UNDEFYND](https://open.spotify.com/artist/71RXcyQVb3RTCvESEn4Rmy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Here's To Hope](https://open.spotify.com/album/3OKG40YRnB3mpXBoLRRZqj) | 3:32 | 2025-07-12 | 2025-09-02 |
 | [Hide U \- Tinlicker Remix](https://open.spotify.com/track/5r43Rwy2cBKF6HQYIS41Bw) | [Sian Evans](https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza) | [Hide U \(Tinlicker Remix\)](https://open.spotify.com/album/6Yn5w6xJpPZQho8VT7DRCH) | 3:41 | 2024-10-02 | 2025-02-17 |
@@ -767,7 +768,7 @@
 | [Never Say Never](https://open.spotify.com/track/74k6dqls5mOzAT4UK37ZIc) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Never Say Never](https://open.spotify.com/album/3BCeYG6bNppLCHIEK5C3xK) | 3:40 | 2023-04-01 | 2023-06-01 |
 | [New Light](https://open.spotify.com/track/2QkD8IuhRFhIjIuIQaYXCe) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X) | [New Light](https://open.spotify.com/album/3YHnGJ4dRXDOt9nwOsdEyK) | 2:33 | 2025-10-21 |  |
 | [New Moon](https://open.spotify.com/track/2WQUdOtqdAZm3qf5esD6x6) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:14 | 2023-01-02 | 2023-01-27 |
-| [New Song](https://open.spotify.com/track/45q2AOznIJfxzBUWiHrZUh) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [New Song](https://open.spotify.com/album/6MhdDBccYBGBDkjOUncjsZ) | 2:55 | 2025-10-27 |  |
+| [New Song](https://open.spotify.com/track/45q2AOznIJfxzBUWiHrZUh) | [Bentley Robles](https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT) | [New Song](https://open.spotify.com/album/6MhdDBccYBGBDkjOUncjsZ) | 2:55 | 2025-10-27 | 2025-11-11 |
 | [Next To Me](https://open.spotify.com/track/22inRznmzegG0brXxTZtAB) | [WINARTA](https://open.spotify.com/artist/4pmANSOlqm7SAJ3Vfwfj8s) | [Next To Me](https://open.spotify.com/album/2q0BD3BW2jdIx8eMD21Jwl) | 3:37 | 2022-06-13 | 2022-08-11 |
 | [Night Dancer](https://open.spotify.com/track/5kovMeEqUbEF1rrVIOGCKe) | [Alex MakeMusic](https://open.spotify.com/artist/4RuvRvndDZdQmUixOBdKH3) | [Come To My Summer Dreams](https://open.spotify.com/album/3sV38LMXJj8jJV0MnP1pTy) | 2:32 | 2023-05-07 | 2023-07-01 |
 | [Nirvana Girl](https://open.spotify.com/track/4iyUlZK4DRn2OLdKlFmdvD) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Yeeun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [Nirvana Girl](https://open.spotify.com/album/4CA7sk7PixZzeeOzuyDmY0) | 3:34 | 2023-09-04 | 2023-11-10 |
