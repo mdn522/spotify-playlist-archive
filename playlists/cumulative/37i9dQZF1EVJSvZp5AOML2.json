@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWVt4uecj5qV>Kylie Minogue</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a>, <a href=spotify:playlist:37i9dQZF1EIWI4rTf402lQ>Coldplay</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWVt4uecj5qV>Kylie Minogue</a>, <a href=spotify:playlist:37i9dQZF1EIXURxfabTQtS>Miley Cyrus</a>, <a href=spotify:playlist:37i9dQZF1EIX3vr6UVonYQ>Sabrina Carpenter</a> and more",
   "name": "Happy Mix",
   "tracks": [
     {
@@ -1844,7 +1844,7 @@
       ],
       "date_added": "2025-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-19",
+      "date_removed": null,
       "duration_ms": 164042,
       "name": "AM to PM (feat. Zoe Wees)",
       "url": "https://open.spotify.com/track/2LRNDfHieq4ctBuE02zeW9"
@@ -5064,7 +5064,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-20",
+      "date_removed": null,
       "duration_ms": 182055,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/2yASo8VKTM1Xpj9Wi5I0Fj"
@@ -5160,7 +5160,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 194500,
       "name": "Body",
       "url": "https://open.spotify.com/track/3hH3ypxqE0JwYq4mfyYmlD"
@@ -8234,7 +8234,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 191365,
       "name": "Cynical",
       "url": "https://open.spotify.com/track/4fLnoXqsxHZFvGKppc7kCr"
@@ -9830,7 +9830,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 215000,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/168GHxsiJyT9tlJN74ZO11"
@@ -10046,7 +10046,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 192768,
       "name": "Drift Away",
       "url": "https://open.spotify.com/track/5aKwSzQOyTtC6OrhoXOUks"
@@ -10508,7 +10508,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-07",
+      "date_removed": null,
       "duration_ms": 250483,
       "name": "End of the World",
       "url": "https://open.spotify.com/track/2rDMtmPctM67hICAZTKAjx"
@@ -11822,7 +11822,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 236612,
       "name": "feelslikeimfallinginlove - Zerb x Coldplay",
       "url": "https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt"
@@ -12828,7 +12828,7 @@
       ],
       "date_added": "2025-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-14",
+      "date_removed": null,
       "duration_ms": 216979,
       "name": "Fortnight (feat. Post Malone) - BLOND:ISH Remix",
       "url": "https://open.spotify.com/track/1gejz5ROvJBUb6WJzkMAcc"
@@ -14102,7 +14102,7 @@
       ],
       "date_added": "2025-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 168549,
       "name": "Gone Gone Gone (Done Done Done) [feat. Teddy Swims] - David Guetta Remix",
       "url": "https://open.spotify.com/track/5bjFSjfotRhjHnbHoBYhsW"
@@ -15752,7 +15752,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-18",
+      "date_removed": null,
       "duration_ms": 158400,
       "name": "Headlights (feat. KIDDO)",
       "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
@@ -16562,6 +16562,36 @@
       "duration_ms": 255093,
       "name": "Hey Brother",
       "url": "https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk"
+    },
+    {
+      "album": {
+        "name": "Hey Son",
+        "url": "https://open.spotify.com/album/6wKpxhTWl6HtdreIFPSbpq"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "MC4D",
+          "url": "https://open.spotify.com/artist/2MbY32LPINIi9P6PCkrOJI"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180151,
+      "name": "Hey Son",
+      "url": "https://open.spotify.com/track/0OiNRfziXYdxP5I3ysqeuz"
     },
     {
       "album": {
@@ -20064,7 +20094,7 @@
       ],
       "date_added": "2025-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-21",
+      "date_removed": null,
       "duration_ms": 223192,
       "name": "Juno",
       "url": "https://open.spotify.com/track/21B4gaTWnTkuSh77iWEXdS"
@@ -20176,7 +20206,7 @@
       ],
       "date_added": "2025-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 142550,
       "name": "Just Keep Watching (From F1® The Movie)",
       "url": "https://open.spotify.com/track/2yWlGEgEfPot0lv3OAjuG3"
@@ -25134,7 +25164,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 176196,
       "name": "Music On The Radio",
       "url": "https://open.spotify.com/track/6FNpgPgWAxrtH6uYwDAOmU"
@@ -25518,7 +25548,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 184349,
       "name": "Never Forget You",
       "url": "https://open.spotify.com/track/2WDTGOTHmpzkLKBae5NBUx"
@@ -26374,7 +26404,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 163648,
       "name": "Nonsense",
       "url": "https://open.spotify.com/track/6dgUya35uo964z7GZXM07g"
@@ -28368,6 +28398,24 @@
       "duration_ms": 191892,
       "name": "Pick Up",
       "url": "https://open.spotify.com/track/3G1MtAFexVXuE0CTofF0mt"
+    },
+    {
+      "album": {
+        "name": "Picking Up The Pieces",
+        "url": "https://open.spotify.com/album/4nPtgLJNzHh19Q42Tc5zFX"
+      },
+      "artists": [
+        {
+          "name": "MAAPS",
+          "url": "https://open.spotify.com/artist/3Y93cY3JZhLEfBVf7HL6o6"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Picking Up The Pieces",
+      "url": "https://open.spotify.com/track/7yrlyEW7sOS9PJxYNCsefq"
     },
     {
       "album": {
@@ -32834,7 +32882,7 @@
       ],
       "date_added": "2025-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 190413,
       "name": "Somebody",
       "url": "https://open.spotify.com/track/78AZoiQnRHHKY0mf9Iy4RD"
@@ -33394,7 +33442,7 @@
       ],
       "date_added": "2025-08-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-13",
+      "date_removed": null,
       "duration_ms": 207866,
       "name": "Spinning Around",
       "url": "https://open.spotify.com/track/3eXI3pYpiY1nRwhvW0c8Qi"
@@ -33940,7 +33988,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-23",
+      "date_removed": null,
       "duration_ms": 166930,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/3ekheCAmDutf88rPe0WQU1"
@@ -34046,6 +34094,24 @@
       "duration_ms": 203097,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/4D6nn1Luflf2qJfGnONiDz"
+    },
+    {
+      "album": {
+        "name": "Still Don't Care",
+        "url": "https://open.spotify.com/album/11XiRiJX157BvMuuc9ixuw"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "date_added": "2025-11-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169081,
+      "name": "Still Don't Care",
+      "url": "https://open.spotify.com/track/17tuuYUw3K1J9pDe4QrWNo"
     },
     {
       "album": {
@@ -36274,7 +36340,7 @@
       ],
       "date_added": "2025-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 178512,
       "name": "That's Alright",
       "url": "https://open.spotify.com/track/6LWedVom7fX8o5rWP7X5du"
@@ -36920,7 +36986,7 @@
       ],
       "date_added": "2025-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 194133,
       "name": "The Loco-Motion",
       "url": "https://open.spotify.com/track/1L1MWnX8hpdkHWCR4wFk7G"
@@ -37902,7 +37968,7 @@
       ],
       "date_added": "2025-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-10-10",
+      "date_removed": null,
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
@@ -39118,7 +39184,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-11-24",
       "duration_ms": 217582,
       "name": "Walk of Fame (feat. Brittany Howard) - Edit",
       "url": "https://open.spotify.com/track/22tmzHt5QJ2sMKJefaqkjn"
