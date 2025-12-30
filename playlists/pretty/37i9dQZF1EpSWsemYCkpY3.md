@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 29 | [Gut Punch](https://open.spotify.com/track/4rGLAe1ruQ2V9MqRnOSulU) | [Isabel Wood](https://open.spotify.com/artist/7Lk61C1D1ZVyyMOLsCqYBO) | [Gut Punch](https://open.spotify.com/album/5TC1r78aZ2qCvdiWlUpBEV) | 2:52 |
 | 30 | [Wasting Moonlight](https://open.spotify.com/track/4qDaLv7cjgFDTlr4Aj8x9a) | [The Ninety2](https://open.spotify.com/artist/29RM8HCj3b2p9RVqS4zT2A), [Olivia Sebastianelli](https://open.spotify.com/artist/0DCRUk25XIiRFiNtiuR8OR) | [EP Rollercoaster](https://open.spotify.com/album/74k1kdyfkoh4eGTNHeuGCU) | 3:27 |
 
-Snapshot ID: `aU4hpAAAAAADG0YzbsBKEWgUvAIUgW22`
+Snapshot ID: `aVIQXgAAAADXRD0PbUMYWuB3ndk+fL3P`
