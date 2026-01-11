@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWMbm0WCAYz6>Sekou</a>, <a href=spotify:playlist:37i9dQZF1EIXHhRrjTarS0>John Williams</a>, <a href=spotify:playlist:37i9dQZF1EIXzOxXt6clLS>Christopher Cross</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXMiO4ZNKhEt>Kool & The Gang</a>, <a href=spotify:playlist:37i9dQZF1EIW3RER8uUu7l>Kishore Kumar</a>, <a href=spotify:playlist:37i9dQZF1EIWMbm0WCAYz6>Sekou</a> and more",
   "num_followers": 0,
   "original_name": "70s Mix",
   "owner": {
@@ -8,6 +8,46 @@
   },
   "snapshot_id": "AAAAABptMOJ3adoDUssPQoHa9lb9NUhE",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Light Of Worlds",
+        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 257866,
+      "name": "Summer Madness",
+      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heera Panna",
+        "url": "https://open.spotify.com/album/4W2Ld9wP6QDP9ZsaQ3HIwV"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        },
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "R. D. Burman",
+          "url": "https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g"
+        }
+      ],
+      "duration_ms": 347318,
+      "name": "Panna Ki Tamanna Hai",
+      "url": "https://open.spotify.com/track/0XprgFKfXIDkgHZ4iYVIjk"
+    },
     {
       "added_at": null,
       "album": {
@@ -23,42 +63,6 @@
       "duration_ms": 186493,
       "name": "Catching Bodies",
       "url": "https://open.spotify.com/track/6sAFHFV7OWuSYuTNslP2HI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Star Wars: The Phantom Menace (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/45EFycwtfRhnDPWbc2mClK"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 254346,
-      "name": "Duel of the Fates",
-      "url": "https://open.spotify.com/track/1ghlpxVfPbFH2jenrv9vVw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Christopher Cross",
-        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
-      },
-      "artists": [
-        {
-          "name": "Christopher Cross",
-          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
-        }
-      ],
-      "duration_ms": 256146,
-      "name": "Sailing",
-      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
     },
     {
       "added_at": null,
@@ -143,22 +147,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "To The World",
-        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
+        "name": "I Was Made For Lovin’ You (Disco Lines Remix)",
+        "url": "https://open.spotify.com/album/1U617ES34q9sIKxIXSEqnI"
       },
       "artists": [
         {
-          "name": "America",
-          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
         },
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Disco Lines",
+          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
         }
       ],
-      "duration_ms": 123890,
-      "name": "A Horse With No Name (CYRIL Remix)",
-      "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
+      "duration_ms": 260181,
+      "name": "I Was Made For Lovin' You - Disco Lines Remix",
+      "url": "https://open.spotify.com/track/302iphQDRz3hMJoelyKTh5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Very Best Of",
+        "url": "https://open.spotify.com/album/3LjCh3GXg9r9h4HORAUzXu"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 249040,
+      "name": "Out of Touch",
+      "url": "https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Black Velvet (2024 Remastered Version)",
+        "url": "https://open.spotify.com/album/4RbaDrgQCOI5ZNmqUbCqR3"
+      },
+      "artists": [
+        {
+          "name": "O'Donel Levy",
+          "url": "https://open.spotify.com/artist/0F80uiQjVrZ1gl7aHsYzc0"
+        }
+      ],
+      "duration_ms": 129506,
+      "name": "Love Story - 2024 Remastered Version",
+      "url": "https://open.spotify.com/track/057hCbfZV3NcensFMGNrXH"
     },
     {
       "added_at": null,
@@ -183,122 +219,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Very Best Of",
-        "url": "https://open.spotify.com/album/3LjCh3GXg9r9h4HORAUzXu"
+        "name": "To The World",
+        "url": "https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 249040,
-      "name": "Out of Touch",
-      "url": "https://open.spotify.com/track/4LI7LqBRuXxLyEZ2fCQnit"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Was Made For Lovin’ You (Disco Lines Remix)",
-        "url": "https://open.spotify.com/album/1U617ES34q9sIKxIXSEqnI"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+          "name": "America",
+          "url": "https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo"
         },
         {
-          "name": "Disco Lines",
-          "url": "https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z"
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 260181,
-      "name": "I Was Made For Lovin' You - Disco Lines Remix",
-      "url": "https://open.spotify.com/track/302iphQDRz3hMJoelyKTh5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Free Bird (TOTEM Remix)",
-        "url": "https://open.spotify.com/album/6XpoUywxslwgo0atfEPqSS"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        },
-        {
-          "name": "TOTEM",
-          "url": "https://open.spotify.com/artist/2de2E6LOOzwGUF2KWVoiSW"
-        }
-      ],
-      "duration_ms": 166500,
-      "name": "Free Bird - TOTEM Remix",
-      "url": "https://open.spotify.com/track/7ub59vgVaO2lr8aPLEyVcz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't No Sunshine (Lido Remix)",
-        "url": "https://open.spotify.com/album/2x9zLCokg6ccaJ5UInpQLa"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        },
-        {
-          "name": "Lido",
-          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Ain't No Sunshine - Lido Remix",
-      "url": "https://open.spotify.com/track/46a59ZT7JG0i3tJNaQmPom"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maracatu Atômico (Alok, Maz & Mozambo Remix)",
-        "url": "https://open.spotify.com/album/0hueIl4GciOXgxM3b1WJwK"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
-        },
-        {
-          "name": "Mozambo",
-          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
-        }
-      ],
-      "duration_ms": 209536,
-      "name": "Maracatu Atômico - Alok, Maz & Mozambo Remix",
-      "url": "https://open.spotify.com/track/4EwKa1VzqvXgGFqCPeaBD0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rocky (Original Motion Picture Score)",
-        "url": "https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A"
-      },
-      "artists": [
-        {
-          "name": "Bill Conti",
-          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
-        }
-      ],
-      "duration_ms": 158506,
-      "name": "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006",
-      "url": "https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI"
+      "duration_ms": 123890,
+      "name": "A Horse With No Name (CYRIL Remix)",
+      "url": "https://open.spotify.com/track/3wn6g2EtZjTLeSOPoYl9Cu"
     },
     {
       "added_at": null,
@@ -315,54 +251,6 @@
       "duration_ms": 354906,
       "name": "La petite fille de la mer - Remastered",
       "url": "https://open.spotify.com/track/3uNFRvQVEIEsQgHdZFw6Dk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aerosmith",
-        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 267596,
-      "name": "Dream On",
-      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Never Gunna Give You Up",
-        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 165315,
-      "name": "Never Gunna Give You Up",
-      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something Else",
-        "url": "https://open.spotify.com/album/6jcBn57jcxmjd6kKKREU1Z"
-      },
-      "artists": [
-        {
-          "name": "Shirley Bassey",
-          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
-        }
-      ],
-      "duration_ms": 197440,
-      "name": "(Where Do I Begin) Love Story - 1994 Remaster",
-      "url": "https://open.spotify.com/track/74cTLzttRYdy798wjmudYR"
     },
     {
       "added_at": null,
@@ -387,22 +275,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "American Pie (L'Tric Remix)",
-        "url": "https://open.spotify.com/album/1OyknztolKNfrtPzmlmzNZ"
+        "name": "Mystery Movie",
+        "url": "https://open.spotify.com/album/1e2d38jAhV06cuOPKMADbb"
       },
       "artists": [
         {
-          "name": "Don McLean",
-          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
-        },
-        {
-          "name": "L'Tric",
-          "url": "https://open.spotify.com/artist/4ZedOHbnyLaFvvMuY6uaOM"
+          "name": "James Clarke",
+          "url": "https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG"
         }
       ],
-      "duration_ms": 233513,
-      "name": "American Pie - L'Tric Remix",
-      "url": "https://open.spotify.com/track/1SRnNEFgoUI0O8erG4BgHQ"
+      "duration_ms": 97024,
+      "name": "Relaxed Scene",
+      "url": "https://open.spotify.com/track/7oZMxikk5ISnp4pDjwtvQ7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocky (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "duration_ms": 158506,
+      "name": "Going The Distance - From \"Rocky\" Soundtrack / Remastered 2006",
+      "url": "https://open.spotify.com/track/0WKpYDw1WNmQbFiEURDgeI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunny",
+        "url": "https://open.spotify.com/album/0bjMSyP0YxQf56sHJ7vGgd"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 141732,
+      "name": "Sunny",
+      "url": "https://open.spotify.com/track/3NHzW6H45I5VO0ftDRhtpY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Christopher Cross",
+        "url": "https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah"
+      },
+      "artists": [
+        {
+          "name": "Christopher Cross",
+          "url": "https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH"
+        }
+      ],
+      "duration_ms": 256146,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Magical Voice of Kishore Kumar",
+        "url": "https://open.spotify.com/album/0aDuq22YA33ihhUWa1dVpN"
+      },
+      "artists": [
+        {
+          "name": "Kishore Kumar",
+          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+        }
+      ],
+      "duration_ms": 403106,
+      "name": "Dil Kya Kare - From \"Julie\"",
+      "url": "https://open.spotify.com/track/3XkAt9hJwahi7rgsuNFJ2U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Gunna Give You Up",
+        "url": "https://open.spotify.com/album/1yXHaolBuecNtg6qZllfno"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 165315,
+      "name": "Never Gunna Give You Up",
+      "url": "https://open.spotify.com/track/5juAS6AmOceMjFnlUaJQr2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Gee Baby, Ain't I Good To You",
+      "url": "https://open.spotify.com/track/422IAu1bVxDVde4YSo8Kaw"
     },
     {
       "added_at": null,
@@ -447,106 +431,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Child In Time (Superhuman Stranger Things Version)",
-        "url": "https://open.spotify.com/album/6ZwsgTLmCaxB7DwfgVAlEB"
+        "name": "Something Else",
+        "url": "https://open.spotify.com/album/6jcBn57jcxmjd6kKKREU1Z"
       },
       "artists": [
         {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+          "name": "Shirley Bassey",
+          "url": "https://open.spotify.com/artist/090VebphoycdEyH165iMqc"
         }
       ],
-      "duration_ms": 207740,
-      "name": "Child In Time - Superhuman Stranger Things Version",
-      "url": "https://open.spotify.com/track/0H4GqAsdLZWRR4uytEBrNl"
+      "duration_ms": 197440,
+      "name": "(Where Do I Begin) Love Story - 1994 Remaster",
+      "url": "https://open.spotify.com/track/74cTLzttRYdy798wjmudYR"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Black Velvet (2024 Remastered Version)",
-        "url": "https://open.spotify.com/album/4RbaDrgQCOI5ZNmqUbCqR3"
+        "name": "Ain't No Sunshine (Lido Remix)",
+        "url": "https://open.spotify.com/album/2x9zLCokg6ccaJ5UInpQLa"
       },
       "artists": [
         {
-          "name": "O'Donel Levy",
-          "url": "https://open.spotify.com/artist/0F80uiQjVrZ1gl7aHsYzc0"
-        }
-      ],
-      "duration_ms": 129506,
-      "name": "Love Story - 2024 Remastered Version",
-      "url": "https://open.spotify.com/track/057hCbfZV3NcensFMGNrXH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chura Liya Hai Tumne (Trap Mix) - Single",
-        "url": "https://open.spotify.com/album/4bp14yMFBxgksMGgpXIryu"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
         },
         {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        },
-        {
-          "name": "The Hrishi",
-          "url": "https://open.spotify.com/artist/7z8KrZLb5N7aIyq9YQCCfx"
+          "name": "Lido",
+          "url": "https://open.spotify.com/artist/1aSwrSGBNGMLn9ymttfRkk"
         }
       ],
-      "duration_ms": 163881,
-      "name": "Chura Liya Hai Tumne (Trap Mix)",
-      "url": "https://open.spotify.com/track/0P6XiizAbIO2i8Lwp1DAul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mystery Movie",
-        "url": "https://open.spotify.com/album/1e2d38jAhV06cuOPKMADbb"
-      },
-      "artists": [
-        {
-          "name": "James Clarke",
-          "url": "https://open.spotify.com/artist/5ooAHetwsdFoL1RaRcfDXG"
-        }
-      ],
-      "duration_ms": 97024,
-      "name": "Relaxed Scene",
-      "url": "https://open.spotify.com/track/7oZMxikk5ISnp4pDjwtvQ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Light Of Worlds",
-        "url": "https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 257866,
-      "name": "Summer Madness",
-      "url": "https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Night Flight",
-        "url": "https://open.spotify.com/album/2K1BCabwokZW3Jd0D7AegJ"
-      },
-      "artists": [
-        {
-          "name": "Yvonne Elliman",
-          "url": "https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS"
-        }
-      ],
-      "duration_ms": 177960,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/6GQLHDE3YwtVUdDcMv8xwf"
+      "duration_ms": 186413,
+      "name": "Ain't No Sunshine - Lido Remix",
+      "url": "https://open.spotify.com/track/46a59ZT7JG0i3tJNaQmPom"
     },
     {
       "added_at": null,
@@ -579,34 +495,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dire Straits",
-        "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
+        "name": "American Pie (L'Tric Remix)",
+        "url": "https://open.spotify.com/album/1OyknztolKNfrtPzmlmzNZ"
       },
       "artists": [
         {
-          "name": "Dire Straits",
-          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+          "name": "Don McLean",
+          "url": "https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8"
+        },
+        {
+          "name": "L'Tric",
+          "url": "https://open.spotify.com/artist/4ZedOHbnyLaFvvMuY6uaOM"
         }
       ],
-      "duration_ms": 252000,
-      "name": "Six Blade Knife",
-      "url": "https://open.spotify.com/track/2miIOgni3EEut8pvYcxeYn"
+      "duration_ms": 233513,
+      "name": "American Pie - L'Tric Remix",
+      "url": "https://open.spotify.com/track/1SRnNEFgoUI0O8erG4BgHQ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+        "name": "Free Bird (TOTEM Remix)",
+        "url": "https://open.spotify.com/album/6XpoUywxslwgo0atfEPqSS"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        },
+        {
+          "name": "TOTEM",
+          "url": "https://open.spotify.com/artist/2de2E6LOOzwGUF2KWVoiSW"
         }
       ],
-      "duration_ms": 126458,
-      "name": "Ain't No Sunshine",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+      "duration_ms": 166500,
+      "name": "Free Bird - TOTEM Remix",
+      "url": "https://open.spotify.com/track/7ub59vgVaO2lr8aPLEyVcz"
     },
     {
       "added_at": null,
@@ -623,38 +547,6 @@
       "duration_ms": 213400,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fantastic Boney M.",
-        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
-      },
-      "artists": [
-        {
-          "name": "Boney M.",
-          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
-        }
-      ],
-      "duration_ms": 220733,
-      "name": "Rasputin - Single Version",
-      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In A World We Don't Belong (Pt.1)",
-        "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 176054,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
     },
     {
       "added_at": null,
@@ -679,34 +571,150 @@
     {
       "added_at": null,
       "album": {
-        "name": "Magical Voice of Kishore Kumar",
-        "url": "https://open.spotify.com/album/0aDuq22YA33ihhUWa1dVpN"
+        "name": "Maracatu Atômico (Alok, Maz & Mozambo Remix)",
+        "url": "https://open.spotify.com/album/0hueIl4GciOXgxM3b1WJwK"
       },
       "artists": [
         {
-          "name": "Kishore Kumar",
-          "url": "https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y"
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
         }
       ],
-      "duration_ms": 403106,
-      "name": "Dil Kya Kare - From \"Julie\"",
-      "url": "https://open.spotify.com/track/3XkAt9hJwahi7rgsuNFJ2U"
+      "duration_ms": 209536,
+      "name": "Maracatu Atômico - Alok, Maz & Mozambo Remix",
+      "url": "https://open.spotify.com/track/4EwKa1VzqvXgGFqCPeaBD0"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Oxygène",
-        "url": "https://open.spotify.com/album/6qF91BDNaJY4PI0mSwYv8L"
+        "name": "Aerosmith",
+        "url": "https://open.spotify.com/album/1RDVdxPUaqC4o7Rkm8LoOE"
       },
       "artists": [
         {
-          "name": "Jean-Michel Jarre",
-          "url": "https://open.spotify.com/artist/5MhLmv7GgyjbxGqiIGasvT"
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 246000,
-      "name": "Oxygène, Pt. 4",
-      "url": "https://open.spotify.com/track/4pbzF8W8RnqlN5epqkI1Qf"
+      "duration_ms": 267596,
+      "name": "Dream On",
+      "url": "https://open.spotify.com/track/1xsYj84j7hUDDnTTerGWlH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remix The Classics (Vol. 2)",
+        "url": "https://open.spotify.com/album/2cBOHWBIDGrX2p0xh6w80V"
+      },
+      "artists": [
+        {
+          "name": "The Temptations",
+          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
+        },
+        {
+          "name": "Mozambo",
+          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
+        }
+      ],
+      "duration_ms": 232056,
+      "name": "Papa Was A Rolling Stone - Mozambo Remix",
+      "url": "https://open.spotify.com/track/2Y8NtXW8XWkbGZvhRox71u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fantastic Boney M.",
+        "url": "https://open.spotify.com/album/1SBAgYpxxNiCQN7qxCJxDX"
+      },
+      "artists": [
+        {
+          "name": "Boney M.",
+          "url": "https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb"
+        }
+      ],
+      "duration_ms": 220733,
+      "name": "Rasputin - Single Version",
+      "url": "https://open.spotify.com/track/67hbP9PFQZrb4XZc3TzB0s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paloma Blanca (Remastered)",
+        "url": "https://open.spotify.com/album/5mEnjOeoDj3kgGr9Pn5Hkc"
+      },
+      "artists": [
+        {
+          "name": "George Baker Selection",
+          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+        }
+      ],
+      "duration_ms": 233826,
+      "name": "Paloma Blanca",
+      "url": "https://open.spotify.com/track/7Eo7zJMxFp0CnzkZpWNitq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Discoset 1",
+        "url": "https://open.spotify.com/album/0991ubplM99cog4DpL5mjn"
+      },
+      "artists": [
+        {
+          "name": "Cerrone",
+          "url": "https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM"
+        },
+        {
+          "name": "Armand Van Helden",
+          "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Je Suis Music - Armand Van Helden Remix Edit",
+      "url": "https://open.spotify.com/track/6PHbD1AEcL1eCsQz3om9CJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In A World We Don't Belong (Pt.1)",
+        "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 176054,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dynasty",
+        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "I Was Made For Lovin' You",
+      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
     },
     {
       "added_at": null,
@@ -747,42 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Remix The Classics (Vol. 2)",
-        "url": "https://open.spotify.com/album/2cBOHWBIDGrX2p0xh6w80V"
-      },
-      "artists": [
-        {
-          "name": "The Temptations",
-          "url": "https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG"
-        },
-        {
-          "name": "Mozambo",
-          "url": "https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi"
-        }
-      ],
-      "duration_ms": 232056,
-      "name": "Papa Was A Rolling Stone - Mozambo Remix",
-      "url": "https://open.spotify.com/track/2Y8NtXW8XWkbGZvhRox71u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dynasty",
-        "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 271240,
-      "name": "I Was Made For Lovin' You",
-      "url": "https://open.spotify.com/track/07q0QVgO56EorrSGHC48y3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Definitive Collection",
         "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
       },
@@ -795,6 +767,74 @@
       "duration_ms": 251066,
       "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dire Straits",
+        "url": "https://open.spotify.com/album/2rCS6Xwx32V27pvgFzLzlT"
+      },
+      "artists": [
+        {
+          "name": "Dire Straits",
+          "url": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Six Blade Knife",
+      "url": "https://open.spotify.com/track/2miIOgni3EEut8pvYcxeYn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Night Flight",
+        "url": "https://open.spotify.com/album/2K1BCabwokZW3Jd0D7AegJ"
+      },
+      "artists": [
+        {
+          "name": "Yvonne Elliman",
+          "url": "https://open.spotify.com/artist/2d6JU9LvNhZR7AAtu4x2rS"
+        }
+      ],
+      "duration_ms": 177960,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6GQLHDE3YwtVUdDcMv8xwf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rhapsody In White (Reissue)",
+        "url": "https://open.spotify.com/album/2mCUkzGTTkAsvJmtxWgTdc"
+      },
+      "artists": [
+        {
+          "name": "The Love Unlimited Orchestra",
+          "url": "https://open.spotify.com/artist/457yGSZecENoIuNWelRHhH"
+        }
+      ],
+      "duration_ms": 246266,
+      "name": "Love's Theme",
+      "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rockstar (Deluxe)",
+        "url": "https://open.spotify.com/album/337iOvlhWakFamgb6x2vKN"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Måneskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/3iWSfaHoiphVIBMIwJHzpJ"
     },
     {
       "added_at": null,
@@ -815,74 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 356626,
-      "name": "Simple Man",
-      "url": "https://open.spotify.com/track/1ju7EsSGvRybSNEsRvc7qY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Will Survive (The Eric Kupper Remixes)",
-        "url": "https://open.spotify.com/album/1Cebbz2zBKNpcQdtoXy9yk"
-      },
-      "artists": [
-        {
-          "name": "Gloria Gaynor",
-          "url": "https://open.spotify.com/artist/6V6WCgi7waF55bJmylC4H5"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "I Will Survive - Eric Kupper Mix Edit",
-      "url": "https://open.spotify.com/track/4fSjgi0Uzee0Bt4Nwusnqu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Classical Revival Khat Likh De",
-        "url": "https://open.spotify.com/album/4pMqnFzY5PA71dLMpMrfoe"
-      },
-      "artists": [
-        {
-          "name": "Asha Bhosle",
-          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
-        },
-        {
-          "name": "Mohammed Rafi",
-          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "Chura Liya Hai Tumne Jo Dil Ko - Revival",
-      "url": "https://open.spotify.com/track/6arqzCF2dWIkDWpzEPZ929"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rumours (Super Deluxe)",
-        "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 257800,
-      "name": "Dreams - 2004 Remaster",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Late Night Tales: Khruangbin",
         "url": "https://open.spotify.com/album/2pqebJQi4AP1zUFSHY561K"
       },
@@ -899,18 +871,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paloma Blanca (Remastered)",
-        "url": "https://open.spotify.com/album/5mEnjOeoDj3kgGr9Pn5Hkc"
+        "name": "New Year Party Vibe",
+        "url": "https://open.spotify.com/album/483jbmDtfeRm79NOQDubSE"
       },
       "artists": [
         {
-          "name": "George Baker Selection",
-          "url": "https://open.spotify.com/artist/2MGJBRRGEj9m6MxJIq7fLn"
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "Vansh Vijan",
+          "url": "https://open.spotify.com/artist/3gPrw93H7bysLfQYCaEvR2"
         }
       ],
-      "duration_ms": 233826,
-      "name": "Paloma Blanca",
-      "url": "https://open.spotify.com/track/7Eo7zJMxFp0CnzkZpWNitq"
+      "duration_ms": 155625,
+      "name": "Dum Maro Dum (Party Mix)",
+      "url": "https://open.spotify.com/track/6RfwAjs2iJgN3JcKy5RHjq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Orff: Carmina Burana",
+        "url": "https://open.spotify.com/album/6qhs0KJyOcA7CERbkddjtE"
+      },
+      "artists": [
+        {
+          "name": "Carl Orff",
+          "url": "https://open.spotify.com/artist/4LXxsm5BF85PWnQ1dUDAze"
+        },
+        {
+          "name": "Michael Tilson Thomas",
+          "url": "https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78"
+        },
+        {
+          "name": "The Cleveland Orchestra Chorus",
+          "url": "https://open.spotify.com/artist/7i7P0aNPsW6hJVtHQUk2fm"
+        },
+        {
+          "name": "The Cleveland Orchestra",
+          "url": "https://open.spotify.com/artist/0jJszR81GjA87jeRq0Jgwz"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Carmina Burana: O Fortuna",
+      "url": "https://open.spotify.com/track/6xez71zpAqQ6N5i8E1jHlD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rocky (Original Motion Picture Score)",
+        "url": "https://open.spotify.com/album/6GfrOuXqJrJjcldIstEz6A"
+      },
+      "artists": [
+        {
+          "name": "Bill Conti",
+          "url": "https://open.spotify.com/artist/272ygo5fv9cYsiCLcV0HV2"
+        }
+      ],
+      "duration_ms": 114346,
+      "name": "The Final Bell - From \"Rocky\" Soundtrack / Remastered 2006",
+      "url": "https://open.spotify.com/track/085puTRP6VTmS43xWubCfF"
     }
   ],
   "unique_name": "70s Mix",
