@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E37DfB9BO9G7y.md) - [plain]
 
 ### [Daily Mix 6](https://open.spotify.com/playlist/37i9dQZF1E37DfB9BO9G7y)
 
-> Alok, Kungs, R3HAB and more
+> Phlocalyst, HoKø, Living Room and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 1 hr 57 min
 

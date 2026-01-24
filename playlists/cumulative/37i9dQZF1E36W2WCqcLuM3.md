@@ -2,7 +2,7 @@
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E36W2WCqcLuM3)
 
-> Gunship, Neologisticism, FHE and more
+> Gunship, Nightstop, Trevor Something and more
 
 9,548 songs - 20 day 23 hr 30 min
 

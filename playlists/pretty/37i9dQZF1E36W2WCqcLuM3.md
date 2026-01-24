@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E36W2WCqcLuM3.md) - [plain]
 
 ### [Daily Mix 1](https://open.spotify.com/playlist/37i9dQZF1E36W2WCqcLuM3)
 
-> Gunship, Neologisticism, FHE and more
+> Gunship, Nightstop, Trevor Something and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 59 min
 
