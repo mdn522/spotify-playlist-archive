@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a>, <a href=spotify:playlist:37i9dQZF1EIYQVvbv66dii>Harold Faltermeyer</a>, <a href=spotify:playlist:37i9dQZF1EIVZELAGIAjbx>Bob Marley & The Wailers</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXBwQhFDAdap>Kim Wilde</a>, <a href=spotify:playlist:37i9dQZF1EIWbBXIotaBwj>Sandra</a>, <a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a> and more",
   "num_followers": 0,
   "original_name": "80s Mix",
   "owner": {
@@ -8,6 +8,38 @@
   },
   "snapshot_id": "AAAAAHxIWcI6W++1BkF5nhbQCKXBiVGZ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Step",
+        "url": "https://open.spotify.com/album/7g47QK9nosKX9B2zdd8yTs"
+      },
+      "artists": [
+        {
+          "name": "Kim Wilde",
+          "url": "https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo"
+        }
+      ],
+      "duration_ms": 255220,
+      "name": "You Keep Me Hangin On",
+      "url": "https://open.spotify.com/track/1wEeNtO7z41aUqC80shxqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "18 Greatest Hits",
+        "url": "https://open.spotify.com/album/5R4nunnQpi3Kh2t5UeMxYS"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "duration_ms": 301933,
+      "name": "In The Heat Of The Night",
+      "url": "https://open.spotify.com/track/0MSAWjq5aWfTUNL9hv7Epd"
+    },
     {
       "added_at": null,
       "album": {
@@ -31,42 +63,6 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harold F",
-        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
-      },
-      "artists": [
-        {
-          "name": "Harold Faltermeyer",
-          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Could You Be Loved (with LP Giobbi)",
-        "url": "https://open.spotify.com/album/3wyuyiaUfE4LRWiUa1GZMY"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        },
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        }
-      ],
-      "duration_ms": 286879,
-      "name": "Could You Be Loved (with LP Giobbi)",
-      "url": "https://open.spotify.com/track/6IAu19Ylpuu6PRhU0x4wff"
     },
     {
       "added_at": null,
@@ -155,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cruel Summer (3AM Mix)",
-        "url": "https://open.spotify.com/album/1TiUBQWvRfyt4noJx8L1FF"
-      },
-      "artists": [
-        {
-          "name": "Bananarama",
-          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Cruel Summer - 3AM Mix",
-      "url": "https://open.spotify.com/track/0ioAjIAAqitlnPgHLg83fA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Turn Back The Clock",
         "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
@@ -187,18 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let's Talk About Love",
-        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
+        "name": "Cruel Summer (3AM Mix)",
+        "url": "https://open.spotify.com/album/1TiUBQWvRfyt4noJx8L1FF"
       },
       "artists": [
         {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+          "name": "Bananarama",
+          "url": "https://open.spotify.com/artist/3sc7iUG1Wwpwx7bHeZolgx"
         }
       ],
-      "duration_ms": 226333,
-      "name": "Cheri Cheri Lady",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
+      "duration_ms": 218386,
+      "name": "Cruel Summer - 3AM Mix",
+      "url": "https://open.spotify.com/track/0ioAjIAAqitlnPgHLg83fA"
     },
     {
       "added_at": null,
@@ -219,22 +199,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Folie",
         "url": "https://open.spotify.com/album/3bosyDPGOYmLnwMNhU06Rx"
       },
@@ -251,38 +215,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
         }
       ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Johnny Johnny (Zimmer Remixes)",
-        "url": "https://open.spotify.com/album/40Z9GgPF8S8QF1yMRWnUCB"
-      },
-      "artists": [
-        {
-          "name": "Jeanne Mas",
-          "url": "https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR"
-        },
-        {
-          "name": "Zimmer",
-          "url": "https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb"
-        }
-      ],
-      "duration_ms": 209253,
-      "name": "Johnny Johnny (Zimmer Remix) - Radio Edit",
-      "url": "https://open.spotify.com/track/5dfq03JQv2SvAmcPfkdCbX"
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
     },
     {
       "added_at": null,
@@ -303,22 +247,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Sound Of Egypt Episode 541",
-        "url": "https://open.spotify.com/album/7KT2lmYS4WliWjF6USa3D1"
+        "name": "Let's Talk About Love",
+        "url": "https://open.spotify.com/album/1JDlLoZugxdneiaTnGyaKr"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        },
-        {
-          "name": "Orkidea",
-          "url": "https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7"
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Running Up That Hill (FSOE 541) - Orkidea Remix",
-      "url": "https://open.spotify.com/track/2Ni7hJ4EQHWmOuMvmw23kl"
+      "duration_ms": 226333,
+      "name": "Cheri Cheri Lady",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr"
     },
     {
       "added_at": null,
@@ -343,18 +283,54 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age of Consent",
-        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+        "name": "Johnny Johnny (Zimmer Remixes)",
+        "url": "https://open.spotify.com/album/40Z9GgPF8S8QF1yMRWnUCB"
       },
       "artists": [
         {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+          "name": "Jeanne Mas",
+          "url": "https://open.spotify.com/artist/6ItMujsGa113JYrjlfrZXR"
+        },
+        {
+          "name": "Zimmer",
+          "url": "https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb"
         }
       ],
-      "duration_ms": 302413,
-      "name": "Smalltown Boy",
-      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+      "duration_ms": 209253,
+      "name": "Johnny Johnny (Zimmer Remix) - Radio Edit",
+      "url": "https://open.spotify.com/track/5dfq03JQv2SvAmcPfkdCbX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
     },
     {
       "added_at": null,
@@ -375,18 +351,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+        "name": "Book Of Love",
+        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
       },
       "artists": [
         {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+          "name": "Book Of Love",
+          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
         }
       ],
-      "duration_ms": 233270,
-      "name": "Run To You",
-      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+      "duration_ms": 179773,
+      "name": "Boy",
+      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "added_at": null,
@@ -439,98 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Your Love (Diplo Remix)",
-        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Your Love - Diplo Remix",
-      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pump Up The Jam (Hugo Cantarra Remix)",
-        "url": "https://open.spotify.com/album/4e0eolJnPxu9htfouCRFqV"
-      },
-      "artists": [
-        {
-          "name": "Technotronic",
-          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
-        },
-        {
-          "name": "Hugo Cantarra",
-          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Pump Up The Jam - Hugo Cantarra Remix Edit",
-      "url": "https://open.spotify.com/track/1lYnlzVo0DDUPjfqGJRggA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somebody's Watching Me (Syzz Remix)",
-        "url": "https://open.spotify.com/album/1Vc0bXQ2kxa5Sd1sECrwgA"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        },
-        {
-          "name": "Syzz",
-          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
-        }
-      ],
-      "duration_ms": 142020,
-      "name": "Somebody's Watching Me - Syzz Remix",
-      "url": "https://open.spotify.com/track/4dKgJOFyPs5qMTC925ikc3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escape From Television",
-        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
-      },
-      "artists": [
-        {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
-        }
-      ],
-      "duration_ms": 295306,
-      "name": "The Trial And The Search",
-      "url": "https://open.spotify.com/track/2SkZtYbnkREfmqCV1JuSTp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "It's a Sin (Bryce Miller Monster Mix)",
         "url": "https://open.spotify.com/album/7hq1yEUoc8WpGaYcpN2jge"
       },
@@ -547,94 +451,6 @@
       "duration_ms": 163729,
       "name": "It's a Sin - Bryce Miller Monster Mix",
       "url": "https://open.spotify.com/track/7x8qa2Sy6KUSjTq11Kv039"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "Girl on the Moon",
-      "url": "https://open.spotify.com/track/0WapisGaQAkdtuGEJjWSC2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Control (Renas Remix)",
-        "url": "https://open.spotify.com/album/11WeshnOn1G3G1luT1d4VL"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        },
-        {
-          "name": "Renas",
-          "url": "https://open.spotify.com/artist/4UdggJL2IG58o6VXY7U4MS"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Self Control (Renas Remix)",
-      "url": "https://open.spotify.com/track/5Xjeg5ylXpz8uRwi9MomD2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Take on Me (Kygo Remix)",
-        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
-      },
-      "artists": [
-        {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "Take on Me - Kygo Remix",
-      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5G5UwqPsxDKpxJLX4xsyuh"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/1PtQJZVZIdWIYdARpZRDFO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eye In The Sky",
-        "url": "https://open.spotify.com/album/71Y6kburF8k1qyHycovHy8"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 214430,
-      "name": "Mammagamma",
-      "url": "https://open.spotify.com/track/3g2wrzcMmo2iSSw5Q9vTN6"
     },
     {
       "added_at": null,
@@ -663,82 +479,194 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broadcast",
-        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
       "artists": [
         {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 280400,
-      "name": "(I Just) Died In Your Arms",
-      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
+      "duration_ms": 232800,
+      "name": "Girl on the Moon",
+      "url": "https://open.spotify.com/track/0WapisGaQAkdtuGEJjWSC2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Synchronicity (Remastered 2003)",
-        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+        "name": "Pump Up The Jam (Hugo Cantarra Remix)",
+        "url": "https://open.spotify.com/album/4e0eolJnPxu9htfouCRFqV"
       },
       "artists": [
         {
-          "name": "The Police",
-          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+          "name": "Technotronic",
+          "url": "https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB"
+        },
+        {
+          "name": "Hugo Cantarra",
+          "url": "https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n"
         }
       ],
-      "duration_ms": 253920,
-      "name": "Every Breath You Take",
-      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+      "duration_ms": 189677,
+      "name": "Pump Up The Jam - Hugo Cantarra Remix Edit",
+      "url": "https://open.spotify.com/track/1lYnlzVo0DDUPjfqGJRggA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Shamrock Diaries",
-        "url": "https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ"
+        "name": "Escape From Television",
+        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
       },
       "artists": [
         {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
         }
       ],
-      "duration_ms": 237560,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j"
+      "duration_ms": 295306,
+      "name": "The Trial And The Search",
+      "url": "https://open.spotify.com/track/2SkZtYbnkREfmqCV1JuSTp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
-        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
+        "name": "Moments In Love",
+        "url": "https://open.spotify.com/album/5p1WIYtuPiVLmx5Ftw0BHo"
       },
       "artists": [
         {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+          "name": "The Art Of Noise",
+          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
         }
       ],
-      "duration_ms": 223902,
-      "name": "The Dream Is Always The Same - From 'Risky Business' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/7kvFGApAzBV22DwAdyyLuu"
+      "duration_ms": 279720,
+      "name": "Moments In Love",
+      "url": "https://open.spotify.com/track/0iAu1nA0Vq8zMVPpvlehyp"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Orinoco Flow (Sail Away)",
-        "url": "https://open.spotify.com/album/6euqAQ8Nl6axefUvo2oJMQ"
+        "name": "Fever",
+        "url": "https://open.spotify.com/album/4WnLzmBgzwpotgPqqoIW9t"
       },
       "artists": [
         {
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
         }
       ],
-      "duration_ms": 225840,
-      "name": "Orinoco Flow (Sail Away) - Single Version",
-      "url": "https://open.spotify.com/track/3VObTAziCKm64udBqry9Ax"
+      "duration_ms": 238266,
+      "name": "Love at First Sight",
+      "url": "https://open.spotify.com/track/0NMUFQdEFjftg0BQnyZCsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold F",
+        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
+      },
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eye In The Sky",
+        "url": "https://open.spotify.com/album/71Y6kburF8k1qyHycovHy8"
+      },
+      "artists": [
+        {
+          "name": "The Alan Parsons Project",
+          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
+        }
+      ],
+      "duration_ms": 214430,
+      "name": "Mammagamma",
+      "url": "https://open.spotify.com/track/3g2wrzcMmo2iSSw5Q9vTN6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Control (Renas Remix)",
+        "url": "https://open.spotify.com/album/11WeshnOn1G3G1luT1d4VL"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        },
+        {
+          "name": "Renas",
+          "url": "https://open.spotify.com/artist/4UdggJL2IG58o6VXY7U4MS"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Self Control (Renas Remix)",
+      "url": "https://open.spotify.com/track/5Xjeg5ylXpz8uRwi9MomD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Sound Of Egypt Episode 541",
+        "url": "https://open.spotify.com/album/7KT2lmYS4WliWjF6USa3D1"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        },
+        {
+          "name": "Orkidea",
+          "url": "https://open.spotify.com/artist/0aXrPFaq0OZY0Iv87lEWR7"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Running Up That Hill (FSOE 541) - Orkidea Remix",
+      "url": "https://open.spotify.com/track/2Ni7hJ4EQHWmOuMvmw23kl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somebody's Watching Me (Syzz Remix)",
+        "url": "https://open.spotify.com/album/1Vc0bXQ2kxa5Sd1sECrwgA"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        },
+        {
+          "name": "Syzz",
+          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+        }
+      ],
+      "duration_ms": 142020,
+      "name": "Somebody's Watching Me - Syzz Remix",
+      "url": "https://open.spotify.com/track/4dKgJOFyPs5qMTC925ikc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": null,
@@ -763,6 +691,158 @@
     {
       "added_at": null,
       "album": {
+        "name": "Synchronicity (Remastered 2003)",
+        "url": "https://open.spotify.com/album/5W9OT0a5iZlBr83a9WMKFY"
+      },
+      "artists": [
+        {
+          "name": "The Police",
+          "url": "https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE"
+        }
+      ],
+      "duration_ms": 253920,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
+        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 233182,
+      "name": "Lana - From 'Risky Business' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6VydImNgwX8dZdU2WcHLfH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Orinoco Flow (Sail Away)",
+        "url": "https://open.spotify.com/album/6euqAQ8Nl6axefUvo2oJMQ"
+      },
+      "artists": [
+        {
+          "name": "Enya",
+          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
+        }
+      ],
+      "duration_ms": 225840,
+      "name": "Orinoco Flow (Sail Away) - Single Version",
+      "url": "https://open.spotify.com/track/3VObTAziCKm64udBqry9Ax"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 233270,
+      "name": "Run To You",
+      "url": "https://open.spotify.com/track/2RWFncSWZEhSRRifqiDNVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Age of Consent",
+        "url": "https://open.spotify.com/album/6OMYQUITdN6wBaWfEtgooI"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 302413,
+      "name": "Smalltown Boy",
+      "url": "https://open.spotify.com/track/5vmRQ3zELMLUQPo2FLQ76x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broadcast",
+        "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 280400,
+      "name": "(I Just) Died In Your Arms",
+      "url": "https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take on Me (Kygo Remix)",
+        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Take on Me - Kygo Remix",
+      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "My Favourites",
+        "url": "https://open.spotify.com/album/3T9bzIzRASahbQomAAhzOt"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        },
+        {
+          "name": "Peter Ries",
+          "url": "https://open.spotify.com/artist/1aEmlVUsELFecVCxatIeR6"
+        }
+      ],
+      "duration_ms": 226333,
+      "name": "Around My Heart - Remix",
+      "url": "https://open.spotify.com/track/1wYllEHi3VGRfif8dRvSQe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It's Hard",
+        "url": "https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "duration_ms": 339106,
+      "name": "Eminence Front",
+      "url": "https://open.spotify.com/track/0LN5gIsS5tQSmRzQrHSaTR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Read My Lips (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6DQ7SZzXjY23vh79eBeNLd"
       },
@@ -783,110 +863,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Any Further (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4OUaPGTJDxhHCSyZxdWvXk"
+        "name": "The OMD Singles",
+        "url": "https://open.spotify.com/album/5uFEmUXG2pxIbWVjTZCDEJ"
       },
       "artists": [
         {
-          "name": "Dennis Edwards",
-          "url": "https://open.spotify.com/artist/15Kzh2fTgAW2AGXcGD32Kp"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         },
         {
-          "name": "Siedah Garrett",
-          "url": "https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT"
+          "name": "Moby",
+          "url": "https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF"
         }
       ],
-      "duration_ms": 242213,
-      "name": "Don't Look Any Further",
-      "url": "https://open.spotify.com/track/3GiSgsFwPp8zY7yTGsRlyR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scaramucce",
-        "url": "https://open.spotify.com/album/0tu7BbRbCD3vQn5c0YsjTd"
-      },
-      "artists": [
-        {
-          "name": "Gian Piero Reverberi",
-          "url": "https://open.spotify.com/artist/3x4ZOtvWL1tRd6aFUxeBoK"
-        },
-        {
-          "name": "L. Giordano",
-          "url": "https://open.spotify.com/artist/30EJumKjj8QofOim0KmbpP"
-        },
-        {
-          "name": "Rondò Veneziano",
-          "url": "https://open.spotify.com/artist/6YH4dTGIZZvVO55Sb3095Q"
-        }
-      ],
-      "duration_ms": 137826,
-      "name": "La serenissima",
-      "url": "https://open.spotify.com/track/1g58Fcvp5tqejtIEvgjY6o"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Promise (Redux)",
-        "url": "https://open.spotify.com/album/3BQkEnV6Lek9K2Ak2yrJfK"
-      },
-      "artists": [
-        {
-          "name": "When In Rome",
-          "url": "https://open.spotify.com/artist/3jOO5nZ2XPmc232rNjzqJy"
-        }
-      ],
-      "duration_ms": 220969,
-      "name": "The Promise - Redux",
-      "url": "https://open.spotify.com/track/53eGKiRM3WPIn8dD8V7EJ7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Book Of Love",
-        "url": "https://open.spotify.com/album/55egvXrYk8zuETwYpwMt53"
-      },
-      "artists": [
-        {
-          "name": "Book Of Love",
-          "url": "https://open.spotify.com/artist/0ow8F3xGkmZWVulTtaiFQo"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Boy",
-      "url": "https://open.spotify.com/track/4FQhTIpf3bnxGsCr0dHhtr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Axel F (From \"Beverly Hills Cop\")",
-        "url": "https://open.spotify.com/album/7LOTAy5PoqajFrCol5KSs1"
-      },
-      "artists": [
-        {
-          "name": "Harold Faltermeyer",
-          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
-        }
-      ],
-      "duration_ms": 169960,
-      "name": "Shoot Out",
-      "url": "https://open.spotify.com/track/5OKva21PjcTvMq4evfCRn2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moments In Love",
-        "url": "https://open.spotify.com/album/5p1WIYtuPiVLmx5Ftw0BHo"
-      },
-      "artists": [
-        {
-          "name": "The Art Of Noise",
-          "url": "https://open.spotify.com/artist/77zrvBORXcnTyysjjKRfBU"
-        }
-      ],
-      "duration_ms": 279720,
-      "name": "Moments In Love",
-      "url": "https://open.spotify.com/track/0iAu1nA0Vq8zMVPpvlehyp"
+      "duration_ms": 279493,
+      "name": "Souvenir - Moby Remix",
+      "url": "https://open.spotify.com/track/4bajxpqK2LacBM3xduVPB5"
     }
   ],
   "unique_name": "80s Mix",
