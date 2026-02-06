@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 29 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 |
 | 30 | [Bandit](https://open.spotify.com/track/38uJklsF1szlTpIE8SRPgx) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Til Every Petal Drops](https://open.spotify.com/album/1UVCp05RQ7M90Ffle2viPQ) | 2:36 |
 
-Snapshot ID: `aYAWHwAAAACJJvkj/EXqIIMslIeLSqsP`
+Snapshot ID: `aYSnpwAAAAA8VpH4R4ZyRLwwSqAV3sxM`
