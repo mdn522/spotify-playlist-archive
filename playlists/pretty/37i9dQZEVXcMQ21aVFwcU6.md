@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 29 | [By the Shore](https://open.spotify.com/track/768YaMksIkFWxCo8QmP6oH) | [Tomas Skyldeberg](https://open.spotify.com/artist/3yeLWKlxZaq5grWz85s0Ef) | [By the Shore](https://open.spotify.com/album/41VPUIpqubPPKYdOP6YPLC) | 3:00 |
 | 30 | [Vapor Trails](https://open.spotify.com/track/41A8MCTE0woXpoVHrCMStj) | [Lyst](https://open.spotify.com/artist/2P8SY4USMzQn1mOmaJX9WS), [Echo Wolf](https://open.spotify.com/artist/60ZQkaf0EkOhPZOKlwYv5s) | [Vapor Trails](https://open.spotify.com/album/5XrW10bZen6b5kbSQv2B2A) | 3:35 |
 
-Snapshot ID: `aYjPIAAAAAC4Z2MVQqklJ+dOahLaQaGT`
+Snapshot ID: `aZIJoAAAAABwdJcbyF/ptxVP13p5FfFY`
