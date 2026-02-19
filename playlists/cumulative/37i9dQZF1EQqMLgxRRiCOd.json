@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-28",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV3zejz4MILI>Astrud Gilberto</a>, <a href=spotify:playlist:37i9dQZF1EIWG9hJQPf8ur>Bobby Darin</a>, <a href=spotify:playlist:37i9dQZF1EIWkC52ImzeTI>Frank Sinatra</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIV3zejz4MILI>Astrud Gilberto</a>, <a href=spotify:playlist:37i9dQZF1EIZlhH4wh04z6>Harry Belafonte</a>, <a href=spotify:playlist:37i9dQZF1EIUITzJrEPCBA>Nat King Cole</a> and more",
   "name": "50s Mix",
   "tracks": [
     {
@@ -752,7 +752,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 130693,
       "name": "A Closer Walk",
       "url": "https://open.spotify.com/track/7vvB9xuUJVXEpMHawVD3ge"
@@ -1106,7 +1106,7 @@
       ],
       "date_added": "2026-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-05",
+      "date_removed": null,
       "duration_ms": 163093,
       "name": "A Taste of Honey",
       "url": "https://open.spotify.com/track/0sG7jrBJXZFCjIcUyDITj5"
@@ -3290,7 +3290,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 127920,
       "name": "Aloha Oe",
       "url": "https://open.spotify.com/track/0AfM9svszFUgcgmg8fKb8b"
@@ -3830,7 +3830,7 @@
       ],
       "date_added": "2025-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 125546,
       "name": "And I Love Her",
       "url": "https://open.spotify.com/track/3baBLQ8gp5WQXnthzSmXP1"
@@ -5582,7 +5582,7 @@
       ],
       "date_added": "2025-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-10",
+      "date_removed": null,
       "duration_ms": 189468,
       "name": "Banana Boat (Day-O)",
       "url": "https://open.spotify.com/track/4fHDlIntTsRGSyTg5UYZYC"
@@ -6176,7 +6176,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
@@ -6606,7 +6606,7 @@
       ],
       "date_added": "2025-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 297920,
       "name": "Black Is The Color Of My True Love's Hair - Jaffa Remix",
       "url": "https://open.spotify.com/track/5ituU6SebgZBAkS0YnbVre"
@@ -8208,7 +8208,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 156200,
       "name": "Bésame Mucho",
       "url": "https://open.spotify.com/track/3OxZRHorxhJmbNtjr0j4hE"
@@ -8842,7 +8842,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 161000,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prélude",
       "url": "https://open.spotify.com/track/6RIW588nB6iXKoZ2pKxGtX"
@@ -10850,7 +10850,7 @@
       ],
       "date_added": "2025-02-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-17",
+      "date_removed": null,
       "duration_ms": 154906,
       "name": "Cry to Me",
       "url": "https://open.spotify.com/track/0sDeU2murnLh4yVHQ5IV70"
@@ -12914,7 +12914,7 @@
       ],
       "date_added": "2026-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 237306,
       "name": "Dreamsville",
       "url": "https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO"
@@ -14349,6 +14349,24 @@
     },
     {
       "album": {
+        "name": "1974 Recording Session",
+        "url": "https://open.spotify.com/album/2YF2iG7OTXXqljxW09mhnD"
+      },
+      "artists": [
+        {
+          "name": "Fausto Papetti",
+          "url": "https://open.spotify.com/artist/63OTxIlptWU4lh6St8Ly69"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202412,
+      "name": "Emmanuelle",
+      "url": "https://open.spotify.com/track/5VXIxMM9V9kYIQTKQTlKlK"
+    },
+    {
+      "album": {
         "name": "Sonora Matancera 30 Éxitos",
         "url": "https://open.spotify.com/album/4gEVj4AkNMqvIJiRvB0LM3"
       },
@@ -15194,7 +15212,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 140906,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/2xj9MflB27lyKVnr8rv655"
@@ -18920,7 +18938,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 150000,
       "name": "Hey There",
       "url": "https://open.spotify.com/track/7ijvt0WDUGXOjyuW3eCih8"
@@ -22256,7 +22274,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 145680,
       "name": "Indian Love Call",
       "url": "https://open.spotify.com/track/6JLpmCG8Q7c4cxxfA1iGBz"
@@ -23962,7 +23980,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 186186,
       "name": "Jericho - C2C Remix",
       "url": "https://open.spotify.com/track/6qJryPCJNVjLiM80mPNfeC"
@@ -25852,7 +25870,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 153573,
       "name": "L'amour est bleu",
       "url": "https://open.spotify.com/track/5sbw8AVlITaYHPrUB5DsiZ"
@@ -26424,7 +26442,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 134825,
       "name": "La foule (Symphonique) - Saint-Honoré Remix",
       "url": "https://open.spotify.com/track/16VaDR0vZqWtfLVxmIpVpC"
@@ -26594,7 +26612,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 153346,
       "name": "La Paloma",
       "url": "https://open.spotify.com/track/6aOxKTk3Dh08MGgnLv9862"
@@ -27490,7 +27508,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 165973,
       "name": "Let There Be Love",
       "url": "https://open.spotify.com/track/7AL1pxI9IwHoXs98G0T8cC"
@@ -27970,7 +27988,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 143240,
       "name": "Limelight",
       "url": "https://open.spotify.com/track/7oWiKK9bKEcEyDgs9BaXXB"
@@ -28050,6 +28068,24 @@
       "duration_ms": 134573,
       "name": "Lisboa Antigua",
       "url": "https://open.spotify.com/track/4M3AkA5XP1FWMVhuhKGgrQ"
+    },
+    {
+      "album": {
+        "name": "The Magic and the Music",
+        "url": "https://open.spotify.com/album/2tVYe3y0Yhy5W5cbxolb7d"
+      },
+      "artists": [
+        {
+          "name": "Nelson Riddle",
+          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156890,
+      "name": "Lisbon Antigua",
+      "url": "https://open.spotify.com/track/0eDHiBz0Ohr0zeeuZod81W"
     },
     {
       "album": {
@@ -29102,7 +29138,7 @@
       ],
       "date_added": "2025-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 154573,
       "name": "Love Is Blue",
       "url": "https://open.spotify.com/track/4ryGt6hcwzQb4z6IgW8sRG"
@@ -29636,7 +29672,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 207800,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/5s8d1MGoKy182yQF7REUXP"
@@ -29784,7 +29820,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 198946,
       "name": "Lujon (Slow Hot Wind)",
       "url": "https://open.spotify.com/track/0DVMVI58zSNxEKUBRIDJKf"
@@ -31828,7 +31864,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 128307,
       "name": "MISTY",
       "url": "https://open.spotify.com/track/4zvv5PIPB7u4pGIVp2nRnS"
@@ -33324,7 +33360,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 155706,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/6jL3YTLT6xQTGNHqTKYSWX"
@@ -36956,7 +36992,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 182493,
       "name": "Perfidia",
       "url": "https://open.spotify.com/track/15yd8siwbKke9FZEwZ7FNE"
@@ -37010,7 +37046,7 @@
       ],
       "date_added": "2024-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-11",
+      "date_removed": null,
       "duration_ms": 166506,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/4pJ86MzAZrtPi1PMJB6YAj"
@@ -37214,7 +37250,7 @@
       ],
       "date_added": "2025-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 400200,
       "name": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27 No. 2 \"Moonlight Sonata\": I. Adagio sostenuto",
       "url": "https://open.spotify.com/track/7edAygxi1ST8WJdcT48lWB"
@@ -40821,6 +40857,24 @@
     },
     {
       "album": {
+        "name": "Sail Along Silv'ry Moon",
+        "url": "https://open.spotify.com/album/0rkPxOtFWZOiuQ7GzCI3vn"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129680,
+      "name": "Sail Along Silv'ry Moon",
+      "url": "https://open.spotify.com/track/6j3N3u0uHDGrfqCrTNc1Uu"
+    },
+    {
+      "album": {
         "name": "L'Incredibile Peppino Di Capri",
         "url": "https://open.spotify.com/album/4NL19dugdmwp27q1oBaFiv"
       },
@@ -41328,7 +41382,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Sealed with a Kiss",
       "url": "https://open.spotify.com/track/6n109CSCgTkjIzLzVChLPb"
@@ -41830,7 +41884,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 207906,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/4ZJekcgT2m6UmlvMuJJuhe"
@@ -42210,7 +42264,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 150893,
       "name": "Siempre en Mi Corazón",
       "url": "https://open.spotify.com/track/5YyQVwAeIILrEfgq491Vnt"
@@ -42662,6 +42716,24 @@
       "duration_ms": 169000,
       "name": "Sleepwalk",
       "url": "https://open.spotify.com/track/5PwZqDdJmDqF25solWayeR"
+    },
+    {
+      "album": {
+        "name": "Music For Romancing",
+        "url": "https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184200,
+      "name": "Sleepy Time Gal",
+      "url": "https://open.spotify.com/track/72rn13asf665CLMBt2cpWs"
     },
     {
       "album": {
@@ -43390,7 +43462,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-15",
+      "date_removed": null,
       "duration_ms": 202360,
       "name": "Somewhere In Time",
       "url": "https://open.spotify.com/track/6Ft1cpm9MMoAjyG2iWiDfA"
@@ -43462,7 +43534,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-13",
+      "date_removed": null,
       "duration_ms": 194253,
       "name": "Song of India",
       "url": "https://open.spotify.com/track/52JqrSzJCrQNp4FUrgmroB"
@@ -46040,7 +46112,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 206226,
       "name": "Tammy",
       "url": "https://open.spotify.com/track/5fxLx196mnCIbi2OV6IplK"
@@ -47683,6 +47755,24 @@
     },
     {
       "album": {
+        "name": "The Impossible Dream",
+        "url": "https://open.spotify.com/album/4DBCywbpxCy7SPoRzI45gg"
+      },
+      "artists": [
+        {
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183066,
+      "name": "The Impossible Dream",
+      "url": "https://open.spotify.com/track/6v2dLubcC5JslAoBqWPkqL"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6vxJJlMvGaZiEYLFn5cJ5r"
       },
@@ -47712,7 +47802,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 169160,
       "name": "The Joy Of Living",
       "url": "https://open.spotify.com/track/3701hIRmh8fqJm7tFgXXqx"
@@ -47842,7 +47932,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 198709,
       "name": "The Lonely Bull",
       "url": "https://open.spotify.com/track/2FoQpMlZLxnf5b9tfdPoqB"
@@ -48246,6 +48336,24 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "album": {
+        "name": "Le più belle canzoni di Fausto Papetti",
+        "url": "https://open.spotify.com/album/1kJeLoLN8tYNid14Bi7nmm"
+      },
+      "artists": [
+        {
+          "name": "Fausto Papetti",
+          "url": "https://open.spotify.com/artist/63OTxIlptWU4lh6St8Ly69"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211360,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/1ViktDOPSyPw0MhnJj0u4I"
     },
     {
       "album": {
@@ -48808,6 +48916,24 @@
       "duration_ms": 294480,
       "name": "These Foolish Things",
       "url": "https://open.spotify.com/track/5RxZwg8IMvhgaGieGEVVeC"
+    },
+    {
+      "album": {
+        "name": "Music To Remember",
+        "url": "https://open.spotify.com/album/3Rk2wNeh1cWOZnxybeAwsL"
+      },
+      "artists": [
+        {
+          "name": "Ib Christensen",
+          "url": "https://open.spotify.com/artist/2irWR9Qveaqo7vwXSjO03J"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "These Foolish Things",
+      "url": "https://open.spotify.com/track/4BklrcFY3sDQ1yQKrDVUMS"
     },
     {
       "album": {
@@ -49456,7 +49582,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 214333,
       "name": "To Love Again (Finale) - From \"The Eddy Duchin Story\" Soundtrack",
       "url": "https://open.spotify.com/track/2JXRDQIw8ZlwdFeisOVjTO"
@@ -51171,6 +51297,42 @@
     },
     {
       "album": {
+        "name": "The Best World Sound",
+        "url": "https://open.spotify.com/album/4fzoAwHuryIZrBbDShOJeY"
+      },
+      "artists": [
+        {
+          "name": "Os Violinos Mágicos",
+          "url": "https://open.spotify.com/artist/4zHFQv4hlJJOZCYzmWcDHy"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141173,
+      "name": "Unforgetable",
+      "url": "https://open.spotify.com/track/4Cd403Rjc0KybE7AMB99CD"
+    },
+    {
+      "album": {
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "date_added": "2026-02-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196680,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/44TsypmU78QhrznBxd7k0n"
+    },
+    {
+      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -52564,7 +52726,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-18",
+      "date_removed": null,
       "duration_ms": 198599,
       "name": "What That Old Feeling Is Gone",
       "url": "https://open.spotify.com/track/5n988LPNwuciB0RdPQCsYQ"
@@ -52856,7 +53018,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-02-19",
       "duration_ms": 120333,
       "name": "When You're Smiling (The Whole World Smiles With You) - 1999 Remastered",
       "url": "https://open.spotify.com/track/4v79iygQ4tRn5GDwxDEN45"
