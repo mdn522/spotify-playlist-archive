@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,233 songs - 12 day 22 hr 33 min
+5,234 songs - 12 day 22 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3938,6 +3938,7 @@
 | [Savaria](https://open.spotify.com/track/060UbVPBhXeQhMLtef21WG) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM), [Vikram Montrose](https://open.spotify.com/artist/0aXLGxJ65wok0y1bVG6flg) | [Savaria](https://open.spotify.com/album/3oMktrcEUa7JaqmzrpWSln) | 3:08 | 2023-10-12 | 2023-10-25 |
 | [Save Me](https://open.spotify.com/track/1oCHb8rzJ36eKpdaYwIiNT) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG), [Whisnu Santika](https://open.spotify.com/artist/6gvsmDZKW5wRvjKCPnbHDh), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Save Me \(feat\. Linney\)](https://open.spotify.com/album/0n1bNDwwmi6YKPBQsV2GdW) | 2:27 | 2026-01-29 | 2026-02-13 |
 | [Save Me Tonight](https://open.spotify.com/track/4xpgAJsYNK9oWbFHm40yyK) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/59WUvoIGrL6FrhwhUYgNeM) | 3:16 | 2026-03-05 |  |
+| [Save Me Tonight \- Extended](https://open.spotify.com/track/09kVJjx9k3AUtjjvCTje4z) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Save Me Tonight](https://open.spotify.com/album/59WUvoIGrL6FrhwhUYgNeM) | 4:12 | 2026-03-05 |  |
 | [Save My Love](https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Save My Love](https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh) | 3:30 | 2026-02-19 |  |
 | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/track/4w3Uy4n1hfj1mx6ag7bII5) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Save My Love \(with Ellie Goulding & AVAION\)](https://open.spotify.com/album/3KFX6b8uxX8cORnXbSiC18) | 3:35 | 2025-06-05 | 2025-07-04 |
 | [Save My Love \(with Ellie Goulding & AVAION\) \- Nicky Romero Remix](https://open.spotify.com/track/2aVSrykCFjiyKjQGyhpqnF) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Save My Love \(Remixes\)](https://open.spotify.com/album/5CDR6gbFV74CAGeSsgurMz) | 3:48 | 2025-10-16 | 2025-10-31 |
