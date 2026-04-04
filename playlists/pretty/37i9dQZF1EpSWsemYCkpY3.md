@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 26 | [JEEP](https://open.spotify.com/track/2gUGnkgQaNTpfo2d5hZNPT) | [HEDEGAARD](https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w) | [JEEP](https://open.spotify.com/album/0bKFhX2Ybcf4PMtArNZa5c) | 2:11 |
 | 27 | [Geralt of Rivia \(The Witcher 3: Wild Hunt\) \- Lofi Remix](https://open.spotify.com/track/74o6EQZ1niu1pQsn5jwtdm) | [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Marcin Przybyłowicz](https://open.spotify.com/artist/07vycW8ICLf5hKb22PFWXw), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Geralt of Rivia \(The Witcher 3: Wild Hunt\) \[Lofi Remix\]](https://open.spotify.com/album/1wGhoNYQJIYyR5ZDWByVq5) | 3:00 |
 | 28 | [Don’t Click Play](https://open.spotify.com/track/5emOdyBZqKrL06yqZsQKFZ) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Don't Click Play](https://open.spotify.com/album/48fwvNa8p0qrqO5RKEnOTI) | 2:28 |
-| 29 | [Gehra Hua](https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 6:02 |
-| 30 | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \- From "The Marvels"](https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \[From "The Marvels"\]](https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4) | 3:00 |
+| 29 | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \- From "The Marvels"](https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \[From "The Marvels"\]](https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4) | 3:00 |
+| 30 | [The Walls](https://open.spotify.com/track/2N5I0ZGwlNZQfeK3436bnq) | [Neon Capital](https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J) | [1985](https://open.spotify.com/album/1XwgfPzzkiFkDa7YtfbXhV) | 3:12 |
 
-Snapshot ID: `acz9EwAAAAAEesXJmTTc9sFAZgMxaIQR`
+Snapshot ID: `adCEcwAAAACdmw5i9f8GH2lx7lap9MuD`
