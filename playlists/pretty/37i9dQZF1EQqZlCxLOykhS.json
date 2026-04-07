@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a>, <a href=spotify:playlist:37i9dQZF1EIUZJLW9XycEV>Johnny Hates Jazz</a>, <a href=spotify:playlist:37i9dQZF1EIWNPnUpnvrTB>Rockwell</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYCDsUXTBScY>Michael Jackson</a>, <a href=spotify:playlist:37i9dQZF1EIXCNcXl8VN8Q>Eurythmics</a>, <a href=spotify:playlist:37i9dQZF1EIVYcBi56rtE7>Bonnie Tyler</a> and more",
   "num_followers": 0,
   "original_name": "80s Mix",
   "owner": {
@@ -8,6 +8,22 @@
   },
   "snapshot_id": "AAAAAHxIWcI6W++1BkF5nhbQCKXBiVGZ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad (Remastered)",
+        "url": "https://open.spotify.com/album/3Us57CjssWnHjTUIXBuIeH"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 232801,
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b"
+    },
     {
       "added_at": null,
       "album": {
@@ -35,34 +51,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
       "artists": [
         {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
         }
       ],
-      "duration_ms": 207346,
-      "name": "Shattered Dreams - Remastered 2008",
-      "url": "https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+      "duration_ms": 261340,
+      "name": "Holding Out for a Hero - Single Version",
+      "url": "https://open.spotify.com/track/3qE6p9fN4YeILT0cQcY1cD"
     },
     {
       "added_at": null,
@@ -83,22 +83,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Want Your Sex",
-        "url": "https://open.spotify.com/album/4tx01vn62FAbTMXXkTGV96"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 286706,
-      "name": "I Want Your Sex - Rhythm 1 - Lust",
-      "url": "https://open.spotify.com/track/5kiOZ0ey8yeeQB3X7iYDcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Into A Secret Land",
         "url": "https://open.spotify.com/album/1nIn3GKdFOt9olxMl6zUzV"
       },
@@ -115,18 +99,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+        "name": "I Want Your Sex",
+        "url": "https://open.spotify.com/album/4tx01vn62FAbTMXXkTGV96"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 259360,
-      "name": "Don't Stop The Dance",
-      "url": "https://open.spotify.com/track/2bTe1fvWK8mfjSP6NqXDzU"
+      "duration_ms": 286706,
+      "name": "I Want Your Sex - Rhythm 1 - Lust",
+      "url": "https://open.spotify.com/track/5kiOZ0ey8yeeQB3X7iYDcN"
     },
     {
       "added_at": null,
@@ -167,6 +151,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Shattered Dreams - Remastered 2008",
+      "url": "https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 259360,
+      "name": "Don't Stop The Dance",
+      "url": "https://open.spotify.com/track/2bTe1fvWK8mfjSP6NqXDzU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stella (Remastered 2005)",
+        "url": "https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Desire - Remastered 2005",
+      "url": "https://open.spotify.com/track/5TvT53s1G2weg9Tu2Etf6j"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hyperborea (Deluxe Version / Remastered 2020)",
         "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
       },
@@ -179,26 +211,6 @@
       "duration_ms": 239238,
       "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Don't You Want Me (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq"
-      },
-      "artists": [
-        {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 210247,
-      "name": "Don't You Want Me - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03"
     },
     {
       "added_at": null,
@@ -223,54 +235,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kickboxer: The Deluxe Edition Soundtrack",
-        "url": "https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4"
+        "name": "Don't You Want Me (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/6PyR3pcLILu7KgE7axImpq"
       },
       "artists": [
         {
-          "name": "Paul Hertzog",
-          "url": "https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d"
-        }
-      ],
-      "duration_ms": 108066,
-      "name": "Advanced Training",
-      "url": "https://open.spotify.com/track/0HpKj1IlWhBBnRmaU4WQqR"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stella (Remastered 2005)",
-        "url": "https://open.spotify.com/album/3Df3vYTyJKTZobnCvNUNMC"
-      },
-      "artists": [
-        {
-          "name": "Yello",
-          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
-        }
-      ],
-      "duration_ms": 221090,
-      "name": "Desire - Remastered 2005",
-      "url": "https://open.spotify.com/track/5TvT53s1G2weg9Tu2Etf6j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Listen To Your Heart (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         },
         {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 146268,
-      "name": "Listen To Your Heart (Alle Farben Remix)",
-      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
+      "duration_ms": 210247,
+      "name": "Don't You Want Me - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/3BTzwW4PLNDtREjesuYy03"
     },
     {
       "added_at": null,
@@ -287,90 +267,6 @@
       "duration_ms": 265013,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/4fE3Pyz3Jfu7LL5NUB1iMl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Control",
-        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 246440,
-      "name": "Self Control",
-      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Your Love (Diplo Remix)",
-        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
-      },
-      "artists": [
-        {
-          "name": "The Outfield",
-          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
-        },
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Your Love - Diplo Remix",
-      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dünya Listelerinden Seçmeler",
-        "url": "https://open.spotify.com/album/2ZsDJNxrNJvMVEKJ0UGe5T"
-      },
-      "artists": [
-        {
-          "name": "Cengiz Coşkuner",
-          "url": "https://open.spotify.com/artist/6wzAEOPDFC6Rcusl6Qvovw"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "Chery Chery Lady",
-      "url": "https://open.spotify.com/track/7BZduLF6l3XlPhVpTPUMkv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mike + The Mechanics",
-        "url": "https://open.spotify.com/album/1qbQGjBq2bIcwptGpOcK9D"
-      },
-      "artists": [
-        {
-          "name": "Mike + The Mechanics",
-          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
-        }
-      ],
-      "duration_ms": 374733,
-      "name": "Silent Running",
-      "url": "https://open.spotify.com/track/59D5esFdYajdsJMpBeXB8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "...But Seriously (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 322133,
-      "name": "Another Day in Paradise - 2016 Remaster",
-      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
     },
     {
       "added_at": null,
@@ -403,6 +299,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mike + The Mechanics",
+        "url": "https://open.spotify.com/album/1qbQGjBq2bIcwptGpOcK9D"
+      },
+      "artists": [
+        {
+          "name": "Mike + The Mechanics",
+          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
+        }
+      ],
+      "duration_ms": 249826,
+      "name": "All I Need Is A Miracle",
+      "url": "https://open.spotify.com/track/5hrNXBpS7BDrZtIsqNpReY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kickboxer: The Deluxe Edition Soundtrack",
+        "url": "https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4"
+      },
+      "artists": [
+        {
+          "name": "Paul Hertzog",
+          "url": "https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d"
+        }
+      ],
+      "duration_ms": 108066,
+      "name": "Advanced Training",
+      "url": "https://open.spotify.com/track/0HpKj1IlWhBBnRmaU4WQqR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Control",
+        "url": "https://open.spotify.com/album/5cwUCXPFFfNsnk4qipc40D"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        }
+      ],
+      "duration_ms": 246440,
+      "name": "Self Control",
+      "url": "https://open.spotify.com/track/6JNJERZGJwDVgkmbohBw7u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enola Gay (Remixes)",
+        "url": "https://open.spotify.com/album/3aGZ6WrllqaX5cgxJ7guea"
+      },
+      "artists": [
+        {
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
+        }
+      ],
+      "duration_ms": 288813,
+      "name": "Enola Gay - Extended Mix",
+      "url": "https://open.spotify.com/track/2E7xQHt7Rm4mHBT1i28Rwi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All That Jazz",
+        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
+      },
+      "artists": [
+        {
+          "name": "Breathe",
+          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
+        }
+      ],
+      "duration_ms": 259506,
+      "name": "Hands To Heaven",
+      "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Belle Epoque",
         "url": "https://open.spotify.com/album/6h7WLqKYr0ukMoizstDBdm"
       },
@@ -419,22 +395,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vital Idol: Revitalized",
-        "url": "https://open.spotify.com/album/0muJUVeQXtAA1eRO4mgDU9"
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
         },
         {
-          "name": "CRAY",
-          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         }
       ],
-      "duration_ms": 208386,
-      "name": "White Wedding - CRAY Remix",
-      "url": "https://open.spotify.com/track/6hddzvFg1hEQJi7G8JjaTa"
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
     },
     {
       "added_at": null,
@@ -455,6 +431,74 @@
     {
       "added_at": null,
       "album": {
+        "name": "Listen To Your Heart (Alle Farben Remix)",
+        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
+      },
+      "artists": [
+        {
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 146268,
+      "name": "Listen To Your Heart (Alle Farben Remix)",
+      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dünya Listelerinden Seçmeler",
+        "url": "https://open.spotify.com/album/2ZsDJNxrNJvMVEKJ0UGe5T"
+      },
+      "artists": [
+        {
+          "name": "Cengiz Coşkuner",
+          "url": "https://open.spotify.com/artist/6wzAEOPDFC6Rcusl6Qvovw"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "Chery Chery Lady",
+      "url": "https://open.spotify.com/track/7BZduLF6l3XlPhVpTPUMkv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richard Marx",
+        "url": "https://open.spotify.com/album/3C2cO3wo4f2bLzOpFypgmZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Marx",
+          "url": "https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6"
+        }
+      ],
+      "duration_ms": 270693,
+      "name": "Endless Summer Nights",
+      "url": "https://open.spotify.com/track/2iXH35MhsqO5Ry8a7iptpJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is No Crime",
+        "url": "https://open.spotify.com/album/6v0QOxlB0rPhe3jucwSJCR"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 247026,
+      "name": "Come Back and Stay",
+      "url": "https://open.spotify.com/track/3y4IHxlyWoF1Y3RbiWXVVr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Miami Vice: Special Edition",
         "url": "https://open.spotify.com/album/1uLoZJxqOlwJ8pFmbRgwo5"
       },
@@ -471,34 +515,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Stop The Dance",
-        "url": "https://open.spotify.com/album/5jG11yW25owwytAXshTySN"
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
         }
       ],
-      "duration_ms": 237160,
-      "name": "Don't Stop The Dance - Single Version",
-      "url": "https://open.spotify.com/track/6hH4epZEl4tVk03Mq0OFQD"
+      "duration_ms": 234693,
+      "name": "Big in Japan - Single Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/3TieIQTlipul7oxGldyX09"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Quarterflash",
-        "url": "https://open.spotify.com/album/4kW6CPrK2OPc0OrEcwOFQN"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
       },
       "artists": [
         {
-          "name": "Quarterflash",
-          "url": "https://open.spotify.com/artist/3VJakY5Yw5phAOF4Bada5v"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 232626,
-      "name": "Harden My Heart",
-      "url": "https://open.spotify.com/track/3CSLUIrI2KPMulHR5bh17O"
+      "duration_ms": 265293,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/79FPdsekcDp7RWK1IzClbr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "7\" Singles",
+        "url": "https://open.spotify.com/album/7b17yDveQxRP6GM2nuh5iG"
+      },
+      "artists": [
+        {
+          "name": "Level 42",
+          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+        }
+      ],
+      "duration_ms": 227680,
+      "name": "Something About You - 7\" Version",
+      "url": "https://open.spotify.com/track/0GZzK43dJ6uNjOuitlCxDr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harold F",
+        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
+      },
+      "artists": [
+        {
+          "name": "Harold Faltermeyer",
+          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
+        }
+      ],
+      "duration_ms": 180866,
+      "name": "Axel F",
+      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
     },
     {
       "added_at": null,
@@ -519,18 +595,202 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/6RKJu77xXDgTqGWCEmzMll"
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
       },
       "artists": [
         {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
         }
       ],
-      "duration_ms": 265293,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/79FPdsekcDp7RWK1IzClbr"
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Living Years",
+        "url": "https://open.spotify.com/album/7vDrdIOxvQH61tV0tcsAW9"
+      },
+      "artists": [
+        {
+          "name": "Mike + The Mechanics",
+          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "The Living Years",
+      "url": "https://open.spotify.com/track/1eVMuGzCj1q8pHfUdbQ042"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "...But Seriously (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 322133,
+      "name": "Another Day in Paradise - 2016 Remaster",
+      "url": "https://open.spotify.com/track/1NCuYqMc8hKMb4cpNTcJbD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Human Racing",
+        "url": "https://open.spotify.com/album/5cl4eOKYrrX0pcFFnEieYR"
+      },
+      "artists": [
+        {
+          "name": "Nik Kershaw",
+          "url": "https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac"
+        }
+      ],
+      "duration_ms": 277053,
+      "name": "Wouldn't It Be Good",
+      "url": "https://open.spotify.com/track/00FDHurakzVEiPutdUxXXq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ten On One",
+        "url": "https://open.spotify.com/album/3hfGA48qunf7KofX40XEVc"
+      },
+      "artists": [
+        {
+          "name": "Sandra",
+          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Stop For A Minute",
+      "url": "https://open.spotify.com/track/1tepMSz0tl9losf3yW7Mv8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take on Me (Kygo Remix)",
+        "url": "https://open.spotify.com/album/3R2Movau61LViutgG8JYtV"
+      },
+      "artists": [
+        {
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+        },
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "Take on Me - Kygo Remix",
+      "url": "https://open.spotify.com/track/5UHuuQGEgMbZrYnHjQG9ny"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In The Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/69NHimQwwBR7Pt8bJU2In4"
+      },
+      "artists": [
+        {
+          "name": "Modern Talking",
+          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
+        }
+      ],
+      "duration_ms": 198493,
+      "name": "Geronimo's Cadillac",
+      "url": "https://open.spotify.com/track/5burXYqqO8z0GEnltThZKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixes / Extended / Live",
+        "url": "https://open.spotify.com/album/4VB3neieAWbLxdcEvvpmLq"
+      },
+      "artists": [
+        {
+          "name": "Cutting Crew",
+          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
+        }
+      ],
+      "duration_ms": 407200,
+      "name": "(I Just) Died In Your Arms - 12\" Mix",
+      "url": "https://open.spotify.com/track/6iZjpoftyT0NPZMYzHdyvC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kickboxer: The Deluxe Edition Soundtrack",
+        "url": "https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4"
+      },
+      "artists": [
+        {
+          "name": "Paul Hertzog",
+          "url": "https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d"
+        }
+      ],
+      "duration_ms": 242173,
+      "name": "The Eagle Lands",
+      "url": "https://open.spotify.com/track/7fbf7wuEC6RsGo5XwMuNWp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hates Jazz",
+          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
+        }
+      ],
+      "duration_ms": 270133,
+      "name": "Turn Back The Clock",
+      "url": "https://open.spotify.com/track/0vsRt9W2VisbZW6mqqjbp8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Fifth",
+        "url": "https://open.spotify.com/album/3CgqSsYicp7xEqxd7AtSSA"
+      },
+      "artists": [
+        {
+          "name": "Bad Boys Blue",
+          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
+        }
+      ],
+      "duration_ms": 228666,
+      "name": "Lady in Black",
+      "url": "https://open.spotify.com/track/3ZUn4Yu2O0z6TydGaRiS1A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vital Idol: Revitalized",
+        "url": "https://open.spotify.com/album/0muJUVeQXtAA1eRO4mgDU9"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "CRAY",
+          "url": "https://open.spotify.com/artist/7pylhrS9HpyWwbTtmEqg9K"
+        }
+      ],
+      "duration_ms": 208386,
+      "name": "White Wedding - CRAY Remix",
+      "url": "https://open.spotify.com/track/6hddzvFg1hEQJi7G8JjaTa"
     },
     {
       "added_at": null,
@@ -571,38 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "7\" Singles",
-        "url": "https://open.spotify.com/album/7b17yDveQxRP6GM2nuh5iG"
+        "name": "Man Of Colours",
+        "url": "https://open.spotify.com/album/7JX0CoIaXGiUVniWTRxGut"
       },
       "artists": [
         {
-          "name": "Level 42",
-          "url": "https://open.spotify.com/artist/0L9xkvBPcEp1nrhDrodxc5"
+          "name": "ICEHOUSE",
+          "url": "https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk"
         }
       ],
-      "duration_ms": 227680,
-      "name": "Something About You - 7\" Version",
-      "url": "https://open.spotify.com/track/0GZzK43dJ6uNjOuitlCxDr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Wanna Dance with Somebody (Who Loves Me) [David Solomon Remix]",
-        "url": "https://open.spotify.com/album/3qrEW19p3dENwHK2Opv0Ul"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "David Solomon",
-          "url": "https://open.spotify.com/artist/3fzRb5i8Wn7ao2KPDxEiTR"
-        }
-      ],
-      "duration_ms": 201711,
-      "name": "I Wanna Dance with Somebody (Who Loves Me) - David Solomon Remix",
-      "url": "https://open.spotify.com/track/5qjych2Ckn8Y1AMfsdgSUg"
+      "duration_ms": 203920,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/4rivM3ZBDYG9sImLRRQ9Rc"
     },
     {
       "added_at": null,
@@ -619,258 +859,6 @@
       "duration_ms": 232631,
       "name": "Send Me An Angel",
       "url": "https://open.spotify.com/track/3HCDGtLZabH3umLgwCBpDB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jump (Armin van Buuren Remix)",
-        "url": "https://open.spotify.com/album/1mN1oXwwt5QGEnwqqgyNwV"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        },
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 219721,
-      "name": "Jump - Armin van Buuren Remix",
-      "url": "https://open.spotify.com/track/6aQ2Xtx7z1p2VM9w26yCZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Is No Crime",
-        "url": "https://open.spotify.com/album/6v0QOxlB0rPhe3jucwSJCR"
-      },
-      "artists": [
-        {
-          "name": "Bad Boys Blue",
-          "url": "https://open.spotify.com/artist/6OXILsPD4WNJ7XiGMAkCWa"
-        }
-      ],
-      "duration_ms": 247026,
-      "name": "Come Back and Stay",
-      "url": "https://open.spotify.com/track/3y4IHxlyWoF1Y3RbiWXVVr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kickboxer: The Deluxe Edition Soundtrack",
-        "url": "https://open.spotify.com/album/5GEMDzzKJzVJkwRiPYPzn4"
-      },
-      "artists": [
-        {
-          "name": "Paul Hertzog",
-          "url": "https://open.spotify.com/artist/409cI7liPsNtYwPyKLln7d"
-        }
-      ],
-      "duration_ms": 242173,
-      "name": "The Eagle Lands",
-      "url": "https://open.spotify.com/track/7fbf7wuEC6RsGo5XwMuNWp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remixed Sides",
-        "url": "https://open.spotify.com/album/0lX4ieUvpJ647IjenGzl6X"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 306573,
-      "name": "In the Air Tonight - '88 Remix",
-      "url": "https://open.spotify.com/track/7kJ0UkAMhWvu7bbJDJo7cr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Favourites",
-        "url": "https://open.spotify.com/album/3T9bzIzRASahbQomAAhzOt"
-      },
-      "artists": [
-        {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-        },
-        {
-          "name": "Peter Ries",
-          "url": "https://open.spotify.com/artist/1aEmlVUsELFecVCxatIeR6"
-        }
-      ],
-      "duration_ms": 226333,
-      "name": "Around My Heart - Remix",
-      "url": "https://open.spotify.com/track/1wYllEHi3VGRfif8dRvSQe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Self Control (Expanded)",
-        "url": "https://open.spotify.com/album/19nQ6mMaFc9g9sMlIdLvW0"
-      },
-      "artists": [
-        {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Self Control - Extended Version",
-      "url": "https://open.spotify.com/track/7skyR8nK3vnDikYFBoUVw6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First & Second Album (30th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/15JQStE0eqKcRp2tYzDoRD"
-      },
-      "artists": [
-        {
-          "name": "Modern Talking",
-          "url": "https://open.spotify.com/artist/79bxUQsBIXO8nVLB9fYKf7"
-        }
-      ],
-      "duration_ms": 334600,
-      "name": "You're My Heart, You're My Soul",
-      "url": "https://open.spotify.com/track/0Zn63G0XTiqXwr1KSmARWz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mixes / Extended / Live",
-        "url": "https://open.spotify.com/album/4VB3neieAWbLxdcEvvpmLq"
-      },
-      "artists": [
-        {
-          "name": "Cutting Crew",
-          "url": "https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i"
-        }
-      ],
-      "duration_ms": 407200,
-      "name": "(I Just) Died In Your Arms - 12\" Mix",
-      "url": "https://open.spotify.com/track/6iZjpoftyT0NPZMYzHdyvC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
-      },
-      "artists": [
-        {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
-        }
-      ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mike + The Mechanics",
-        "url": "https://open.spotify.com/album/1qbQGjBq2bIcwptGpOcK9D"
-      },
-      "artists": [
-        {
-          "name": "Mike + The Mechanics",
-          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
-        }
-      ],
-      "duration_ms": 249826,
-      "name": "All I Need Is A Miracle",
-      "url": "https://open.spotify.com/track/5hrNXBpS7BDrZtIsqNpReY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harold F",
-        "url": "https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc"
-      },
-      "artists": [
-        {
-          "name": "Harold Faltermeyer",
-          "url": "https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv"
-        }
-      ],
-      "duration_ms": 180866,
-      "name": "Axel F",
-      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sexual Healing (Kygo Radio Edit)",
-        "url": "https://open.spotify.com/album/544HGkpSyLcOvMTXJUr8jE"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Sexual Healing - Kygo Radio Edit",
-      "url": "https://open.spotify.com/track/2ErAwXXUgBGLXwm4IgZRQv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All That Jazz",
-        "url": "https://open.spotify.com/album/2t2kQu1Zd9vZRb71Vx1ASf"
-      },
-      "artists": [
-        {
-          "name": "Breathe",
-          "url": "https://open.spotify.com/artist/1MNeXu0284O7mQWgF1YRc0"
-        }
-      ],
-      "duration_ms": 259506,
-      "name": "Hands To Heaven",
-      "url": "https://open.spotify.com/track/0LBtQiEVfP4ysLQ43Do8uN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ammonia Avenue",
-        "url": "https://open.spotify.com/album/4BgkrFXgNHaJkX7AhKXveB"
-      },
-      "artists": [
-        {
-          "name": "The Alan Parsons Project",
-          "url": "https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d"
-        }
-      ],
-      "duration_ms": 237137,
-      "name": "Pipeline (2024 Remaster)",
-      "url": "https://open.spotify.com/track/0R7newiIDBkY14KTnoVXry"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shamrock Diaries",
-        "url": "https://open.spotify.com/album/4DshZuvIZmKThL2D3cPJOZ"
-      },
-      "artists": [
-        {
-          "name": "Chris Rea",
-          "url": "https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2"
-        }
-      ],
-      "duration_ms": 237560,
-      "name": "Josephine",
-      "url": "https://open.spotify.com/track/6JFfOp1LTXnyDCTfHlOc9j"
     }
   ],
   "unique_name": "80s Mix",

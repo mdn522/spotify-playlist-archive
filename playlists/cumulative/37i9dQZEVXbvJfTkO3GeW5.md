@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,363 songs - 13 day 6 hr 16 min
+5,364 songs - 13 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -574,6 +574,7 @@
 | [Big Win](https://open.spotify.com/track/4MXU93dz6zL5fG6xJI6QGF) | [Serenity Summit](https://open.spotify.com/artist/36hPaZrpgMEWLpwYdR1Zin), [Televisor](https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC) | [Big Win](https://open.spotify.com/album/2wMXU3mIHDBp9F6uxARjGi) | 1:51 | 2024-01-04 | 2024-01-12 |
 | [Bijli](https://open.spotify.com/track/3hts3cIWNG8A2063si9GLP) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Mika Singh](https://open.spotify.com/artist/5T2I75UlGBcWd5nVyfmL13), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Bijli \(From "Govinda Naam Mera"\)](https://open.spotify.com/album/3cXSO3oTliGRZG0hGugaXk) | 2:54 | 2022-12-01 | 2022-12-25 |
 | [Bilionera](https://open.spotify.com/track/7MBGAPNE8RTCpO5XJdjzuX) | [Hari Tangulu](https://open.spotify.com/artist/1Zs41YwJeUY38ZV6q9WFbZ), [Otilia](https://open.spotify.com/artist/6FmY0gDovdeo6FjKr6zlil) | [Bilionera](https://open.spotify.com/album/2UCSxE5NaaeNKAsYWBvxvb) | 3:07 | 2023-02-09 | 2023-02-12 |
+| [Bilionera](https://open.spotify.com/track/74SIPqA7T9CvhR7yXXBHVO) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Merlin](https://open.spotify.com/artist/2MaEWDHjb1owUg3SGhS1vp), [TWO OF YOU](https://open.spotify.com/artist/0LH34iFv5AEmMRxi57FMpj), [Matam \(DE\)](https://open.spotify.com/artist/0CKC3ZSZyO8qtWs75HdvYM) | [Bilionera](https://open.spotify.com/album/3CoSXCTEetgpfvWcFeFyUL) | 2:29 | 2026-04-07 |  |
 | [Bilionera](https://open.spotify.com/track/4pUh3JJrouxFukt7tbWKcW) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl) | [Bilionera](https://open.spotify.com/album/0y0zisyqpFIdEDDhaLxE90) | 2:34 | 2023-11-23 | 2023-12-08 |
 | [Bilionera \- Live Session](https://open.spotify.com/track/3mNT5kL4rIpxM9zuaIXSoV) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT) | [Bilionera \(Live Session\)](https://open.spotify.com/album/1GRP0nMK4xkkxGP8bAiYH8) | 3:07 | 2022-05-19 | 2022-05-27 |
 | [Bilionera \- Remix](https://open.spotify.com/track/1a5bF1N4UlDQzpRuX1QDi9) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Chaow](https://open.spotify.com/artist/6thRUVqrvYmWO6pi5de5Ve) | [Bilionera \(Remix\)](https://open.spotify.com/album/1XOutTRmfUByVAG3JjXNJ2) | 2:38 | 2024-05-09 | 2024-05-17 |
