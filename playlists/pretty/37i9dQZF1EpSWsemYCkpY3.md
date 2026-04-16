@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 29 | [The Walls](https://open.spotify.com/track/2N5I0ZGwlNZQfeK3436bnq) | [Neon Capital](https://open.spotify.com/artist/7oat0qyfHf6VP8SnMwSN0J) | [1985](https://open.spotify.com/album/1XwgfPzzkiFkDa7YtfbXhV) | 3:12 |
 | 30 | [Jump Up](https://open.spotify.com/track/1fLjONoPSAscIGo84YDxaV) | [Ad Voca](https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx) | [Jump Up](https://open.spotify.com/album/5l5eRsh4zolTsIRPT3WnkG) | 2:46 |
 
-Snapshot ID: `adxcJgAAAACahTIKylRXCwu5isb1ukvG`
+Snapshot ID: `aeAzzAAAAABA6W2WBu2FTA7Ezg3hbj8N`
