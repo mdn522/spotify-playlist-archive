@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,422 songs - 13 day 9 hr 40 min
+5,423 songs - 13 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1649,7 +1649,7 @@
 | [Fine Wine](https://open.spotify.com/track/6K52pf928JK0WkxUn5Zzy2) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Fine Wine In Italy](https://open.spotify.com/album/5lV6TjkSpiIrVzIUkovkoU) | 2:56 | 2024-11-07 | 2025-02-17 |
 | [Fingerprints](https://open.spotify.com/track/32GNoGq7hdii7Za5OgfhRI) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [Fingerprints](https://open.spotify.com/album/5L9GFJ27yBth57XaUDwxou) | 4:00 | 2024-06-20 | 2024-07-17 |
 | [Finish Line](https://open.spotify.com/track/0Vua3a4EZaEiGTfbUGImXf) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Finish Line](https://open.spotify.com/album/3i1RQtutPgn8oR8fZtZgK9) | 3:36 | 2022-05-19 | 2022-06-03 |
-| [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:17 | 2026-04-17 |  |
+| [Fire](https://open.spotify.com/track/4rDwRReunkleF9aisMmguC) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Fire](https://open.spotify.com/album/5n0RsqJukHxaXLDlPFy0K8) | 3:16 | 2026-04-17 |  |
 | [Fire Nation \- Live](https://open.spotify.com/track/5KaVzFqxIHl14PxOjwPuKK) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Nick Phoenix](https://open.spotify.com/artist/3EvzCyNmY3kbUkMawjsndF) | [Fire Nation \(Live\)](https://open.spotify.com/album/60ZNXsyN2b8DHr0jLLlDlY) | 5:00 | 2022-10-06 | 2022-10-14 |
 | [Fire Path](https://open.spotify.com/track/5ss8tL31Vnnpi3rh7MTQaP) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Eternal Blaze](https://open.spotify.com/album/47KUtvtq68DSr0GhGkVP5w) | 1:02 | 2025-03-27 | 2025-04-04 |
 | [Fire Within the Void](https://open.spotify.com/track/1nI4dhT3MXFas3MzcV7vkz) | [Shoot for the Money](https://open.spotify.com/artist/2GmI9q7blG32WKlBfNmF8u), [Really Slow Motion](https://open.spotify.com/artist/4dDb2XLONSNrTrucRcoaYM) | [Weight of Silence](https://open.spotify.com/album/0RaJJVffVxJG5HyZetGQYy) | 0:57 | 2025-03-20 | 2025-03-28 |
@@ -2925,6 +2925,7 @@
 | [Mala \(feat\. Fireboy DML\) \- English Version](https://open.spotify.com/track/0oeflkTTvW2wWo0N5zthM2) | [Adelén](https://open.spotify.com/artist/2qS6cYzM5ajhprcxQa1Ilc), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Mala \(feat\. Fireboy DML\)](https://open.spotify.com/album/6BRXt6AaPsFiTbHodkWuVw) | 2:33 | 2022-06-23 | 2022-07-24 |
 | [Malevolent](https://open.spotify.com/track/73tX5O7LXXbtydZr1Zz4TX) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malevolent](https://open.spotify.com/album/0dmBXAdCEzXzYMwFe1VYJb) | 3:05 | 2024-05-09 | 2024-05-17 |
 | [Malibu Moon](https://open.spotify.com/track/0dXXw14CYiFon8A8mrusIx) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malibu Moon](https://open.spotify.com/album/3nDVIeSvc2iDu2GoFzsSLu) | 4:23 | 2026-02-19 | 2026-02-27 |
+| [Malignant](https://open.spotify.com/track/33wtbVuZOvCbeBvblmP3j2) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malignant](https://open.spotify.com/album/1j9nRybWyzILAjT5o8zjaj) | 4:07 | 2026-04-19 |  |
 | [Mamasota](https://open.spotify.com/track/6WHUcgoC44195TBAluUfoi) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mamasota](https://open.spotify.com/album/2yL1IlNfseQGsWer9di6fN) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [Mami](https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mami](https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y) | 3:21 | 2023-03-02 | 2023-04-01 |
 | [Mami](https://open.spotify.com/track/6Ssrx7u0HyOokipQdV3GVg) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mami](https://open.spotify.com/album/3xq5yjNHLiSkVd1hSd1juv) | 3:25 | 2023-03-30 | 2023-04-02 |
@@ -3093,7 +3094,7 @@
 | [Miss You More](https://open.spotify.com/track/0w79fqXUs1QEGFBr5kdcrX) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Miss You More](https://open.spotify.com/album/3LOTqawjdH2mEq1lXqLvY7) | 3:18 | 2025-07-17 | 2025-08-08 |
 | [Missing You](https://open.spotify.com/track/1LF7uAH8NpAr3AXnIKMfKA) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Missing You](https://open.spotify.com/album/2WI1BWwHGN5Q6cJU7teiZp) | 3:00 | 2023-08-24 | 2023-09-17 |
 | [Mission](https://open.spotify.com/track/6iVHwPKzB5hN1jSCOHMw8z) | [Ely Oaks](https://open.spotify.com/artist/2MdFJmUQf3ckA99IhFF9my), [joki](https://open.spotify.com/artist/1jk1F3dSUQFcHCfbXpuQ5D), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Mission](https://open.spotify.com/album/40O6jxEr7BR4qpMsqovjNx) | 1:58 | 2025-03-13 | 2025-04-13 |
-| [Mission Control](https://open.spotify.com/track/3SrA9RSMpg3V50UJrjKS67) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Mission Control](https://open.spotify.com/album/30L4MYQTqSy1veooRH7o47) | 3:43 | 2026-04-17 |  |
+| [Mission Control](https://open.spotify.com/track/3SrA9RSMpg3V50UJrjKS67) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Mission Control](https://open.spotify.com/album/30L4MYQTqSy1veooRH7o47) | 3:43 | 2026-04-17 | 2026-04-19 |
 | [Mixed Feelings](https://open.spotify.com/track/4OHpy2wTj5r6eyS8sGbLBP) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc) | [Mixed Feelings \(opening season\)](https://open.spotify.com/album/2F9o96gJGhX2z1ggQNOG0p) | 2:17 | 2025-04-10 | 2025-04-25 |
 | [Modern Dystopia](https://open.spotify.com/track/7k2kyWLuX0cmj3a2OAzoqV) | [Approaching Nirvana](https://open.spotify.com/artist/3sS2Q1UZuUXL7TZSbQumDI) | [Modern Dystopia](https://open.spotify.com/album/3KMTEFUHwPe6QfuCYB69i2) | 3:21 | 2024-02-22 | 2024-03-24 |
 | [Mohabbat \- Royal Stag Packaged Drinking Water Boombox](https://open.spotify.com/track/13jol4snkyLeYZbatktpx6) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [SlowCheeta](https://open.spotify.com/artist/3XwzEefwYfxlv9xVyT7r63) | [Royal Stag Packaged Drinking Water Boombox](https://open.spotify.com/album/0gQtb3OZgyKbzOHg5vyNZ8) | 3:59 | 2023-09-07 | 2023-09-10 |
