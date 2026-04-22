@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,427 songs - 13 day 9 hr 55 min
+5,428 songs - 13 day 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2703,7 +2703,7 @@
 | [Lie Forever](https://open.spotify.com/track/61I2iTsZc92eMO1bmNpjsM) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE), [sennoh](https://open.spotify.com/artist/67LhwXEg9noC6G6kge5ANj) | [Lie Forever](https://open.spotify.com/album/0qjKdJIK6BT0fgI2ppelzD) | 2:56 | 2025-12-04 | 2025-12-26 |
 | [Life](https://open.spotify.com/track/27H5U3LPU8BsZ0gaXykYRq) | [Alex Skrindo](https://open.spotify.com/artist/5LnNAR8Bhv2vJCJzBnCw9P) | [Life](https://open.spotify.com/album/1YOm4jC0kcgZTK663d2HLT) | 3:30 | 2026-03-12 | 2026-04-12 |
 | [Life](https://open.spotify.com/track/7nsH0Ue83ftPhqFoJtOVZQ) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Modi](https://open.spotify.com/artist/2yTAiIQyZrTTg6VvXwJZdQ) | [Life](https://open.spotify.com/album/6SecX33uZokpI6brhYbRfH) | 3:12 | 2025-06-26 | 2025-07-29 |
-| [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 | 2026-04-21 |  |
+| [Life Boat.](https://open.spotify.com/track/7BguGjelfXyHttxhfQVxzr) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:15 | 2026-04-21 | 2026-04-22 |
 | [Life Is Calling](https://open.spotify.com/track/7aXKjISIugIEdS1PVeiqKW) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [Thomas Will](https://open.spotify.com/artist/3BSndMDvNNBCHSVjvxNqmV) | [Life Is Calling](https://open.spotify.com/album/47XgzuIimUTExOyxs94a8j) | 3:03 | 2023-05-11 | 2023-06-02 |
 | [Lifeline](https://open.spotify.com/track/572PPqti4bqGpqEnsWFlIu) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Neon Nights](https://open.spotify.com/album/2PMUDyTcZRL0kMKibFgHKT) | 3:22 | 2024-08-08 | 2024-08-12 |
 | [Lifeline](https://open.spotify.com/track/7bzynnTZZjTYTVCcBOomxs) | [Rachel Lorin](https://open.spotify.com/artist/5DfLOANcWMxdeenpJ6Ksd2) | [Lifeline](https://open.spotify.com/album/40z9WalLGz5plNfe2Dwdc0) | 2:17 | 2023-05-18 | 2023-06-18 |
@@ -5181,6 +5181,7 @@
 | [Wings for Ukraine \- Live](https://open.spotify.com/track/6UoFlfMGA0WrD7jT5hPzg5) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Live \- An Epic Music Experience](https://open.spotify.com/album/3TSyQXGRUFIOdq6MscHgdJ) | 5:14 | 2022-11-03 | 2022-11-11 |
 | [Wings for Ukraine \- Live](https://open.spotify.com/track/7zHLiGML4jgpSKiQPxiGia) | [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp), [Thomas Bergersen](https://open.spotify.com/artist/6BF0bXbsdujMSMeFZBGcBq) | [Wings for Ukraine \(Live\)](https://open.spotify.com/album/5fJYLgNoLTo82P1yHtFQ5G) | 5:14 | 2022-10-20 | 2022-11-04 |
 | [Winter Song](https://open.spotify.com/track/3UwzSVO6CzZRGFgyeuM9qf) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Honor The Light](https://open.spotify.com/album/6NXHxEZBAedotZFvYiXOhI) | 3:05 | 2023-12-21 | 2023-12-24 |
+| [Winter Woman.](https://open.spotify.com/track/78RbVzmxF51GURFpCNRvz2) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 4:20 | 2026-04-22 |  |
 | [Wish I Knew You Then](https://open.spotify.com/track/25Z3pljnyLkCJqGJxzvIkN) | [Elle Winter](https://open.spotify.com/artist/7LkNpfFX2XpGAO0Amhtfhl) | [Wish I Knew You Then](https://open.spotify.com/album/1RBPrioBD7U2KOcn2ZWbPx) | 3:15 | 2024-08-01 | 2024-08-31 |
 | [Wishing Well](https://open.spotify.com/track/4CwpXQipxCBWejF9xq4Evq) | [ILIRA](https://open.spotify.com/artist/6mzs66iVW15C5iLt0JLt41) | [Wishing Well](https://open.spotify.com/album/4oOOSOlQ8eK2jh8Csq2Y3Z) | 3:18 | 2023-04-06 | 2023-05-07 |
 | [Wistful Reverie](https://open.spotify.com/track/24SOjZQV8TfrWwo1Nff8sk) | [Aurora Night](https://open.spotify.com/artist/58PDMEzS2t3Ud9cI5epA12) | [Wistful Reverie](https://open.spotify.com/album/4ba2yamaeSV7SDblGSsfuX) | 5:12 | 2023-07-06 | 2023-08-06 |
