@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,336 songs - 2 day 22 hr 10 min
+1,337 songs - 2 day 22 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Crossed The Line](https://open.spotify.com/track/1j3N4TCykSmXy12iUiMQWk) | [Vosai](https://open.spotify.com/artist/7u4uMBxwuDZsN7wGxzdiGw), [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0), [Linn Sandin](https://open.spotify.com/artist/3zr3aDseqNYhcqexvcS5ir) | [Crossed The Line](https://open.spotify.com/album/2hlugmYMiNqGeMYmksckMe) | 2:27 | 2024-07-16 | 2024-09-03 |
 | [CROSSROADS](https://open.spotify.com/track/1IfbigpLCvUyhdWTqnvld2) | [AEYH](https://open.spotify.com/artist/03iWpjFVanzxgk9Fze3wqt), [Gabe Jackson](https://open.spotify.com/artist/1ACeZkZ6GrjzxY2JOlRYG8) | [GUITAR STRINGS](https://open.spotify.com/album/4ogw9hanxGmLrBV2L093Ds) | 4:00 | 2025-09-30 | 2025-10-25 |
 | [Cruel Summer \- LP Giobbi Remix](https://open.spotify.com/track/0pjBqAz8GlxGlpaU4W0DxS) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [The Cruelest Summer](https://open.spotify.com/album/1nqF9ybDGwuGl1rVERp5Q4) | 3:12 | 2025-05-23 | 2025-06-23 |
+| [Cry](https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:16 | 2026-05-02 |  |
 | [Cry \(feat\. Grimes\)](https://open.spotify.com/track/1jR9XTpUeT6a82Yz4GNCCo) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:06 | 2025-05-14 | 2025-05-17 |
 | [Cry Baby](https://open.spotify.com/track/6OQnxtSSpHE5eYw39x2LMu) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:54 | 2023-01-23 | 2023-01-27 |
 | [Cry Dancing \- Acoustic](https://open.spotify.com/track/4N3tH2gq8qbiBeJYoHkLW6) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Cry Dancing \(Acoustic\)](https://open.spotify.com/album/5KmjuJYynV20m0bwrUGHdy) | 3:01 | 2022-05-20 | 2022-05-25 |
@@ -617,7 +618,7 @@
 | [Juliette](https://open.spotify.com/track/3Qaq3lUUawG3MEWvRcNBcx) | [Ollie Wride](https://open.spotify.com/artist/1anhHn744LbctzF9EHpvea) | [Juliette](https://open.spotify.com/album/5VaCnUX81FIABubwY9Zu4z) | 4:11 | 2025-06-19 | 2025-06-23 |
 | [Jump Up](https://open.spotify.com/track/1fLjONoPSAscIGo84YDxaV) | [Ad Voca](https://open.spotify.com/artist/04LFpk0NPwhUVezsZDcdkx) | [Jump Up](https://open.spotify.com/album/5l5eRsh4zolTsIRPT3WnkG) | 2:46 | 2026-04-13 | 2026-04-21 |
 | [Jungle](https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Jungle](https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN) | 2:55 | 2024-02-19 | 2024-06-29 |
-| [Junjiro \(Little Tanuki\) \- Mondo Loops Remix](https://open.spotify.com/track/6lyVunXcysd1AMWhwsnNYs) | [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lofi Girl x Assassin's Creed Shadows \- stealthy beats to relax to](https://open.spotify.com/album/4VoRbaeHOWTIa3WYaGhr55) | 2:15 | 2026-02-26 |  |
+| [Junjiro \(Little Tanuki\) \- Mondo Loops Remix](https://open.spotify.com/track/6lyVunXcysd1AMWhwsnNYs) | [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lofi Girl x Assassin's Creed Shadows \- stealthy beats to relax to](https://open.spotify.com/album/4VoRbaeHOWTIa3WYaGhr55) | 2:15 | 2026-02-26 | 2026-05-03 |
 | [Jupiter](https://open.spotify.com/track/4RZUTrLYWpDRoTw6vi31mi) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [BLKBX: wht r u hding?](https://open.spotify.com/album/3QD3pBxJGFa9zLYxyz0MRC) | 3:13 | 2022-11-30 | 2022-12-19 |
 | [Just A Kiss \(Muah\)](https://open.spotify.com/track/2wN8OUgQDQTCkMSctWq1c2) | [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Just A Kiss \(Muah\)](https://open.spotify.com/album/2KfGtk53MnZ6Wb7vw4Afsy) | 2:36 | 2024-10-08 | 2024-10-18 |
 | [Just Fine](https://open.spotify.com/track/03AZx1BJ2IYSMNnnceMqsu) | [Devereaux](https://open.spotify.com/artist/2OjNsADp36qL4S8aRlFE6G), [Dialectic89](https://open.spotify.com/artist/2XL1TD0QHLlfIN4kJM6y66), [Circadian Cruise](https://open.spotify.com/artist/0Em0UyyKFtdGjeK9gaMO0K) | [Just Fine](https://open.spotify.com/album/3YcOJqtL1S9SG2ft5CmYgw) | 2:11 | 2025-10-12 | 2025-10-30 |
