@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIWwCuZ4Jzq4j>Madonna</a>, <a href=spotify:playlist:37i9dQZF1EIVtWqDHkZ7t4>Sade</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWwCuZ4Jzq4j>Madonna</a>, <a href=spotify:playlist:37i9dQZF1EIVtWqDHkZ7t4>Sade</a>, <a href=spotify:playlist:37i9dQZF1EIVEcTunnjXJb>New Order</a> and more",
   "num_followers": 0,
   "original_name": "80s Mix",
   "owner": {
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAHxIWcI6W++1BkF5nhbQCKXBiVGZ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Super Trouper",
-        "url": "https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Lay All Your Love On Me",
-      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9"
-    },
     {
       "added_at": null,
       "album": {
@@ -55,6 +39,22 @@
       "duration_ms": 258693,
       "name": "Smooth Operator - Single Version",
       "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Substance",
+        "url": "https://open.spotify.com/album/6iHuSGy6pq4tNGFV3ZVPtl"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 355066,
+      "name": "True Faith",
+      "url": "https://open.spotify.com/track/4fpxnJGDWFxjGvLJOqPPt8"
     },
     {
       "added_at": null,
@@ -99,54 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Father Figure",
-        "url": "https://open.spotify.com/album/6j96ZIHgpevcc1XVVBEUQ5"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 341644,
-      "name": "Father Figure - Instrumental",
-      "url": "https://open.spotify.com/track/1A0zgbFfzIzg6JU7Abgjot"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Escape From Television",
-        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
-      },
-      "artists": [
-        {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
-        }
-      ],
-      "duration_ms": 211800,
-      "name": "Crockett's Theme",
-      "url": "https://open.spotify.com/track/3TnJ7M6in8Pb5EyGBUK02Y"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In The Air Tonight",
-        "url": "https://open.spotify.com/album/2wzV3B4aw0OQqwUdv7F1t9"
-      },
-      "artists": [
-        {
-          "name": "Moxura",
-          "url": "https://open.spotify.com/artist/0QOGg8sJK0wYkPWLPZESDN"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "In The Air Tonight",
-      "url": "https://open.spotify.com/track/1uga3Se8Fr6WUIEXUjTLMW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hypnotic Tango (Not Ready Remix)",
         "url": "https://open.spotify.com/album/48azqdtbwM6XQ9BtqcE7i0"
       },
@@ -167,86 +119,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Can't Wait (Holmes Price Remix)",
-        "url": "https://open.spotify.com/album/1V7uKWpiwpkL1IosLXeXfA"
+        "name": "In The Air Tonight",
+        "url": "https://open.spotify.com/album/2wzV3B4aw0OQqwUdv7F1t9"
       },
       "artists": [
         {
-          "name": "Mandy Smith",
-          "url": "https://open.spotify.com/artist/2AIFnFQDbv4L0bvo801guv"
+          "name": "Moxura",
+          "url": "https://open.spotify.com/artist/0QOGg8sJK0wYkPWLPZESDN"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "In The Air Tonight",
+      "url": "https://open.spotify.com/track/1uga3Se8Fr6WUIEXUjTLMW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY YOU (ConKi Remix)",
+        "url": "https://open.spotify.com/album/5V96HIpvFBAb7B9j9EUHgT"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         },
         {
-          "name": "Holmes Price",
-          "url": "https://open.spotify.com/artist/4X3iHejYO9MvC1a4AGsrkh"
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
         }
       ],
-      "duration_ms": 440000,
-      "name": "I Just Can't Wait - Holmes Price Remix",
-      "url": "https://open.spotify.com/track/40oDRgTZtn2YtC4d4WKH6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/7Bb1lXopcjy3suFqEaLdkG"
-      },
-      "artists": [
-        {
-          "name": "Tom Hooker",
-          "url": "https://open.spotify.com/artist/56TVl2kDEtIzOBRKqPxDee"
-        }
-      ],
-      "duration_ms": 227735,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7iSD5c4C8Ajnk3zK1MYlkg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TESTIMONY",
-        "url": "https://open.spotify.com/album/4Eu47UxuAtiDQLbbZsmNR3"
-      },
-      "artists": [
-        {
-          "name": "NAEON TEARDROPS",
-          "url": "https://open.spotify.com/artist/5bvxdp8wfKbBK7YAzMVYEW"
-        }
-      ],
-      "duration_ms": 194796,
-      "name": "AMNESIACS",
-      "url": "https://open.spotify.com/track/07Ypdn41lsjPxzYhEPLyEm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Turn Back The Clock",
-        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hates Jazz",
-          "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Shattered Dreams - Remastered 2008",
-      "url": "https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
-        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 233182,
-      "name": "Lana - From 'Risky Business' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/6VydImNgwX8dZdU2WcHLfH"
+      "duration_ms": 155409,
+      "name": "Only You - ConKi Remix",
+      "url": "https://open.spotify.com/track/0YTucYeB2JHIy46k7CqjlU"
     },
     {
       "added_at": null,
@@ -299,114 +203,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belle Epoque",
-        "url": "https://open.spotify.com/album/6h7WLqKYr0ukMoizstDBdm"
+        "name": "Escape From Television",
+        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
       },
       "artists": [
         {
-          "name": "Cretu & Thiers",
-          "url": "https://open.spotify.com/artist/23WJxeKCvvhjj8At8zoazv"
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
         }
       ],
-      "duration_ms": 240026,
-      "name": "When Love Is The Missing Word",
-      "url": "https://open.spotify.com/track/7H4wpNfcO1QHS2XJzTAI4v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Age of Consent (40 Year Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0GrkL3xnshqjHCUEENvSqr"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        },
-        {
-          "name": "The Knocks",
-          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
-        },
-        {
-          "name": "Perfume Genius",
-          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
-        }
-      ],
-      "duration_ms": 274921,
-      "name": "Smalltown Boy (feat. Perfume Genius)",
-      "url": "https://open.spotify.com/track/5H7yuv2SupQrXDYItiHy3d"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "True Blue (35th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/4pnhHLvaRIlDUwXEIXZEnH"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 350093,
-      "name": "Live to Tell - Instrumental",
-      "url": "https://open.spotify.com/track/1PmRWXH2MtudoiITbkG2Qc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ONLY YOU (ConKi Remix)",
-        "url": "https://open.spotify.com/album/5V96HIpvFBAb7B9j9EUHgT"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        },
-        {
-          "name": "ConKi",
-          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
-        }
-      ],
-      "duration_ms": 155409,
-      "name": "Only You - ConKi Remix",
-      "url": "https://open.spotify.com/track/0YTucYeB2JHIy46k7CqjlU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Slice Me Nice (Pulsedriver Remix)",
-        "url": "https://open.spotify.com/album/0b1Z5dFEi3V6ZuyA7x4gGA"
-      },
-      "artists": [
-        {
-          "name": "Fancy",
-          "url": "https://open.spotify.com/artist/0CZzh950BDSsosMF5Lft5K"
-        },
-        {
-          "name": "Pulsedriver",
-          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Slice Me Nice (Pulsedriver 80s Edit)",
-      "url": "https://open.spotify.com/track/3PA9HuG3rOeo7IauSriWIb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential Yanni",
-        "url": "https://open.spotify.com/album/79CkQrncB01Wc41FhBSALx"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 233933,
-      "name": "Paths On Water",
-      "url": "https://open.spotify.com/track/46rXB9qRLgwWF2wP5Yaemq"
+      "duration_ms": 211800,
+      "name": "Crockett's Theme",
+      "url": "https://open.spotify.com/track/3TnJ7M6in8Pb5EyGBUK02Y"
     },
     {
       "added_at": null,
@@ -451,70 +259,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/7Bb1lXopcjy3suFqEaLdkG"
       },
       "artists": [
         {
-          "name": "上松範康",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+          "name": "Tom Hooker",
+          "url": "https://open.spotify.com/artist/56TVl2kDEtIzOBRKqPxDee"
         }
       ],
-      "duration_ms": 166040,
-      "name": "Devided We Fall",
-      "url": "https://open.spotify.com/track/0aSNTJGADCuxYmlO1FnyN5"
+      "duration_ms": 227735,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7iSD5c4C8Ajnk3zK1MYlkg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Vital Idol: Revitalized",
-        "url": "https://open.spotify.com/album/0muJUVeQXtAA1eRO4mgDU9"
+        "name": "Listen To Your Heart (Alle Farben Remix)",
+        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
       },
       "artists": [
         {
-          "name": "Billy Idol",
-          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+          "name": "Roxette",
+          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
         },
         {
-          "name": "Tropkillaz",
-          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         }
       ],
-      "duration_ms": 230333,
-      "name": "Eyes Without A Face - Tropkillaz Remix",
-      "url": "https://open.spotify.com/track/1I3kwzmR9vPPN3PMmtyHF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
-        "url": "https://open.spotify.com/album/47fRf3JwriMUPPzFjdvNS6"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 259493,
-      "name": "Love Comes Quickly - 2018 Remaster",
-      "url": "https://open.spotify.com/track/4789vxAh2p3QrPtdWgeHK0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Miami Vice: Special Edition",
-        "url": "https://open.spotify.com/album/1uLoZJxqOlwJ8pFmbRgwo5"
-      },
-      "artists": [
-        {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Crockett's Theme",
-      "url": "https://open.spotify.com/track/5srgpROEtK8KLKQl5FW7Ub"
+      "duration_ms": 146268,
+      "name": "Listen To Your Heart (Alle Farben Remix)",
+      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
     },
     {
       "added_at": null,
@@ -539,22 +315,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Control (Renas Remix)",
-        "url": "https://open.spotify.com/album/11WeshnOn1G3G1luT1d4VL"
+        "name": "I Just Can't Wait (Holmes Price Remix)",
+        "url": "https://open.spotify.com/album/1V7uKWpiwpkL1IosLXeXfA"
       },
       "artists": [
         {
-          "name": "Laura Branigan",
-          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+          "name": "Mandy Smith",
+          "url": "https://open.spotify.com/artist/2AIFnFQDbv4L0bvo801guv"
         },
         {
-          "name": "Renas",
-          "url": "https://open.spotify.com/artist/4UdggJL2IG58o6VXY7U4MS"
+          "name": "Holmes Price",
+          "url": "https://open.spotify.com/artist/4X3iHejYO9MvC1a4AGsrkh"
         }
       ],
-      "duration_ms": 169500,
-      "name": "Self Control (Renas Remix)",
-      "url": "https://open.spotify.com/track/5Xjeg5ylXpz8uRwi9MomD2"
+      "duration_ms": 440000,
+      "name": "I Just Can't Wait - Holmes Price Remix",
+      "url": "https://open.spotify.com/track/40oDRgTZtn2YtC4d4WKH6F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Furthermore",
+        "url": "https://open.spotify.com/album/5zgcqdr1BIAdEkLVQLpGJf"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 277360,
+      "name": "It’s a sin - New version",
+      "url": "https://open.spotify.com/track/2qwltsFNa7BlujYKaZGrjC"
     },
     {
       "added_at": null,
@@ -591,92 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Listen To Your Heart (Alle Farben Remix)",
-        "url": "https://open.spotify.com/album/0PrR6zOkbOxp5cNNUIkLlo"
-      },
-      "artists": [
-        {
-          "name": "Roxette",
-          "url": "https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY"
-        },
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 146268,
-      "name": "Listen To Your Heart (Alle Farben Remix)",
-      "url": "https://open.spotify.com/track/0sq0ZrRh5vUKaVZrvmReuw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Platinum Collection (International Version)",
-        "url": "https://open.spotify.com/album/6KpnD5wbdascDY2CdCU9a4"
-      },
-      "artists": [
-        {
-          "name": "Sandra",
-          "url": "https://open.spotify.com/artist/646StQO8yxIiI3niu1OHnG"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Sisters And Brothers",
-      "url": "https://open.spotify.com/track/5IyszKC3HVxgVJGUR7NKpQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "80s Symphonic",
-        "url": "https://open.spotify.com/album/7uIugCozCc2VL5krNVM6yp"
-      },
-      "artists": [
-        {
-          "name": "Bronski Beat",
-          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
-        }
-      ],
-      "duration_ms": 292079,
-      "name": "Smalltown Boy - Symphonic Version",
-      "url": "https://open.spotify.com/track/1xzUth5L1ZTwXfPS1dlKbY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mike + The Mechanics",
-        "url": "https://open.spotify.com/album/1qbQGjBq2bIcwptGpOcK9D"
-      },
-      "artists": [
-        {
-          "name": "Mike + The Mechanics",
-          "url": "https://open.spotify.com/artist/2yTUYhIf8fxptTIy3KLuJD"
-        }
-      ],
-      "duration_ms": 374733,
-      "name": "Silent Running",
-      "url": "https://open.spotify.com/track/59D5esFdYajdsJMpBeXB8g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "(I Just) Died in Your Arms 2019",
-        "url": "https://open.spotify.com/album/3SA6VQ8liulCNzWml0eUxx"
-      },
-      "artists": [
-        {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
-        }
-      ],
-      "duration_ms": 200117,
-      "name": "(I Just) Died in Your Arms - 2019 Vocal Mix",
-      "url": "https://open.spotify.com/track/6tKfqhEvR3zMF5aYkYEuPM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roubix presents Italo Boot Remixes 2026",
-        "url": "https://open.spotify.com/album/3PyWiJXfimWIh3VmcnZqAh"
+        "name": "Slice Me Nice (Pulsedriver Remix)",
+        "url": "https://open.spotify.com/album/0b1Z5dFEi3V6ZuyA7x4gGA"
       },
       "artists": [
         {
@@ -688,113 +396,9 @@
           "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
         }
       ],
-      "duration_ms": 139453,
-      "name": "Chinese Eyes (Pulsedriver 80s Edit)",
-      "url": "https://open.spotify.com/track/1RdOE4gBezZng62wlXbgHO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yanni Live!: The Concert Event",
-        "url": "https://open.spotify.com/album/3nBRnlLCrFtIC9iAPpPVvn"
-      },
-      "artists": [
-        {
-          "name": "Yanni",
-          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
-        }
-      ],
-      "duration_ms": 98186,
-      "name": "Standing in Motion (Live)",
-      "url": "https://open.spotify.com/track/4Q3IdfNGgyVSJkfI437YCp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hysteria",
-        "url": "https://open.spotify.com/album/1ja2qzCrh6bZykcojbZs82"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 354636,
-      "name": "Hysteria",
-      "url": "https://open.spotify.com/track/2PFIZFcGry0po3ZfRZkzKc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        },
-        {
-          "name": "Daniel Lanois",
-          "url": "https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690"
-        }
-      ],
-      "duration_ms": 304101,
-      "name": "With Or Without You - Daniel Lanois Remix",
-      "url": "https://open.spotify.com/track/1PDflzOoX3JrWvwl72F99M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Remixed Sides",
-        "url": "https://open.spotify.com/album/0lX4ieUvpJ647IjenGzl6X"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        },
-        {
-          "name": "Ben Liebrand",
-          "url": "https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf"
-        }
-      ],
-      "duration_ms": 452466,
-      "name": "In the Air Tonight - Ben Liebrand Extended Version",
-      "url": "https://open.spotify.com/track/3QOuWFKX8OKyBrXiYxPakc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homage",
-        "url": "https://open.spotify.com/album/1Q8kUhQ6w1R1WPeafTEZpt"
-      },
-      "artists": [
-        {
-          "name": "Bootstraps",
-          "url": "https://open.spotify.com/artist/0x5TKpXlF0dsnMNB2xOYXz"
-        }
-      ],
-      "duration_ms": 242375,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/7n0MH6JImNS1EKCDsLtKQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cricket wife",
-        "url": "https://open.spotify.com/album/4OV0kUW3gzsMka3LMDAQJl"
-      },
-      "artists": [
-        {
-          "name": "Pet Shop Boys",
-          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "West End girls - New lockdown version",
-      "url": "https://open.spotify.com/track/5ua5irTrZYP5XgxYgMocJa"
+      "duration_ms": 180000,
+      "name": "Slice Me Nice (Pulsedriver 80s Edit)",
+      "url": "https://open.spotify.com/track/3PA9HuG3rOeo7IauSriWIb"
     },
     {
       "added_at": null,
@@ -819,42 +423,242 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shattered Dreams",
-        "url": "https://open.spotify.com/album/0gysqWtCGGBUhUfPvSXxjB"
+        "name": "The Age of Consent (40 Year Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0GrkL3xnshqjHCUEENvSqr"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        },
+        {
+          "name": "The Knocks",
+          "url": "https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC"
+        },
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "duration_ms": 274921,
+      "name": "Smalltown Boy (feat. Perfume Genius)",
+      "url": "https://open.spotify.com/track/5H7yuv2SupQrXDYItiHy3d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Back The Clock",
+        "url": "https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u"
       },
       "artists": [
         {
           "name": "Johnny Hates Jazz",
           "url": "https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf"
-        },
-        {
-          "name": "The Orchestra Of Opera North",
-          "url": "https://open.spotify.com/artist/3B8tWVgvp7Mjnu1rBTQdpu"
-        },
-        {
-          "name": "80s Classical",
-          "url": "https://open.spotify.com/artist/3XeLPKkuT3n32wQvzlmbWq"
         }
       ],
-      "duration_ms": 250266,
-      "name": "Shattered Dreams",
-      "url": "https://open.spotify.com/track/1pxFgcvOLptCb6HhVtlS0D"
+      "duration_ms": 207346,
+      "name": "Shattered Dreams - Remastered 2008",
+      "url": "https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Escape From Television",
-        "url": "https://open.spotify.com/album/4nVDdldmLtm2yLSymEtGaD"
+        "name": "(I Just) Died in Your Arms 2019",
+        "url": "https://open.spotify.com/album/3SA6VQ8liulCNzWml0eUxx"
       },
       "artists": [
         {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 212826,
-      "name": "Tubbs And Valerie",
-      "url": "https://open.spotify.com/track/3RZsSVzLpuLRfcglDmassG"
+      "duration_ms": 200117,
+      "name": "(I Just) Died in Your Arms - 2019 Vocal Mix",
+      "url": "https://open.spotify.com/track/6tKfqhEvR3zMF5aYkYEuPM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yanni Live!: The Concert Event",
+        "url": "https://open.spotify.com/album/3nBRnlLCrFtIC9iAPpPVvn"
+      },
+      "artists": [
+        {
+          "name": "Yanni",
+          "url": "https://open.spotify.com/artist/72qxDp6R6v22pai96pZioz"
+        }
+      ],
+      "duration_ms": 271040,
+      "name": "Nostalgia (Live)",
+      "url": "https://open.spotify.com/track/5aDhyRgQvfbRguxrGLypvu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "TESTIMONY",
+        "url": "https://open.spotify.com/album/4Eu47UxuAtiDQLbbZsmNR3"
+      },
+      "artists": [
+        {
+          "name": "NAEON TEARDROPS",
+          "url": "https://open.spotify.com/artist/5bvxdp8wfKbBK7YAzMVYEW"
+        }
+      ],
+      "duration_ms": 194796,
+      "name": "AMNESIACS",
+      "url": "https://open.spotify.com/track/07Ypdn41lsjPxzYhEPLyEm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Promised Land (Mark Knight & James Hurr Remix)",
+        "url": "https://open.spotify.com/album/6viTNgNWL6aRtpXGBmQs4X"
+      },
+      "artists": [
+        {
+          "name": "Joe Smooth",
+          "url": "https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd"
+        },
+        {
+          "name": "Mark Knight",
+          "url": "https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL"
+        },
+        {
+          "name": "James Hurr",
+          "url": "https://open.spotify.com/artist/2g9i2kA0jUr6sfAT28l2vL"
+        }
+      ],
+      "duration_ms": 194761,
+      "name": "Promised Land - Mark Knight & James Hurr Remix",
+      "url": "https://open.spotify.com/track/4EflpxzPbXDhy6ZvoTgsPr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+        "url": "https://open.spotify.com/album/5QNsNfBYB23lwvGXMLH3RK"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "duration_ms": 152023,
+      "name": "Owner Of A Lonely Heart (farfetch'd Edit)",
+      "url": "https://open.spotify.com/track/1sN8YtuNoj8t7gMDX9EBfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
+        }
+      ],
+      "duration_ms": 227973,
+      "name": "La Isla Bonita",
+      "url": "https://open.spotify.com/track/5g7xZ7eoCpNt4Zm2UbE2U5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vital Idol: Revitalized",
+        "url": "https://open.spotify.com/album/0muJUVeQXtAA1eRO4mgDU9"
+      },
+      "artists": [
+        {
+          "name": "Billy Idol",
+          "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG"
+        },
+        {
+          "name": "Tropkillaz",
+          "url": "https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO"
+        }
+      ],
+      "duration_ms": 230333,
+      "name": "Eyes Without A Face - Tropkillaz Remix",
+      "url": "https://open.spotify.com/track/1I3kwzmR9vPPN3PMmtyHF1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Inside Information",
+        "url": "https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 250773,
+      "name": "Heart Turns to Stone",
+      "url": "https://open.spotify.com/track/4aFNkzXifTfkc452lMHmym"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Major Tom (Coming Home) [Tiesto Remix]",
+        "url": "https://open.spotify.com/album/1QwLHGS90N883QGFhneVi5"
+      },
+      "artists": [
+        {
+          "name": "Peter Schilling",
+          "url": "https://open.spotify.com/artist/7ip3CWlgPZbQHvgJpmcGSS"
+        },
+        {
+          "name": "Tiësto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 157546,
+      "name": "Major Tom (Coming Home) - Tiesto Remix",
+      "url": "https://open.spotify.com/track/63H9c8IBOHL6Afcuz8PlVV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Broken Heart",
+        "url": "https://open.spotify.com/album/4V8oHcfFWgFEyEE6low9wN"
+      },
+      "artists": [
+        {
+          "name": "Mart",
+          "url": "https://open.spotify.com/artist/4cTCflyCVNpIaSlEyKweq0"
+        }
+      ],
+      "duration_ms": 336101,
+      "name": "Broken Heart",
+      "url": "https://open.spotify.com/track/3SIsivc1MPyzURRmvAiIN9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cricket wife",
+        "url": "https://open.spotify.com/album/4OV0kUW3gzsMka3LMDAQJl"
+      },
+      "artists": [
+        {
+          "name": "Pet Shop Boys",
+          "url": "https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "West End girls - New lockdown version",
+      "url": "https://open.spotify.com/track/5ua5irTrZYP5XgxYgMocJa"
     },
     {
       "added_at": null,
@@ -868,41 +672,273 @@
           "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
         }
       ],
-      "duration_ms": 239238,
-      "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
+      "duration_ms": 233182,
+      "name": "Lana - From 'Risky Business' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/6VydImNgwX8dZdU2WcHLfH"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1985-1995",
-        "url": "https://open.spotify.com/album/5bOhnWhieBJGivUovmtob5"
+        "name": "Father Figure",
+        "url": "https://open.spotify.com/album/6j96ZIHgpevcc1XVVBEUQ5"
       },
       "artists": [
         {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 235360,
-      "name": "There's The Girl - Remastered",
-      "url": "https://open.spotify.com/track/0TzFxq4DBpaotDyGH5UNzu"
+      "duration_ms": 341644,
+      "name": "Father Figure - Instrumental",
+      "url": "https://open.spotify.com/track/1A0zgbFfzIzg6JU7Abgjot"
     },
     {
       "added_at": null,
       "album": {
-        "name": "FINAL FANTASY BRAVE EXVIUS Original Soundtrack",
-        "url": "https://open.spotify.com/album/4An8BwZq3e4ufbs4JcP5Rq"
+        "name": "Roubix presents Italo Boot Remixes 2026",
+        "url": "https://open.spotify.com/album/3PyWiJXfimWIh3VmcnZqAh"
       },
       "artists": [
         {
-          "name": "上松範康",
-          "url": "https://open.spotify.com/artist/28dpEDaY49qLI1PYGoqDuy"
+          "name": "Fancy",
+          "url": "https://open.spotify.com/artist/0CZzh950BDSsosMF5Lft5K"
+        },
+        {
+          "name": "Pulsedriver",
+          "url": "https://open.spotify.com/artist/6U0uBUKWYZKZYFGL00hMsp"
         }
       ],
-      "duration_ms": 112720,
-      "name": "Antiquities",
-      "url": "https://open.spotify.com/track/0JiH6fQXykeKwOtNyMvkz5"
+      "duration_ms": 139453,
+      "name": "Chinese Eyes (Pulsedriver 80s Edit)",
+      "url": "https://open.spotify.com/track/1RdOE4gBezZng62wlXbgHO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Love (Diplo Remix)",
+        "url": "https://open.spotify.com/album/7F4BBbbkJKAa0xxGKpzcvV"
+      },
+      "artists": [
+        {
+          "name": "The Outfield",
+          "url": "https://open.spotify.com/artist/1zxDewzd2j1ZdSBGaYcr0y"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "duration_ms": 155625,
+      "name": "Your Love - Diplo Remix",
+      "url": "https://open.spotify.com/track/4R3BIyY00WxYVZOmgrFp1Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "80s Symphonic",
+        "url": "https://open.spotify.com/album/7uIugCozCc2VL5krNVM6yp"
+      },
+      "artists": [
+        {
+          "name": "Bronski Beat",
+          "url": "https://open.spotify.com/artist/2wpWOzQE5TpA0dVnh5YD08"
+        }
+      ],
+      "duration_ms": 292079,
+      "name": "Smalltown Boy - Symphonic Version",
+      "url": "https://open.spotify.com/track/1xzUth5L1ZTwXfPS1dlKbY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Remixed Sides",
+        "url": "https://open.spotify.com/album/0lX4ieUvpJ647IjenGzl6X"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        },
+        {
+          "name": "Ben Liebrand",
+          "url": "https://open.spotify.com/artist/00bFgWuCaaFrjC9xylIcMf"
+        }
+      ],
+      "duration_ms": 452466,
+      "name": "In the Air Tonight - Ben Liebrand Extended Version",
+      "url": "https://open.spotify.com/track/3QOuWFKX8OKyBrXiYxPakc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ONLY YOU (The Magician Remix)",
+        "url": "https://open.spotify.com/album/3rsNfu3ohU8MwvTx5Xzqh8"
+      },
+      "artists": [
+        {
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+        },
+        {
+          "name": "The Magician",
+          "url": "https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM"
+        }
+      ],
+      "duration_ms": 216117,
+      "name": "Only You - The Magician Remix",
+      "url": "https://open.spotify.com/track/0Vj3mh1hBHQSMMVS0Bwzcr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Get Closer (Luca Debonaire Remix)",
+        "url": "https://open.spotify.com/album/68Y5FuBrBUaxJXAJEQeAVZ"
+      },
+      "artists": [
+        {
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
+        },
+        {
+          "name": "Luca Debonaire",
+          "url": "https://open.spotify.com/artist/3rTZTOuaGaIuJeYuZZmVCA"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "Get Closer (Luca Debonaire Radio Edit)",
+      "url": "https://open.spotify.com/track/5eAZoN2BN0l135Rls45P80"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Self Control (Renas Remix)",
+        "url": "https://open.spotify.com/album/11WeshnOn1G3G1luT1d4VL"
+      },
+      "artists": [
+        {
+          "name": "Laura Branigan",
+          "url": "https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e"
+        },
+        {
+          "name": "Renas",
+          "url": "https://open.spotify.com/artist/4UdggJL2IG58o6VXY7U4MS"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Self Control (Renas Remix)",
+      "url": "https://open.spotify.com/track/5Xjeg5ylXpz8uRwi9MomD2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belle Epoque",
+        "url": "https://open.spotify.com/album/6h7WLqKYr0ukMoizstDBdm"
+      },
+      "artists": [
+        {
+          "name": "Cretu & Thiers",
+          "url": "https://open.spotify.com/artist/23WJxeKCvvhjj8At8zoazv"
+        }
+      ],
+      "duration_ms": 240026,
+      "name": "When Love Is The Missing Word",
+      "url": "https://open.spotify.com/track/7H4wpNfcO1QHS2XJzTAI4v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever Young (Super Deluxe Edition; 2019 Remaster)",
+        "url": "https://open.spotify.com/album/1BAmE3bdBnxej0umzyHQ5x"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 371853,
+      "name": "Forever Young - Special Dance Version; 2019 Remaster",
+      "url": "https://open.spotify.com/track/3APq3iiagjTHWGLYjSZIaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue (35th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/4pnhHLvaRIlDUwXEIXZEnH"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Chris Lord-Alge",
+          "url": "https://open.spotify.com/artist/1zRwW2z5JOtEgK5OESwlgx"
+        }
+      ],
+      "duration_ms": 318553,
+      "name": "La Isla Bonita - Instrumental Extended Remix",
+      "url": "https://open.spotify.com/track/50u4pcIVBm4QmDhbdG0DNS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Somebody's Watching Me (Syzz Remix)",
+        "url": "https://open.spotify.com/album/1Vc0bXQ2kxa5Sd1sECrwgA"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        },
+        {
+          "name": "Syzz",
+          "url": "https://open.spotify.com/artist/5qQTwkRWNaZngwkU1CPmYJ"
+        }
+      ],
+      "duration_ms": 142020,
+      "name": "Somebody's Watching Me - Syzz Remix",
+      "url": "https://open.spotify.com/track/4dKgJOFyPs5qMTC925ikc3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOU3LE",
+        "url": "https://open.spotify.com/album/7ss7fRQwaqOsGE5tkqD362"
+      },
+      "artists": [
+        {
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2"
+        }
+      ],
+      "duration_ms": 289856,
+      "name": "Devils Ball - Piano Version",
+      "url": "https://open.spotify.com/track/3qFka9TofyhZzmIQNSa3G2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Happy Children (Remix 2021)",
+        "url": "https://open.spotify.com/album/38NkdxjpZYvkx25yHnn3yU"
+      },
+      "artists": [
+        {
+          "name": "P. Lion",
+          "url": "https://open.spotify.com/artist/3C4Ma6ujXcpDtisnx6RASG"
+        },
+        {
+          "name": "Mylod",
+          "url": "https://open.spotify.com/artist/1OUs8WPBV2DVvjeJdTs0Cs"
+        },
+        {
+          "name": "Beppe Mancino Dj",
+          "url": "https://open.spotify.com/artist/4i4ogUAkky99yDs1YpP7XW"
+        }
+      ],
+      "duration_ms": 224553,
+      "name": "Happy Children - Mylod & Beppe Mancino Dj Radio Remix",
+      "url": "https://open.spotify.com/track/1avfWUGQzN8B4u6wbDGWpy"
     }
   ],
   "unique_name": "80s Mix",
