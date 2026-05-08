@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Epp9LvnFz3V9m.md) - [plain]
 
 > Songs you love right now
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 29 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,17 +25,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1Epp9LvnFz3V9m.md) - [plain]
 | 15 | [Ghost In The Machine](https://open.spotify.com/track/31CVQUx9FDJyQIF38iLUOd) | [Michael Cassette](https://open.spotify.com/artist/3xDWzhtOet1qJ08MLimhSd) | [Temporarity \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/7kePVkBLCrDB2g0YpMrxBn) | 3:48 |
 | 16 | [Queen & Kings \- Radio Edit](https://open.spotify.com/track/5Tll5B4l116ptFuYNwJV5R) | [LowCree](https://open.spotify.com/artist/59TVyafNDpevojDIRnxwG7) | [Sacred Noise](https://open.spotify.com/album/14grEX7XpCLbOMfQnYbszY) | 4:11 |
 | 17 | [Night Into Day](https://open.spotify.com/track/64TfSP8xsrAhEenvia6rgd) | [Paul Lock](https://open.spotify.com/artist/5Maf1cbMt9JIF4HBnpdH84) | [We Made It](https://open.spotify.com/album/1X7AeMEN705pXWsombjowm) | 4:26 |
-| 18 | [Waiting](https://open.spotify.com/track/5FIW21yHZc3SiIA3wndHCn) | [KORUE](https://open.spotify.com/artist/0QaNFycdoAT65JAu3Pl7kp) | [Waiting](https://open.spotify.com/album/3LSmdenCju4Dm999lRQw58) | 2:44 |
-| 19 | [Limania](https://open.spotify.com/track/2B6aHcgVRAqbuyfPDSLtYv) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [Limania](https://open.spotify.com/album/48UctS9ki4rG2G8R3Qvvgy) | 3:43 |
-| 20 | [Don’t Look Down \(Flashback\) \[ABGT668\] \- Mixed](https://open.spotify.com/track/2Lwi2cpQPe2r1JgfPajkR3) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Group Therapy 668 \(DJ Mix\)](https://open.spotify.com/album/2MEUme6JBqI3UHygMnRwPf) | 4:48 |
-| 21 | [Everything I Need](https://open.spotify.com/track/3ozHxJGsYxSlgH9mQ264C5) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey) | [Everything I Need](https://open.spotify.com/album/5fm871zXy7z5TFSY6x7Gfd) | 2:41 |
-| 22 | [Stay](https://open.spotify.com/track/1QYVZNg0SinB8IlVAdXSdl) | [Jay Aliyev](https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW) | [Stay](https://open.spotify.com/album/2b0PJf8md1zWPuaQwmaz4U) | 5:18 |
-| 23 | [Just Us](https://open.spotify.com/track/4oeGvndzeP95aAwfUSF3UC) | [Dapa Deep](https://open.spotify.com/artist/6PFX6CPrYWgLYSIUMQ59hW) | [Just Us](https://open.spotify.com/album/49xnbmTV7EPZUIUExkrghG) | 3:29 |
-| 24 | [Run Away](https://open.spotify.com/track/6nIIVeB9rq3K6D3YpdrNkT) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Run Away](https://open.spotify.com/album/2ri1aEAata2fpUfMyN150G) | 3:15 |
-| 25 | [Going To See The King](https://open.spotify.com/track/31GuTwJa5KqOPo0I2WYs8a) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:49 |
-| 26 | [Almost Owl Lunch](https://open.spotify.com/track/5SqeibChTyvwUer9zYkma5) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 0:39 |
-| 27 | [Lab Chaos](https://open.spotify.com/track/1ES16oNSlEjtc7LDnT6kTt) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:21 |
-| 28 | [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 |
-| 29 | [Grandma Tanaka](https://open.spotify.com/track/3UH3vVbSKcN0PYOwHfHeZ6) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:13 |
+| 18 | [Lab Chaos](https://open.spotify.com/track/1ES16oNSlEjtc7LDnT6kTt) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:21 |
+| 19 | [Save The Day](https://open.spotify.com/track/1K2oPAspkVogiqEZT6sBEi) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:52 |
+| 20 | [Could Be Home](https://open.spotify.com/track/30l6zJrcDTISi37AVR1OPd) | [TWOMUCH](https://open.spotify.com/artist/4l4xUmWNhZL67ID4pzp7k7) | [Could Be Home](https://open.spotify.com/album/1bukrflJbhrI1ArAWVH5zy) | 4:15 |
+| 21 | [Waiting](https://open.spotify.com/track/5FIW21yHZc3SiIA3wndHCn) | [KORUE](https://open.spotify.com/artist/0QaNFycdoAT65JAu3Pl7kp) | [Waiting](https://open.spotify.com/album/3LSmdenCju4Dm999lRQw58) | 2:44 |
+| 22 | [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 |
+| 23 | [Limania](https://open.spotify.com/track/2B6aHcgVRAqbuyfPDSLtYv) | [Dokho](https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM), [Moon Kyoo](https://open.spotify.com/artist/1AhVoVOXXDOP5pkhUvoSjH) | [Limania](https://open.spotify.com/album/48UctS9ki4rG2G8R3Qvvgy) | 3:43 |
+| 24 | [Don’t Look Down \(Flashback\) \[ABGT668\] \- Mixed](https://open.spotify.com/track/2Lwi2cpQPe2r1JgfPajkR3) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Group Therapy 668 \(DJ Mix\)](https://open.spotify.com/album/2MEUme6JBqI3UHygMnRwPf) | 4:48 |
+| 25 | [Everything I Need](https://open.spotify.com/track/3ozHxJGsYxSlgH9mQ264C5) | [Eugene Becker](https://open.spotify.com/artist/0CyuzTTSv7rrrgSkbereey) | [Everything I Need](https://open.spotify.com/album/5fm871zXy7z5TFSY6x7Gfd) | 2:41 |
+| 26 | [Grandma Tanaka](https://open.spotify.com/track/3UH3vVbSKcN0PYOwHfHeZ6) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:13 |
+| 27 | [Stay](https://open.spotify.com/track/1QYVZNg0SinB8IlVAdXSdl) | [Jay Aliyev](https://open.spotify.com/artist/5Jwz2Uzhk06OKiiUwngnyW) | [Stay](https://open.spotify.com/album/2b0PJf8md1zWPuaQwmaz4U) | 5:18 |
+| 28 | [Just Us](https://open.spotify.com/track/4oeGvndzeP95aAwfUSF3UC) | [Dapa Deep](https://open.spotify.com/artist/6PFX6CPrYWgLYSIUMQ59hW) | [Just Us](https://open.spotify.com/album/49xnbmTV7EPZUIUExkrghG) | 3:29 |
+| 29 | [Run Away](https://open.spotify.com/track/6nIIVeB9rq3K6D3YpdrNkT) | [EBEN](https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak) | [Run Away](https://open.spotify.com/album/2ri1aEAata2fpUfMyN150G) | 3:15 |
+| 30 | [Mabel On A Mission](https://open.spotify.com/track/4CBs0Q9KN87tRIMx66ah7f) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 1:23 |
 
-Snapshot ID: `afmPTAAAAABZfrXvnQ8Iq2iCf1ib/dJh`
+Snapshot ID: `af1MdQAAAAA0hvVM9teJAWYO3KfnwPqf`
