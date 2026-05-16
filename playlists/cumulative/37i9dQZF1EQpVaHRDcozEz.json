@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXIdP1jOuhj6>Ray Parker Jr.</a>, <a href=spotify:playlist:37i9dQZF1EIZMNFKKIeeB9>Labi Siffre</a>, <a href=spotify:playlist:37i9dQZF1EIVcS7TfQj88P>Pink Floyd</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVcS7TfQj88P>Pink Floyd</a>, <a href=spotify:playlist:37i9dQZF1EIXZ2dFjDtH8Y>Journey</a>, <a href=spotify:playlist:37i9dQZF1EIZpYaB5H40zJ>Blue Öyster Cult</a> and more",
   "name": "70s Mix",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 308123,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
@@ -1616,7 +1616,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 493933,
       "name": "Albinoni / Arr. Giazotto: Adagio in G Minor",
       "url": "https://open.spotify.com/track/2flSSpi2qM2N8NoWSRKjBB"
@@ -4557,6 +4557,24 @@
     },
     {
       "album": {
+        "name": "Transharmonic Nights",
+        "url": "https://open.spotify.com/album/3UuouUL95P9JyCudPmL7Ck"
+      },
+      "artists": [
+        {
+          "name": "Peter Baumann",
+          "url": "https://open.spotify.com/artist/4u9mLb6exlbHuNehyJ11jq"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148932,
+      "name": "Biking Up The Strand",
+      "url": "https://open.spotify.com/track/5HDKkKWXrOv1twkA5xa0eB"
+    },
+    {
+      "album": {
         "name": "Bir Zamanlar, Vol. 3",
         "url": "https://open.spotify.com/album/6hyUT1qdRdZcxtqDA3ntrL"
       },
@@ -5384,7 +5402,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 169560,
       "name": "Breathe (In the Air)",
       "url": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
@@ -11788,7 +11806,7 @@
       ],
       "date_added": "2026-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 225053,
       "name": "Equinoxe, Pt. 5",
       "url": "https://open.spotify.com/track/0w6SpWTvf5i70VxgArASBB"
@@ -13328,7 +13346,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 246923,
       "name": "Fool (If You Think It's Over) - 2025 Remaster",
       "url": "https://open.spotify.com/track/54aZjlxK52YS5PBGf6u7Qh"
@@ -13758,6 +13776,24 @@
       "duration_ms": 257120,
       "name": "From the Beginning - New Stereo Mix",
       "url": "https://open.spotify.com/track/6PWkGE6ZHEO6wmyLUFzpaO"
+    },
+    {
+      "album": {
+        "name": "A Curious Feeling",
+        "url": "https://open.spotify.com/album/0hxU7qvUGe5kpsriGvuCdD"
+      },
+      "artists": [
+        {
+          "name": "Tony Banks",
+          "url": "https://open.spotify.com/artist/0GoR8CuoikLD53GNMZUGHN"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167360,
+      "name": "From The Undertow",
+      "url": "https://open.spotify.com/track/4eN9Xrm9tYeCz33Bu0kxAi"
     },
     {
       "album": {
@@ -14282,7 +14318,7 @@
       ],
       "date_added": "2025-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 239133,
       "name": "Ghostbusters - from the \"Ghostbusters\" Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/569uHYIB0X324FZOBEhvit"
@@ -14430,7 +14466,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-04",
+      "date_removed": null,
       "duration_ms": 238306,
       "name": "Give It All You Got",
       "url": "https://open.spotify.com/track/5xQaJwfcHSAJ2z9PQtzSdW"
@@ -17132,7 +17168,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 178181,
       "name": "Hotel California - Garage Version",
       "url": "https://open.spotify.com/track/1dPgHwIn4OqY1LrTMiYjd0"
@@ -19656,6 +19692,24 @@
       "duration_ms": 196240,
       "name": "In Your Letter",
       "url": "https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi"
+    },
+    {
+      "album": {
+        "name": "The Mike Oldfield Collection",
+        "url": "https://open.spotify.com/album/6DCKvIzj7NnAwmdtI010JY"
+      },
+      "artists": [
+        {
+          "name": "Mike Oldfield",
+          "url": "https://open.spotify.com/artist/562Od3CffWedyz2BbeYWVn"
+        }
+      ],
+      "date_added": "2026-05-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278426,
+      "name": "Incantations Part Four (excerpt)",
+      "url": "https://open.spotify.com/track/1ZJv5nYlHzXZvTx7AchAKg"
     },
     {
       "album": {
@@ -25324,7 +25378,7 @@
       ],
       "date_added": "2026-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 183280,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/37bfDlANIIbEev7XzIbOdQ"
@@ -25494,7 +25548,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 246266,
       "name": "Love's Theme",
       "url": "https://open.spotify.com/track/5csdrJ0JtFn0qvwlvSh2EI"
@@ -26194,7 +26248,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-08",
+      "date_removed": null,
       "duration_ms": 238095,
       "name": "Magic Fly - Vince Clarke Rework",
       "url": "https://open.spotify.com/track/1K7pS9dAo8EkbNWxysHt1W"
@@ -28734,7 +28788,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 284480,
       "name": "My Song",
       "url": "https://open.spotify.com/track/2EQWbkcNoKPOXQtJM7nqRV"
@@ -29866,7 +29920,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 179200,
       "name": "Nostalgy",
       "url": "https://open.spotify.com/track/006VmLtJ0H5mpIFQiPharP"
@@ -31294,7 +31348,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 260500,
       "name": "Oxygene, Pt. 17",
       "url": "https://open.spotify.com/track/00oC1ZmwLhcATZxHjkgk9X"
@@ -35262,7 +35316,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 256146,
       "name": "Sailing",
       "url": "https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK"
@@ -36100,7 +36154,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 165074,
       "name": "Separate Ways (Worlds Apart) - Bryce Miller/Alloy Tracks Remix",
       "url": "https://open.spotify.com/track/0muK9BAzu2TJXQgWPsEj6e"
@@ -36162,7 +36216,7 @@
       ],
       "date_added": "2023-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 323453,
       "name": "Separate Ways (Worlds Apart) [2023 Remaster]",
       "url": "https://open.spotify.com/track/1pTw2cNrp9L3esxLAvWnN2"
@@ -38888,7 +38942,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 258133,
       "name": "Stuntman",
       "url": "https://open.spotify.com/track/36klPo33gZoS0QvDnVfFnC"
@@ -39366,7 +39420,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-16",
       "duration_ms": 195552,
       "name": "Superman: Main Theme - Epic Version",
       "url": "https://open.spotify.com/track/7nKebBMzDot13eNBwMvvff"
@@ -41184,7 +41238,7 @@
       ],
       "date_added": "2023-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 284413,
       "name": "The Great Gig in the Sky",
       "url": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
@@ -41344,7 +41398,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 250475,
       "name": "THE KISS",
       "url": "https://open.spotify.com/track/3KyuswFIvw1tmEoIBGDxYZ"
