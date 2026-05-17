@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,337 songs - 2 day 22 hr 15 min
+1,338 songs - 2 day 22 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@
 | [Just Saying](https://open.spotify.com/track/7KNwOK2WTnwFn2x5WgkRLC) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Just Saying](https://open.spotify.com/album/6nKl2xSHPMMJkS9XfaEF6z) | 2:52 | 2023-02-04 | 2023-04-05 |
 | [Just The Kinda Feeling](https://open.spotify.com/track/1EkArBpT5yzmpQmQohGoqV) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Lost Boy](https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 3:34 | 2024-10-05 | 2024-11-05 |
 | [Just The Way You Are](https://open.spotify.com/track/3UqyNXvu7AOogylx28lm8j) | [Craig Reever](https://open.spotify.com/artist/3OEFtQRq38Ysp1BZdmbK7h), [Frigga](https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC) | [Own Tonight](https://open.spotify.com/album/3XJ2ncn459uc7TNAZjeM8H) | 3:17 | 2022-06-16 | 2022-08-11 |
-| [Just You](https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Notes From Yesterday](https://open.spotify.com/album/1WKR8YpkESOvjH3Y9pRXpo) | 3:20 | 2026-02-26 |  |
+| [Just You](https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Notes From Yesterday](https://open.spotify.com/album/1WKR8YpkESOvjH3Y9pRXpo) | 3:20 | 2026-02-26 | 2026-05-17 |
 | [Karma](https://open.spotify.com/track/6AufrSpc1EYftTvaLQroKm) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:47 | 2023-02-01 | 2023-04-02 |
 | [karma \(ft\. Daye\)](https://open.spotify.com/track/21uNIZpYLoHEoD39I38f98) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt) | [could've been us](https://open.spotify.com/album/1d8M3ddK5Qrr10M17wjXRQ) | 2:58 | 2023-08-02 | 2023-08-18 |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2023-01-17 | 2023-02-02 |
@@ -635,6 +635,7 @@
 | [Kesariya \- Lost Frequencies Remix](https://open.spotify.com/track/1lGM7rKw8G2Sz0DDuKL82f) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Kesariya \(Lost Frequencies Remix\)](https://open.spotify.com/album/2DjMuo6Tz2BfmvgA2p63a3) | 4:17 | 2025-03-27 | 2025-05-21 |
 | [Kids](https://open.spotify.com/track/2kZSYS1DdHBlkbhoFDsL4E) | [LUVE](https://open.spotify.com/artist/6tJbqTUC2VqqZXEbDGLfYv), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Kids](https://open.spotify.com/album/74lovKKKA9LbSthSFfslBj) | 3:00 | 2022-10-21 | 2022-11-16 |
 | [Kids In The Corner \- Goodboys Remix](https://open.spotify.com/track/6EIyNWCx1cSHDF9SEKeiWL) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Kids In The Corner \(Goodboys Remix\)](https://open.spotify.com/album/6Sloyq6BIRcGycFCizVSZo) | 2:20 | 2023-08-02 | 2023-08-06 |
+| [KiLL iT QUEEN](https://open.spotify.com/track/0vEbs5wZEqnrTnRppLGZaU) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [KiLL iT QUEEN](https://open.spotify.com/album/5YD2OXFbiw3S7kdL88p3X2) | 2:48 | 2026-05-17 |  |
 | [Kill Kill](https://open.spotify.com/track/2yTDdvf1wlbNwTaUmDZXzv) | [Le Destroy](https://open.spotify.com/artist/1cRCQM8IdgG9Bb195rquky), [The Bait](https://open.spotify.com/artist/1vDI0FM4L2ryzboWw8j9Xk) | [Cyberpunk 2077: Radio, Vol\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/4IzV5XnSOvOBZ2z9WKsi3W) | 3:22 | 2023-11-27 | 2024-01-21 |
 | [Kill V\. Maim](https://open.spotify.com/track/3WXhshrs1fzwF3rQE399Gq) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Art Angels](https://open.spotify.com/album/7J84ixPVFehy6FcLk8rhk3) | 4:06 | 2025-05-20 | 2025-06-20 |
 | [Killing Me](https://open.spotify.com/track/3QD0Y1tTngihByjdWC99lG) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Killing Me](https://open.spotify.com/album/21jf5kUkK5nHYTuZ5GRZVW) | 2:44 | 2023-12-08 | 2024-02-11 |
