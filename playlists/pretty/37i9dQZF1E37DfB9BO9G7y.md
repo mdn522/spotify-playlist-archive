@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E37DfB9BO9G7y.md) - [plain]
 
 ### [Daily Mix 6](https://open.spotify.com/playlist/37i9dQZF1E37DfB9BO9G7y)
 
-> Ariana Grande, Maroon 5, Grimes and more
+> Maroon 5, Grimes, Lady Gaga and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 43 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E37DfB9BO9G7y.md) - [plain]
 | 49 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 |
 | 50 | [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 |
 
-Snapshot ID: `AAAAAP+uIGKmw4iR5FLFkFZ2DMQGljmw`
+Snapshot ID: `AAAAANAk9olLbEH0A2JWTcyCJ5FgAD7u`
