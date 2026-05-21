@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,338 songs - 2 day 22 hr 17 min
+1,339 songs - 2 day 22 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -628,6 +628,7 @@
 | [Just You](https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Notes From Yesterday](https://open.spotify.com/album/1WKR8YpkESOvjH3Y9pRXpo) | 3:20 | 2026-02-26 | 2026-05-17 |
 | [Karma](https://open.spotify.com/track/6AufrSpc1EYftTvaLQroKm) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH2](https://open.spotify.com/album/5aWF6mKr3bSRlMnyxA8Tip) | 2:47 | 2023-02-01 | 2023-04-02 |
 | [karma \(ft\. Daye\)](https://open.spotify.com/track/21uNIZpYLoHEoD39I38f98) | [GhostDragon](https://open.spotify.com/artist/2SfDAbVDU8yzrJeHENAM6O), [Daye](https://open.spotify.com/artist/60osBGZW2H9FtEecIfybMt) | [could've been us](https://open.spotify.com/album/1d8M3ddK5Qrr10M17wjXRQ) | 2:58 | 2023-08-02 | 2023-08-18 |
+| [Kaun Tujhe \(From "M.S.Dhoni \- The Untold Story"\)](https://open.spotify.com/track/1q6pMQBRILzkz0g4rKEXdM) | [Palak Muchhal](https://open.spotify.com/artist/3yMmYEklQ7gLOZXEFNd3xr) | [Best Of Palak Muchhal](https://open.spotify.com/album/4dYNdtPc5EUSmKtyZ9x0l0) | 4:01 | 2026-05-20 |  |
 | [Keep On Dancing](https://open.spotify.com/track/3p1DrvZRj9NTondCwlxbut) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [Keep On Dancing](https://open.spotify.com/album/5vgbksNHdjfxpqjY3zQGKi) | 2:28 | 2023-01-17 | 2023-02-02 |
 | [Keep Playing Games With My Heart](https://open.spotify.com/track/0kWV1XIk6cCodBNSZQJK2e) | [NIMT](https://open.spotify.com/artist/5lFSHgxz53iq69mFl0gJuY) | [Keep Playing Games With My Heart](https://open.spotify.com/album/3COOJEaAKSMmbjnlLbWuX8) | 2:40 | 2025-02-11 | 2025-04-08 |
 | [Keep You Whole](https://open.spotify.com/track/6paa6GdJDXEIYszZ7NknYX) | [Lost Nights](https://open.spotify.com/artist/2GcwyeNNWcsofm42pOXvAT) | [Rewind](https://open.spotify.com/album/0w69w80dr4pNgM0zMDhpAk) | 3:44 | 2024-11-13 | 2025-02-17 |
@@ -728,7 +729,7 @@
 | [Lucid Dream](https://open.spotify.com/track/3fXy7UkU64qm5ezMBf0CTh) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Lucid Dream](https://open.spotify.com/album/2KTqJJVzXUalakSm6HcTdA) | 3:13 | 2025-05-05 | 2025-06-07 |
 | [Lucky \(feat\. Noa Kirel\)](https://open.spotify.com/track/1JMDsOUPflzsNN62KEBaH9) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [Lucky \(feat\. Noa Kirel\)](https://open.spotify.com/album/4xjq8iP9OYWK7g6JhIMv2v) | 2:22 | 2024-03-02 | 2024-03-06 |
 | [Lush Life](https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [So Good](https://open.spotify.com/album/5YLRVHDVRw3QqWbeTGpC5B) | 3:21 | 2023-02-13 | 2023-02-17 |
-| [Lutt Le Gaya](https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 4:13 | 2026-01-16 |  |
+| [Lutt Le Gaya](https://open.spotify.com/track/2dQMisG0lyz6Z8J4zYdAsG) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 4:13 | 2026-01-16 | 2026-05-21 |
 | [Luv Me a Little](https://open.spotify.com/track/1il2jHl3AdodyqQb7fQmlZ) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:44 | 2025-03-27 | 2025-05-17 |
 | [Mad About You \- The Voice Australia 2021 / Grand Finalist Original](https://open.spotify.com/track/3QMGqaufxNaAOyQzrtl0ZR) | [G\-Nat!on](https://open.spotify.com/artist/59kVbySuMDLUqnC8wVydEx) | [Mad About You \(The Voice Australia 2021 / Grand Finalist Original\)](https://open.spotify.com/album/0sQp4wqdDLRwkir01nrBVj) | 2:59 | 2022-08-31 | 2022-09-04 |
 | [Mad World](https://open.spotify.com/track/6WsaEpK2Bky9ZGCCaQPyg4) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Mad World](https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8) | 2:33 | 2024-04-13 | 2024-06-04 |
