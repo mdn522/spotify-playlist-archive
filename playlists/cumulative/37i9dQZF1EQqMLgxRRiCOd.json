@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-28",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWpZkQAUeOxL>The Isley Brothers</a>, <a href=spotify:playlist:37i9dQZF1EIWkC52ImzeTI>Frank Sinatra</a>, <a href=spotify:playlist:37i9dQZF1EIW89QhuusO4P>Elvis Presley</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIYTZHUfAlRRh>The Flamingos</a>, <a href=spotify:playlist:37i9dQZF1EIWkC52ImzeTI>Frank Sinatra</a>, <a href=spotify:playlist:37i9dQZF1EIUITzJrEPCBA>Nat King Cole</a> and more",
   "name": "50s Mix",
   "tracks": [
     {
@@ -214,7 +214,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-13",
+      "date_removed": null,
       "duration_ms": 198863,
       "name": "(All of a Sudden) My Heart Sings",
       "url": "https://open.spotify.com/track/5R3sxGAkd8TkfHvY6O71MK"
@@ -5892,7 +5892,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 160666,
       "name": "Autumn Leaves - Remastered 1987",
       "url": "https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d"
@@ -7306,7 +7306,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 162537,
       "name": "Beyoncé - Run the World",
       "url": "https://open.spotify.com/track/5BIFVDmpsQFT4qvHdNHcGT"
@@ -7324,7 +7324,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
@@ -10108,7 +10108,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 212560,
       "name": "Candilejas",
       "url": "https://open.spotify.com/track/5stF1Fzq4oYUZibrDxXen7"
@@ -10380,7 +10380,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 233386,
       "name": "Cavalleria rusticana: Intermezzo sinfonico",
       "url": "https://open.spotify.com/track/5y5y8D1X0BL8bFg6cAsN45"
@@ -10454,7 +10454,7 @@
       ],
       "date_added": "2026-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 151133,
       "name": "Cello Suite No. 1 in G Major, BWV 1007: I. Prelude",
       "url": "https://open.spotify.com/track/1YgAxb2pODrmQeufSa8Xrt"
@@ -12104,7 +12104,7 @@
       ],
       "date_added": "2026-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 214173,
       "name": "Come, Sweet Death",
       "url": "https://open.spotify.com/track/2VKzsQTNfH0tdOs5y26ftF"
@@ -12236,7 +12236,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 200733,
       "name": "Concerto for Violin, Strings and Continuo in E Major, RV 269 \"La primavera\": II. Largo",
       "url": "https://open.spotify.com/track/2LuXJWJOadRnmdK0Be1Q9n"
@@ -12304,7 +12304,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 214773,
       "name": "Concerto grosso in G Minor, Op. 6 No. 8 \"Christmas Concerto\": III. Adagio – Allegro – Adagio",
       "url": "https://open.spotify.com/track/5zoDDs8N6nL9XQOmIDVbxx"
@@ -12476,7 +12476,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-10",
+      "date_removed": null,
       "duration_ms": 198000,
       "name": "Cool Shade",
       "url": "https://open.spotify.com/track/7bGSlCwhkbqdrbD2aSz1qX"
@@ -24177,6 +24177,24 @@
     },
     {
       "album": {
+        "name": "Billie Holiday",
+        "url": "https://open.spotify.com/album/4MkdTflpaaGGcXb5vtOYRs"
+      },
+      "artists": [
+        {
+          "name": "Billie Holiday",
+          "url": "https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211533,
+      "name": "I'll Be Seeing You",
+      "url": "https://open.spotify.com/track/4smkJW6uzoHxGReZqqwHS5"
+    },
+    {
+      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -24642,7 +24660,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 149826,
       "name": "I'm In The Mood For Love",
       "url": "https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X"
@@ -24880,7 +24898,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 210933,
       "name": "I've Got You Under My Skin",
       "url": "https://open.spotify.com/track/7ur8NGbrtu4Yd83GyXNVAE"
@@ -26468,7 +26486,7 @@
       ],
       "date_added": "2025-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 229964,
       "name": "It's Nice To Go Trav'ling",
       "url": "https://open.spotify.com/track/6imsuTpDgwBqjXx4i422oq"
@@ -27990,7 +28008,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 171693,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3GrHtJUaqrKjXmyKB1mKL5"
@@ -28280,6 +28298,40 @@
       "duration_ms": 281560,
       "name": "Kabhi Aar Kabhi Paar - Remix",
       "url": "https://open.spotify.com/track/6SFtMib6aBuD2S3vRjXbNW"
+    },
+    {
+      "album": {
+        "name": "Kabhi Kabhi Mere Dil (House Music)",
+        "url": "https://open.spotify.com/album/1cdO45LwQC6SBHkHa5cwb5"
+      },
+      "artists": [
+        {
+          "name": "Asha Bhosle",
+          "url": "https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U"
+        },
+        {
+          "name": "O. P. Nayyar",
+          "url": "https://open.spotify.com/artist/5uL7cXOFYlR78lgS08tkBL"
+        },
+        {
+          "name": "Majrooh Sultanpuri",
+          "url": "https://open.spotify.com/artist/7ikcALJgPCvpL25820JNYR"
+        },
+        {
+          "name": "Drub",
+          "url": "https://open.spotify.com/artist/7yeOMQQgOZithjuVW5dNbG"
+        },
+        {
+          "name": "SAM8",
+          "url": "https://open.spotify.com/artist/1g6LVTbaP9cw7w4xNauXSq"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154909,
+      "name": "Kabhi Kabhi Mere Dil - House Music",
+      "url": "https://open.spotify.com/track/0Y6tYUXhfeiIx2IRRmxSPI"
     },
     {
       "album": {
@@ -28998,7 +29050,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-17",
+      "date_removed": null,
       "duration_ms": 176213,
       "name": "Keyboard Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/504wsV4Br1jy9xUvWzpAog"
@@ -31286,7 +31338,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 245002,
       "name": "Les contes d'Hoffmann: \"Barcarole\"",
       "url": "https://open.spotify.com/track/4oiSUQ4LCvBcbFo0BNoz01"
@@ -35844,7 +35896,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-11",
+      "date_removed": null,
       "duration_ms": 160226,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
@@ -36948,7 +37000,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-15",
+      "date_removed": null,
       "duration_ms": 144373,
       "name": "Moonlight And Roses",
       "url": "https://open.spotify.com/track/6dgav6tnvdixAPW4LWxPkD"
@@ -45298,7 +45350,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 193440,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII",
       "url": "https://open.spotify.com/track/5LkFCPmFADnENuQ6UjK1wm"
@@ -47046,7 +47098,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 174600,
       "name": "Se Alguem Telefonar / Castigo",
       "url": "https://open.spotify.com/track/3he5bq6moowx6hKEwmHdcz"
@@ -47140,7 +47192,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-30",
+      "date_removed": null,
       "duration_ms": 116500,
       "name": "Secret Love",
       "url": "https://open.spotify.com/track/3deZO1SwZe3eRip9XugF9x"
@@ -49250,7 +49302,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 207600,
       "name": "Solitude",
       "url": "https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ"
@@ -50048,7 +50100,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 261773,
       "name": "Speak Low - Bent Remix",
       "url": "https://open.spotify.com/track/7ujUko3QK8m1UFnexVmRbc"
@@ -52776,7 +52828,7 @@
       ],
       "date_added": "2023-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 328831,
       "name": "Take Five",
       "url": "https://open.spotify.com/track/1YQWosTIljIvxAgHWTp7KP"
@@ -53787,6 +53839,32 @@
     },
     {
       "album": {
+        "name": "As Time Goes By: Those Romantic 30s",
+        "url": "https://open.spotify.com/album/6GyVSvHZriFphLqV1bm12l"
+      },
+      "artists": [
+        {
+          "name": "Ralph Rainger",
+          "url": "https://open.spotify.com/artist/4ITwY9MdPqxYh8BVsA7Qnb"
+        },
+        {
+          "name": "Leo Robin",
+          "url": "https://open.spotify.com/artist/2QtNtEUIcCHpnPshtHgckM"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227933,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/29YufzJpZFH9Ifb0gK7jQa"
+    },
+    {
+      "album": {
         "name": "The Ray Conniff Hi-Fi Companion",
         "url": "https://open.spotify.com/album/7KTeLjuwf3PMX1YhBzyHol"
       },
@@ -54676,7 +54754,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 161626,
       "name": "The High And The Mighty",
       "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
@@ -54784,7 +54862,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 136653,
       "name": "The John Dunbar Theme from \"Dances With Wolves\"",
       "url": "https://open.spotify.com/track/1f6bexXtBeGyXStlJzsICa"
@@ -56218,7 +56296,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-22",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1"
@@ -59060,7 +59138,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-05-23",
       "duration_ms": 213399,
       "name": "Under the Copper Moon",
       "url": "https://open.spotify.com/track/2ITmyC3C4prkJdXjsOeN3v"
@@ -62351,6 +62429,28 @@
     },
     {
       "album": {
+        "name": "Mid-Night Love (Lofi)",
+        "url": "https://open.spotify.com/album/6tFLih5hae2LeXXx5t2SSi"
+      },
+      "artists": [
+        {
+          "name": "Mohammed Rafi",
+          "url": "https://open.spotify.com/artist/0gXDpqwYNDODn7fB0RDN8J"
+        },
+        {
+          "name": "Abhimanyu-Pragya",
+          "url": "https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr"
+        }
+      ],
+      "date_added": "2026-05-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150260,
+      "name": "Yeh Mera Prem Patra - Lofi",
+      "url": "https://open.spotify.com/track/35pet3Gh7ai6xrojVqhPTH"
+    },
+    {
+      "album": {
         "name": "Masterworks Lata Mangeshkar",
         "url": "https://open.spotify.com/album/7B0c97A5vyniuZOz0jgpDr"
       },
@@ -62676,7 +62776,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-14",
+      "date_removed": null,
       "duration_ms": 217306,
       "name": "You And The Night And The Music",
       "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
