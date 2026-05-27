@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 25 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 |
 | 26 | [Spaceship](https://open.spotify.com/track/7GWXjklWJA0kjWWf9sNw1k) | [OLZXVS](https://open.spotify.com/artist/1tqvR13suC3SB24Ngd0zVI) | [Spaceship](https://open.spotify.com/album/6s22PosumlZIKoqu2pjyzy) | 2:54 |
 | 27 | [Junjiro \(Little Tanuki\) \- Mondo Loops Remix](https://open.spotify.com/track/6lyVunXcysd1AMWhwsnNYs) | [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN), [Assassin's Creed](https://open.spotify.com/artist/5ct8AlcDgWMp4O25vbcjpC), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Lofi Girl x Assassin's Creed Shadows \- stealthy beats to relax to](https://open.spotify.com/album/4VoRbaeHOWTIa3WYaGhr55) | 2:15 |
-| 28 | [bridge to my heart \- instrumental](https://open.spotify.com/track/5prg752VhhJHudG8wRsTj5) | [Blue Wednesday](https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [the life a of a lofi boy \(instrumentals\)](https://open.spotify.com/album/5aybUV9B3sif16GQUSTTLr) | 2:25 |
-| 29 | [A Walk Through the Sky](https://open.spotify.com/track/5dy5dK65KyLp4Kji4MjwZF) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [A Walk Through the Sky](https://open.spotify.com/album/2qcouameQm61TRf9zHFfSl) | 2:21 |
-| 30 | [Move \- Yeh Ishq Ishq](https://open.spotify.com/track/3SVgtZSEqPNga5pKOJLCDZ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Roshan](https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM), [Sahir Ludhianvi](https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 3:24 |
+| 28 | [A Walk Through the Sky](https://open.spotify.com/track/5dy5dK65KyLp4Kji4MjwZF) | [Kainbeats](https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G) | [A Walk Through the Sky](https://open.spotify.com/album/2qcouameQm61TRf9zHFfSl) | 2:21 |
+| 29 | [Move \- Yeh Ishq Ishq](https://open.spotify.com/track/3SVgtZSEqPNga5pKOJLCDZ) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Sonu Nigam](https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2), [Roshan](https://open.spotify.com/artist/6Wg3akugFVCH4iYhEKk0GM), [Sahir Ludhianvi](https://open.spotify.com/artist/1nLvkKjnfpnouM0Mpyd4cc) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 3:24 |
+| 30 | [Just You](https://open.spotify.com/track/3RO0O1JTECMmboZmWVk1vu) | [Swink](https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0) | [Notes From Yesterday](https://open.spotify.com/album/1WKR8YpkESOvjH3Y9pRXpo) | 3:20 |
 
-Snapshot ID: `ahEVZAAAAACFXT5u/8EIYbwTP1u3fDNW`
+Snapshot ID: `ahVhtwAAAAB6G+nbHAm9KLYPzhJYsBUW`
