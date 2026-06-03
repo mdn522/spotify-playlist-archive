@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIW89QhuusO4P>Elvis Presley</a>, <a href=spotify:playlist:37i9dQZF1EIUITzJrEPCBA>Nat King Cole</a>, <a href=spotify:playlist:37i9dQZF1EIWy7Uo5kyok8>Miles Davis</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVonFGKoVSYe>Ben E. King</a>, <a href=spotify:playlist:37i9dQZF1EIYTZHUfAlRRh>The Flamingos</a>, <a href=spotify:playlist:37i9dQZF1EIW89QhuusO4P>Elvis Presley</a> and more",
   "num_followers": 0,
   "original_name": "50s Mix",
   "owner": {
@@ -8,6 +8,38 @@
   },
   "snapshot_id": "AAAAAP/FvJODkOZ9jkp01rSfQxKm/KZu",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Spanish Harlem",
+        "url": "https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp"
+      },
+      "artists": [
+        {
+          "name": "Ben E. King",
+          "url": "https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3"
+        }
+      ],
+      "duration_ms": 174293,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/3UCmuRdeTriWgOZMEJsfqZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flamingo Serenade",
+        "url": "https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ"
+      },
+      "artists": [
+        {
+          "name": "The Flamingos",
+          "url": "https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6"
+        }
+      ],
+      "duration_ms": 202773,
+      "name": "I Only Have Eyes for You",
+      "url": "https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,46 +59,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Is The Thing",
-        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+        "name": "Music For Memories",
+        "url": "https://open.spotify.com/album/6jHW7r031Lr2fq8EAUcx3o"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
         }
       ],
-      "duration_ms": 190773,
-      "name": "When I Fall In Love",
-      "url": "https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB"
+      "duration_ms": 194600,
+      "name": "You Go To My Head",
+      "url": "https://open.spotify.com/track/0aoEWKKpvSpPZ6unbW06eI"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Kind Of Blue (Legacy Edition)",
-        "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
+        "name": "Till",
+        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+          "name": "Roger Williams",
+          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
         }
       ],
-      "duration_ms": 562640,
-      "name": "So What (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
-      "url": "https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq"
+      "duration_ms": 140906,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/2xj9MflB27lyKVnr8rv655"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Time Classics",
+        "url": "https://open.spotify.com/album/3hHdgJruTjwZUWKD6KLXMp"
+      },
+      "artists": [
+        {
+          "name": "Freddy Gardner",
+          "url": "https://open.spotify.com/artist/4WQWaPilfIIkwI4fkrFWeK"
+        }
+      ],
+      "duration_ms": 190194,
+      "name": "I’m in the Mood for Love",
+      "url": "https://open.spotify.com/track/4mK6rRrDDFOPTON3d5Yzt2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/0G5yhKCSHH7UcKKXZDNQXb"
+      },
+      "artists": [
+        {
+          "name": "Benjamin James Quartet",
+          "url": "https://open.spotify.com/artist/12ZToDprFLetAqm6crM8bw"
+        }
+      ],
+      "duration_ms": 198599,
+      "name": "What That Old Feeling Is Gone",
+      "url": "https://open.spotify.com/track/5n988LPNwuciB0RdPQCsYQ"
     },
     {
       "added_at": null,
@@ -99,70 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till",
-        "url": "https://open.spotify.com/album/6oEP9qsYfOmRH6BK0TEQ6P"
-      },
-      "artists": [
-        {
-          "name": "Roger Williams",
-          "url": "https://open.spotify.com/artist/55CCS64lPz88twUDVquU1u"
-        }
-      ],
-      "duration_ms": 140906,
-      "name": "Fascination",
-      "url": "https://open.spotify.com/track/2xj9MflB27lyKVnr8rv655"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Memories",
-        "url": "https://open.spotify.com/album/6jHW7r031Lr2fq8EAUcx3o"
-      },
-      "artists": [
-        {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "You Go To My Head",
-      "url": "https://open.spotify.com/track/0aoEWKKpvSpPZ6unbW06eI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Time Classics",
-        "url": "https://open.spotify.com/album/3hHdgJruTjwZUWKD6KLXMp"
-      },
-      "artists": [
-        {
-          "name": "Freddy Gardner",
-          "url": "https://open.spotify.com/artist/4WQWaPilfIIkwI4fkrFWeK"
-        }
-      ],
-      "duration_ms": 190194,
-      "name": "I’m in the Mood for Love",
-      "url": "https://open.spotify.com/track/4mK6rRrDDFOPTON3d5Yzt2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/0G5yhKCSHH7UcKKXZDNQXb"
-      },
-      "artists": [
-        {
-          "name": "Benjamin James Quartet",
-          "url": "https://open.spotify.com/artist/12ZToDprFLetAqm6crM8bw"
-        }
-      ],
-      "duration_ms": 178919,
-      "name": "Beside the Meadowlark",
-      "url": "https://open.spotify.com/track/5BlHfX5ANPV1Se2nqFWKb2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Music, Martinis And Memories",
         "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
       },
@@ -175,6 +163,38 @@
       "duration_ms": 196680,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/44TsypmU78QhrznBxd7k0n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best World Sound",
+        "url": "https://open.spotify.com/album/4fzoAwHuryIZrBbDShOJeY"
+      },
+      "artists": [
+        {
+          "name": "Os Violinos Mágicos",
+          "url": "https://open.spotify.com/artist/4zHFQv4hlJJOZCYzmWcDHy"
+        }
+      ],
+      "duration_ms": 141173,
+      "name": "Unforgetable",
+      "url": "https://open.spotify.com/track/4Cd403Rjc0KybE7AMB99CD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nel Blu di Pinto di Blu (Instrumental)",
+        "url": "https://open.spotify.com/album/31ZWa5GeyDYTffvNXtdSWg"
+      },
+      "artists": [
+        {
+          "name": "Imad Fares",
+          "url": "https://open.spotify.com/artist/5yg5CFZ69IN6tVv3rItI8w"
+        }
+      ],
+      "duration_ms": 228576,
+      "name": "Nel Blu di Pinto di Blu - Instrumental",
+      "url": "https://open.spotify.com/track/3YQcOHXwbM2kDe09c3F6PJ"
     },
     {
       "added_at": null,
@@ -195,54 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presenting Robert Farnon & Flirtation Walk",
-        "url": "https://open.spotify.com/album/7vtbK51HLBVBXhOwbnA55Z"
-      },
-      "artists": [
-        {
-          "name": "Robert Farnon",
-          "url": "https://open.spotify.com/artist/6v6ptyZ7vEeb2bPtbZ4Y8i"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "By a Waterfall",
-      "url": "https://open.spotify.com/track/67R3lRRMxtM1l5uGlNA4L9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best World Sound",
-        "url": "https://open.spotify.com/album/4fzoAwHuryIZrBbDShOJeY"
-      },
-      "artists": [
-        {
-          "name": "Os Violinos Mágicos",
-          "url": "https://open.spotify.com/artist/4zHFQv4hlJJOZCYzmWcDHy"
-        }
-      ],
-      "duration_ms": 203173,
-      "name": "September Song",
-      "url": "https://open.spotify.com/track/6AFW0zqRHmEUFrmtCRwgXb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 162840,
-      "name": "Love Is Here To Stay - Remastered 1998",
-      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oh Mein Papa",
         "url": "https://open.spotify.com/album/5hkW2LshBjaPeDwcOoepIJ"
       },
@@ -259,104 +231,40 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Dean Martin",
-        "url": "https://open.spotify.com/album/7dfnxOYh1XR9AKqCcGckGX"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/1hhRjMNhNI1Ygmokrn5Ywx"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 181626,
-      "name": "Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998",
-      "url": "https://open.spotify.com/track/5OkKOkdVTKFrYi6GWXkMzR"
+      "duration_ms": 229786,
+      "name": "The Song from Moulin Rouge",
+      "url": "https://open.spotify.com/track/2qB4ICc0xkW6Mnhm32W6eL"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Dancing in the Dark",
-        "url": "https://open.spotify.com/album/2S9cRlL7WPKJ69yPBBmdl9"
+        "name": "Love Is Blue",
+        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
       },
       "artists": [
         {
-          "name": "The Ray Coniff Orchestra & Chorus",
-          "url": "https://open.spotify.com/artist/1bGakzVdD2SGDgVaxvYvmg"
+          "name": "Paul Mauriat",
+          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
         }
       ],
-      "duration_ms": 162844,
-      "name": "Sentimental Journey",
-      "url": "https://open.spotify.com/track/5eJiSbGz4bbfMwNSHJAMC2"
+      "duration_ms": 158333,
+      "name": "Somethin' Stupid",
+      "url": "https://open.spotify.com/track/1qXTjrPxuZC5jAZkjKNYbP"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Eddie Heywood",
-        "url": "https://open.spotify.com/album/6UKIKQIxQqmYg9Q1myx8m8"
-      },
-      "artists": [
-        {
-          "name": "Eddie Heywood",
-          "url": "https://open.spotify.com/artist/4Up5NIBDcGXsFk2lcsHaNG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Hey There",
-      "url": "https://open.spotify.com/track/7ijvt0WDUGXOjyuW3eCih8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shadows Are Go!",
-        "url": "https://open.spotify.com/album/4XeSxu0v0YVAR0BojopTwD"
-      },
-      "artists": [
-        {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Wonderful Land",
-      "url": "https://open.spotify.com/track/4BAO1Tf0LjzfgKvKniehFJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The EP Collection - Volume 2",
-        "url": "https://open.spotify.com/album/19ECFnSk3j8qy3lfG1yc7W"
-      },
-      "artists": [
-        {
-          "name": "Earl Bostic",
-          "url": "https://open.spotify.com/artist/3uPH2E6G8gBlatMzfQR4lL"
-        }
-      ],
-      "duration_ms": 217693,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/3EjMOZmrzOGqlRrrETFN3R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Big Band Bash!",
-        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
-      },
-      "artists": [
-        {
-          "name": "Billy May",
-          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/15yd8siwbKke9FZEwZ7FNE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Ferrante & Teicher Collection",
-        "url": "https://open.spotify.com/album/1yscs1jS85Ky0XFWI4fgjV"
+        "name": "Instrumental Favorites",
+        "url": "https://open.spotify.com/album/6cFnQbYUBV1xdETuXWC891"
       },
       "artists": [
         {
@@ -364,25 +272,9 @@
           "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
         }
       ],
-      "duration_ms": 190359,
+      "duration_ms": 179000,
       "name": "Exodus",
-      "url": "https://open.spotify.com/track/7MIzIo0Z9S8zmBiXdGwOeS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing & Swing with Bobby Darin",
-        "url": "https://open.spotify.com/album/7Hp8KEu2KpCKetEIBBDVk3"
-      },
-      "artists": [
-        {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
-        }
-      ],
-      "duration_ms": 150706,
-      "name": "Dream Lover",
-      "url": "https://open.spotify.com/track/5XeUMqS6mpTEspPgd5TLtg"
+      "url": "https://open.spotify.com/track/1tS5cz0GDYtQMIqQYi7y42"
     },
     {
       "added_at": null,
@@ -403,74 +295,118 @@
     {
       "added_at": null,
       "album": {
-        "name": "As Time Goes By: Those Romantic 30s",
-        "url": "https://open.spotify.com/album/6GyVSvHZriFphLqV1bm12l"
+        "name": "The EP Collection - Volume 2",
+        "url": "https://open.spotify.com/album/19ECFnSk3j8qy3lfG1yc7W"
       },
       "artists": [
         {
-          "name": "Ralph Rainger",
-          "url": "https://open.spotify.com/artist/4ITwY9MdPqxYh8BVsA7Qnb"
+          "name": "Earl Bostic",
+          "url": "https://open.spotify.com/artist/3uPH2E6G8gBlatMzfQR4lL"
+        }
+      ],
+      "duration_ms": 217693,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/3EjMOZmrzOGqlRrrETFN3R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Cole At The Piano",
+        "url": "https://open.spotify.com/album/53NmPGyaqODvvHsOm0jNiE"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole Trio",
+          "url": "https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "These Foolish Things (Remind Me Of You)",
+      "url": "https://open.spotify.com/track/1zpcmHFlnd8VAvtdsmZTmZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Love Is Here To Stay - Remastered 1998",
+      "url": "https://open.spotify.com/track/3YCbx1QqGrnxMsPEZLC1CT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dancing in the Dark",
+        "url": "https://open.spotify.com/album/2S9cRlL7WPKJ69yPBBmdl9"
+      },
+      "artists": [
+        {
+          "name": "The Ray Coniff Orchestra & Chorus",
+          "url": "https://open.spotify.com/artist/1bGakzVdD2SGDgVaxvYvmg"
+        }
+      ],
+      "duration_ms": 162844,
+      "name": "Sentimental Journey",
+      "url": "https://open.spotify.com/track/5eJiSbGz4bbfMwNSHJAMC2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Billy Vaughn Plays",
+        "url": "https://open.spotify.com/album/6RSo5YMhpmvoCUs1dabvjl"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 146080,
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/29KjWeimMVwcj5jihsoSIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Double 7",
+        "url": "https://open.spotify.com/album/2l6BcoV7EknJqlcKgL1LVO"
+      },
+      "artists": [
+        {
+          "name": "Winifred Atwell",
+          "url": "https://open.spotify.com/artist/6dYjED5eEVQa9RdtR0KAM4"
+        }
+      ],
+      "duration_ms": 126935,
+      "name": "Jimmy Dorsey's Boogie",
+      "url": "https://open.spotify.com/track/6PYZJ8gjSyHBEBaxhG3ECe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Paris With Love",
+        "url": "https://open.spotify.com/album/0PKXG0AvglD5cDMry2nYnZ"
+      },
+      "artists": [
+        {
+          "name": "Stéphane Grappelli",
+          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
         },
         {
-          "name": "Leo Robin",
-          "url": "https://open.spotify.com/artist/2QtNtEUIcCHpnPshtHgckM"
-        },
-        {
-          "name": "Frank Chacksfield & His Orchestra",
-          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Thanks For The Memory",
-      "url": "https://open.spotify.com/track/29YufzJpZFH9Ifb0gK7jQa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heavenly",
-        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 216576,
-      "name": "Misty",
-      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Earth Angel (Will You Be Mine)",
-        "url": "https://open.spotify.com/album/366ducJvdOGLJCyNQdDuEG"
-      },
-      "artists": [
-        {
-          "name": "UAP",
-          "url": "https://open.spotify.com/artist/1fEqRExfCuTtAfM8md9Phf"
-        }
-      ],
-      "duration_ms": 205013,
-      "name": "Earth Angel (Will You Be Mine)",
-      "url": "https://open.spotify.com/track/6CzyyJsA8SoixkUetlU77T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bouquet",
-        "url": "https://open.spotify.com/album/1hhRjMNhNI1Ygmokrn5Ywx"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 229786,
-      "name": "The Song from Moulin Rouge",
-      "url": "https://open.spotify.com/track/2qB4ICc0xkW6Mnhm32W6eL"
+      "duration_ms": 209133,
+      "name": "Manoir De Mes Reves",
+      "url": "https://open.spotify.com/track/137RrxamxmwssT5ckj6WGU"
     },
     {
       "added_at": null,
@@ -523,30 +459,66 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rachmaninoff: Rhapsody on a Theme of Paganini, Op. 43 - de Falla: Nights in the Gardens of Spain",
-        "url": "https://open.spotify.com/album/4uXWsLY7F65aLKt53KRIvp"
+        "name": "Sleep Warm",
+        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
       },
       "artists": [
         {
-          "name": "Sergei Rachmaninoff",
-          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
-        },
-        {
-          "name": "Arthur Rubinstein",
-          "url": "https://open.spotify.com/artist/5N1GUHhFMRFFgMTjSOJDb9"
-        },
-        {
-          "name": "Fritz Reiner",
-          "url": "https://open.spotify.com/artist/4nsMLwMcViXAqwTLJ71y8i"
-        },
-        {
-          "name": "Chicago Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6TD08jYeuN128P2MZTbc8E"
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
         }
       ],
-      "duration_ms": 193440,
-      "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII",
-      "url": "https://open.spotify.com/track/5LkFCPmFADnENuQ6UjK1wm"
+      "duration_ms": 196573,
+      "name": "Dream A Little Dream",
+      "url": "https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Eddy Duchin Story",
+        "url": "https://open.spotify.com/album/4JL3VrIVAkPh0o4yHc4kgH"
+      },
+      "artists": [
+        {
+          "name": "Carmen Cavallaro",
+          "url": "https://open.spotify.com/artist/3HdNBBi4kL2kbJUWfp179a"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "You're My Everything - From \"The Eddy Duchin Story\" Soundtrack",
+      "url": "https://open.spotify.com/track/0TqNgMiwPEmLOnfQJhwF4T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Earth Angel (Will You Be Mine)",
+        "url": "https://open.spotify.com/album/366ducJvdOGLJCyNQdDuEG"
+      },
+      "artists": [
+        {
+          "name": "UAP",
+          "url": "https://open.spotify.com/artist/1fEqRExfCuTtAfM8md9Phf"
+        }
+      ],
+      "duration_ms": 205013,
+      "name": "Earth Angel (Will You Be Mine)",
+      "url": "https://open.spotify.com/track/6CzyyJsA8SoixkUetlU77T"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music For Dreaming",
+        "url": "https://open.spotify.com/album/5bHsg1LQ4ZmbwgYsyg1RaM"
+      },
+      "artists": [
+        {
+          "name": "Paul Weston",
+          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+        }
+      ],
+      "duration_ms": 202133,
+      "name": "I'm Thru With Love",
+      "url": "https://open.spotify.com/track/2CZe9MAKilxmJNzycEwrI6"
     },
     {
       "added_at": null,
@@ -567,50 +539,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music For Memories",
-        "url": "https://open.spotify.com/album/6jHW7r031Lr2fq8EAUcx3o"
+        "name": "Heavenly",
+        "url": "https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9"
       },
       "artists": [
         {
-          "name": "Paul Weston",
-          "url": "https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK"
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
         }
       ],
-      "duration_ms": 173973,
-      "name": "Blue Moon",
-      "url": "https://open.spotify.com/track/34W1F0gcJ1gnrP00OFUo5z"
+      "duration_ms": 216576,
+      "name": "Misty",
+      "url": "https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Love Is Blue",
-        "url": "https://open.spotify.com/album/4q9ot78mrbt8U5WEhzrzZa"
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/0G5yhKCSHH7UcKKXZDNQXb"
       },
       "artists": [
         {
-          "name": "Paul Mauriat",
-          "url": "https://open.spotify.com/artist/5Oj26LEf8jdgR2woWEjlhi"
+          "name": "Benjamin James Quartet",
+          "url": "https://open.spotify.com/artist/12ZToDprFLetAqm6crM8bw"
         }
       ],
-      "duration_ms": 158333,
-      "name": "Somethin' Stupid",
-      "url": "https://open.spotify.com/track/1qXTjrPxuZC5jAZkjKNYbP"
+      "duration_ms": 178919,
+      "name": "Beside the Meadowlark",
+      "url": "https://open.spotify.com/track/5BlHfX5ANPV1Se2nqFWKb2"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Blue Iris",
-        "url": "https://open.spotify.com/album/0vHsVJRGgOOIRk5GTt0A0u"
+        "name": "Shadows Are Go!",
+        "url": "https://open.spotify.com/album/4XeSxu0v0YVAR0BojopTwD"
       },
       "artists": [
         {
-          "name": "Gary Cole Quartet",
-          "url": "https://open.spotify.com/artist/7zxZctS2cq8UC9RVKVqhZE"
+          "name": "The Shadows",
+          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
         }
       ],
-      "duration_ms": 159679,
-      "name": "Red over Blue",
-      "url": "https://open.spotify.com/track/1Kp8hhxbyr7vC87lRv9FpX"
+      "duration_ms": 123000,
+      "name": "Wonderful Land",
+      "url": "https://open.spotify.com/track/4BAO1Tf0LjzfgKvKniehFJ"
     },
     {
       "added_at": null,
@@ -624,9 +596,41 @@
           "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 210533,
-      "name": "I'm In The Mood For Love",
-      "url": "https://open.spotify.com/track/74uQBuEW08f2vDbFrydxEn"
+      "duration_ms": 196506,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/0E2vu6Cqz3x9ZrxvBMhTvW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best World Sound",
+        "url": "https://open.spotify.com/album/4fzoAwHuryIZrBbDShOJeY"
+      },
+      "artists": [
+        {
+          "name": "Os Violinos Mágicos",
+          "url": "https://open.spotify.com/artist/4zHFQv4hlJJOZCYzmWcDHy"
+        }
+      ],
+      "duration_ms": 203173,
+      "name": "September Song",
+      "url": "https://open.spotify.com/track/6AFW0zqRHmEUFrmtCRwgXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For You, For Me, Forevermore",
+        "url": "https://open.spotify.com/album/2I8URD6JXKYwtMByw90GVq"
+      },
+      "artists": [
+        {
+          "name": "Morgana King",
+          "url": "https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH"
+        }
+      ],
+      "duration_ms": 155466,
+      "name": "You're Not So Easy To Forget",
+      "url": "https://open.spotify.com/track/6rU620Vdk8TI3sQu4UKbbQ"
     },
     {
       "added_at": null,
@@ -663,66 +667,122 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best World Sound",
-        "url": "https://open.spotify.com/album/4fzoAwHuryIZrBbDShOJeY"
+        "name": "Bouquet",
+        "url": "https://open.spotify.com/album/1hhRjMNhNI1Ygmokrn5Ywx"
       },
       "artists": [
         {
-          "name": "Os Violinos Mágicos",
-          "url": "https://open.spotify.com/artist/4zHFQv4hlJJOZCYzmWcDHy"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 141173,
-      "name": "Unforgetable",
-      "url": "https://open.spotify.com/track/4Cd403Rjc0KybE7AMB99CD"
+      "duration_ms": 164453,
+      "name": "Fascination",
+      "url": "https://open.spotify.com/track/2GxK2FsxS5mIyYQquW87e8"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Hey...Let Yourself Go!",
-        "url": "https://open.spotify.com/album/49leeFzmdD4d6wmo77tTZ3"
+        "name": "As Time Goes By: Those Romantic 30s",
+        "url": "https://open.spotify.com/album/6GyVSvHZriFphLqV1bm12l"
       },
       "artists": [
         {
-          "name": "Nelson Riddle",
-          "url": "https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb"
+          "name": "Ralph Rainger",
+          "url": "https://open.spotify.com/artist/4ITwY9MdPqxYh8BVsA7Qnb"
+        },
+        {
+          "name": "Leo Robin",
+          "url": "https://open.spotify.com/artist/2QtNtEUIcCHpnPshtHgckM"
+        },
+        {
+          "name": "Frank Chacksfield & His Orchestra",
+          "url": "https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr"
         }
       ],
-      "duration_ms": 217306,
-      "name": "You And The Night And The Music",
-      "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
+      "duration_ms": 227933,
+      "name": "Thanks For The Memory",
+      "url": "https://open.spotify.com/track/29YufzJpZFH9Ifb0gK7jQa"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Billy Vaughn Plays The Million Sellers",
-        "url": "https://open.spotify.com/album/0uGmoaeQ571Sm2Q64PpDQL"
+        "name": "Instrumental Favorites",
+        "url": "https://open.spotify.com/album/6cFnQbYUBV1xdETuXWC891"
       },
       "artists": [
         {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+          "name": "Ferrante & Teicher",
+          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
         }
       ],
-      "duration_ms": 122960,
-      "name": "Around The World",
-      "url": "https://open.spotify.com/track/6PHqBsDSDeULTC8nUyGDFs"
+      "duration_ms": 182400,
+      "name": "Tonight",
+      "url": "https://open.spotify.com/track/3PzUHQNLOZdWlSu8CAN9Wg"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Nel Blu di Pinto di Blu (Instrumental)",
-        "url": "https://open.spotify.com/album/31ZWa5GeyDYTffvNXtdSWg"
+        "name": "It’s All In The Game",
+        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
       },
       "artists": [
         {
-          "name": "Imad Fares",
-          "url": "https://open.spotify.com/artist/5yg5CFZ69IN6tVv3rItI8w"
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
         }
       ],
-      "duration_ms": 228576,
-      "name": "Nel Blu di Pinto di Blu - Instrumental",
-      "url": "https://open.spotify.com/track/3YQcOHXwbM2kDe09c3F6PJ"
+      "duration_ms": 154626,
+      "name": "You Win Again",
+      "url": "https://open.spotify.com/track/2kARC8Jgf3ShAo3M5MGKab"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Band Bash!",
+        "url": "https://open.spotify.com/album/0ryTYwTgma4jd8vLMfk2yK"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/15yd8siwbKke9FZEwZ7FNE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is The Thing",
+        "url": "https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Love Is The Thing",
+      "url": "https://open.spotify.com/track/2qolxo5FN07B4lsJzHWN5e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Swingin' Affair! (Remastered / Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jxf3eOoGvWDGg957iXEkj"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 143826,
+      "name": "At Long Last Love - Remastered",
+      "url": "https://open.spotify.com/track/5ggJwM61iMaOYurr0TujOp"
     },
     {
       "added_at": null,
@@ -743,142 +803,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oh Mein Papa",
-        "url": "https://open.spotify.com/album/5hkW2LshBjaPeDwcOoepIJ"
+        "name": "Billy Vaughn Plays The Million Sellers",
+        "url": "https://open.spotify.com/album/0uGmoaeQ571Sm2Q64PpDQL"
       },
       "artists": [
         {
-          "name": "Eddie Calvert",
-          "url": "https://open.spotify.com/artist/0GiwCgVgmsTOIIL4B5DZyR"
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
         }
       ],
-      "duration_ms": 159826,
-      "name": "Stranger in Paradise - 2005 Remaster",
-      "url": "https://open.spotify.com/track/5w6yvNyYUmV1caZe1Egp9t"
+      "duration_ms": 122960,
+      "name": "Around The World",
+      "url": "https://open.spotify.com/track/6PHqBsDSDeULTC8nUyGDFs"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Shadows Are Go!",
-        "url": "https://open.spotify.com/album/4XeSxu0v0YVAR0BojopTwD"
+        "name": "Maria Elena",
+        "url": "https://open.spotify.com/album/4hO6VEnWpPImOF4RDmtTHM"
       },
       "artists": [
         {
-          "name": "The Shadows",
-          "url": "https://open.spotify.com/artist/03hfAxVdAWj7kxDnSG0fLD"
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
         }
       ],
-      "duration_ms": 174813,
-      "name": "Apache",
-      "url": "https://open.spotify.com/track/4Y8WD0bbvBlSpC7nZ9DSzC"
+      "duration_ms": 187866,
+      "name": "Maria Elena",
+      "url": "https://open.spotify.com/track/3ygHAK1w3qP4wp83KXUiiu"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+        "name": "Karma Lounge",
+        "url": "https://open.spotify.com/album/7mnyydvdqAiGrCPCLKyHUN"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Delida feat. Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1rxWJeZgYhF5X7u8st8kPs"
         }
       ],
-      "duration_ms": 223760,
-      "name": "I've Got You Under My Skin - Remastered 1998",
-      "url": "https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sleep Warm",
-        "url": "https://open.spotify.com/album/1G6BVlNDti0HuMUTFUZPIa"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 196573,
-      "name": "Dream A Little Dream",
-      "url": "https://open.spotify.com/track/66Ra2l0vQTGFBcCL8vUwlI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Instrumental Favorites",
-        "url": "https://open.spotify.com/album/6cFnQbYUBV1xdETuXWC891"
-      },
-      "artists": [
-        {
-          "name": "Ferrante & Teicher",
-          "url": "https://open.spotify.com/artist/17rSwcIT9qu1OybU1lReJB"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1tS5cz0GDYtQMIqQYi7y42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "From Paris With Love",
-        "url": "https://open.spotify.com/album/0PKXG0AvglD5cDMry2nYnZ"
-      },
-      "artists": [
-        {
-          "name": "Stéphane Grappelli",
-          "url": "https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG"
-        },
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Manoir De Mes Reves",
-      "url": "https://open.spotify.com/track/137RrxamxmwssT5ckj6WGU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It’s All In The Game",
-        "url": "https://open.spotify.com/album/5Pm6JmFRagCaNbD5OLlG3d"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 160520,
-      "name": "Love Is All We Need",
-      "url": "https://open.spotify.com/track/22SaoTU5eut0RiB3nPuiUh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mozart: Symphonies Nos. 39, 41, & Le nozze di Figaro Overture",
-        "url": "https://open.spotify.com/album/1Jf5uKgple3thpH9wEqlna"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Leonard Bernstein",
-          "url": "https://open.spotify.com/artist/2LmyJyCF5V1eQyvHgJNbTn"
-        },
-        {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
-        }
-      ],
-      "duration_ms": 235600,
-      "name": "Le nozze di Figaro, K. 492: Overture",
-      "url": "https://open.spotify.com/track/7JOZ5X3byHERBPtX2Pe9OT"
+      "duration_ms": 234613,
+      "name": "Night & Day",
+      "url": "https://open.spotify.com/track/1hz5rPOm3E2JaAx1swkxrZ"
     }
   ],
   "unique_name": "50s Mix",
