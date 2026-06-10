@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,690 songs - 14 day 1 hr 48 min
+5,691 songs - 14 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3065,7 +3065,7 @@
 | [Malevolent](https://open.spotify.com/track/73tX5O7LXXbtydZr1Zz4TX) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malevolent](https://open.spotify.com/album/0dmBXAdCEzXzYMwFe1VYJb) | 3:05 | 2024-05-09 | 2024-05-17 |
 | [Malibu Moon](https://open.spotify.com/track/0dXXw14CYiFon8A8mrusIx) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malibu Moon](https://open.spotify.com/album/3nDVIeSvc2iDu2GoFzsSLu) | 4:23 | 2026-02-19 | 2026-02-27 |
 | [Malignant](https://open.spotify.com/track/33wtbVuZOvCbeBvblmP3j2) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Malignant](https://open.spotify.com/album/1j9nRybWyzILAjT5o8zjaj) | 4:07 | 2026-04-19 | 2026-04-20 |
-| [Malle Sooji Mallie \(Lofi Mix\)](https://open.spotify.com/track/3xRhLaSJq9JmJoUCFb3YKg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Dj Hari Surat](https://open.spotify.com/artist/5QSzKFoQCg55yjxs0BYH8d) | [Malle Sooji Mallie \(Lofi Mix\)](https://open.spotify.com/album/2yJOHWAlhYqiUhlVwlx9LW) | 5:00 | 2026-06-06 |  |
+| [Malle Sooji Mallie \(Lofi Mix\)](https://open.spotify.com/track/3xRhLaSJq9JmJoUCFb3YKg) | [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Dj Hari Surat](https://open.spotify.com/artist/5QSzKFoQCg55yjxs0BYH8d) | [Malle Sooji Mallie \(Lofi Mix\)](https://open.spotify.com/album/2yJOHWAlhYqiUhlVwlx9LW) | 5:00 | 2026-06-06 | 2026-06-10 |
 | [Mama Ya Mama](https://open.spotify.com/track/6tzLvbT9g55Qin11TJSIVS) | [Meraki Moon](https://open.spotify.com/artist/7lzsUJl6NQj49mTsLfW15T) | [Mama Ya Mama](https://open.spotify.com/album/7C4boDZnJXrVa5tELK3xvr) | 2:12 | 2026-05-15 | 2026-05-22 |
 | [Mamasota](https://open.spotify.com/track/6WHUcgoC44195TBAluUfoi) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mamasota](https://open.spotify.com/album/2yL1IlNfseQGsWer9di6fN) | 3:46 | 2022-09-22 | 2022-10-07 |
 | [Mami](https://open.spotify.com/track/7GHzGRsozCmF7yI1fazXST) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Mami](https://open.spotify.com/album/0UJuzh4Dtev5lHXG696a1y) | 3:21 | 2023-03-02 | 2023-04-01 |
@@ -3581,6 +3581,7 @@
 | [Numb & Comfortable](https://open.spotify.com/track/0EFyjZ3vJIqGIjwHmc7idK) | [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Anjulie](https://open.spotify.com/artist/4DTbdShHu2RPYEEMUp2XWV) | [Numb & Comfortable](https://open.spotify.com/album/6B5mUNf5tJNQDBbulFYigZ) | 2:46 | 2022-08-18 | 2022-09-02 |
 | [O Christmas Tree](https://open.spotify.com/track/1RuALGVVRAmeLrV7U9ha0M) | [Patrick Thomas Hawes](https://open.spotify.com/artist/47Uu6jIzvjBDLANB8LB79F) | [Woodwind Wonderland](https://open.spotify.com/album/7qMk2bPbLmOSsVHSL6N5nq) | 2:26 | 2023-11-09 | 2023-12-10 |
 | [O femeie iubește mult](https://open.spotify.com/track/5Ch1v28VJ8IkfiiqR3h4KY) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [O femeie iubește mult](https://open.spotify.com/album/7GxI7LsSi4Hf4TjKDxYtCC) | 3:02 | 2025-04-17 | 2025-05-11 |
+| [O Igo Illondu Manaside \(Lofi Mix\)](https://open.spotify.com/track/46oq1Omq9DH1ABWOpGDy5m) | [K\. J\. Yesudas](https://open.spotify.com/artist/2wPsNCwhEGb0KvChZ5DD52), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Dj Hari Surat](https://open.spotify.com/artist/5QSzKFoQCg55yjxs0BYH8d) | [O Igo Illondu Manaside \(Lofi Mix\)](https://open.spotify.com/album/1QIn3RrbGAHZSQDaOx9y8u) | 4:25 | 2026-06-10 |  |
 | [O Jiya \(Female\) \(From "Jodi Emon Hoto"\)](https://open.spotify.com/track/4j7NcEVJWVZOgNLBfq80au) | [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2) | [O Jiya \(Female\) \(From "Jodi Emon Hoto"\) \- Single](https://open.spotify.com/album/5cpEFVZ6Z7t6GA7bmFIUwX) | 3:19 | 2025-03-27 | 2025-04-04 |
 | [O Maayi Ri \(From "The Kerala Story 2 Goes Beyond"\)](https://open.spotify.com/track/5PirzDD3bwx7dFD64eg53n) | [Mannan Shaah](https://open.spotify.com/artist/7N2dclX5B3iviso9v9TlUT), [Manoj Muntashir](https://open.spotify.com/artist/4cAERazLlAzVGA10ORWaUP), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [O Maayi Ri \(From "The Kerala Story 2 Goes Beyond"\) \- Single](https://open.spotify.com/album/6ny587paqj2pFADfDpA7hp) | 4:35 | 2026-02-12 | 2026-02-20 |
 | [O Mahiya](https://open.spotify.com/track/2zeo9CWSwvSeSm4tQuq6oz) | [Kanika Kapoor](https://open.spotify.com/artist/6qcIg4IPLulyc03mWR87N8), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [O Mahiya](https://open.spotify.com/album/6qi2Wt6cNneZD2at1It9CY) | 2:54 | 2025-10-23 | 2025-11-23 |
