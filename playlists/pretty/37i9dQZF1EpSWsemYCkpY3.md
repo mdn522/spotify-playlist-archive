@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 29 | [Gehra Hua](https://open.spotify.com/track/5MCbGWnNLLjoHpbDO3BOgi) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Armaan Khan](https://open.spotify.com/artist/68CFADZWUwvJMqkCeqmxMJ) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 6:02 |
 | 30 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 
-Snapshot ID: `aigqNAAAAADKBToxzcU+EakYCrLK9O8j`
+Snapshot ID: `aiuFHwAAAAAS9bX/mLtRp9h2y0tDHA4v`
