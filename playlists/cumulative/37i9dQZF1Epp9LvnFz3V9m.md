@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-2,237 songs - 4 day 22 hr 39 min
+2,238 songs - 4 day 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [Ferrari \- Oliver Heldens Remix](https://open.spotify.com/track/0oCNRAmwLo4zHDpCKpjQtI) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Ferrari \(Oliver Heldens Remix\)](https://open.spotify.com/album/2vqDUyzavoaVR8gbe59JwY) | 3:08 | 2024-10-29 | 2024-11-05 |
 | [field of blue](https://open.spotify.com/track/5QXS0gq2ytLiSDyWQdvrCR) | [ourchase](https://open.spotify.com/artist/1zvfbLdrzYE5C41tjeLwkW) | [field of blue](https://open.spotify.com/album/7v3nedxMzLYrnQPQSAIq6i) | 1:45 | 2025-12-23 | 2026-01-04 |
 | [Figuratives](https://open.spotify.com/track/5wJInZJJbCNBFf6u5SoQ7U) | [MODERNS](https://open.spotify.com/artist/11ixZj3J67XqAo6Tzn3vcf) | [Figuratives](https://open.spotify.com/album/4R83r8uqp3zKtTUB8GhCZE) | 3:28 | 2025-04-02 | 2026-03-24 |
+| [Figures](https://open.spotify.com/track/6lnEHDf6g096fhQhkGqnJ8) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I) | [Figures](https://open.spotify.com/album/4HHGVFRpDmhyfjTIPgmnGc) | 3:03 | 2026-06-15 |  |
 | [Finally](https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Finally](https://open.spotify.com/album/5UdlVNeKvUDoaNmy9fhhft) | 3:35 | 2025-04-14 | 2025-04-23 |
 | [Fine Line](https://open.spotify.com/track/1Zs00RxHcTA6BhoGSm7tI0) | [Solayne](https://open.spotify.com/artist/1OSYviDPXQTukysazHRPdh), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Fine Line](https://open.spotify.com/album/0mFJ8dFogFQjL9Zjd5EMT2) | 3:17 | 2025-11-11 | 2025-11-14 |
 | [Finish Lines](https://open.spotify.com/track/74D929JPlurMbceCFf5v9Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Walker Racing League](https://open.spotify.com/album/4pOEwzaAsyQwh40tCEEcVV) | 1:28 | 2023-06-12 | 2023-07-01 |
@@ -1877,7 +1878,7 @@
 | [Tell Me How](https://open.spotify.com/track/0d2yUkzvqA85zHqiKA9IuE) | [Anthony Keyrouz](https://open.spotify.com/artist/0y4czH6DnvpftiSoy7V3HY), [offrami](https://open.spotify.com/artist/733pYGuQ9xwCh15uK2VWT1), [Jeannette](https://open.spotify.com/artist/0QRElUVqKorMjCNg6yPQfw) | [Tell Me How](https://open.spotify.com/album/5M8b8IFy69V7CHCRfdkJuv) | 2:12 | 2025-03-09 | 2025-05-23 |
 | [Tell Me When the World Stops Ending](https://open.spotify.com/track/5r91BKf5kBgh5wiM6pteWt) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS) | [Tell Me When the World Stops Ending](https://open.spotify.com/album/00UdeB6o8diQHvvdezymH9) | 4:11 | 2026-03-01 | 2026-03-30 |
 | [Tell Me Where U Go](https://open.spotify.com/track/4NuksWELZ9lBY9aazhZG16) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Tell Me Where U Go](https://open.spotify.com/album/3DQS4gzD4RJMsarRUqiQrt) | 3:02 | 2025-07-08 | 2025-10-30 |
-| [Tell Me Why \- Radio Edit](https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Tell Me Why](https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn) | 2:53 | 2026-05-31 |  |
+| [Tell Me Why \- Radio Edit](https://open.spotify.com/track/4yhGkvdYU5bi4950r80FRo) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s) | [Tell Me Why](https://open.spotify.com/album/7lmGSzQRrvXvvvghZoYZkn) | 2:53 | 2026-05-31 | 2026-06-15 |
 | [Tennis Court](https://open.spotify.com/track/1Yh82W1H6OrHlCGzpkFBmH) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [No Hard Feelings](https://open.spotify.com/album/6zbTpuaPUXU6jRn6RJ0W6K) | 3:09 | 2025-05-23 | 2025-07-16 |
 | [Tension](https://open.spotify.com/track/6435Ra0NWQzPyZAcd1ojWI) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/4VNaEhdswqNiEMAcfSav9g) | 3:36 | 2025-06-23 | 2025-09-02 |
 | [Tenu Ki Pata](https://open.spotify.com/track/0A84hGlDfoEebluZsbsDdg) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS), [Aryan Khan](https://open.spotify.com/artist/61gOxq7Ufie0TwQ5NzdG6F), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [The Ba\*\*\*ds Of Bollywood](https://open.spotify.com/album/3cUOrVPYaP7rq8PrpliN5k) | 2:53 | 2025-09-27 | 2025-10-19 |

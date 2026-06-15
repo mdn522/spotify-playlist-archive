@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,728 songs - 14 day 4 hr 5 min
+5,729 songs - 14 day 4 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3710,8 +3710,9 @@
 | [Only You](https://open.spotify.com/track/2GO6iWAcqCUen6HM9RZYlh) | [MEDZ](https://open.spotify.com/artist/61c8McUZCtrU9WOjvFkyiL), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Only You](https://open.spotify.com/album/2NlDVs1Vmsdi5nMrHe6B93) | 3:45 | 2025-11-20 | 2025-12-21 |
 | [Only You \- From The McDonald’s Christmas Advert 2022](https://open.spotify.com/track/1mvfhBqEwBouLGSdcc7E4G) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Only You \(From The McDonald’s Christmas Advert 2022\)](https://open.spotify.com/album/5MzKklFbHDwi1MG79RWEHc) | 2:53 | 2022-11-10 | 2022-11-18 |
 | [Onnam Poove Njaniduven](https://open.spotify.com/track/2eQmIGTHUX0L466t4GKGHm) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kurinjipoochayum Annarakannanum](https://open.spotify.com/album/5PkkbRpK89s3mLQziNBPEZ) | 2:56 | 2026-06-12 | 2026-06-13 |
+| [Onnanam Kunnile](https://open.spotify.com/track/35bW1olgtP8qziEzhZ1C78) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kurinjipoochayum Annarakannanum](https://open.spotify.com/album/5PkkbRpK89s3mLQziNBPEZ) | 3:15 | 2026-06-15 |  |
 | [Onnellinen](https://open.spotify.com/track/6ijRGBGzjwl5pyBVUIfXWL) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Onnellinen](https://open.spotify.com/album/69WNFlAX1YidDaMfZcAYUh) | 2:30 | 2023-07-06 | 2023-07-30 |
-| [Oonjaloonjale](https://open.spotify.com/track/5DKs1Ev8Rqz9LsKCEFoHmH) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kurinjipoochayum Annarakannanum](https://open.spotify.com/album/5PkkbRpK89s3mLQziNBPEZ) | 3:08 | 2026-06-14 |  |
+| [Oonjaloonjale](https://open.spotify.com/track/5DKs1Ev8Rqz9LsKCEFoHmH) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Kurinjipoochayum Annarakannanum](https://open.spotify.com/album/5PkkbRpK89s3mLQziNBPEZ) | 3:08 | 2026-06-14 | 2026-06-15 |
 | [Oops Oh Well](https://open.spotify.com/track/2Shsw5XEll1lYPlH3AiF5p) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Oops Oh Well](https://open.spotify.com/album/2rYHwByZBMUeo2FFp5zCss) | 2:55 | 2025-12-25 | 2026-01-18 |
 | [OOTD](https://open.spotify.com/track/2PSqR2dQWllqSPHeUdCp1S) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VillainS\]](https://open.spotify.com/album/1GWC45tJrcKctt6qtFQHB7) | 2:56 | 2023-11-23 | 2023-12-01 |
 | [Open Door](https://open.spotify.com/track/6bAIKkFPPkLpRO0HNfZwWE) | [Stang](https://open.spotify.com/artist/6idDEsvueca5VOpR3NFIaR), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Open Door](https://open.spotify.com/album/0oAHk2MaI1tN3HVgUrltY8) | 3:56 | 2026-01-08 | 2026-01-16 |
