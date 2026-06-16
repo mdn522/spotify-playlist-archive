@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,729 songs - 14 day 4 hr 8 min
+5,730 songs - 14 day 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4512,7 +4512,7 @@
 | [Soft Collapse](https://open.spotify.com/track/55L0yqs5tnGIC7jgRMDqz0) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Soft Collapse](https://open.spotify.com/album/3C4k2rOSL2jttDt05EhBFi) | 5:24 | 2025-05-22 | 2025-06-22 |
 | [Softly \- Tiësto Remix](https://open.spotify.com/track/58X8RJOiEXA1bkgUMPScXz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Softly \(Tiësto Remix\)](https://open.spotify.com/album/3SE4pGhmsIgaElY5I1OOMa) | 2:17 | 2023-12-14 | 2023-12-22 |
 | [Softmax](https://open.spotify.com/track/0eVNdTrVgPp2tr8jDrgncy) | [Digital Heretic](https://open.spotify.com/artist/0yVSAm4bBIF6PDuIhEEWxE), [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Softmax](https://open.spotify.com/album/4kB4Tlq0zmg6JykO3ojz3b) | 2:27 | 2024-04-18 | 2024-04-26 |
-| [Solaris](https://open.spotify.com/track/3gNojPq2NuotjS8K2m2k1N) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Solaris](https://open.spotify.com/album/6JelONEZwi5z95wZMM0dlM) | 4:05 | 2026-06-12 |  |
+| [Solaris](https://open.spotify.com/track/3gNojPq2NuotjS8K2m2k1N) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Solaris](https://open.spotify.com/album/6JelONEZwi5z95wZMM0dlM) | 4:05 | 2026-06-12 | 2026-06-16 |
 | [Soltera](https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Soltera](https://open.spotify.com/album/0VRb8B2ls0GDEfmKiL8FWJ) | 3:34 | 2024-09-26 | 2024-10-20 |
 | [Somebody](https://open.spotify.com/track/3Q2Sh0puZOeJvTjPPq4xnn) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8) | [Somebody](https://open.spotify.com/album/3jt8M4vaXSkrhi34KuFLuT) | 3:55 | 2023-09-14 | 2023-10-08 |
 | [Somebody \- Trance Wax Remix](https://open.spotify.com/track/5QzS1Urzz6yS4mNscC5Ckl) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Trance Wax](https://open.spotify.com/artist/28Rn5KfDspTUHLpPfPF8EE) | [Somebody \(Trance Wax Remix\)](https://open.spotify.com/album/3mN2pmlEOx5Pix0W1gCVO3) | 2:51 | 2024-01-04 | 2024-01-28 |
@@ -4884,6 +4884,7 @@
 | [The Enemy Method](https://open.spotify.com/track/2btG5sLxZoBNTRLM38AvZo) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Portal](https://open.spotify.com/album/6qD0xIa1ulP18gkCIR2uhm) | 3:50 | 2024-05-02 | 2024-05-10 |
 | [The Ethereal and I](https://open.spotify.com/track/16twdymP7WIymiT2tC62xm) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [The Ethereal and I](https://open.spotify.com/album/626WQi0wXEajCA5hPjLEiP) | 6:36 | 2022-08-18 | 2022-09-02 |
 | [The Ethereal and I](https://open.spotify.com/track/3HDYNDWcqt0Y2U2rTnIl7b) | [Krisu](https://open.spotify.com/artist/4fDwpQvKm3wRao9O2SzU89) | [Starcursed](https://open.spotify.com/album/1ANPNqiVNlVW8EUlBZny1u) | 6:36 | 2022-08-25 | 2022-08-27 |
+| [The Evil Has Returned](https://open.spotify.com/track/4q1UzIwk6YJVco0p2esXS4) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [The Evil Has Returned](https://open.spotify.com/album/35JpZGq8hh0B1AkpUFraN0) | 3:17 | 2026-06-16 |  |
 | [The Feeling](https://open.spotify.com/track/1MQEcqWvPav2OR0bDqKE8h) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4) | [The Feeling](https://open.spotify.com/album/1KVuiWfJh9ubIEskvoW1aT) | 3:19 | 2025-11-13 | 2025-12-14 |
 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 | 2023-06-08 | 2023-07-08 |
 | [The Feeling \- Frank Walker Remix](https://open.spotify.com/track/2kCd1TgkiLAIYLqL1vApSi) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [YDG](https://open.spotify.com/artist/286Ranmy5NZOVyIwNwAUE4), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [The Feeling \(Remixes\)](https://open.spotify.com/album/0hLK44ZQDYG2Uh88nXoaMX) | 3:32 | 2026-01-15 | 2026-01-23 |
