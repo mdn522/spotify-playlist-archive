@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,350 songs - 2 day 22 hr 58 min
+1,351 songs - 2 day 23 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -579,6 +579,7 @@
 | [immaculate](https://open.spotify.com/track/6lntmxb6dQvpdBRXyD8hiz) | [Gabi DeMartino](https://open.spotify.com/artist/3sizL18CQe44I4yK7a2Sh7) | [Paintings of Me](https://open.spotify.com/album/4UjJVwdIaPgBd9oiZpp0Qj) | 4:00 | 2022-10-15 | 2022-10-25 |
 | [Impacto](https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR), [Denise Gutiérrez](https://open.spotify.com/artist/4svp08yFN6IGlkBJlEhT4Z) | [El Segundo Es Felino](https://open.spotify.com/album/6MKWjtAaCgbK3AXFr8FMUe) | 3:56 | 2025-05-17 | 2025-06-23 |
 | [Imprint](https://open.spotify.com/track/7iTL8GlxHADuQMZkYh7n27) | [Wilder Gray](https://open.spotify.com/artist/74RlyWfSIpHWsObpkuc0KC) | [Imprint](https://open.spotify.com/album/4XjceDPwiUj8YyS71lN70a) | 3:15 | 2022-05-20 | 2022-05-25 |
+| [In Another Life](https://open.spotify.com/track/6GMaRbCbwf0YolZI48JrEo) | [Oohitsodel](https://open.spotify.com/artist/2vFMHSZEVdO59as2MlYdy2) | [In Another Life](https://open.spotify.com/album/749D5pgZvJXfPzQtxiQOOM) | 3:02 | 2026-06-24 |  |
 | [In My Blood](https://open.spotify.com/track/0x4GHzCjY5MGQ960CHnVHz) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [In My Blood](https://open.spotify.com/album/6jzir5maJG4oVMFNrTLrJI) | 3:20 | 2023-07-21 | 2023-10-26 |
 | [In My Head](https://open.spotify.com/track/5g8PS58Kq2tecJH972heC1) | [Moonrunner83](https://open.spotify.com/artist/1RpI3AwYuQhWSrgJPEsLDL), [King Protea](https://open.spotify.com/artist/3PwDndbBVU4u5Pgvx0mf9c) | [You & Me At The Edge Of The World \(Deluxe Edition\)](https://open.spotify.com/album/6AT4ubCFo3c5ShggizIY2A) | 3:44 | 2025-09-24 | 2025-10-01 |
 | [In My Mind](https://open.spotify.com/track/2BGudFt4Qcc6xXzgbtBHTS) | [Aledaida](https://open.spotify.com/artist/3MBpEeduQLcCgu8NtpINMQ) | [In My Mind](https://open.spotify.com/album/2INtBJb3VQUfc78Ej8GgQv) | 2:44 | 2022-08-07 | 2022-09-01 |
@@ -1218,7 +1219,7 @@
 | [Traveler In Time](https://open.spotify.com/track/2Dpo8TNsLVmv3wPB34NGri) | [Dimatis](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N) | [Traveler In Time](https://open.spotify.com/album/2RzOr1f4mawYnMKClPF276) | 3:41 | 2023-05-13 | 2023-06-13 |
 | [Treat Me Right \- Marc Philippe Remix](https://open.spotify.com/track/0oHnbydVD1Y23DTFpE9nYk) | [Pete Bellis & Tommy](https://open.spotify.com/artist/2yCXS70BMsWAebyvC1j6E1), [Marc Philippe](https://open.spotify.com/artist/0U3VVYAAivfifX8Dul3vO1) | [Top Tunes](https://open.spotify.com/album/4d2r1cBi1hF8De8XilzD23) | 3:49 | 2024-08-12 | 2024-10-03 |
 | [Treat Myself](https://open.spotify.com/track/1KduF4t7FmMPKbu8U5GvsI) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Treat Myself](https://open.spotify.com/album/641ScO1XFNGOq2YSPrqXyH) | 2:42 | 2022-05-24 | 2022-06-17 |
-| [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2026-03-01 |  |
+| [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2026-03-01 | 2026-06-25 |
 | [TROPICANA BAR](https://open.spotify.com/track/3fvGq7dhw0HcMHDIskeeWn) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [TROPICANA BAR](https://open.spotify.com/album/53CiEyjoU0qN0qQD5VRwRG) | 2:44 | 2025-09-01 | 2025-09-19 |
 | [Trouble](https://open.spotify.com/track/0bzHZI8oFEaxlPNHLoPC7v) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 2:32 | 2023-10-16 | 2023-11-01 |
 | [Trouble \(with Georgia Ku\)](https://open.spotify.com/track/6oAIU5z6CaRobCQ2V9yBVc) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:19 | 2023-02-16 | 2023-04-02 |

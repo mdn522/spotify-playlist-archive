@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-2,239 songs - 4 day 22 hr 45 min
+2,240 songs - 4 day 22 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Amber Glow](https://open.spotify.com/track/6jUZwyDF8NsSp4OZyhaNhs) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Amber Glow](https://open.spotify.com/album/5lG4nDEF6WFft5TvGsfQaI) | 2:42 | 2026-02-23 | 2026-03-24 |
 | [American Cars \- Richard X Edit](https://open.spotify.com/track/5omb3iNtJ53MDbVMhFWhNo) | [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [American Cars \(Richard X Edit\)](https://open.spotify.com/album/7bL26ShQHFVhm9NpIgmRz0) | 3:27 | 2025-06-07 | 2025-06-16 |
 | [American Girl](https://open.spotify.com/track/0vvG0VEN6l2fbIEUtq3mQD) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [American Girl](https://open.spotify.com/album/4PwSDqUwhh4sZUHyi7UzXb) | 3:44 | 2022-10-06 | 2022-10-10 |
-| [Ami Dur Hote Tomarei Dekhechhi](https://open.spotify.com/track/2KW1YVaFaoPUA9DIIuZrCr) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Kato Raginir Bhul Bhangate](https://open.spotify.com/album/140GGkyCnHe4JQfmuqLmaA) | 3:05 | 2026-05-26 |  |
+| [Ami Dur Hote Tomarei Dekhechhi](https://open.spotify.com/track/2KW1YVaFaoPUA9DIIuZrCr) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Kato Raginir Bhul Bhangate](https://open.spotify.com/album/140GGkyCnHe4JQfmuqLmaA) | 3:05 | 2026-05-26 | 2026-06-25 |
 | [Amplifier](https://open.spotify.com/track/49vtji2Sop5S9Gb1X4ZaiE) | [VENUS](https://open.spotify.com/artist/44dwPxPvAhm5oPE9jAKZID) | [Amplifier](https://open.spotify.com/album/2yQhos9IIgkNNaViax7Xvc) | 3:03 | 2023-04-01 | 2023-08-12 |
 | [Anaesthetica \(Original Film Soundtrack\)](https://open.spotify.com/track/2JVSNazYl671pGoQePdmB0) | [Madison Emery](https://open.spotify.com/artist/4QSeMJWmUmkiFd7ViBv5so) | [Anaesthetica \(Original Film Soundtrack\)](https://open.spotify.com/album/05RbtH2jotcBUyLN5npnwu) | 3:30 | 2023-05-10 | 2023-05-14 |
 | [Anchor Point](https://open.spotify.com/track/6tE5zuD7eC7cV2O1IyjRLX) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1WmE8DAfRSq16Qre7SEV1V) | 5:59 | 2024-08-24 | 2024-08-28 |
@@ -1522,6 +1522,7 @@
 | [Radio](https://open.spotify.com/track/0OehfujG8725Lfr00Nn7ZN) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:03 | 2023-07-03 | 2023-07-16 |
 | [Rahman Ya Rahman](https://open.spotify.com/track/1Zji4w966xwywpQnFk2Snw) | [Ayisha Abdul Basith](https://open.spotify.com/artist/0WOxobTbkBGUnYzwgUgjDk) | [Rahman Ya Rahman](https://open.spotify.com/album/6AE2BDkFq7Db6cqdwqIMeH) | 4:44 | 2025-02-18 | 2025-03-19 |
 | [Ramadan \- Arabic Version](https://open.spotify.com/track/6azlD4KK2Tl8gbMPbVIqxQ) | [Maher Zain](https://open.spotify.com/artist/6PUZZX4GCzeFS0GaDWxVwz) | [Ramadan](https://open.spotify.com/album/0Wtd3POl0NGJCnup0eHJwS) | 4:06 | 2024-04-07 | 2024-04-11 |
+| [Ramba Ho](https://open.spotify.com/track/3Zg5ENFvbucf41iPRvPcHn) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Bappi Lahiri](https://open.spotify.com/artist/2jqTyPt0UZGrthPF4KMpeN), [Indiwar](https://open.spotify.com/artist/7qVxwI8H0tjjMhYY2eGvBE) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 2:41 | 2026-06-24 |  |
 | [RAMelia \- Myde Megamix](https://open.spotify.com/track/7JSKZYK9JZzD6L7cq0B83P) | [RAM](https://open.spotify.com/artist/4f0a5IgkYFHFts5Z9N9SDX), [Susana](https://open.spotify.com/artist/5T8x61HRsjZo0CwH1rs6Kf), [Myde](https://open.spotify.com/artist/4GLfkXTyojK3BHJJkuUmpq) | [D.Trance 113](https://open.spotify.com/album/0lS2upAmqXE8mg6EunwH1t) | 5:22 | 2026-03-07 | 2026-03-13 |
 | [Random Ass White Girl](https://open.spotify.com/track/3tYHTry64mf5t7ZfVA2TjD) | [SHALA](https://open.spotify.com/artist/31AVG9bHuhmmeySvS4buzD) | [Random Ass White Girl](https://open.spotify.com/album/2UyA2FImWSpAfoK87xdKXY) | 1:00 | 2022-10-03 | 2022-10-10 |
 | [Rapture](https://open.spotify.com/track/16V8meQabrUEUI5GRC8x4K) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Mira Feder](https://open.spotify.com/artist/28UIxSdXGIfySXK5bWtnHL) | [Rapture](https://open.spotify.com/album/1lai8kxcQGXWCi8aExE4Iz) | 3:21 | 2022-12-27 | 2022-12-31 |
