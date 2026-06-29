@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-06",
-  "description": "Progressive House music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EQp9BVPsNVof1\">electronic</a>, <a href=\"spotify:playlist:37i9dQZF1EIed8lWkU8WSm\">edm</a>, <a href=\"spotify:playlist:37i9dQZF1EIhIsNBs86Fmu\">dance</a>, <a href=\"spotify:playlist:37i9dQZF1EIdec6qRjNYma\">melodic techno</a>",
+  "description": "Progressive House music for you. Also try <a href=\"spotify:playlist:37i9dQZF1EQp9BVPsNVof1\">electronic</a>, <a href=\"spotify:playlist:37i9dQZF1EIed8lWkU8WSm\">edm</a>, <a href=\"spotify:playlist:37i9dQZF1EIhIsNBs86Fmu\">dance</a>",
   "name": "Progressive House Mix",
   "tracks": [
     {
@@ -640,7 +640,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 207223,
       "name": "A New Day (feat. Celine Dion)",
       "url": "https://open.spotify.com/track/0NRIWkmQiSoIaEs3wvoSS7"
@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 186093,
       "name": "After You (feat. FAANGS)",
       "url": "https://open.spotify.com/track/4cGvzO9ejXEVQl2FQI7Hmu"
@@ -2504,7 +2504,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 275672,
       "name": "All That's Left",
       "url": "https://open.spotify.com/track/4oqojtxAzYAbG2D5ssIa2E"
@@ -4996,7 +4996,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 209508,
       "name": "Aura",
       "url": "https://open.spotify.com/track/2uPWLzYoEFdPDhHqnvpTLG"
@@ -6026,7 +6026,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 292509,
       "name": "Beautiful Mind",
       "url": "https://open.spotify.com/track/1SOS6qtdtNNyNkcdRMs3ig"
@@ -6100,7 +6100,7 @@
       ],
       "date_added": "2025-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 207690,
       "name": "Beautiful People - AFROJACK & Amél Remix",
       "url": "https://open.spotify.com/track/3Z8lfbWDp4RIntp4OrJWe3"
@@ -7670,7 +7670,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 252919,
       "name": "Blue Monday",
       "url": "https://open.spotify.com/track/5dXZhZbDHWu6zwXkssFQcs"
@@ -8712,7 +8712,7 @@
       ],
       "date_added": "2026-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 169100,
       "name": "Broken Lines",
       "url": "https://open.spotify.com/track/58hIosPaVzrec96QBBuEIL"
@@ -10036,7 +10036,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 215905,
       "name": "Carry You",
       "url": "https://open.spotify.com/track/31ZO9XuKt48Qb2eUTBynd2"
@@ -11088,7 +11088,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 245927,
       "name": "Children - Edit Mix",
       "url": "https://open.spotify.com/track/5w4pmRMMcq8y7bLMfbUXjg"
@@ -12330,7 +12330,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 234749,
       "name": "Concrete Angel - Radio Edit",
       "url": "https://open.spotify.com/track/2zM1zEjv2JX1qTmSDeB8IL"
@@ -12638,6 +12638,28 @@
       "duration_ms": 265161,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/3oHn7YOb8To1RYk8CN2MHu"
+    },
+    {
+      "album": {
+        "name": "Cosmos (Remixes)",
+        "url": "https://open.spotify.com/album/7hxC4DdIGfqbAq0WQMsUza"
+      },
+      "artists": [
+        {
+          "name": "Sam Davies",
+          "url": "https://open.spotify.com/artist/1I3vxQ9yM5SatqnxPaqAtm"
+        },
+        {
+          "name": "Alexander Volosnikov",
+          "url": "https://open.spotify.com/artist/29ciMfW2FiNprxhiLyFkIW"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236000,
+      "name": "Cosmos - Alexander Volosnikov Remix",
+      "url": "https://open.spotify.com/track/6sqhyfCLxOQhU80IFJfAJq"
     },
     {
       "album": {
@@ -14084,7 +14106,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 170625,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/226k90b2zBBhhnHtF5G7bB"
@@ -15212,7 +15234,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Don't Want Your Love",
       "url": "https://open.spotify.com/track/0ddLd0n19FHwawkSmhXwgg"
@@ -15664,7 +15686,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 205381,
       "name": "Dream Dust",
       "url": "https://open.spotify.com/track/4huoTRllpLxqZAh3SDijdx"
@@ -17044,7 +17066,7 @@
       ],
       "date_added": "2024-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 198425,
       "name": "Empty",
       "url": "https://open.spotify.com/track/2uNwaXIVVfAIzL1HmcUxSz"
@@ -17346,7 +17368,7 @@
       ],
       "date_added": "2026-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 240529,
       "name": "End To Begin - Radio Edit",
       "url": "https://open.spotify.com/track/7d88vZhtoEwGs63FUOSqnG"
@@ -17776,7 +17798,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 240445,
       "name": "Escape (feat. Hayla)",
       "url": "https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK"
@@ -19996,7 +20018,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 206666,
       "name": "Feel The Lies",
       "url": "https://open.spotify.com/track/0Hnyp4ShaTMGjSJaqX8A65"
@@ -20018,7 +20040,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 228252,
       "name": "Feel The Silence",
       "url": "https://open.spotify.com/track/4lbC1rHXSsi2GW8W1ewj0O"
@@ -20208,7 +20230,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 174418,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/4WnvlBcNQxrfhbg2v7hjZT"
@@ -22500,7 +22522,7 @@
       ],
       "date_added": "2026-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 189682,
       "name": "Forgiveness",
       "url": "https://open.spotify.com/track/6glaS19PFmcPjkyBFV2eKj"
@@ -22738,7 +22760,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 224640,
       "name": "Free (with Ellie Goulding) - Nicky Romero Remix",
       "url": "https://open.spotify.com/track/5teofOpFb6BllwQT8OmqIf"
@@ -23198,7 +23220,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 205067,
       "name": "Gave U My Love",
       "url": "https://open.spotify.com/track/28M0wmH2oHJTl5goSFGIl8"
@@ -23384,7 +23406,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 261290,
       "name": "Getaway",
       "url": "https://open.spotify.com/track/0qF0Z3lXdpj7g5aivuKOD0"
@@ -24500,7 +24522,7 @@
       ],
       "date_added": "2026-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 187374,
       "name": "Golden Leaves",
       "url": "https://open.spotify.com/track/2zsqByaznN4gXEqC7y280D"
@@ -26188,7 +26210,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 256721,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/1815dOzRDBEtnyKGPR481e"
@@ -26454,7 +26476,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 202000,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/5oNTepWKyTTuCHHqze5ob2"
@@ -26802,7 +26824,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 260973,
       "name": "Here Before",
       "url": "https://open.spotify.com/track/4LQmNpUiLwLBPYd7arm9Ra"
@@ -29120,7 +29142,7 @@
       ],
       "date_added": "2024-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 210468,
       "name": "How You Love Me",
       "url": "https://open.spotify.com/track/0A1y3d5O3SDvXaQ8snkmOf"
@@ -29810,7 +29832,7 @@
       ],
       "date_added": "2024-05-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-17",
+      "date_removed": null,
       "duration_ms": 208316,
       "name": "I Could Be The One (Avicii Vs. Nicky Romero) - Radio Edit",
       "url": "https://open.spotify.com/track/1sh6lL6cmlcwhqZKGiKBua"
@@ -30526,7 +30548,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 230250,
       "name": "I Miss You",
       "url": "https://open.spotify.com/track/2VhnijYiLYcJCEkQ47tnQz"
@@ -30658,7 +30680,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 595600,
       "name": "I Remember",
       "url": "https://open.spotify.com/track/1bx4iBvaMkv4AeObSnIWAE"
@@ -30702,7 +30724,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 151846,
       "name": "I See You",
       "url": "https://open.spotify.com/track/0Gni1eoGfpuEMVwdp7MFC6"
@@ -31724,7 +31746,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 215186,
       "name": "If I Lose Myself - Alesso vs OneRepublic",
       "url": "https://open.spotify.com/track/3ScJy88F8KqGDfWu8XJhHx"
@@ -32192,7 +32214,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 226621,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/7nxTzZJmf2lLplk5pfV64h"
@@ -33224,7 +33246,7 @@
       ],
       "date_added": "2025-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 222857,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/0KzN20etoLfU4HLoD2AzgM"
@@ -36012,7 +36034,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 195263,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/69HAHD08s08ezq5GIPxZGQ"
@@ -36638,7 +36660,7 @@
       ],
       "date_added": "2025-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 185000,
       "name": "Lifetime",
       "url": "https://open.spotify.com/track/4fngEmw1UWrEomobMMONyL"
@@ -41949,6 +41971,24 @@
     },
     {
       "album": {
+        "name": "Minute After Minute",
+        "url": "https://open.spotify.com/album/4wMt30NPeXudGuKTVuZXyE"
+      },
+      "artists": [
+        {
+          "name": "Dapa Deep",
+          "url": "https://open.spotify.com/artist/6PFX6CPrYWgLYSIUMQ59hW"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228092,
+      "name": "Minute After Minute",
+      "url": "https://open.spotify.com/track/3nh6SJ6Ya9VfFd84A7YuaP"
+    },
+    {
+      "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
       },
@@ -44097,6 +44137,32 @@
     },
     {
       "album": {
+        "name": "Nevada (TELYKAST Remix)",
+        "url": "https://open.spotify.com/album/4oML5U5XXyNqtZoshm6uud"
+      },
+      "artists": [
+        {
+          "name": "Vicetone",
+          "url": "https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Cozi Zuehlsdorff",
+          "url": "https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa"
+        }
+      ],
+      "date_added": "2026-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188362,
+      "name": "Nevada - TELYKAST Remix",
+      "url": "https://open.spotify.com/track/1DruZpVMvPr1vfFeXhDBr6"
+    },
+    {
+      "album": {
         "name": "Never Alone",
         "url": "https://open.spotify.com/album/7iIEHrxqRzOf0aK8jOATRw"
       },
@@ -44340,7 +44406,7 @@
       ],
       "date_added": "2024-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 164285,
       "name": "Never Going Home Tonight (feat. Madison Love)",
       "url": "https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO"
@@ -45452,7 +45518,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 202992,
       "name": "No Matter What",
       "url": "https://open.spotify.com/track/1XajOX4fwnZLJV1xMB68LT"
@@ -46732,7 +46798,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 170347,
       "name": "Now We Are Free",
       "url": "https://open.spotify.com/track/3XelzH7makUmR6WPkZyGlX"
@@ -46794,7 +46860,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 236065,
       "name": "Nowhere To Run",
       "url": "https://open.spotify.com/track/6msK490czzcTEQoEcQzhNO"
@@ -48760,7 +48826,7 @@
       ],
       "date_added": "2026-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 186880,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/1Qh6wPNXkKj7C60wEpdYNV"
@@ -49434,7 +49500,7 @@
       ],
       "date_added": "2022-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-23",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "Over The Water",
       "url": "https://open.spotify.com/track/5zXyoTtfe1YRXWeilcPcaJ"
@@ -50224,7 +50290,7 @@
       ],
       "date_added": "2025-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 148214,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/1Ju9Tb5R1vsUu1Ir8sO6vX"
@@ -51304,7 +51370,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 368000,
       "name": "Pressure - Alesso Remix",
       "url": "https://open.spotify.com/track/582JLMTy2WCHPgKFJ4xCq7"
@@ -51552,7 +51618,7 @@
       ],
       "date_added": "2026-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-13",
+      "date_removed": null,
       "duration_ms": 200265,
       "name": "Push Me Away",
       "url": "https://open.spotify.com/track/1ZiBVyNDCORtLKUeGMJgDL"
@@ -51736,7 +51802,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 286866,
       "name": "Quicksand (Don't Go) - Album Mix",
       "url": "https://open.spotify.com/track/2zRS5TlAViUel6MrENoDrf"
@@ -52914,7 +52980,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 166874,
       "name": "Resurrection - Axwell's Recut Radio Version",
       "url": "https://open.spotify.com/track/2WaA5bVXcIqqpz9j0gd7qK"
@@ -54230,7 +54296,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 201818,
       "name": "run away",
       "url": "https://open.spotify.com/track/3OVimsQXIFPlG7QBSvOSvh"
@@ -55640,7 +55706,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 176078,
       "name": "Satellites",
       "url": "https://open.spotify.com/track/6sWsJFiZ7LJm6BqHCpy46V"
@@ -56912,7 +56978,7 @@
       ],
       "date_added": "2026-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 184938,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2DgQUPTincZnoRT5CJxTKi"
@@ -57304,7 +57370,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 247741,
       "name": "Shed a Light",
       "url": "https://open.spotify.com/track/4hNCtRjriHbWbZZOFOfUYO"
@@ -57606,7 +57672,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 183545,
       "name": "Shine Through",
       "url": "https://open.spotify.com/track/499vSMjbkf3gLTbkhrdEhZ"
@@ -58316,7 +58382,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 206341,
       "name": "Silver & Green",
       "url": "https://open.spotify.com/track/7jdtD6kIflLXyPE8qeHZxJ"
@@ -58786,7 +58852,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 180422,
       "name": "Sleepless Nights",
       "url": "https://open.spotify.com/track/39pgWHKvgtSlvEI0AWvi62"
@@ -61326,7 +61392,7 @@
       ],
       "date_added": "2026-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 208107,
       "name": "Stay Awake",
       "url": "https://open.spotify.com/track/7f71BTXWubBCTIlbEqKeUi"
@@ -62128,7 +62194,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 202968,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/5o1iYqICYkUlbPv0Ey3aut"
@@ -62784,7 +62850,7 @@
       ],
       "date_added": "2025-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-26",
+      "date_removed": null,
       "duration_ms": 212307,
       "name": "Super Powers",
       "url": "https://open.spotify.com/track/3fRO8ZoGWRpL0PFCmnJH4c"
@@ -62952,7 +63018,7 @@
       ],
       "date_added": "2022-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 228292,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0TW9oHQxQidYFqnrgyU6rv"
@@ -64198,7 +64264,7 @@
       ],
       "date_added": "2025-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 190476,
       "name": "Taking Me Higher",
       "url": "https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08"
@@ -65414,7 +65480,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-27",
+      "date_removed": null,
       "duration_ms": 265659,
       "name": "The Girl",
       "url": "https://open.spotify.com/track/4wWe3qI7pyxkNVVA3XTYoN"
@@ -66384,7 +66450,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 202645,
       "name": "The World Has A Heartbeat",
       "url": "https://open.spotify.com/track/1ickoAunB7pzuSW7iCGUMQ"
@@ -67922,7 +67988,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 184441,
       "name": "Time To Say Goodbye (feat. Maria Mathea)",
       "url": "https://open.spotify.com/track/6NJ2cKbAH7XGzYnhWXW1ue"
@@ -68302,7 +68368,7 @@
       ],
       "date_added": "2025-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 187031,
       "name": "Told You So",
       "url": "https://open.spotify.com/track/52dEZA0A4siRTuA4e8w3ll"
@@ -69826,7 +69892,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 184455,
       "name": "Up and Down",
       "url": "https://open.spotify.com/track/3KBh9Qj2G5dUYmU23xPtNy"
@@ -72072,7 +72138,7 @@
       ],
       "date_added": "2025-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 249779,
       "name": "Weightless (jamesjamesjames Remix)",
       "url": "https://open.spotify.com/track/1a3u6JpaSEndtkzDyUFOqC"
@@ -72968,7 +73034,7 @@
       ],
       "date_added": "2026-05-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-25",
+      "date_removed": null,
       "duration_ms": 287115,
       "name": "Where Do We Go From Here",
       "url": "https://open.spotify.com/track/75pNtIAkUIhB8JSOuvcI3A"
@@ -73038,7 +73104,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 167619,
       "name": "Where Have You Been",
       "url": "https://open.spotify.com/track/5XZXl7asBflC33KL5zaLXW"
@@ -73974,7 +74040,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-06-29",
       "duration_ms": 192000,
       "name": "Wish It Was You",
       "url": "https://open.spotify.com/track/3Dr0xDJwXy6JkiHNJfv5zd"
@@ -76222,7 +76288,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 209937,
       "name": "You'll Be OK",
       "url": "https://open.spotify.com/track/1YXUD5D1ZRSaKZRZME4UB5"
