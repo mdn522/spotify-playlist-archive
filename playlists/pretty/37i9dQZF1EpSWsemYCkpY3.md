@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 26 | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \- From "The Marvels"](https://open.spotify.com/track/2u1K929oTMdB6OyQk9YeOu) | [Laura Karpman](https://open.spotify.com/artist/13eA4oLnDowghtVUqwSZSD), [Thaehan](https://open.spotify.com/artist/2n0sjgdrfHYJT6B39cdvWW), [Lofi Girl](https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN) | [Higher\. Further\. Faster\. Together\. \(Lofi Girl x Thaehan Lofi Remix\) \[From "The Marvels"\]](https://open.spotify.com/album/1d4nWQ1OGXS5qEIExfahL4) | 3:00 |
 | 27 | [CHANEL](https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [CHANEL](https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59) | 3:08 |
 | 28 | [leavemealone](https://open.spotify.com/track/2h8PCZRGBv7ayMVmWidpvd) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [USB](https://open.spotify.com/album/2ClZ9xWAYg1BH8zkR96dJo) | 3:42 |
-| 29 | [In Another Life](https://open.spotify.com/track/6GMaRbCbwf0YolZI48JrEo) | [Oohitsodel](https://open.spotify.com/artist/2vFMHSZEVdO59as2MlYdy2) | [In Another Life](https://open.spotify.com/album/749D5pgZvJXfPzQtxiQOOM) | 3:02 |
-| 30 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
+| 29 | [Another Life](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW) | [MVRØ](https://open.spotify.com/artist/5LcNReZSLSSguvaHUb1rua) | [Another Life](https://open.spotify.com/album/0EUIishhDjpRG9VFZY3BWs) | 2:34 |
+| 30 | [In Another Life](https://open.spotify.com/track/6GMaRbCbwf0YolZI48JrEo) | [Oohitsodel](https://open.spotify.com/artist/2vFMHSZEVdO59as2MlYdy2) | [In Another Life](https://open.spotify.com/album/749D5pgZvJXfPzQtxiQOOM) | 3:02 |
 
-Snapshot ID: `akSTYQAAAABoFeK/C+58EshDsHgir7UT`
+Snapshot ID: `akiYbgAAAABJ72w0TOxil8Sq0RuyAQNl`
