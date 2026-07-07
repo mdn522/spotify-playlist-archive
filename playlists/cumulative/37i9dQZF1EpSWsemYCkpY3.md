@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,352 songs - 2 day 23 hr 4 min
+1,353 songs - 2 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Animals](https://open.spotify.com/track/7vKfym6hgeJxxyyVpiXBBX) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/3ZjQrlQwectSpi9se2GGHM) | 5:03 | 2023-02-16 | 2023-02-20 |
 | [Animals](https://open.spotify.com/track/0A9mHc7oYUoCECqByV8cQR) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ) | [Animals](https://open.spotify.com/album/4Xs4NI3J2Nf9eSUqvW7GBn) | 5:04 | 2023-03-26 | 2023-03-30 |
 | [Another Life](https://open.spotify.com/track/0tEgUXpEwJz7Hby3TCUD6x) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Another Life](https://open.spotify.com/album/0tDMz8iS4cWvG1MkSnoxYp) | 3:07 | 2023-05-07 | 2023-07-04 |
-| [Another Life](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW) | [MVRØ](https://open.spotify.com/artist/5LcNReZSLSSguvaHUb1rua) | [Another Life](https://open.spotify.com/album/0EUIishhDjpRG9VFZY3BWs) | 2:34 | 2026-07-04 |  |
+| [Another Life](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW) | [MVRØ](https://open.spotify.com/artist/5LcNReZSLSSguvaHUb1rua) | [Another Life](https://open.spotify.com/album/0EUIishhDjpRG9VFZY3BWs) | 2:34 | 2026-07-04 | 2026-07-07 |
 | [Another Love \- Tiësto Remix](https://open.spotify.com/track/4Et6tUEO7biKxZEfJXpNj1) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Another Love \(Tiësto Remix\)](https://open.spotify.com/album/1QltVGlNGbK94CKgUsYZGa) | 3:05 | 2024-11-04 | 2024-11-23 |
 | [Any Other Day](https://open.spotify.com/track/0VCgKW2Ofd8prwg5EiXb3Y) | [Sivero](https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n), [Cilia](https://open.spotify.com/artist/4RngVrYqhqVlLdX6c23WxL) | [Any Other Day](https://open.spotify.com/album/7zC2HMYIxT3o5L2vaEbW8i) | 2:37 | 2024-08-15 | 2024-10-06 |
 | [Anyone](https://open.spotify.com/track/5BsepQcEQTKwAcbu8hGQrT) | [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd) | [Anyone](https://open.spotify.com/album/09hC8eUMQM7LBVIqdGAT4r) | 2:28 | 2024-07-13 | 2024-09-09 |
@@ -177,6 +177,7 @@
 | [Butterflies & Bandaids \- VIZE Remix](https://open.spotify.com/track/3LqBTTd67FaADe3bvwPJar) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Butterflies & Bandaids \(VIZE Remix\)](https://open.spotify.com/album/4BRYeMGdHZDfjzTfN3uT3u) | 2:11 | 2024-07-28 | 2024-08-16 |
 | [By My Side \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/4eIyZcuHRAF4novYFxThwe) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [By My Side \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/3EHRX0NI8Nr9pjA9NLXw3Y) | 2:45 | 2023-03-29 | 2023-04-08 |
 | [By The End Of The Night \- Morning After Edit](https://open.spotify.com/track/1zq5eGxN3GcXnjjwdjWX1g) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Neil Barrett](https://open.spotify.com/artist/2cJ1JZ7MCVrNN2c2bF20Ov) | [By The End Of The Night \(Morning After Edit\)](https://open.spotify.com/album/3InTmF7n7Gmgf0VnQ7Gd6K) | 3:54 | 2025-06-23 | 2025-08-18 |
+| [Byabodhan](https://open.spotify.com/track/7gDtUoX0zdfK8d3G21Zeaw) | [Sohan Ali](https://open.spotify.com/artist/7dRb6HiP61D58Smxtznxrd) | [Byabodhan](https://open.spotify.com/album/3jHLFT7jrNb0sc5T1O5M8m) | 3:12 | 2026-07-07 |  |
 | [C'est la vie](https://open.spotify.com/track/59RjPZcYppfbMdJVKbypV7) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK), [SHANGUY](https://open.spotify.com/artist/3PGTwjhnIwu8lr0cH8KFrs) | [C'est la vie](https://open.spotify.com/album/5XAjCMRkpuHhJ2Dk8G101H) | 2:42 | 2023-01-29 | 2023-04-08 |
 | [California Dreamin'](https://open.spotify.com/track/1AMjeJnvLuwIHHne2dVWFp) | [Max Martis](https://open.spotify.com/artist/0GpzL6fwRoreOHX7dfNvwr), [HALUNA](https://open.spotify.com/artist/0JB4i9bhEANaZv1c3i3oYq) | [California Dreamin'](https://open.spotify.com/album/58O3yHygwmtjyLbzvj3FU9) | 2:36 | 2024-10-02 | 2024-11-26 |
 | [Call Me If You Need Me](https://open.spotify.com/track/3SvYYemfiUeP7uV3BeK3mw) | [Cloe Wilder](https://open.spotify.com/artist/4OmElN0ORkBfPbLi0vtCVf) | [Teenage Lullabies](https://open.spotify.com/album/2NuGB7LZsXlNZCopNbw3A0) | 3:16 | 2022-11-21 | 2022-12-16 |
