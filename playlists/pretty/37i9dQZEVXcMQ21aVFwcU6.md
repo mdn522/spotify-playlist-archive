@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 29 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 28 songs - 1 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 23 | [Summit Calling \- Edit](https://open.spotify.com/track/2uNropPDtIYADrWzoMneEX) | [REYSSR](https://open.spotify.com/artist/6cK0k7mSqwkbHG5nnXiTK1) | [Summit Calling](https://open.spotify.com/album/5XSA6FpVGv01huxXHBzbIz) | 3:32 |
 | 24 | [True](https://open.spotify.com/track/51SF5c50uwFbjCGo36A5NU) | [Polariz](https://open.spotify.com/artist/5iw2cqb1v4T3RXOfKKslbq) | [True](https://open.spotify.com/album/0EyVExJsO4aTO3VNeoGAdP) | 2:07 |
 | 25 | [Falling](https://open.spotify.com/track/0guCqhQ6LhxIMlWjgYURPd) | [Farbenklang](https://open.spotify.com/artist/0ilV2gAYnZBN9xCSGSRAPQ) | [Falling](https://open.spotify.com/album/2cU2twLqfSXpnZtHAKBHuh) | 2:45 |
-| 26 | [Distance‎](https://open.spotify.com/track/6IkjI7XzqgpPnsoPxYnd5R) | [Kaelira](https://open.spotify.com/artist/5ZbdLFivtpB18U3x2Fhs1Y) | [Distance‎](https://open.spotify.com/album/4r51PYYF4sx4n5rHJqSH5a) | 2:30 |
-| 27 | [Waiting \(Where You Left Me\)](https://open.spotify.com/track/2rbG9451wfGhfHlpLHZQSJ) | [Jeff Jasso](https://open.spotify.com/artist/5MwRbfC2EgphR5gSP25meP) | [Waiting \(Where You Left Me\)](https://open.spotify.com/album/6OWd1FaUTpFkAqYzvQTn3o) | 2:08 |
-| 28 | [Heaven](https://open.spotify.com/track/3qKUB6VHHMFHQNiYqiQbS7) | [Marc Wiese](https://open.spotify.com/artist/6zcHQe3yogGzcb2Kmramht) | [Heaven](https://open.spotify.com/album/1CLETebSRbqMs5hAbdBV2f) | 3:46 |
-| 29 | [Tidal Wave](https://open.spotify.com/track/35Xlo8XbaCIlm2U91m8bTx) | [Nick En Mare](https://open.spotify.com/artist/34lGOTr7zmQZ6GBzS6XGx6), [Dom West](https://open.spotify.com/artist/080zi424y15bBWi1ALFxjo) | [Tidal Wave](https://open.spotify.com/album/2vshskPeRJXPLkW68t2u6k) | 3:11 |
+| 26 | [Waiting \(Where You Left Me\)](https://open.spotify.com/track/2rbG9451wfGhfHlpLHZQSJ) | [Jeff Jasso](https://open.spotify.com/artist/5MwRbfC2EgphR5gSP25meP) | [Waiting \(Where You Left Me\)](https://open.spotify.com/album/6OWd1FaUTpFkAqYzvQTn3o) | 2:08 |
+| 27 | [Heaven](https://open.spotify.com/track/3qKUB6VHHMFHQNiYqiQbS7) | [Marc Wiese](https://open.spotify.com/artist/6zcHQe3yogGzcb2Kmramht) | [Heaven](https://open.spotify.com/album/1CLETebSRbqMs5hAbdBV2f) | 3:46 |
+| 28 | [Tidal Wave](https://open.spotify.com/track/35Xlo8XbaCIlm2U91m8bTx) | [Nick En Mare](https://open.spotify.com/artist/34lGOTr7zmQZ6GBzS6XGx6), [Dom West](https://open.spotify.com/artist/080zi424y15bBWi1ALFxjo) | [Tidal Wave](https://open.spotify.com/album/2vshskPeRJXPLkW68t2u6k) | 3:11 |
 
 Snapshot ID: `al0QoAAAAABqRlVLSP1HpR9u39JdG7ZG`
