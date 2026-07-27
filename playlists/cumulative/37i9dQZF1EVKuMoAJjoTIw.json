@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWjEIfZH4l2n>Tom Odell</a>, <a href=spotify:playlist:37i9dQZF1EIWAN0iDVbplE>Henry Morris</a>, <a href=spotify:playlist:37i9dQZF1EIXM070VACjgX>Hazlett</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIUKFaCpfwlus>Andrew Belle</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -234,7 +234,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-01",
+      "date_removed": null,
       "duration_ms": 233271,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/2gom7g1nRxTI79I4E5tB8G"
@@ -2672,7 +2672,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 292987,
       "name": "Alone With Myself",
       "url": "https://open.spotify.com/track/7BfmC5sqfIDkv2okFMldCf"
@@ -4669,6 +4669,28 @@
     },
     {
       "album": {
+        "name": "back to friends x End of Beginning (Low Cortisol Version)",
+        "url": "https://open.spotify.com/album/3JhbcVnfnZjFkFL0esLdAv"
+      },
+      "artists": [
+        {
+          "name": "TommyMuzzic",
+          "url": "https://open.spotify.com/artist/2XqXXH9xPa1zucIOtZ3u3A"
+        },
+        {
+          "name": "Luke Muzzic",
+          "url": "https://open.spotify.com/artist/2P4sIQzRSbTjwWLApeXamY"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244035,
+      "name": "back to friends x End of Beginning - Low Cortisol Version",
+      "url": "https://open.spotify.com/track/5dfAB4cO17Ja8XHoMiAdmd"
+    },
+    {
+      "album": {
         "name": "Louder Than Bombs",
         "url": "https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8"
       },
@@ -5780,7 +5802,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/1GIsnE71uUtWvGpvnJCTXO"
@@ -7156,7 +7178,7 @@
       ],
       "date_added": "2026-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 276611,
       "name": "blue jean",
       "url": "https://open.spotify.com/track/4sZiD2qaCXcpPVrgo1CN2x"
@@ -7174,7 +7196,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 152727,
       "name": "Blue Nothing",
       "url": "https://open.spotify.com/track/6SZRIsJ9bSO1CNfUoBqPFw"
@@ -9866,7 +9888,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 201048,
       "name": "Church Bells",
       "url": "https://open.spotify.com/track/5F4W8jsy2jpuskS3yler30"
@@ -11260,7 +11282,7 @@
       ],
       "date_added": "2025-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Cynical - Acoustic Session",
       "url": "https://open.spotify.com/track/5MLnSBa7BXYT6enQvV1zCF"
@@ -14054,7 +14076,7 @@
       ],
       "date_added": "2025-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 160114,
       "name": "don't wanna be here",
       "url": "https://open.spotify.com/track/5fb5P8cd8hLCXBvXtJmFjk"
@@ -14354,6 +14376,24 @@
       "duration_ms": 234259,
       "name": "DOWNPOUR",
       "url": "https://open.spotify.com/track/3pMnRGNIgK0Ql19zvnjv83"
+    },
+    {
+      "album": {
+        "name": "Drag Path",
+        "url": "https://open.spotify.com/album/27KwvdCscr3IQtSbnyAZpo"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Drag Path",
+      "url": "https://open.spotify.com/track/0TlcczkVTGpinpkGJpT81L"
     },
     {
       "album": {
@@ -17100,7 +17140,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 331625,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4iLY23QlJYWdZH4V1AGJ6x"
@@ -18248,7 +18288,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 201161,
       "name": "fog",
       "url": "https://open.spotify.com/track/7Jy7EwCTmZPBwQQa8YbBUu"
@@ -18270,6 +18310,28 @@
       "duration_ms": 206889,
       "name": "Fold",
       "url": "https://open.spotify.com/track/75roy5mcsPJKiyXOWlAJDh"
+    },
+    {
+      "album": {
+        "name": "Follow",
+        "url": "https://open.spotify.com/album/112CHiMGm6ClngL3BgGfxn"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "shobi",
+          "url": "https://open.spotify.com/artist/0LOumKkhI7C4HA8eaNbxpF"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276480,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/3Vpak20vrf0h8K16Mfzbgc"
     },
     {
       "album": {
@@ -23124,6 +23186,24 @@
     {
       "album": {
         "name": "Hollow",
+        "url": "https://open.spotify.com/album/3hXOh5QqaUOibCu6J73xu4"
+      },
+      "artists": [
+        {
+          "name": "Michael FK",
+          "url": "https://open.spotify.com/artist/4Ppqyb0QJec1QNtK0VuuA3"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298000,
+      "name": "Hollow",
+      "url": "https://open.spotify.com/track/2JTfUUxU4BLiRefelLO5lK"
+    },
+    {
+      "album": {
+        "name": "Hollow",
         "url": "https://open.spotify.com/album/5VSpDVc5qjioougPkJUVE5"
       },
       "artists": [
@@ -23600,7 +23680,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 186926,
       "name": "How a Storm Breaks",
       "url": "https://open.spotify.com/track/2YaE87J8JOyAhbudPXCaI1"
@@ -24910,6 +24990,28 @@
       "duration_ms": 202135,
       "name": "I Don't Wanna Know",
       "url": "https://open.spotify.com/track/7BNVTdnnoMPzj8URWmmGMU"
+    },
+    {
+      "album": {
+        "name": "Burning Bridges",
+        "url": "https://open.spotify.com/album/2RQtVV5BXdJZaT5eFGfkaB"
+      },
+      "artists": [
+        {
+          "name": "Groundfold",
+          "url": "https://open.spotify.com/artist/45YBqogjhBMMOXyY5liFE6"
+        },
+        {
+          "name": "Andy Leech",
+          "url": "https://open.spotify.com/artist/5rz0WsqMcYyV7lAmLlBdWj"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "I Don't Wanna See You Fall",
+      "url": "https://open.spotify.com/track/5t4olsMVZgqnIzpwH8xoAi"
     },
     {
       "album": {
@@ -27648,7 +27750,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 208000,
       "name": "If only You knew",
       "url": "https://open.spotify.com/track/4BEbveKJG4VzI3Y3UcBAQA"
@@ -28996,7 +29098,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 82615,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3YtWyQSBbyOULlV0ugWZor"
@@ -30540,7 +30642,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 183435,
       "name": "Keep You Mine - Acoustic",
       "url": "https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G"
@@ -33054,7 +33156,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 273999,
       "name": "Limbo",
       "url": "https://open.spotify.com/track/68A9rS5X0ETjKRECcaYmSt"
@@ -34112,7 +34214,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 231705,
       "name": "Lost In Your Orbit",
       "url": "https://open.spotify.com/track/3VQkbCi4A9swMGZWMb8E2N"
@@ -43582,7 +43684,7 @@
       ],
       "date_added": "2025-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 241119,
       "name": "Pieces",
       "url": "https://open.spotify.com/track/2DHDuADAHoUW6n0z80RLQF"
@@ -44924,7 +45026,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 144000,
       "name": "Reflections of the Past",
       "url": "https://open.spotify.com/track/5B9IIqlWKqcNee2fYRaVQc"
@@ -48651,6 +48753,24 @@
     },
     {
       "album": {
+        "name": "Show You",
+        "url": "https://open.spotify.com/album/2gBgAEZFMnh1gIGSAS47FA"
+      },
+      "artists": [
+        {
+          "name": "LOVEIN",
+          "url": "https://open.spotify.com/artist/0wSTTau7xfsSNx3pnjVQb6"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209684,
+      "name": "Show You",
+      "url": "https://open.spotify.com/track/6xg6U1jQzdHS8bJ3YCG7ph"
+    },
+    {
+      "album": {
         "name": "Shunno (From “MEMORIES ARE FOREVER”)",
         "url": "https://open.spotify.com/album/3pqYOtB0Jg80YUR54lyog3"
       },
@@ -51030,7 +51150,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-25",
+      "date_removed": null,
       "duration_ms": 176960,
       "name": "Sonic Samba",
       "url": "https://open.spotify.com/track/66mixWSyrrxdILkvey6ZHr"
@@ -52062,7 +52182,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 202355,
       "name": "still care",
       "url": "https://open.spotify.com/track/4zWMjuDnRz5ib0J17dBiK1"
@@ -52362,7 +52482,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 220645,
       "name": "Stranger Tides",
       "url": "https://open.spotify.com/track/3jKPjseSWUxExhrg2grV2H"
@@ -52762,7 +52882,7 @@
       ],
       "date_added": "2023-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-17",
+      "date_removed": null,
       "duration_ms": 264773,
       "name": "Summertime Sadness",
       "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0"
@@ -54128,7 +54248,7 @@
       ],
       "date_added": "2025-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 213571,
       "name": "Temper Temper (feat. ONR)",
       "url": "https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn"
@@ -54708,7 +54828,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 251034,
       "name": "The Best I Never Had",
       "url": "https://open.spotify.com/track/5TdMlTApAldRIQZbPRTHv8"
@@ -56586,7 +56706,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 251903,
       "name": "This Version Of You - Joseph Ray Remix",
       "url": "https://open.spotify.com/track/1oWf71EPQVlawCcygiCbMy"
@@ -56920,7 +57040,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 223448,
       "name": "Time",
       "url": "https://open.spotify.com/track/4b380Qa2Pnq9D6FhTSfAyZ"
@@ -56992,7 +57112,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 228040,
       "name": "Time Stood Still",
       "url": "https://open.spotify.com/track/4FBxcnOJojD1G1uDV5IGK8"
@@ -60966,7 +61086,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-27",
       "duration_ms": 161538,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
@@ -62480,7 +62600,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/1xL0pJ3eT2EE5UalMCFAjr"
@@ -64490,6 +64610,32 @@
       "duration_ms": 174357,
       "name": "YEAH RIGHT",
       "url": "https://open.spotify.com/track/1VGzxJnVQND7Cg5H5wGj14"
+    },
+    {
+      "album": {
+        "name": "Yeh Awarapan (From \"Awarapan 2\")",
+        "url": "https://open.spotify.com/album/5xahy2Tzi8r1KbjVeOM0fd"
+      },
+      "artists": [
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "date_added": "2026-07-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298144,
+      "name": "Yeh Awarapan (From \"Awarapan 2\")",
+      "url": "https://open.spotify.com/track/45WZToFfKWqeN8A9GyBETB"
     },
     {
       "album": {

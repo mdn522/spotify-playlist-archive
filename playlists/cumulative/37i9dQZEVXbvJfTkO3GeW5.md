@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,931 songs - 14 day 15 hr 10 min
+5,933 songs - 14 day 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -561,7 +561,8 @@
 | [Bells & Whistles \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/71uKhNSaUogUkjMRw5jiw7) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cloud 9](https://open.spotify.com/album/6UpHmlakegfavZms7ZBAIS) | 2:55 | 2026-02-19 | 2026-03-13 |
 | [Belong To You](https://open.spotify.com/track/5lodheXCnLTst41MWRHnq9) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Belong To You](https://open.spotify.com/album/5PqwQdJYhLmnh9Tj9xMaCX) | 3:14 | 2026-04-10 | 2026-05-10 |
 | [Beneath Surface](https://open.spotify.com/track/2zJb9iuKafSPMYzQT7uCpz) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Machine Angel](https://open.spotify.com/album/6UJO9usSDtfYnCNcyixA8z) | 1:03 | 2025-03-13 | 2025-03-16 |
-| [Beneath the Waves \(Heavy\)](https://open.spotify.com/track/2ukIpVOenELVxhdEa6QeoO) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 |  |
+| [Beneath the Waves \(Atmos\)](https://open.spotify.com/track/0sqRGkX0y387vuX5SMZTBp) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 |  |
+| [Beneath the Waves \(Heavy\)](https://open.spotify.com/track/2ukIpVOenELVxhdEa6QeoO) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 | 2026-07-27 |
 | [Benz](https://open.spotify.com/track/0RnYq4bZ7yjdTRKya7w6PG) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/3MdKJourwlmNQylBYSFNnE) | 3:05 | 2025-05-01 | 2025-05-09 |
 | [Benz](https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/52fbcfvgainVZDsJbDwjzb) | 3:05 | 2025-05-01 | 2025-05-30 |
 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 | 2022-08-11 | 2022-09-02 |
@@ -5901,7 +5902,8 @@
 | [弦上生花 \- 伴奏](https://open.spotify.com/track/50G5pTCroqujcOCqOC269B) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [弦上生花](https://open.spotify.com/album/1gtTAGedjEJbJX9Gzjcn23) | 4:52 | 2024-10-03 | 2024-10-15 |
 | [念与劫（《逍遥》电视剧心念成劫曲）](https://open.spotify.com/track/770YQRE7VCsJ3G6KE455DG) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [念与劫（《逍遥》电视剧心念成劫曲）](https://open.spotify.com/album/4cMiVXDkowt8RCEpx7y1lf) | 2:58 | 2025-12-25 | 2026-01-16 |
 | [念与劫（《逍遥》电视剧心念成劫曲） \- 伴奏版](https://open.spotify.com/track/0LmxgvP3dFBAbG4Gp322u3) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [念与劫（《逍遥》电视剧心念成劫曲）](https://open.spotify.com/album/4cMiVXDkowt8RCEpx7y1lf) | 2:58 | 2025-12-25 | 2026-01-18 |
-| [怜心（《雀骨》影视剧执念曲）](https://open.spotify.com/track/1k0e6g3qW3DrOQzWPoeAqo) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [怜心（《雀骨》影视剧执念曲）](https://open.spotify.com/album/109Hz45GUSfgmsi7axUUcV) | 4:17 | 2026-07-16 |  |
+| [怜心（《雀骨》影视剧执念曲）](https://open.spotify.com/track/1k0e6g3qW3DrOQzWPoeAqo) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [怜心（《雀骨》影视剧执念曲）](https://open.spotify.com/album/109Hz45GUSfgmsi7axUUcV) | 4:17 | 2026-07-16 | 2026-07-27 |
+| [怜心（《雀骨》影视剧执念曲） \- 伴奏版](https://open.spotify.com/track/30FxAv3RB07sDM8UdLAlrT) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [怜心（《雀骨》影视剧执念曲）](https://open.spotify.com/album/109Hz45GUSfgmsi7axUUcV) | 4:17 | 2026-07-23 |  |
 | [愛如蟬翼 \- 影集《玫瑰叢生》主題曲](https://open.spotify.com/track/1L8QzgyiZmlUO36ZFzkn4H) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [愛如蟬翼 \(影集《玫瑰叢生》主題曲\)](https://open.spotify.com/album/5nbP1Cv7wH0nCDhqcuFFSM) | 4:14 | 2026-03-20 | 2026-04-03 |
 | [愿为你](https://open.spotify.com/track/1T9nzhog5pMIxhVintpwUL) | [理塘丁真](https://open.spotify.com/artist/5EBr9yiLbzSQDpZv6sZRfo) | [赤梦华夏](https://open.spotify.com/album/3rb3FAQZ97Lr9HYCnD61L0) | 4:18 | 2023-07-06 | 2023-07-23 |
 | [攏麥吵](https://open.spotify.com/track/2Jqtjpn6MPJKtkqV6hwB0o) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [攏麥吵](https://open.spotify.com/album/67Nhl3ChDaAIPP8uKXvNgn) | 3:22 | 2023-04-20 | 2023-04-28 |
