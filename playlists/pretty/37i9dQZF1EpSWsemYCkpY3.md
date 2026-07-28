@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,11 +32,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 22 | [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 |
 | 23 | [Aavan Jaavan](https://open.spotify.com/track/3x822BpQYSFMIB7P3uiJN0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [WAR 2](https://open.spotify.com/album/38lXoBZx9yMKIIZ9gJmJo7) | 3:45 |
 | 24 | [Breathe](https://open.spotify.com/track/3FEVXC0k7arpioYSdHa4VD) | [LOUTON](https://open.spotify.com/artist/3Cb4lB4f6ImV577V3PLxK5) | [Breathe](https://open.spotify.com/album/1efazRyVUKfXdLyGT4R8dq) | 2:57 |
-| 25 | [Life with You](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Life with You](https://open.spotify.com/album/63Md1X2XSpmMlfxXuBmWOe) | 2:38 |
-| 26 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
-| 27 | [Hypnosis](https://open.spotify.com/track/27tXb4fsjEzXM5NPNBQtQU) | [Characterising Runs](https://open.spotify.com/artist/6sVd8Ht0gKzXmflWd0nttG) | [Chilled House Sessions, Vol\. 1](https://open.spotify.com/album/5RRwyl4PdpR7IwoQWMFMrq) | 4:06 |
-| 28 | [WAY YOU MOVE](https://open.spotify.com/track/1pDDAH8Be2Lfzw5vXB4wTz) | [Malik](https://open.spotify.com/artist/5zCdZToUmGEtEWeLp7Gv7d) | [WAY YOU MOVE](https://open.spotify.com/album/4y3h9zMyBGGXlXbDcyGaLj) | 3:42 |
-| 29 | [Aphelion](https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Aphelion](https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch) | 2:24 |
-| 30 | [Taking Me Higher](https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Taking Me Higher](https://open.spotify.com/album/3nKZqNHlPc7Vof0KMzIlVT) | 3:10 |
+| 25 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
+| 26 | [Hypnosis](https://open.spotify.com/track/27tXb4fsjEzXM5NPNBQtQU) | [Characterising Runs](https://open.spotify.com/artist/6sVd8Ht0gKzXmflWd0nttG) | [Chilled House Sessions, Vol\. 1](https://open.spotify.com/album/5RRwyl4PdpR7IwoQWMFMrq) | 4:06 |
+| 27 | [WAY YOU MOVE](https://open.spotify.com/track/1pDDAH8Be2Lfzw5vXB4wTz) | [Malik](https://open.spotify.com/artist/5zCdZToUmGEtEWeLp7Gv7d) | [WAY YOU MOVE](https://open.spotify.com/album/4y3h9zMyBGGXlXbDcyGaLj) | 3:42 |
+| 28 | [Aphelion](https://open.spotify.com/track/1UodY3ilZxndiXxrQ0XKpR) | [Aetheria Solara](https://open.spotify.com/artist/53Dh6mRLAQrQVAwNvXiifJ) | [Aphelion](https://open.spotify.com/album/7bm6yf26WJab5t3Cmn8cch) | 2:24 |
+| 29 | [Taking Me Higher](https://open.spotify.com/track/0UoiboSXdV8r2Yd40Oho08) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [MRYN](https://open.spotify.com/artist/6nvB3AlAAvRl4OGvPOPsMR) | [Taking Me Higher](https://open.spotify.com/album/3nKZqNHlPc7Vof0KMzIlVT) | 3:10 |
+| 30 | [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 |
 
-Snapshot ID: `amSZVAAAAAD3pSdvQVmx+ia721brT8uc`
+Snapshot ID: `amf/rAAAAAA42UiIsaswaOOAKonxc17t`

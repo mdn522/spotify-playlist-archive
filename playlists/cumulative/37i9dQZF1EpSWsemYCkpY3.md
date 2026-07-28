@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,372 songs - 3 day 0 hr 11 min
+1,373 songs - 3 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/track/2YnYiZH6D3iXRmMmmiOE6a) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Alva Grape](https://open.spotify.com/artist/0OjqFU8D3AQXS83rOcN0le) | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/album/2ir98xhvZrbBCsfT0xP8Ss) | 2:43 | 2023-02-07 | 2023-04-08 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-04-20 | 2026-02-11 |
 | [Beauty & The Beast](https://open.spotify.com/track/7bNbsiViJHGZ1Y8APnWmro) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [Beauty & The Beast](https://open.spotify.com/album/3kZZhYZFgwLV5mLmUp8Hor) | 3:04 | 2023-06-03 | 2023-07-04 |
+| [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 | 2026-07-28 |  |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2025-09-09 | 2025-10-01 |
 | [Before You Go](https://open.spotify.com/track/2PdR3pwyRy4sgGVfwDzApr) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Before You Go](https://open.spotify.com/album/7MBLJ3i29vvsSxr2csVGlX) | 4:03 | 2025-02-25 | 2025-04-17 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-07-14 | 2023-06-22 |
@@ -695,7 +696,7 @@
 | [Let's Ride Away](https://open.spotify.com/track/4tdSojwmf4vNZMWS6HcQWb) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Avicii Forever](https://open.spotify.com/album/5VPw18vPykfaX5s3jiS0Ox) | 2:53 | 2025-08-20 | 2025-08-27 |
 | [Let's Stay Up All Night](https://open.spotify.com/track/4JusMRWTXLRa6VJGMfp02y) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [Frigga](https://open.spotify.com/artist/4ysa9WmL4Ac8X8lv6Ud7tC) | [All Night](https://open.spotify.com/album/1KjhmSCqQhS2PjuK4Vytiy) | 3:33 | 2024-08-12 | 2024-10-06 |
 | [letting go](https://open.spotify.com/track/4PCMttKgDScL8IbN59lF11) | [mood.](https://open.spotify.com/artist/3fL0KDSqNCWDtbu1wfIaVo) | [letting go](https://open.spotify.com/album/1RZ20rR89O00egMOSmaR5I) | 1:42 | 2022-12-15 | 2023-02-14 |
-| [Life with You](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Life with You](https://open.spotify.com/album/63Md1X2XSpmMlfxXuBmWOe) | 2:38 | 2026-07-25 |  |
+| [Life with You](https://open.spotify.com/track/356zh8gZWsTSQqtJBUpJ3b) | [INNERVERSE](https://open.spotify.com/artist/0lIiVp6FVbJR2utszYQhNf), [Paul Schulze](https://open.spotify.com/artist/32o1qg6YNbckc4BDFqBBdY), [Oliver Cricket](https://open.spotify.com/artist/5kU4kGnYmdsBioNmQ0meDr), [Courtney Storm](https://open.spotify.com/artist/6zd0ClAbzCmZ9qReLzekUV) | [Life with You](https://open.spotify.com/album/63Md1X2XSpmMlfxXuBmWOe) | 2:38 | 2026-07-25 | 2026-07-28 |
 | [LIFETIME](https://open.spotify.com/track/5DbwwWlNC3XAGGOEISEQmt) | [Micah](https://open.spotify.com/artist/6sChBWFdC4kcAYhQVBRn5S) | [LIFETIME](https://open.spotify.com/album/3VIYrfZglcnAB8KzACcUAT) | 3:36 | 2025-10-03 | 2025-10-10 |
 | [Light Speed](https://open.spotify.com/track/0RsbatQ4Qeg7TKcaQCYr8e) | [Ahxello](https://open.spotify.com/artist/3avjTKhr5ZAxRVGMDs9AeX) | [Light Speed](https://open.spotify.com/album/7p5Jz24ONoCZNRG6wIyFL4) | 3:33 | 2024-02-07 | 2024-03-06 |
 | [Like That](https://open.spotify.com/track/0q4mX4aQcUW32s773NjjFi) | [Mindme](https://open.spotify.com/artist/5DwnPlijNCMYMFh40sQ4vX), [Emmi](https://open.spotify.com/artist/5NTlLxVgju6V06VVCHUxnH) | [Like That](https://open.spotify.com/album/290geEwaPJ2cfM7u9JEKDm) | 3:58 | 2025-10-24 | 2026-02-02 |
