@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-28",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVQgX9d3Y6DX>Lester Young</a>, <a href=spotify:playlist:37i9dQZF1EIZD4UsoTCVdV>Hemant Kumar</a>, <a href=spotify:playlist:37i9dQZF1EIZOdVTr0xT5b>Miles Davis Quintet</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWkC52ImzeTI>Frank Sinatra</a>, <a href=spotify:playlist:37i9dQZF1EIZOdVTr0xT5b>Miles Davis Quintet</a>, <a href=spotify:playlist:37i9dQZF1EIW3QCmaYnoGu>Ray Charles</a> and more",
   "name": "50s Mix",
   "tracks": [
     {
@@ -3082,7 +3082,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-05",
+      "date_removed": null,
       "duration_ms": 159733,
       "name": "Al Di La",
       "url": "https://open.spotify.com/track/3H4c8ZhXbLjFFWddN8uWBI"
@@ -5420,7 +5420,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 122960,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/6PHqBsDSDeULTC8nUyGDFs"
@@ -5572,7 +5572,7 @@
       ],
       "date_added": "2026-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 175706,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/0ZGVNoJDsekQgZUKxr0Wtg"
@@ -6008,7 +6008,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 199200,
       "name": "Autumn Leaves",
       "url": "https://open.spotify.com/track/0Xxf1WknERMOnKdIik75Yz"
@@ -12234,7 +12234,7 @@
       ],
       "date_added": "2026-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 194706,
       "name": "Close as Pages In a Book",
       "url": "https://open.spotify.com/track/259DaUiLcJqlQNlCuiNHSF"
@@ -12342,7 +12342,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 196276,
       "name": "Come Fly With Me",
       "url": "https://open.spotify.com/track/1GcPhT7osBb4LEJnQ0tmfj"
@@ -16387,6 +16387,32 @@
     },
     {
       "album": {
+        "name": "Hemanta Mukherjee Lofi Hits",
+        "url": "https://open.spotify.com/album/3LaMBB1ytqteAStq7lEVw6"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        },
+        {
+          "name": "SKYLIGHT",
+          "url": "https://open.spotify.com/artist/1gds8MCCq8AVYLLur3obPm"
+        },
+        {
+          "name": "Dj U-Two Ind",
+          "url": "https://open.spotify.com/artist/6cXtAWqoKGxjBFWbaN3XQz"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198375,
+      "name": "Ei Raat Tomar Amar - Lofi",
+      "url": "https://open.spotify.com/track/1OWEvEaADi8bmWCI7S3kYi"
+    },
+    {
+      "album": {
         "name": "Tumi Je Amar - The Hits Of Suchitra Sen",
         "url": "https://open.spotify.com/album/7u2e2N9PFVwhs9XcDQ5Epp"
       },
@@ -18722,7 +18748,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 179126,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0zZIlurO4AD02BfeVL3G7m"
@@ -19112,7 +19138,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 126045,
       "name": "Fly Me To The Moon",
       "url": "https://open.spotify.com/track/0QThMCTkiAtpRdMNs1dHER"
@@ -19926,7 +19952,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 206160,
       "name": "Fugue in G Minor \"Little\"",
       "url": "https://open.spotify.com/track/6IcxvpOU1ktVg7WP4AvXdu"
@@ -22170,7 +22196,7 @@
       ],
       "date_added": "2023-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 261825,
       "name": "Hai Apna Dil To Aawara (Happy)",
       "url": "https://open.spotify.com/track/5LrCiTYu4iTjgUXM758Igj"
@@ -26182,7 +26208,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 171466,
       "name": "I've Got a Woman",
       "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
@@ -27160,7 +27186,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 140946,
       "name": "Isle Of Capri",
       "url": "https://open.spotify.com/track/4EgyQh1xAN3JJW9aF3Psq7"
@@ -32180,7 +32206,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 205546,
       "name": "La Vie En Rose - From \"The Eddy Duchin Story\" Soundtrack",
       "url": "https://open.spotify.com/track/7wPE4qyMK7Qc4CtzO2kwAs"
@@ -32498,7 +32524,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 238933,
       "name": "Laura",
       "url": "https://open.spotify.com/track/5cjTcoD4iBQGcp3AhTsQkC"
@@ -37695,6 +37721,28 @@
     },
     {
       "album": {
+        "name": "Groovy Mixes Volume 4",
+        "url": "https://open.spotify.com/album/0IS87JXsXRD2x6CnC6actD"
+      },
+      "artists": [
+        {
+          "name": "Lata Mangeshkar",
+          "url": "https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc"
+        },
+        {
+          "name": "Afterlyf",
+          "url": "https://open.spotify.com/artist/2x8HdWYxpWwnGDpY6GvLCc"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122608,
+      "name": "Mera Dil Yeh Pukare Aaja - Hiphop",
+      "url": "https://open.spotify.com/track/2b5wqo4d6R44XkhOi1gef6"
+    },
+    {
+      "album": {
         "name": "Groovy Mixes, Vol. 4",
         "url": "https://open.spotify.com/album/6L7Jb6HM3h996NfXMpAqOl"
       },
@@ -39052,7 +39100,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 218612,
       "name": "Moonlight Love (Based On \"Claire De Lune\")",
       "url": "https://open.spotify.com/track/5wNiMYovuesgvoJ03Ti0ah"
@@ -39790,7 +39838,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-01",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
@@ -40090,7 +40138,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 155706,
       "name": "My Romance",
       "url": "https://open.spotify.com/track/6jL3YTLT6xQTGNHqTKYSWX"
@@ -45410,7 +45458,7 @@
       ],
       "date_added": "2026-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-10",
+      "date_removed": null,
       "duration_ms": 184626,
       "name": "Poor Butterfly",
       "url": "https://open.spotify.com/track/69UAfk48j4FtV2YdVynULy"
@@ -47746,7 +47794,7 @@
       ],
       "date_added": "2026-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-16",
+      "date_removed": null,
       "duration_ms": 193440,
       "name": "Rhapsody on a Theme of Paganini, Op. 43: Variation XVIII",
       "url": "https://open.spotify.com/track/5LkFCPmFADnENuQ6UjK1wm"
@@ -48806,7 +48854,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 196177,
       "name": "Sabor a Mi - Lofi",
       "url": "https://open.spotify.com/track/6u54yPd4wFhI7LLrxY8hv0"
@@ -49534,7 +49582,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 185386,
       "name": "Se Todos Fossem Iguais a Você",
       "url": "https://open.spotify.com/track/5OHeWjOe2vGa9pcpoBJEm2"
@@ -50216,7 +50264,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 207906,
       "name": "Shangri-La",
       "url": "https://open.spotify.com/track/4ZJekcgT2m6UmlvMuJJuhe"
@@ -53206,7 +53254,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 172760,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1T70hnQYHMKOjRkGkbLcOU"
@@ -53228,7 +53276,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 174219,
       "name": "Stars & Stripes Forever",
       "url": "https://open.spotify.com/track/70NKQDcMiXH3YeGL7lMHil"
@@ -54624,7 +54672,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 168226,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/2rhplG93IsEzxJ4jWS71H6"
@@ -57604,7 +57652,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 161626,
       "name": "The High And The Mighty",
       "url": "https://open.spotify.com/track/0BBOVCgaSdgGs9ClgM6men"
@@ -59258,7 +59306,7 @@
       ],
       "date_added": "2023-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 205666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/6oSm3mBWFxJHEnjE2IqhmA"
@@ -59872,7 +59920,7 @@
       ],
       "date_added": "2026-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-07-29",
       "duration_ms": 151524,
       "name": "Thème de Camille - From Le mépris 1963",
       "url": "https://open.spotify.com/track/66rayR5JI5ULUxM9f1gNay"
@@ -63807,6 +63855,32 @@
     },
     {
       "album": {
+        "name": "Handel: Water Music; Mozart: Epistle Sonatas",
+        "url": "https://open.spotify.com/album/7760BCetsdNnfiv7o2cwfn"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Thurston Dart",
+          "url": "https://open.spotify.com/artist/6V0wyvlcCWlmHrHwYVhdEA"
+        }
+      ],
+      "date_added": "2026-07-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Water Music Suite - Water Music Suite in F Major HWV 348: 6. Minuet",
+      "url": "https://open.spotify.com/track/5eGeZubHYI9UNlQwoYKWYO"
+    },
+    {
+      "album": {
         "name": "American Originals",
         "url": "https://open.spotify.com/album/4Dk2LLmKUSkaXZUKZuD2xG"
       },
@@ -66314,7 +66388,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 217306,
       "name": "You And The Night And The Music",
       "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
@@ -67052,7 +67126,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 192706,
       "name": "You Will Never Know",
       "url": "https://open.spotify.com/track/4HlfblXhnGivfd3qlZdLXp"
@@ -67352,7 +67426,7 @@
       ],
       "date_added": "2025-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-28",
+      "date_removed": null,
       "duration_ms": 155466,
       "name": "You're Not So Easy To Forget",
       "url": "https://open.spotify.com/track/6rU620Vdk8TI3sQu4UKbbQ"
