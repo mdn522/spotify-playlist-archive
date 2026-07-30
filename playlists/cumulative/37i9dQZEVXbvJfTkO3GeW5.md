@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,935 songs - 14 day 15 hr 25 min
+5,936 songs - 14 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [Belong To You](https://open.spotify.com/track/5lodheXCnLTst41MWRHnq9) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Belong To You](https://open.spotify.com/album/5PqwQdJYhLmnh9Tj9xMaCX) | 3:14 | 2026-04-10 | 2026-05-10 |
 | [Beneath Surface](https://open.spotify.com/track/2zJb9iuKafSPMYzQT7uCpz) | [Machine Audios](https://open.spotify.com/artist/2Whv5aSe1QQkB224XGzWYJ), [Two Steps from Hell](https://open.spotify.com/artist/2qvP9yerCZCS0U1gZU8wYp) | [Machine Angel](https://open.spotify.com/album/6UJO9usSDtfYnCNcyixA8z) | 1:03 | 2025-03-13 | 2025-03-16 |
 | [Beneath the Waves \(Atmos\)](https://open.spotify.com/track/0sqRGkX0y387vuX5SMZTBp) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 | 2026-07-29 |
-| [Beneath the Waves \(Heavy\)](https://open.spotify.com/track/2ukIpVOenELVxhdEa6QeoO) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 |  |
+| [Beneath the Waves \(Heavy\)](https://open.spotify.com/track/2ukIpVOenELVxhdEa6QeoO) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Beneath the Waves](https://open.spotify.com/album/3Fmo0o6VIvhAuf2t3YwgPl) | 3:22 | 2026-07-23 | 2026-07-30 |
 | [Benz](https://open.spotify.com/track/0RnYq4bZ7yjdTRKya7w6PG) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/3MdKJourwlmNQylBYSFNnE) | 3:05 | 2025-05-01 | 2025-05-09 |
 | [Benz](https://open.spotify.com/track/5Fs6Vjs2h8HlQWKgOENWes) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Clavish](https://open.spotify.com/artist/4ygR3mAG9AsBRVKIlmFYP1) | [Benz](https://open.spotify.com/album/52fbcfvgainVZDsJbDwjzb) | 3:05 | 2025-05-01 | 2025-05-30 |
 | [Best Friends \- Remix](https://open.spotify.com/track/3YZmW6AUHsbN7KhOTd944i) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Best Friends \(Remix\)](https://open.spotify.com/album/4a8uxN5j5ZSWuioZ9cHqWk) | 2:55 | 2022-08-11 | 2022-09-02 |
@@ -1243,6 +1243,7 @@
 | [DEATH](https://open.spotify.com/track/3PzeZR8CqtwXmSn5AVao7J) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DEATH](https://open.spotify.com/album/5mMLgQvV17UcyM5yY3MrAv) | 5:06 | 2023-03-16 | 2023-03-31 |
 | [Death By A Thousand Cuts](https://open.spotify.com/track/1fzqXl5e1ycmereDlDKttZ) | [Guest Bedroom](https://open.spotify.com/artist/0lZMwWZ9Wc2yXIym2wZVd0), [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Death By A Thousand Cuts](https://open.spotify.com/album/3FWQRsjSI5jZ1uGlFdShjW) | 3:28 | 2025-09-11 | 2025-10-05 |
 | [Death Certificate](https://open.spotify.com/track/2HlZTlwVD00Tjr8EDv5c46) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Death Certificate](https://open.spotify.com/album/0O8xu3o7ykOnGd6GGn7mDw) | 4:29 | 2026-04-03 | 2026-04-10 |
+| [Death From Below \(Atmos\)](https://open.spotify.com/track/0NpsVrAeYRqdNsJBEAlrrw) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Death From Below](https://open.spotify.com/album/69qUvXPS2wttpmIdAbQtp4) | 3:42 | 2026-07-23 |  |
 | [Deathwish](https://open.spotify.com/track/5vOTkYL1V8SMLv2dqmi9uE) | [Amber Van Day](https://open.spotify.com/artist/6NFRBhq9SmNn1FAiRs9AEf) | [Deathwish](https://open.spotify.com/album/1IGNvQjs3pivPPPpsLpkBX) | 3:12 | 2023-06-08 | 2023-07-09 |
 | [Decay of Inevitable](https://open.spotify.com/track/0ayznsnvOXYzdWg6XUizm5) | [Cassandra Motion](https://open.spotify.com/artist/6nFmT4dX7ORQk2FaVwQmA0), [Really Slow Motion](https://open.spotify.com/artist/4dDb2XLONSNrTrucRcoaYM) | [Final Battleground](https://open.spotify.com/album/0YLrYhn2FCwUt6Uvpkxh9P) | 1:02 | 2025-10-02 | 2025-10-26 |
 | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/track/0hSdx0sbSmYRVJzZTuspu0) | [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Yung Felix](https://open.spotify.com/artist/6J2bFI9tQDWfPHjoKHKrOu) | [Deep \(with DJ Snake & Yung Felix\)](https://open.spotify.com/album/3WpS9W69UKt59YFj744I0u) | 3:33 | 2022-09-29 | 2022-10-07 |
