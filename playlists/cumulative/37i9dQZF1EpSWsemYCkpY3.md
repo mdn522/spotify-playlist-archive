@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,373 songs - 3 day 0 hr 13 min
+1,374 songs - 3 day 0 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -830,6 +830,7 @@
 | [My Heart Goes \(La Di Da\) \(feat\. Topic\)](https://open.spotify.com/track/2dWNKXTs5z7Iu1g0kYh4Xe) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Only Honest On The Weekend](https://open.spotify.com/album/2LWAzUYdZSUq0fW8ddbL1Q) | 2:28 | 2024-03-17 | 2024-04-08 |
 | [My Oh My \(with Bebe Rexha & Tove Lo\)](https://open.spotify.com/track/6TiYCHMsE3b7YBlWNtvDIj) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 3:01 | 2025-08-23 | 2025-09-02 |
 | [Mă dezîndrăgostesc](https://open.spotify.com/track/2Xrf8BzttAwsHWKy07Ncqk) | [Ioana Ignat](https://open.spotify.com/artist/1WsXapPbIEOveVpEKjaGHu) | [Mă dezîndrăgostesc](https://open.spotify.com/album/0mo15pPTQeTOlssx4zk9Xp) | 3:31 | 2022-10-21 | 2022-12-13 |
+| [Naal Nachna](https://open.spotify.com/track/2nnDPEbNxnBKq5RG6sObTg) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0) | [Dhurandhar](https://open.spotify.com/album/2e7HNQJ0BcMoqwsVDwDhK8) | 2:35 | 2026-07-31 |  |
 | [Naal Nachna \(From "Dhurandhar"\)](https://open.spotify.com/track/0KHOIkAcSHTH9S0H0wZV7Q) | [Afsana Khan](https://open.spotify.com/artist/2dCS8oFU3rCWq0AhkZV1Sr), [Reble](https://open.spotify.com/artist/3MsxNLVtDVGxjEaxgKAoi0), [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Naal Nachna \(From "Dhurandhar"\)](https://open.spotify.com/album/70rE3JRdyIo7TmCjSTT15z) | 2:35 | 2026-06-15 | 2026-06-18 |
 | [Name Tag \(Hallman Remix\)](https://open.spotify.com/track/206oWe7FP091pN9w6Tcq2i) | [Nivicious](https://open.spotify.com/artist/4X26kJz832uPbTiOwF2IWo), [AdamAlexander](https://open.spotify.com/artist/56Cy71GT3qBw5raNunSLDX), [Hallman](https://open.spotify.com/artist/6lQbKezHkug0aJSkAjYYO5) | [Name Tag \(Hallman Remix\)](https://open.spotify.com/album/5z24seZ5wt3r36e5ALqEbr) | 3:10 | 2022-05-20 | 2022-05-25 |
 | [Neaera](https://open.spotify.com/track/0r8l1FwEt6G5dh9zo1hSYF) | [George Ellinas](https://open.spotify.com/artist/4whotD4Z9IBemsObMeTSuZ) | [Mystica / Neaera](https://open.spotify.com/album/47SNcuxgmnEzq0lCfkyFBi) | 6:10 | 2023-01-29 | 2023-02-17 |
@@ -1239,7 +1240,7 @@
 | [Traveler In Time](https://open.spotify.com/track/2Dpo8TNsLVmv3wPB34NGri) | [Dimatis](https://open.spotify.com/artist/0RAT9Q5WZwzJRJgTI38zJR), [Elvya](https://open.spotify.com/artist/7nsHwDfvq2CVqfC2jt3Z9N) | [Traveler In Time](https://open.spotify.com/album/2RzOr1f4mawYnMKClPF276) | 3:41 | 2023-05-13 | 2023-06-13 |
 | [Treat Me Right \- Marc Philippe Remix](https://open.spotify.com/track/0oHnbydVD1Y23DTFpE9nYk) | [Pete Bellis & Tommy](https://open.spotify.com/artist/2yCXS70BMsWAebyvC1j6E1), [Marc Philippe](https://open.spotify.com/artist/0U3VVYAAivfifX8Dul3vO1) | [Top Tunes](https://open.spotify.com/album/4d2r1cBi1hF8De8XilzD23) | 3:49 | 2024-08-12 | 2024-10-03 |
 | [Treat Myself](https://open.spotify.com/track/1KduF4t7FmMPKbu8U5GvsI) | [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6) | [Treat Myself](https://open.spotify.com/album/641ScO1XFNGOq2YSPrqXyH) | 2:42 | 2022-05-24 | 2022-06-17 |
-| [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2026-03-01 |  |
+| [Tricky Trippy](https://open.spotify.com/track/53vyJiceKFVk3WmoumZkJu) | [Demeter](https://open.spotify.com/artist/5JIgApvXvqq4KtnDLE9YBz) | [Tricky Trippy](https://open.spotify.com/album/4dWjIRpYaCY3G0t52azdR5) | 2:58 | 2026-03-01 | 2026-08-01 |
 | [TROPICANA BAR](https://open.spotify.com/track/3fvGq7dhw0HcMHDIskeeWn) | [Nova May](https://open.spotify.com/artist/4XWuvGGim0dmoXngwZmGGs) | [TROPICANA BAR](https://open.spotify.com/album/53CiEyjoU0qN0qQD5VRwRG) | 2:44 | 2025-09-01 | 2025-09-19 |
 | [Trouble](https://open.spotify.com/track/0bzHZI8oFEaxlPNHLoPC7v) | [Neon Jungle](https://open.spotify.com/artist/0JEvQJxxsnNUo6LQygr4AL) | [Welcome to the Jungle \(Deluxe\)](https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v) | 2:32 | 2023-10-16 | 2023-11-01 |
 | [Trouble \(with Georgia Ku\)](https://open.spotify.com/track/6oAIU5z6CaRobCQ2V9yBVc) | [Jonasu](https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Cutting Through Noise](https://open.spotify.com/album/0wVgIG352OHHFx0MiJh0aY) | 2:19 | 2023-02-16 | 2023-04-02 |
