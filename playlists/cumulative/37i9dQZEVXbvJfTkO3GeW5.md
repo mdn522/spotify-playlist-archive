@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,962 songs - 14 day 17 hr 2 min
+5,963 songs - 14 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4154,7 +4154,8 @@
 | [Pump](https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm), [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y) | [Pump](https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d) | 4:24 | 2023-08-17 | 2023-09-10 |
 | [Pump It Louder](https://open.spotify.com/track/2yEHX6MqAXPyD7bm47A2Br) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [Pump It Louder](https://open.spotify.com/album/4rrqWCXjipT6TF6F8bzEbk) | 2:38 | 2022-10-06 | 2022-10-14 |
 | [Pump It Up](https://open.spotify.com/track/4KClcAZW7purR7Cbjs17nE) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK) | [Pump It Up](https://open.spotify.com/album/7adp8pmNUadZK9SxbOosB9) | 2:05 | 2026-05-15 | 2026-05-22 |
-| [Pump It Up \- Na\-No Remix Extended](https://open.spotify.com/track/4nD7uKuRI9VrS6G5JmfqsY) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [NA\-NO](https://open.spotify.com/artist/2O6XLcPxoAPWv3QdtQe7uj) | [Pump It Up \(NA\-NO Remix\)](https://open.spotify.com/album/4BRmJV9TZXgQQIKspYZuEq) | 3:09 | 2026-07-30 |  |
+| [Pump It Up \- Na\-No Remix](https://open.spotify.com/track/56Zond2I504LnEKX4RwT78) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [NA\-NO](https://open.spotify.com/artist/2O6XLcPxoAPWv3QdtQe7uj) | [Pump It Up \(NA\-NO Remix\)](https://open.spotify.com/album/4BRmJV9TZXgQQIKspYZuEq) | 2:05 | 2026-07-30 |  |
+| [Pump It Up \- Na\-No Remix Extended](https://open.spotify.com/track/4nD7uKuRI9VrS6G5JmfqsY) | [Akcent](https://open.spotify.com/artist/57Pw3FSi1qi2fOY4wKOKjK), [NA\-NO](https://open.spotify.com/artist/2O6XLcPxoAPWv3QdtQe7uj) | [Pump It Up \(NA\-NO Remix\)](https://open.spotify.com/album/4BRmJV9TZXgQQIKspYZuEq) | 3:09 | 2026-07-30 | 2026-08-03 |
 | [Pumpkin Killer](https://open.spotify.com/track/3BYbQVOgaEQvHiVV0pM5Yz) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Pumpkin Killer](https://open.spotify.com/album/5S1KWLssoTZCumvKJ92lli) | 3:26 | 2023-10-12 | 2023-11-03 |
 | [Punjabi Munde](https://open.spotify.com/track/6p0knYKNTzkUcDIOE2gSVt) | [Sukhbir](https://open.spotify.com/artist/7bcSOvqOKoyZqU41p5YuoJ), [Lijo George](https://open.spotify.com/artist/4VS3XraXs2LRsowQnQ7VFh), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [Ghudchadi](https://open.spotify.com/album/7ByDjgKZmVolAC6PHYvukm) | 3:17 | 2024-08-08 | 2024-08-16 |
 | [Puntería](https://open.spotify.com/track/2dYXrWkNO40NXy2Q3IYLRc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Las Mujeres Ya No Lloran](https://open.spotify.com/album/3fonA82Hl7huJiQCwKkzGA) | 3:01 | 2024-03-28 | 2024-04-20 |
