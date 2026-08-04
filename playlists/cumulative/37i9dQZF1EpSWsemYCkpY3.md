@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,374 songs - 3 day 0 hr 16 min
+1,375 songs - 3 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/track/2YnYiZH6D3iXRmMmmiOE6a) | [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu), [Alva Grape](https://open.spotify.com/artist/0OjqFU8D3AQXS83rOcN0le) | [Beautiful Girls \(feat\. Alva Grape\)](https://open.spotify.com/album/2ir98xhvZrbBCsfT0xP8Ss) | 2:43 | 2023-02-07 | 2023-04-08 |
 | [Beautiful People](https://open.spotify.com/track/4TwEdnSiTPDR1vg1QZ5K8W) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Beautiful People](https://open.spotify.com/album/41GrpCcoPSawyIVDbLRdLW) | 3:07 | 2025-04-20 | 2026-02-11 |
 | [Beauty & The Beast](https://open.spotify.com/track/7bNbsiViJHGZ1Y8APnWmro) | [Grace Gaustad](https://open.spotify.com/artist/1F2JeQG9fLoC6flF1QTnxS) | [Beauty & The Beast](https://open.spotify.com/album/3kZZhYZFgwLV5mLmUp8Hor) | 3:04 | 2023-06-03 | 2023-07-04 |
-| [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 | 2026-07-28 |  |
+| [Beaver Rescue](https://open.spotify.com/track/7xtxccqQIyOIbK75g6p9df) | [Mark Mothersbaugh](https://open.spotify.com/artist/5sEDTHJJyDEWVFx99hGSIb) | [Hoppers \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7jeW03OZaJFSzMCzNjwcMm) | 2:30 | 2026-07-28 | 2026-08-04 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2025-09-09 | 2025-10-01 |
 | [Before You Go](https://open.spotify.com/track/2PdR3pwyRy4sgGVfwDzApr) | [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Before You Go](https://open.spotify.com/album/7MBLJ3i29vvsSxr2csVGlX) | 4:03 | 2025-02-25 | 2025-04-17 |
 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/11M8c9SHQYpd8DOrmcu25k) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [CRASH](https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B) | 2:48 | 2022-07-14 | 2023-06-22 |
@@ -220,6 +220,7 @@
 | [Childhood Fragments](https://open.spotify.com/track/6Wehv77PezqwbcY5fAdkoz) | [LoFi Waiter](https://open.spotify.com/artist/5H5W5vmpQSBmQv1uMVor61) | [Time Fragments](https://open.spotify.com/album/4Srv9LidwzADZHV2dzbWtM) | 0:44 | 2023-05-07 | 2023-06-25 |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2024-10-05 | 2024-11-26 |
 | [Chloe Ting](https://open.spotify.com/track/7btq542K9qIMcTlXZCYS4G) | [Chloe Tang](https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV) | [Chloe Ting](https://open.spotify.com/album/5QKxjI4mnTatwIua3nJgBH) | 3:02 | 2022-05-24 | 2022-05-27 |
+| [Chupke Se](https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Murtuza](https://open.spotify.com/artist/3EZ5CQuVFG8xHHGXNCyFNG), [Qadir](https://open.spotify.com/artist/3AAD2JPKi5k6TJ64U70Y9D), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Saathiya](https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p) | 6:04 | 2026-08-03 |  |
 | [Cinema](https://open.spotify.com/track/3wTuJwbj8l7O21WiCdmf3M) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [BARBZ](https://open.spotify.com/artist/0I570b72DF4WXlk8zcKaPc) | [Cinema](https://open.spotify.com/album/3bHvy6lukK3wpskm9TW6jh) | 2:25 | 2025-10-03 | 2025-10-27 |
 | [Circus Minimus](https://open.spotify.com/track/4THKiu5g4gHX15bDnNH4VO) | [JVZEL](https://open.spotify.com/artist/44fsv1GUjKIRkt43kurZYG), [Neon Haze](https://open.spotify.com/artist/3yDr83YPLRC1Fo0i9vUYR7) | [Cyberpunk 2077: More Music from Night City Radio \(Original Soundtrack\)](https://open.spotify.com/album/4mrlWRASoO5Ue8IXLHAApC) | 2:22 | 2023-12-06 | 2023-12-25 |
 | [City Lights](https://open.spotify.com/track/1Z8hZ5LRFt7YM001L0PStp) | [GATS](https://open.spotify.com/artist/3PnWktIvsLISMYCjVZSzVZ), [Oh Genius](https://open.spotify.com/artist/2wQhhZGholdOHTWhfDHIO2) | [Remnants Of A Dream](https://open.spotify.com/album/1iUfrgvTAgCnRuTE2Ei02S) | 2:35 | 2023-06-09 | 2023-06-13 |
