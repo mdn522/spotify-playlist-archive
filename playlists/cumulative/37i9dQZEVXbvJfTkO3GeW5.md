@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,982 songs - 14 day 18 hr 11 min
+5,984 songs - 14 day 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4223,7 +4223,8 @@
 | [Radiant](https://open.spotify.com/track/3OEftQXf7YyFjdZsdCz6La) | [BI5HOP](https://open.spotify.com/artist/3HiJYQX2vTI7ueE6NYJSBi), [glasscat](https://open.spotify.com/artist/1iZIgKdk4aQdTSupTIcRSQ) | [Radiant](https://open.spotify.com/album/2NrCTHOfUhPNloqfZXmDau) | 2:41 | 2025-11-27 | 2025-12-19 |
 | [Raghupati Raghav Raja Ram](https://open.spotify.com/track/0VSPoFH40vpvgvmifb8oSj) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Shabbir Ahmed](https://open.spotify.com/artist/6KZ6c43Dnjm6STHZ6avQU1) | [Raghupati Raghav Raja Ram](https://open.spotify.com/album/7nU5UxfssgOd2ofFy5lPYH) | 5:14 | 2024-01-25 | 2024-02-02 |
 | [Rain and Thunder](https://open.spotify.com/track/1WEBPt3Y59tLmUvCg4DI2j) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [All of Human History](https://open.spotify.com/album/6QBkXkJuEjwM4cZYLQ8OaL) | 6:29 | 2025-12-11 | 2025-12-22 |
-| [Rain of Iron \(Heavy\)](https://open.spotify.com/track/3YTNnJF1aamg3vnr9WTmrS) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Rain of Iron](https://open.spotify.com/album/2SkwBkCbYID05R66AYhyQb) | 3:24 | 2026-08-06 |  |
+| [Rain of Iron \(Atmos\)](https://open.spotify.com/track/1LTr1Q2Rg3j1ZZozOl24AD) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Rain of Iron](https://open.spotify.com/album/2SkwBkCbYID05R66AYhyQb) | 3:24 | 2026-08-06 |  |
+| [Rain of Iron \(Heavy\)](https://open.spotify.com/track/3YTNnJF1aamg3vnr9WTmrS) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Rain of Iron](https://open.spotify.com/album/2SkwBkCbYID05R66AYhyQb) | 3:24 | 2026-08-06 | 2026-08-08 |
 | [Rainbow Eyes](https://open.spotify.com/track/1hbeQAHshQVRIbl6EPWSoJ) | [Notaker](https://open.spotify.com/artist/0I7HgbIetYEIweWq7nD6En), [Danyka Nadeau](https://open.spotify.com/artist/1bZhxzq9mhYkPf0wdxGko9) | [Rainbow Eyes](https://open.spotify.com/album/6v3ecvWPFscupjIBuci5Do) | 5:21 | 2023-05-11 | 2023-06-11 |
 | [Ram Dass Interlude](https://open.spotify.com/track/07sC4LJjzmFIRr3PZrQuyx) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Gag Order](https://open.spotify.com/album/5gJSC3H04ubhi6BTtdViqR) | 1:14 | 2023-06-15 | 2023-06-18 |
 | [Ram Janam Badhai Geet](https://open.spotify.com/track/3BhPzb9EoiKrJNyqPpwnYj) | [Sireesha Bhagavatula](https://open.spotify.com/artist/3ZiBHBeZ3OAKJEkDWzQFHS) | [Ram Janam Badhai Geet](https://open.spotify.com/album/2TGz7gE6znKSAHkcUiyTE9) | 3:26 | 2026-03-20 | 2026-04-17 |
@@ -4452,6 +4453,7 @@
 | [Sad Songs](https://open.spotify.com/track/7FNBs0uJ316QqcVutWKz3O) | [Sophia Gripari](https://open.spotify.com/artist/4NIJrKs2BotOvJpb52RsAH) | [Sad Songs](https://open.spotify.com/album/5BAJ0ZYVeoioYv1PqZgsQz) | 3:09 | 2022-07-07 | 2022-08-07 |
 | [Sadness](https://open.spotify.com/track/3wW615TC8W0at2BjnOfiRM) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [Sadness](https://open.spotify.com/album/171hNpaERUy2FQ17IrnH4F) | 2:39 | 2025-10-30 | 2025-11-30 |
 | [Safa Chat](https://open.spotify.com/track/3nBinigvgeybyRlPVvIuxy) | [DEV](https://open.spotify.com/artist/7Ip2u3e5Nv6fFb5xyIHxEE) | [Brisk Pack](https://open.spotify.com/album/6PFmL2hkkIRxu98BkgdrJt) | 1:20 | 2024-07-25 | 2024-08-02 |
+| [Safar Main Hu](https://open.spotify.com/track/5YIvOt2cALjy8cR6jviZRg) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 3:23 | 2026-08-06 |  |
 | [safeword](https://open.spotify.com/track/0rgwADAHd21s1OE7RPFwPN) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [safeword](https://open.spotify.com/album/7r2F9eu36wbjErxQYeM9lu) | 2:13 | 2025-02-27 | 2025-03-23 |
 | [Saga](https://open.spotify.com/track/0OWR8o8uvWL7JaI3gzYWbL) | [Vexento](https://open.spotify.com/artist/3tYJfCciy07wTBt2HpjCQw) | [Saga](https://open.spotify.com/album/5Xk2X86wEPPx9HE8t2zyxH) | 3:35 | 2022-11-24 | 2022-12-09 |
 | [Sahara](https://open.spotify.com/track/5lYzgUqATqtLC5J0zMyxBo) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp) | [Sahara](https://open.spotify.com/album/5HHaJj5ikl2WrSgzT6kQPS) | 2:24 | 2025-04-24 | 2025-05-25 |
@@ -4852,7 +4854,7 @@
 | [Stutter](https://open.spotify.com/track/1nk2RGGcWmctlwFa2Qkeqg) | [Qeeo](https://open.spotify.com/artist/2kHFTbmgTYfr1eePsXAOuB), [Televisor](https://open.spotify.com/artist/5h4HpujvLoTaqy2tkrs2DC) | [Stutter](https://open.spotify.com/album/4vtW3e1Oqzoqu7EESzfUdN) | 2:02 | 2023-06-01 | 2023-06-18 |
 | [Style StyleThaan \- Remix](https://open.spotify.com/track/6r5RN3EBJraXNsBQEOSau6) | [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf), [Vairamuthu](https://open.spotify.com/artist/1hFqbxc2MxieBIU4MqIEWm), [S\. P\. Balasubrahmanyam](https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8), [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH) | [Style StyleThaan \- Remix](https://open.spotify.com/album/1GKf3qcgPqxehjZOPr2mXo) | 4:04 | 2026-05-08 | 2026-05-15 |
 | [STΦMP!](https://open.spotify.com/track/3QklelzI24oqdW16cLshnu) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[VirtuouS\]](https://open.spotify.com/album/4PkR73YJKj5RGkC7QZVpM2) | 3:03 | 2024-07-11 | 2024-07-21 |
-| [Subah Aye](https://open.spotify.com/track/1bzcZBmmoCi415Tk7Hldyt) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 5:23 | 2026-08-06 |  |
+| [Subah Aye](https://open.spotify.com/track/1bzcZBmmoCi415Tk7Hldyt) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Subah Aye Na](https://open.spotify.com/album/5Jk8O4pgq0O6vupKEQ5bly) | 5:23 | 2026-08-06 | 2026-08-08 |
 | [Submarine Time Machine](https://open.spotify.com/track/2cCN0UUb8Tk5R10y0Ge76X) | [Epic Mountain](https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT) | [All of History](https://open.spotify.com/album/2MWvRcvhhGaES1MPO7t3Y1) | 7:40 | 2023-11-09 | 2023-11-17 |
 | [Such A Funny Way](https://open.spotify.com/track/5INY1sXYVmFCN5I6cbwdmk) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend \(Bonus Track Version\)](https://open.spotify.com/album/43k99CXeU2JUO21G1F4WCP) | 3:52 | 2025-12-25 | 2026-01-02 |
 | [Sueficial](https://open.spotify.com/track/3DidNuCUvcZ5BQjg8laZ64) | [Amadeus](https://open.spotify.com/artist/7wGnvmHuWqIhczXjh1PdtU) | [Sueficial](https://open.spotify.com/album/6kxBDw0UfBee6YjxY74Bc6) | 3:22 | 2025-12-04 | 2025-12-12 |

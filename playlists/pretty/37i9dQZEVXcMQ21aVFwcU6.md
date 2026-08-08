@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 29 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 24 | [No Boundaries](https://open.spotify.com/track/1BhMbw0USRJCe2lekH1mux) | [Misc.Inc](https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi) | [No Boundaries](https://open.spotify.com/album/6o04beRHg2UlN5SM3Bwg0r) | 3:12 |
 | 25 | [Be The One](https://open.spotify.com/track/6uX04VzluL3jXcWcJgZFa7) | [blaank](https://open.spotify.com/artist/1IvFHrfuRe7aySFJ5CpByS), [Jack Kelly](https://open.spotify.com/artist/1qXQAJC0HsasWQhGI8P1QC) | [Be The One](https://open.spotify.com/album/5u3rK41psfKNoDC988KtBN) | 2:56 |
 | 26 | [Suggestions](https://open.spotify.com/track/0sjrzZX23VvgCH90py14mK) | [Eric Driven](https://open.spotify.com/artist/3v0ozHaYgjvAdQbywPDEfx) | [Suggestions](https://open.spotify.com/album/7j47xcqnfnUSKDS5JAIhI8) | 2:32 |
-| 27 | [Surrender](https://open.spotify.com/track/0Bw3x4KdMJX22LInpLjPEp) | [West of the Sun](https://open.spotify.com/artist/06mJk7DutiauNxY6n6U9sx), [Mr\. Amber](https://open.spotify.com/artist/3q7E93uWjFPYKSUYdz4vUX), [Amber Revival](https://open.spotify.com/artist/247Rddo3rzBu5bAtYyvov0) | [Surrender](https://open.spotify.com/album/4sEb9s0inF4jn4oNifolRe) | 2:57 |
-| 28 | [Polystyrene](https://open.spotify.com/track/4ziBUga521fS9FCPxVb9TX) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 3:03 |
-| 29 | [stay a little longer](https://open.spotify.com/track/0g5ZINRJDvSK9Dg5YAKkpd) | [Walk on Water](https://open.spotify.com/artist/4I3wOys29MwaCSSXGEeose) | [stay a little longer](https://open.spotify.com/album/2aGfBH7Es3nIDdwg8Xb7Ce) | 2:41 |
-| 30 | [Lay It On The Line](https://open.spotify.com/track/0n52pxryTjU2r6coVY6Hwq) | [Nova Wolf](https://open.spotify.com/artist/0E1G0HKcB71bk7Qq1F6AMk), [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Lay It On The Line](https://open.spotify.com/album/7Kgn7M9UjMCQI8tiG0AAL9) | 3:55 |
+| 27 | [Polystyrene](https://open.spotify.com/track/4ziBUga521fS9FCPxVb9TX) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 3:03 |
+| 28 | [stay a little longer](https://open.spotify.com/track/0g5ZINRJDvSK9Dg5YAKkpd) | [Walk on Water](https://open.spotify.com/artist/4I3wOys29MwaCSSXGEeose) | [stay a little longer](https://open.spotify.com/album/2aGfBH7Es3nIDdwg8Xb7Ce) | 2:41 |
+| 29 | [Lay It On The Line](https://open.spotify.com/track/0n52pxryTjU2r6coVY6Hwq) | [Nova Wolf](https://open.spotify.com/artist/0E1G0HKcB71bk7Qq1F6AMk), [Late June](https://open.spotify.com/artist/5zMJZTfga0uJURmLLymnoh) | [Lay It On The Line](https://open.spotify.com/album/7Kgn7M9UjMCQI8tiG0AAL9) | 3:55 |
 
 Snapshot ID: `am+FoAAAAADPasZMJ7KTQZaJyTjrnEUi`
