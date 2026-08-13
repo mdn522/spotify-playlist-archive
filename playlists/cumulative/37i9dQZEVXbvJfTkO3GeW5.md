@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-5,989 songs - 14 day 18 hr 36 min
+5,990 songs - 14 day 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1156,7 +1156,8 @@
 | [Dacă mai vrei](https://open.spotify.com/track/5NJzBq5gVZBsSPghS69p4F) | [Alina Eremia](https://open.spotify.com/artist/6cpj6MeLF0pLx34Un9Bpj3) | [Dacă mai vrei](https://open.spotify.com/album/4d5Wj6v6ButVaSwjj7FxNf) | 2:50 | 2026-01-22 | 2026-02-15 |
 | [Daddy's Eyes](https://open.spotify.com/track/726mGvnRdaFnW6dmlOqTBu) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Daddy’s Eyes](https://open.spotify.com/album/1b2RyLbUMkbXb62sVIguvY) | 3:02 | 2022-09-22 | 2022-09-30 |
 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 | 2026-05-22 | 2026-06-05 |
-| [Dai Dai \- Spanish Version](https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9) | 3:42 | 2026-08-06 |  |
+| [Dai Dai \- Portuguese Version](https://open.spotify.com/track/0YQuy5jtxeszi7zhOE6VKg) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Dai Dai](https://open.spotify.com/album/5w4RclcQoq5M6qOLOdnXBf) | 3:43 | 2026-08-06 |  |
+| [Dai Dai \- Spanish Version](https://open.spotify.com/track/4FgqM9iu6uY5vJavkDrP6W) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/0Q01cgQeoWTETkOvpoeng9) | 3:42 | 2026-08-06 | 2026-08-13 |
 | [Dai Dai \- SPINALL Remix](https://open.spotify.com/track/3Yl0PTSdtG3FGLHZN1M3v0) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP) | [Dai Dai \(SPINALL Remix\)](https://open.spotify.com/album/7tAs8IN3BDQjetpgCssUeU) | 3:55 | 2026-07-09 | 2026-07-24 |
 | [Daily](https://open.spotify.com/track/5bArnaEXxb4HkpbdtSt5ax) | [WENGIE](https://open.spotify.com/artist/1g4X3uOqgxWFRNV4MbEIbD), [iamkitty](https://open.spotify.com/artist/7wtroW1qCeRFnFKnXdOO3n) | [Daily](https://open.spotify.com/album/5CwjYJlZBK9sI0jfiodSL1) | 1:02 | 2026-05-08 | 2026-05-31 |
 | [Daisies](https://open.spotify.com/track/38ppLEojYMRMexeNNjCaFr) | [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Daisies](https://open.spotify.com/album/1lDlC8thSEhawJJTHJs8gm) | 3:19 | 2024-03-28 | 2024-04-28 |
