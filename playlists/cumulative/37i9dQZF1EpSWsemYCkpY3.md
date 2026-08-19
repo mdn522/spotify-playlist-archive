@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,386 songs - 3 day 0 hr 59 min
+1,388 songs - 3 day 1 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,6 +245,7 @@
 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 | 2022-12-15 | 2023-07-19 |
 | [Cool for the Summer](https://open.spotify.com/track/2zFF6jG5hQArbzcXz3KUWk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:34 | 2023-07-18 | 2023-07-22 |
 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 | 2023-08-08 | 2023-09-05 |
+| [Cosmo's Cosmos](https://open.spotify.com/track/13TPUvi8NaIJk5auFaWCh4) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Via Kosmos](https://open.spotify.com/album/2Y9ee4RKlypaF8gcM2f3mL) | 3:29 | 2026-08-18 |  |
 | [counting on you](https://open.spotify.com/track/1gY0B8A75V0FgkoVP40iHy) | [LSR/CITY](https://open.spotify.com/artist/0YQ22xAzgefaKw8vKCAEp2), [Gareth Emery](https://open.spotify.com/artist/0hprEC0nsWuQPSHag1O2Vi), [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [counting on you](https://open.spotify.com/album/5toJaA5ZDKhakB72OGPxm4) | 2:59 | 2025-08-20 | 2025-08-27 |
 | [Covers Blown](https://open.spotify.com/track/6kAzrcX8rnvZCT0vMuVyHa) | [Chris Jourdian](https://open.spotify.com/artist/6bix4J0xJt60fohOV8GoXi) | [Covers Blown](https://open.spotify.com/album/3ohta9H6jZQCzckmBc8niM) | 2:56 | 2022-07-05 | 2022-09-01 |
 | [Cradles](https://open.spotify.com/track/7dlxpBzEYEt7XUHWQS0ZUW) | [T\-Mass](https://open.spotify.com/artist/0M3cZtjQZ8fz3Hbw1A4CwF), [Staarz](https://open.spotify.com/artist/0bb1EZkY7SlcGKU9e5T9DL) | [Cradles](https://open.spotify.com/album/5rinK7CxL3x2mc8VxWsiyq) | 3:04 | 2026-02-23 | 2026-06-06 |
@@ -284,6 +285,7 @@
 | [Dangerous Woman](https://open.spotify.com/track/3nef5W8jTkXrOKgCu4kmq7) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 3:55 | 2022-05-20 | 2022-05-30 |
 | [Dark All Day](https://open.spotify.com/track/4GBJomKlZNRnODfpL299pw) | [Gunship](https://open.spotify.com/artist/3PALZKWkpwjRvBsRmhlVSS), [Tim Cappello](https://open.spotify.com/artist/0HyZTRkZ8UuhJKlIqBihqn), [Indiana](https://open.spotify.com/artist/7a5Srm7U661DotL6VWRmYk) | [Dark All Day](https://open.spotify.com/album/0rXLjiZSS0B7yYqCvz2akm) | 5:27 | 2024-02-13 | 2024-04-20 |
 | [Dark Side](https://open.spotify.com/track/5lSopyliv1abtwdNhQ4aJT) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4) | [Dark Side](https://open.spotify.com/album/5kKeGfAjPzBuANhCfhAJ0e) | 4:16 | 2023-01-26 | 2023-03-27 |
+| [Dawn \(Tritonia 513\)](https://open.spotify.com/track/5LXhgUe9RSh6qGvvI1gqUl) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Tritonia 513](https://open.spotify.com/album/3kcMPUvMiXSul1IjTaHZ8q) | 3:56 | 2026-08-18 |  |
 | [Daydreaming](https://open.spotify.com/track/4ojz5M2JZVMDgsBsnmWuoS) | [Bunny X](https://open.spotify.com/artist/1Jm30qu7cd4QfXkJSoYL6y) | [Love Minus 80](https://open.spotify.com/album/0D4LYaOVYjLXs2zjQlgQro) | 3:51 | 2026-02-11 | 2026-02-23 |
 | [De Diepte](https://open.spotify.com/track/7uQ7e7nzbtyX87eIYHpj6Z) | [S10](https://open.spotify.com/artist/1zT9SWCzN45r7oVhy0VYLK) | [De Diepte](https://open.spotify.com/album/6XAKVt3CT7r1Zf0uiMWt7o) | 2:56 | 2022-07-14 | 2022-09-10 |
 | [Dead Souls](https://open.spotify.com/track/6HkhlDtwS3dYZGD4miVaBp) | [World Complete](https://open.spotify.com/artist/7kmiMqEnJID3dyEfU3vdWq) | [Outatime](https://open.spotify.com/album/6IP8B02j6z6NDJv9MyQARG) | 4:32 | 2023-09-13 | 2023-10-29 |
@@ -335,7 +337,7 @@
 | [Down Low](https://open.spotify.com/track/0mXrvJbFWxvvgsOi5A1ETN) | [wadnesday](https://open.spotify.com/artist/6gGOd7mZRPiqhcmQLOLC3c) | [Down Low](https://open.spotify.com/album/1wTUStHkMiCFM7cMEICG8H) | 2:40 | 2025-10-09 | 2025-10-22 |
 | [Down to the Sea… and Back \- Ben’s Balearic Re\-Edit](https://open.spotify.com/track/3tjGGq78U3Efxb5GYrb4TE) | [Fear Of Tigers](https://open.spotify.com/artist/2eMdch9qwgd4eJoU4Wgsuy) | [Dreaming of the Deep](https://open.spotify.com/album/398LcZVqf9sLUiV2nyeFEx) | 2:38 | 2025-09-15 | 2025-10-03 |
 | [Downtown](https://open.spotify.com/track/0XXkQk83TjaGoPndxWLHKr) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [CollXtion II](https://open.spotify.com/album/216PcZkvm5Rnt6LgctC0X9) | 3:57 | 2022-12-18 | 2023-01-06 |
-| [Dream Dust](https://open.spotify.com/track/4huoTRllpLxqZAh3SDijdx) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Dream Dust](https://open.spotify.com/album/2SpCbFqMPTLpDEm3YAkBjH) | 3:25 | 2026-08-15 |  |
+| [Dream Dust](https://open.spotify.com/track/4huoTRllpLxqZAh3SDijdx) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Dream Dust](https://open.spotify.com/album/2SpCbFqMPTLpDEm3YAkBjH) | 3:25 | 2026-08-15 | 2026-08-19 |
 | [Dream of You \(with R3HAB\)](https://open.spotify.com/track/1d8Arh7PushRWWJRs41rSa) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 3:12 | 2023-07-03 | 2024-02-14 |
 | [Dreamer](https://open.spotify.com/track/1nTZaxitQCBDygfq7EUDo4) | [Lauren Martinez](https://open.spotify.com/artist/1GPbduE3IroBXfCr6BorOS) | [Dreamer](https://open.spotify.com/album/1GhFSuxTZYpL2wITGRM4od) | 3:23 | 2022-10-06 | 2022-12-04 |
 | [Dreaming](https://open.spotify.com/track/5ZRj9x7D4h9W05Vf5rsavc) | [SAINT X](https://open.spotify.com/artist/3QITsvXjuT3fuazHWI5Qmu) | [Dreaming](https://open.spotify.com/album/40qRDWz7uVqiEA0kROdPkA) | 2:31 | 2024-09-11 | 2024-09-15 |
@@ -615,7 +617,7 @@
 | [Insurgence](https://open.spotify.com/track/4VYMObU9l6llm2CpZrlwuP) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [Mairee](https://open.spotify.com/artist/0e3qT2AqBNTqmo0d5OMzd6) | [Insurgence](https://open.spotify.com/album/1eFDhHEtuk7wH81nIieOuK) | 3:41 | 2025-09-01 | 2025-09-24 |
 | [Interlude](https://open.spotify.com/track/5Q7xgSQqyhwrC2fJAXLeWE) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 1:19 | 2023-07-12 | 2023-07-19 |
 | [Into You](https://open.spotify.com/track/76FZM38RC8XaAjJ77CVTNe) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/1QRP5lutJodPixU2EWfnD7) | 4:04 | 2023-10-22 | 2023-12-01 |
-| [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 | 2026-07-25 |  |
+| [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 | 2026-07-25 | 2026-08-19 |
 | [Intuition \- From The Original Television Soundtrack Blade Runner Black Lotus](https://open.spotify.com/track/75s7exwRlggBAreEOWrKkt) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Intuition \(From The Original Television Soundtrack Blade Runner Black Lotus\)](https://open.spotify.com/album/1UC8Hy3ovymEaIrYjipJ4K) | 2:50 | 2023-01-05 | 2023-01-09 |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2023-10-25 | 2024-02-08 |
 | [Irish Man](https://open.spotify.com/track/3MPMlVLLHgPPJJBDrX424v) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [Irish Man](https://open.spotify.com/album/5zahHDKv39CfsJJUZz8uSP) | 2:28 | 2024-11-04 | 2025-02-17 |

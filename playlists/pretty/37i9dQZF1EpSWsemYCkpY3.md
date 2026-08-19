@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 9 | [Chupke Se](https://open.spotify.com/track/2F3MfkMgCaUypuEKyvbUzq) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek), [Murtuza](https://open.spotify.com/artist/3EZ5CQuVFG8xHHGXNCyFNG), [Qadir](https://open.spotify.com/artist/3AAD2JPKi5k6TJ64U70Y9D), [Gulzar](https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB) | [Saathiya](https://open.spotify.com/album/6BJPcgCN37gDKtPh7gmJ3p) | 6:04 |
 | 10 | [Another Life](https://open.spotify.com/track/6a3VTcqaCx7vBqpbEpDiKW) | [MVRØ](https://open.spotify.com/artist/5LcNReZSLSSguvaHUb1rua) | [Another Life](https://open.spotify.com/album/0EUIishhDjpRG9VFZY3BWs) | 2:34 |
 | 11 | [Bullet In The Heart](https://open.spotify.com/track/4iDqKLXTCHI0HG1h1UXscP) | [Inward Universe](https://open.spotify.com/artist/48vN1J04w1o3tQiAP42r18) | [Bullet In The Heart](https://open.spotify.com/album/0JCnJwQNA892oVKdr6pBlt) | 5:00 |
-| 12 | [Dream Dust](https://open.spotify.com/track/4huoTRllpLxqZAh3SDijdx) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Dream Dust](https://open.spotify.com/album/2SpCbFqMPTLpDEm3YAkBjH) | 3:25 |
-| 13 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 |
+| 12 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 |
+| 13 | [Cosmo's Cosmos](https://open.spotify.com/track/13TPUvi8NaIJk5auFaWCh4) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Via Kosmos](https://open.spotify.com/album/2Y9ee4RKlypaF8gcM2f3mL) | 3:29 |
 | 14 | [Afterlight \- the deep sound edit](https://open.spotify.com/track/3vHsHBBUgqz6ibw6hJEWUS) | [Mike DelVero](https://open.spotify.com/artist/3H4P9PZ9R8SL3KUcUl3bK3) | [Afterlight \(the deep sound edit\)](https://open.spotify.com/album/7C3WFFpb1E7GznkrTsSfqp) | 3:17 |
 | 15 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
 | 16 | [In The Dark](https://open.spotify.com/track/0JAGCy0FHEl8PgdbDV6FG5) | [Darking On](https://open.spotify.com/artist/6e2ZvwSvsd7TY2fr8wPE7C) | [In The Dark](https://open.spotify.com/album/2hsGMNZlVSN97oVx2I4E1z) | 2:05 |
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 23 | [The Other Side](https://open.spotify.com/track/6eRUvv9vifikcwO5UrBtzJ) | [The Meridian](https://open.spotify.com/artist/1P70ntfVBOj9AvWV6zZ55A) | [Fairytales](https://open.spotify.com/album/4oZGhUkTTzAb4T1w51CaV9) | 2:39 |
 | 24 | [This Life](https://open.spotify.com/track/6ah7MZxwUpulxZIln65yta) | [Rospy](https://open.spotify.com/artist/0eYhUlY263KAVPuaYC5MzO), [Nestora](https://open.spotify.com/artist/5sCDEJUsI255OrcE5k3EzJ) | [This Life](https://open.spotify.com/album/52GYOmduS0y9sNkDDG1X5c) | 3:37 |
 | 25 | [Where Are You Tonight](https://open.spotify.com/track/5NosZGOuZRJOTPRAqIOkt8) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Where Are You Tonight](https://open.spotify.com/album/3kTh1WrbtryqgS5SqYZ6AP) | 3:55 |
-| 26 | [Aavan Jaavan](https://open.spotify.com/track/3x822BpQYSFMIB7P3uiJN0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [WAR 2](https://open.spotify.com/album/38lXoBZx9yMKIIZ9gJmJo7) | 3:45 |
-| 27 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
-| 28 | [Breathe](https://open.spotify.com/track/3FEVXC0k7arpioYSdHa4VD) | [LOUTON](https://open.spotify.com/artist/3Cb4lB4f6ImV577V3PLxK5) | [Breathe](https://open.spotify.com/album/1efazRyVUKfXdLyGT4R8dq) | 2:57 |
-| 29 | [Goodnight](https://open.spotify.com/track/37ZFoWXf3QXyFSaefVQkUX) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 4:51 |
-| 30 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
+| 26 | [Dawn \(Tritonia 513\)](https://open.spotify.com/track/5LXhgUe9RSh6qGvvI1gqUl) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [Hessian](https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs), [Afnan Prince](https://open.spotify.com/artist/0T3J2fxgciLGud2pwqHixZ) | [Tritonia 513](https://open.spotify.com/album/3kcMPUvMiXSul1IjTaHZ8q) | 3:56 |
+| 27 | [Aavan Jaavan](https://open.spotify.com/track/3x822BpQYSFMIB7P3uiJN0) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [WAR 2](https://open.spotify.com/album/38lXoBZx9yMKIIZ9gJmJo7) | 3:45 |
+| 28 | [Vandal](https://open.spotify.com/track/3o0uDe47R1wByG9IXIvkSH) | [OsMan](https://open.spotify.com/artist/5yTQ5Ik2Bllbc5hRLeoRkN) | [Vandal](https://open.spotify.com/album/27DyW3vuWYxvbrw2InADaz) | 2:16 |
+| 29 | [Breathe](https://open.spotify.com/track/3FEVXC0k7arpioYSdHa4VD) | [LOUTON](https://open.spotify.com/artist/3Cb4lB4f6ImV577V3PLxK5) | [Breathe](https://open.spotify.com/album/1efazRyVUKfXdLyGT4R8dq) | 2:57 |
+| 30 | [Goodnight](https://open.spotify.com/track/37ZFoWXf3QXyFSaefVQkUX) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 4:51 |
 
-Snapshot ID: `an/rwQAAAADigaRzMSzwdvVcKuGsZMrh`
+Snapshot ID: `aoQBjQAAAADveBvZC3eJZOWGZ/WNCusg`
