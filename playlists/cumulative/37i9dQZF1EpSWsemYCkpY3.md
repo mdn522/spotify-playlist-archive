@@ -4,7 +4,7 @@
 
 > Your past favorites
 
-1,388 songs - 3 day 1 hr 7 min
+1,389 songs - 3 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,6 +408,7 @@
 | [Feel so High](https://open.spotify.com/track/4s68OQgoW81VvKny1liQbT) | [Censored X](https://open.spotify.com/artist/1igzwz6fEy5AldVPn1XgYi), [BINNE](https://open.spotify.com/artist/3hJh1xvOHD5WsEMiptSOGc) | [Feel so High](https://open.spotify.com/album/6qLrG3HCnGW0CaNZlihVhP) | 3:35 | 2023-02-01 | 2023-05-02 |
 | [Feel the Beat](https://open.spotify.com/track/4DOwUkIki4q47KsHnkmz5h) | [Fury Weekend](https://open.spotify.com/artist/7KxS1dL7Q7jxMkyb2ZvzXH), [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [Million Flares and Starlights](https://open.spotify.com/album/0UOVsZNzkhbHRBDzanzrOz) | 3:29 | 2025-10-21 | 2026-01-10 |
 | [Feel the Love](https://open.spotify.com/track/5OWQBIRQYQn77BsFvfJoHZ) | [Vicki Vox](https://open.spotify.com/artist/7cPHWzJNSiVkCenk3nxQdJ) | [Feel The Love](https://open.spotify.com/album/4EGZNdwi3jfRSUABRsha9g) | 3:05 | 2023-04-07 | 2023-04-11 |
+| [Feel The Pulse](https://open.spotify.com/track/6JDXPOVuNyBMLUw2Hao3n8) | [Light Chaser](https://open.spotify.com/artist/12o4o6nuoPQYw0QPwC7NHx) | [In Motion](https://open.spotify.com/album/3xCtcCZ8dLWK7ijDaKbiY1) | 3:33 | 2026-08-21 |  |
 | [Feel This Way](https://open.spotify.com/track/1uAqpDfjT4ODipqrMTBWgN) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Feel This Way](https://open.spotify.com/album/1krHx6VqHRNlHXI1ShycIU) | 2:27 | 2024-06-15 | 2024-07-11 |
 | [Feels Like](https://open.spotify.com/track/3v4GROPtpHzWRHec5qnOo5) | [Benicio Bryant](https://open.spotify.com/artist/4qs1nF5ED0DZKyxFwNCyMC) | [Feels Like / Pretty In Pink](https://open.spotify.com/album/39hjOgGSEFeUuLJWCI0dH2) | 2:44 | 2022-08-19 | 2022-10-13 |
 | [feelslikeimfallinginlove \- Zerb x Coldplay](https://open.spotify.com/track/4cVUwET6QBkiWUdGVNSYPt) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy) | [feelslikeimfallinginlove \(Zerb x Coldplay\)](https://open.spotify.com/album/6N6LinnpbWWkxP0NeO2sDI) | 3:56 | 2024-11-22 | 2024-11-26 |
@@ -492,7 +493,7 @@
 | [Good Times](https://open.spotify.com/track/07QCSa14E5bfOOkTXR7oLD) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO) | [Good Times](https://open.spotify.com/album/30IkUlyQDDF1kuobmVCSBo) | 1:53 | 2023-11-27 | 2023-12-09 |
 | [Good Times](https://open.spotify.com/track/68CTT6OdVoqjku9GYRzauW) | [Soundland](https://open.spotify.com/artist/6WiHmeWEMdFy7iOiDsKqCG), [Ana Whiterose](https://open.spotify.com/artist/5bDFSUlxpPBZW64dXn7kr8) | [Good Times](https://open.spotify.com/album/7IqASdh1tyCR7dMOcOZPK9) | 3:25 | 2022-08-19 | 2022-10-16 |
 | [Goodbye](https://open.spotify.com/track/0dxG3l2rku53SIQjTk8ms6) | [XiJaro & Pitch](https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK), [Adara](https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY) | [Goodbye](https://open.spotify.com/album/4fknvi4roE6EO7E78FgoAG) | 3:08 | 2025-04-08 | 2025-05-05 |
-| [Goodnight](https://open.spotify.com/track/37ZFoWXf3QXyFSaefVQkUX) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 4:51 | 2026-04-26 |  |
+| [Goodnight](https://open.spotify.com/track/37ZFoWXf3QXyFSaefVQkUX) | [Thylacine](https://open.spotify.com/artist/5If5Tdg66Q5X3L57G7A6Pn) | [ROADS Vol.3](https://open.spotify.com/album/7u5S5R3qPNwdjJpWNCuUkF) | 4:51 | 2026-04-26 | 2026-08-22 |
 | [Goosebumps](https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ) | [Goosebumps](https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX) | 3:59 | 2025-02-11 | 2025-04-02 |
 | [Gravity](https://open.spotify.com/track/1t0ye9EldEqqRoM2LaRV7R) | [Chris Schambacher](https://open.spotify.com/artist/1UHsMWPbRs6jp7ij7nEEZG), [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Glenn Morrison](https://open.spotify.com/artist/6rQCqpJwXe2ucpnXh85NJV) | [Gravity](https://open.spotify.com/album/70KDWj6nyE5o0aSJ6wsbMw) | 3:37 | 2022-06-01 | 2022-07-08 |
 | [Gravity](https://open.spotify.com/track/0oixvwgoGm4wV8go7pK2zJ) | [The Him](https://open.spotify.com/artist/5WdqBAQhGFCrZvBKXiPIu7), [Georgie Keller](https://open.spotify.com/artist/1PWLRaLj3BjJ5L8iUkRJqa) | [Gravity](https://open.spotify.com/album/7M6hmf41N1XFxuvo2DdKsr) | 2:30 | 2022-10-15 | 2022-12-04 |
