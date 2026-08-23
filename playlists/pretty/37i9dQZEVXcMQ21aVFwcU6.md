@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 
 > Your shortcut to hidden gems, deep cuts, and future faves, updated every Monday\. You’ll know when you hear it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 29 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcMQ21aVFwcU6.md) - [plain]
 | 24 | [never enough](https://open.spotify.com/track/5kqRD64G5g5Ae2h1Hzpdkx) | [Max Harlow](https://open.spotify.com/artist/4ym1nB9RgPgFnNR5Vy1U2z) | [never enough](https://open.spotify.com/album/55TDNFpJsXjXTCsRxkvrW5) | 2:19 |
 | 25 | [Aftershade](https://open.spotify.com/track/6suQfjmOmT0PSsDBeebGRg) | [Areo](https://open.spotify.com/artist/2dENRehan79skEVUk7z9fM) | [Aftershade](https://open.spotify.com/album/690xFwYCwIeEwpTk8HzUup) | 4:23 |
 | 26 | [A Stillness, Never Here](https://open.spotify.com/track/51EcaSBrMGoaJeXONbjQBS) | [Blugazer](https://open.spotify.com/artist/0xIrZp36YYSHSm5J5BKKW4) | [A Stillness, Never Here](https://open.spotify.com/album/41Ffyw0EVrHYXlHnYrk3xb) | 3:31 |
-| 27 | [Love It When You Lie](https://open.spotify.com/track/0km5EKHZCbjYclrVA8saGc) | [Isam Hadjih](https://open.spotify.com/artist/0nzmkTUu6wZTkM2EVUJGVd) | [Love It When You Lie](https://open.spotify.com/album/6C8nTBdssLW29Ohx8lXzfk) | 2:50 |
-| 28 | [in love](https://open.spotify.com/track/4E8dzTo3NFqMkSgmA9VjOJ) | [Frances go](https://open.spotify.com/artist/24WAQShgHqRQoCSw6lI1uD) | [in love](https://open.spotify.com/album/6DTHP6cLQelTPNTap2gO9r) | 1:51 |
-| 29 | [Turn It Around \- Edit](https://open.spotify.com/track/65TWqSo27ydwPSAkDpaFDd) | [VEHA](https://open.spotify.com/artist/1qHqhs27fL1Qe1zpINpaZp), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Golden Cellophane](https://open.spotify.com/album/70IPEqXpAVJqLJu5eADXq3) | 4:04 |
-| 30 | [Minimal Techno Dreams](https://open.spotify.com/track/1HNXuOEQsR8K3Bzorw3Wyd) | [Korandrino](https://open.spotify.com/artist/20uYQJFpu6i0nyeFMsAsIp) | [Minimal Techno Dreams](https://open.spotify.com/album/52f7hjO2clHQgBNR3PJhg4) | 2:02 |
+| 27 | [in love](https://open.spotify.com/track/4E8dzTo3NFqMkSgmA9VjOJ) | [Frances go](https://open.spotify.com/artist/24WAQShgHqRQoCSw6lI1uD) | [in love](https://open.spotify.com/album/6DTHP6cLQelTPNTap2gO9r) | 1:51 |
+| 28 | [Turn It Around \- Edit](https://open.spotify.com/track/65TWqSo27ydwPSAkDpaFDd) | [VEHA](https://open.spotify.com/artist/1qHqhs27fL1Qe1zpINpaZp), [Rondo Mo](https://open.spotify.com/artist/0irPzWV6n0kStz8rffpERG) | [Golden Cellophane](https://open.spotify.com/album/70IPEqXpAVJqLJu5eADXq3) | 4:04 |
+| 29 | [Minimal Techno Dreams](https://open.spotify.com/track/1HNXuOEQsR8K3Bzorw3Wyd) | [Korandrino](https://open.spotify.com/artist/20uYQJFpu6i0nyeFMsAsIp) | [Minimal Techno Dreams](https://open.spotify.com/album/52f7hjO2clHQgBNR3PJhg4) | 2:02 |
 
 Snapshot ID: `aoH6oAAAAADItmsjyWzGqKjBXVHXH/g4`
