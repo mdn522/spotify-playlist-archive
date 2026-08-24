@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-6,059 songs - 14 day 22 hr 31 min
+6,060 songs - 14 day 22 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2846,7 +2846,8 @@
 | [Killing Me](https://open.spotify.com/track/7rWJV8LSrWPALRXGUFXO1d) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Killing Me](https://open.spotify.com/album/7fnV1cKJ3guyuHQnqNOKkR) | 4:04 | 2025-04-03 | 2025-04-18 |
 | [Killing Me \- Radio Edit](https://open.spotify.com/track/2bExSQnEEYDbwNGhK0aqnB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Killing Me \(Radio Edit\)](https://open.spotify.com/album/0voqRkklqCoFXS5Zf060oG) | 3:29 | 2025-04-17 | 2025-05-16 |
 | [Killing Them Softly](https://open.spotify.com/track/3NdgY1bpcin2WyBeKSk1YJ) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killing Them Softly](https://open.spotify.com/album/1ALXhMugHiAMzk75qD3Nm3) | 2:33 | 2024-06-20 | 2024-07-14 |
-| [Killzone \(Heavy\)](https://open.spotify.com/track/2673Q47gPrllFWfkUZysqD) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 |  |
+| [Killzone \(Atmos\)](https://open.spotify.com/track/4dx2mzqeAHRlFWwvkXTpir) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 |  |
+| [Killzone \(Heavy\)](https://open.spotify.com/track/2673Q47gPrllFWfkUZysqD) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 | 2026-08-24 |
 | [King of Hearts](https://open.spotify.com/track/68DBQIvDHszE3VHJami8Pt) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [King of Hearts](https://open.spotify.com/album/5khjLhncLMKa8x03u7vU71) | 2:40 | 2025-11-06 | 2025-12-05 |
 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 | 2026-05-01 |
 | [Kiss \- Tropkillaz Remix](https://open.spotify.com/track/0pCtcTgPIb3mpQIIKPcJbN) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO) | [Kiss \(Remixes\)](https://open.spotify.com/album/5ChgzJO44XSyrb40WItHM8) | 2:32 | 2026-01-01 | 2026-01-16 |
