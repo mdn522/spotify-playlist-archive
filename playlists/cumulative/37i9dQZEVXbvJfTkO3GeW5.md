@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-6,060 songs - 14 day 22 hr 34 min
+6,061 songs - 14 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -890,6 +890,7 @@
 | [Candy Girl](https://open.spotify.com/track/1QPElnLIo6rYDVveJoBVQ1) | [Different Heaven](https://open.spotify.com/artist/0pCGA9tdtbWwo1pKIs0CFx) | [Candy Girl](https://open.spotify.com/album/499YdJGtXE5roSnNwQ7HB3) | 3:09 | 2024-07-04 | 2024-08-02 |
 | [Candy Shop](https://open.spotify.com/track/2gVLAyrIFCKaXuoalt5nYL) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI) | [Candy Shop](https://open.spotify.com/album/17iPgxkhtbgon3PTL0VPwg) | 2:06 | 2025-12-18 | 2026-01-11 |
 | [Candyland \- DR.L & JWoods Remix](https://open.spotify.com/track/2nUGhJf7tXejTzcuEvrGiY) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [DR.L](https://open.spotify.com/artist/7jSZACZWrbWgQQf8iGiBhU), [JWoods](https://open.spotify.com/artist/11nR613J6p08w9aLqaT6yq) | [Candyland \(Remixes\)](https://open.spotify.com/album/4ZkTFTUGQOlWNGWPXbaQux) | 3:28 | 2023-09-07 | 2023-10-08 |
+| [Canon](https://open.spotify.com/track/1xVwNdvjtOnHF8h4HznrB8) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Canon](https://open.spotify.com/album/6qUfBh06L56e56kPMrCLcD) | 4:06 | 2026-08-20 |  |
 | [Cançao Do Mar](https://open.spotify.com/track/7DPbg4UKfcapgLEHplXbVQ) | [Deny](https://open.spotify.com/artist/6JgR62Hn12bNkaMXWAFNKP), [Nicoleta Nuca](https://open.spotify.com/artist/7BRYcgYwaw9fhVKX4VUiUA) | [Cançao Do Mar](https://open.spotify.com/album/6NSWtyD8d7dATYArcWnJRV) | 3:52 | 2025-07-17 | 2025-08-17 |
 | [Can’t Get Enough](https://open.spotify.com/track/6zY829UlOMYoOIULHiGIZz) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough](https://open.spotify.com/album/3AjPHQqgkjcqwhpRxwiFP2) | 2:45 | 2025-05-01 | 2025-05-23 |
 | [Can’t Get Enough \- Orchestral Version](https://open.spotify.com/track/5h4IPkLQdGIIefYXXe09Yc) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K), [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4) | [Can’t Get Enough \(Orchestral Version\)](https://open.spotify.com/album/6gjqAtgFIFpyMg1MD6rL7s) | 3:17 | 2025-06-26 | 2025-07-25 |
@@ -2846,7 +2847,7 @@
 | [Killing Me](https://open.spotify.com/track/7rWJV8LSrWPALRXGUFXO1d) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Killing Me](https://open.spotify.com/album/7fnV1cKJ3guyuHQnqNOKkR) | 4:04 | 2025-04-03 | 2025-04-18 |
 | [Killing Me \- Radio Edit](https://open.spotify.com/track/2bExSQnEEYDbwNGhK0aqnB) | [TheFatRat](https://open.spotify.com/artist/3OKg7YbOIatODzkRIbLJR4) | [Killing Me \(Radio Edit\)](https://open.spotify.com/album/0voqRkklqCoFXS5Zf060oG) | 3:29 | 2025-04-17 | 2025-05-16 |
 | [Killing Them Softly](https://open.spotify.com/track/3NdgY1bpcin2WyBeKSk1YJ) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killing Them Softly](https://open.spotify.com/album/1ALXhMugHiAMzk75qD3Nm3) | 2:33 | 2024-06-20 | 2024-07-14 |
-| [Killzone \(Atmos\)](https://open.spotify.com/track/4dx2mzqeAHRlFWwvkXTpir) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 |  |
+| [Killzone \(Atmos\)](https://open.spotify.com/track/4dx2mzqeAHRlFWwvkXTpir) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 | 2026-08-25 |
 | [Killzone \(Heavy\)](https://open.spotify.com/track/2673Q47gPrllFWfkUZysqD) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Killzone](https://open.spotify.com/album/5eQAIvGyxVpvDXSbRIxaCX) | 3:43 | 2026-08-20 | 2026-08-24 |
 | [King of Hearts](https://open.spotify.com/track/68DBQIvDHszE3VHJami8Pt) | [Jim Yosef](https://open.spotify.com/artist/40HDiLfKm0tXk2FxlJx6aO), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [King of Hearts](https://open.spotify.com/album/5khjLhncLMKa8x03u7vU71) | 2:40 | 2025-11-06 | 2025-12-05 |
 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 | 2026-04-24 | 2026-05-01 |
