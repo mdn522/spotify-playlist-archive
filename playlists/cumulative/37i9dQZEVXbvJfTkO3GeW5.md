@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-6,086 songs - 15 day 0 hr 0 min
+6,087 songs - 15 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1395,8 +1395,8 @@
 | [Disease](https://open.spotify.com/track/0RRq8jlIEWBByUbFSc61bN) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/0wY9KJ2kxRz6jZkvAfpDU2) | 3:49 | 2024-11-14 | 2024-11-22 |
 | [Disease](https://open.spotify.com/track/19KlZwqlT3fguP2BeHF1Q1) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/52BWvTRMsPqjHzrbQomgwP) | 3:49 | 2024-11-07 | 2024-11-15 |
 | [Disease](https://open.spotify.com/track/6j4qNDAmjsYYsTabvdM1Db) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Disease](https://open.spotify.com/album/4fgTXGMq9ztbf3L90gyWCg) | 3:49 | 2024-11-21 | 2024-11-24 |
-| [DISGUISE](https://open.spotify.com/track/3v2qYPNRMUK5aRO1QlEasd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [DISGUISE](https://open.spotify.com/album/7zIkqWrJtPi0nrUg2tYq9M) | 2:30 | 2026-08-27 |  |
-| [DISGUISE](https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [DISGUISE](https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0) | 2:30 | 2026-08-20 | 2026-08-30 |
+| [DISGUISE](https://open.spotify.com/track/3v2qYPNRMUK5aRO1QlEasd) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [DISGUISE](https://open.spotify.com/album/7zIkqWrJtPi0nrUg2tYq9M) | 2:30 | 2026-08-27 | 2026-09-03 |
+| [DISGUISE](https://open.spotify.com/track/70NwUUeK2J8Y55QRUn8uM3) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [DISGUISE](https://open.spotify.com/album/64bs9S7CRMTn34hHlILPp0) | 2:30 | 2026-08-20 |  |
 | [DISNEY PRINCESS](https://open.spotify.com/track/1DH4XuBpL3HreZ7TmawEjR) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [DISNEY PRINCESS](https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H) | 4:05 | 2026-02-26 | 2026-03-08 |
 | [Dissolve](https://open.spotify.com/track/5pxqmQtlUKD0AKq5IWBOJp) | [Karl Casey](https://open.spotify.com/artist/4oGlqi5TaK8r8K50fQhUbe) | [Dissolve](https://open.spotify.com/album/5ZIzRBKSINhIQooN1if0lJ) | 3:53 | 2023-01-19 | 2023-01-27 |
 | [Distance](https://open.spotify.com/track/6pkp8MTmqjavdVFWLr3XrI) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Richello](https://open.spotify.com/artist/6DWVgFfHyhUISYq0lzYYu6) | [Distance](https://open.spotify.com/album/6j7BnRFKkIoj3bHZukWG7j) | 2:17 | 2024-09-05 | 2024-10-05 |
@@ -6037,7 +6037,8 @@
 | [アカシアを芽咲して \(feat\. MIRA\)](https://open.spotify.com/track/3hL92XduxJBSvgpl3GULQT) | [流星のサイトシーイング](https://open.spotify.com/artist/4lJFPSFO4g1nEpP90HOVa3), [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [アカシアを芽咲して](https://open.spotify.com/album/0EG7Qk8x14FtPAGLEC8dq7) | 2:10 | 2025-05-15 | 2025-05-18 |
 | [ウタカタ](https://open.spotify.com/track/0sFdVPMibKl52RqySpwnGo) | [yuma hayashida](https://open.spotify.com/artist/3YAUFtrcgzRmkZ8WgnI3F7), [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [ウタカタ](https://open.spotify.com/album/5HNf8XdbNXiIuyWqhudtXK) | 3:23 | 2026-08-27 |  |
 | [万灵之上 \(《白日提灯》影视剧孤灯曲\)](https://open.spotify.com/track/1KIKeXeNjMg1KJOQX129hR) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [万灵之上 \(《白日提灯》影视剧孤灯曲\)](https://open.spotify.com/album/6TCO2bcnvKVK2Itwq01aP4) | 4:13 | 2026-04-03 | 2026-04-27 |
-| [不问 \- 伴奏](https://open.spotify.com/track/4aMWiZ7CZFe017SBCs0hin) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [不问 \(《大唐妖探》电影片尾曲\)](https://open.spotify.com/album/0gcq9rRdZMm4fjDjPEt201) | 4:13 | 2026-08-27 |  |
+| [不问 \(《大唐妖探》电影片尾曲\)](https://open.spotify.com/track/0NYfo34kv89vsEk1EEFnvE) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [不问 \(《大唐妖探》电影片尾曲\)](https://open.spotify.com/album/0gcq9rRdZMm4fjDjPEt201) | 4:13 | 2026-08-27 |  |
+| [不问 \- 伴奏](https://open.spotify.com/track/4aMWiZ7CZFe017SBCs0hin) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [不问 \(《大唐妖探》电影片尾曲\)](https://open.spotify.com/album/0gcq9rRdZMm4fjDjPEt201) | 4:13 | 2026-08-27 | 2026-09-03 |
 | [人為機器 \(Humans Become Machines\)](https://open.spotify.com/track/6J1w3mHuDmRseT5u00hh9h) | [潘PAN](https://open.spotify.com/artist/3gRbjzXPan9DOBEMmTjxVo), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Humans Become Machines](https://open.spotify.com/album/4lanKmC6sMfR05ylkMGaJi) | 2:26 | 2023-11-09 | 2023-11-17 |
 | [何须借光 你就是光（2024奥运燃梦曲）](https://open.spotify.com/track/4LAGjmZdspN2WvCv6DCr7L) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [何须借光 你就是光（2024奥运燃梦曲）](https://open.spotify.com/album/3UwMZHRKVWWDVtijkwbNpT) | 3:15 | 2024-08-15 | 2024-09-01 |
 | [别叹（《朝雪录》影视剧插曲）](https://open.spotify.com/track/4xXtIqPz36KHCc4poVYwCC) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [别叹（《朝雪录》影视剧插曲）](https://open.spotify.com/album/6nKxIbi9fHsDIWEeEX0RBs) | 4:09 | 2025-07-10 | 2025-08-03 |
