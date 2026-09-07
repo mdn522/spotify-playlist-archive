@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-6,121 songs - 15 day 1 hr 54 min
+6,122 songs - 15 day 1 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5477,6 +5477,7 @@
 | [Tum Kya Mile \- Lofi](https://open.spotify.com/track/7Hk2PQj8mBUSxvpk5MOYgI) | [SPECRO X SKETCH](https://open.spotify.com/artist/7AmJxu5MjiUtGGw05b4O5q), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy) | [Lofi Chillbox](https://open.spotify.com/album/0wzSREZzB5muXJjnAtJDSd) | 2:45 | 2026-01-22 | 2026-01-30 |
 | [Tum Saanson Mein X Tera Mera Milna Mashup](https://open.spotify.com/track/0rUlQnDZQ7cCnDtZjDRjgR) | [Himesh Reshammiya](https://open.spotify.com/artist/0sSxphmGskGCKlwB9xa6WU), [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Drub](https://open.spotify.com/artist/7yeOMQQgOZithjuVW5dNbG), [SAM8](https://open.spotify.com/artist/1g6LVTbaP9cw7w4xNauXSq), [Sameer Abbas Shah](https://open.spotify.com/artist/1zTBqNvhO0aKUo1fqb9FLQ) | [Tum Saanson Mein X Tera Mera Milna Mashup](https://open.spotify.com/album/7cbMjfFwMkEebBsTyxZ5nY) | 3:53 | 2025-02-27 | 2025-03-14 |
 | [Tumhare Hi Rahenge Hum \- Lofi](https://open.spotify.com/track/3kDLiUzwtP2z7GwXJpN2RI) | [SPECRO X SKETCH](https://open.spotify.com/artist/7AmJxu5MjiUtGGw05b4O5q), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Varun Jain](https://open.spotify.com/artist/4gzrZDyL5gYiROkv27pYKx) | [Lofi Chillbox](https://open.spotify.com/album/0wzSREZzB5muXJjnAtJDSd) | 3:22 | 2026-01-22 | 2026-02-14 |
+| [Tunturu \- Female Version Remix](https://open.spotify.com/track/2e3Z55fQ4O1VhzRuw5WCd6) | [K\. S\. Chithra](https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH), [Deva](https://open.spotify.com/artist/1aXtuiimQwgW8Xqztgp4Kf), [Remix Romeo](https://open.spotify.com/artist/76hGHLy7YI3bBFfBUlNSu7), [K Kalayan](https://open.spotify.com/artist/6Pqc9z8z5BZA73xhGVSe6n) | [Tunturu \- Female Version Remix](https://open.spotify.com/album/1kdNJkRXm4Q4q5l6iEBKVk) | 4:57 | 2026-09-03 |  |
 | [Turn Me Up](https://open.spotify.com/track/22oEHkwJNQoiL1sd4aPDFH) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/6OS0U3aDbC1pbbfPhrtZsc) | 4:11 | 2025-08-07 | 2025-08-24 |
 | [Turn Me Up](https://open.spotify.com/track/60dQCCVc90CeM82Iajs4lR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Mabel \(Mixtape\)](https://open.spotify.com/album/3a1kn6l83mijd3b0akLE68) | 4:11 | 2025-07-24 | 2025-08-14 |
 | [Twilight](https://open.spotify.com/track/69zwAsS8CdLOlRSU6J2ZmT) | [Judah Earl](https://open.spotify.com/artist/0lpe8GmqY2RVE54SdQRPmj), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Twilight](https://open.spotify.com/album/68kixtfg1AV2XoIVXxbpwC) | 4:07 | 2026-05-08 | 2026-06-07 |
