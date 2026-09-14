@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 
 > Your past favorites
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 like - 30 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 10 | [Honey Boy \(feat\. Nile Rodgers & Shenseea\)](https://open.spotify.com/track/3CTgRPxyTh2w7wBjVFH88e) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Paradise](https://open.spotify.com/album/1jWcipGHDLJ94RMB2XUhgK) | 3:47 |
 | 11 | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/track/4CmC0E2G1arkpmK47O5Ew7) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Ujwal Gupta](https://open.spotify.com/artist/3YJUwreoTZwxYUi472ECtS), [Aryan Khan](https://open.spotify.com/artist/61gOxq7Ufie0TwQ5NzdG6F), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Tenu Ki Pata \(From "The Ba\*\*\*ds Of Bollywood"\)](https://open.spotify.com/album/2bfsQ0IEwNs0JHpsDf2Hxx) | 2:53 |
 | 12 | [Bullet In The Heart](https://open.spotify.com/track/4iDqKLXTCHI0HG1h1UXscP) | [Inward Universe](https://open.spotify.com/artist/48vN1J04w1o3tQiAP42r18) | [Bullet In The Heart](https://open.spotify.com/album/0JCnJwQNA892oVKdr6pBlt) | 5:00 |
-| 13 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 |
-| 14 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 |
-| 15 | [Addicted](https://open.spotify.com/track/5ZUIPLoTLJZrPQh2kFZEUM) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Ink](https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z) | [Addicted](https://open.spotify.com/album/7yO1vbedliKtwQ65jAjBQr) | 2:32 |
+| 13 | [Dream Dust](https://open.spotify.com/track/4huoTRllpLxqZAh3SDijdx) | [ZOYA](https://open.spotify.com/artist/5eqThkuR9VjiLuYfzESTp7) | [Dream Dust](https://open.spotify.com/album/2SpCbFqMPTLpDEm3YAkBjH) | 3:25 |
+| 14 | [Bahara](https://open.spotify.com/track/1gwO79MdYdumgIjxq8eCxB) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Sona Mohapatra](https://open.spotify.com/artist/5bv6NvAYNuvd2Vq13nHdG3) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 5:25 |
+| 15 | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/track/7K1BLb6MpvKuGEPpHw35mO) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Madison Love](https://open.spotify.com/artist/3BkE65DVH2NZSDQa6ZszcJ) | [Never Going Home Tonight \(feat\. Madison Love\)](https://open.spotify.com/album/0tn39dXCidefjSr5PqXbcX) | 2:44 |
 | 16 | [Afterlight \(the deep sound edit\)](https://open.spotify.com/track/4sW93YGSYfx8SZectTh22j) | [Mike DelVero](https://open.spotify.com/artist/3H4P9PZ9R8SL3KUcUl3bK3) | [Afterlight \(the deep sound edit\)](https://open.spotify.com/album/3vbD2rIDPVBpzgFHjA62g9) | 3:17 |
 | 17 | [destroyer of worlds](https://open.spotify.com/track/4l8xoLKkJXhqqfbWdXcs93) | [Aaron Hibell](https://open.spotify.com/artist/6KJPsGYJN54GllYOKTleaj) | [destroyer of worlds](https://open.spotify.com/album/1oiOYiUy30dGgF0lc1YFRU) | 4:06 |
 | 18 | [Barbaad Reprise \- Female](https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x) | [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI), [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB) | [Saiyaara](https://open.spotify.com/album/58eNU0JJvtAWAg9KUZ9Ghf) | 2:09 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EpSWsemYCkpY3.md) - [plain]
 | 29 | [Breathe](https://open.spotify.com/track/3FEVXC0k7arpioYSdHa4VD) | [LOUTON](https://open.spotify.com/artist/3Cb4lB4f6ImV577V3PLxK5) | [Breathe](https://open.spotify.com/album/1efazRyVUKfXdLyGT4R8dq) | 2:57 |
 | 30 | [Intro](https://open.spotify.com/track/2usrT8QIbIk9y0NEtQwS4j) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:07 |
 
-Snapshot ID: `aqOlRwAAAABT4fPV5lpM5a2Bb+qdsy3j`
+Snapshot ID: `aqdOfQAAAABas1zj8HBZhfXn41o1Y+EO`
