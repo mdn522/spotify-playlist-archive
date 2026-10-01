@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIV5Po98yTZ2l>Lana Del Rey</a>, <a href=spotify:playlist:37i9dQZF1EIWFask1qaD4i>The Rish</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIW2btOQpRWeI>Inan</a>, <a href=spotify:playlist:37i9dQZF1EIWFask1qaD4i>The Rish</a>, <a href=spotify:playlist:37i9dQZF1EIYtvpFshSnzA>Natalie Coven</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "(Don't Fear) the Reaper",
       "url": "https://open.spotify.com/track/2VMfa4Z0rFH7Ns6hFkuOEI"
@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-23",
+      "date_removed": null,
       "duration_ms": 226690,
       "name": "Above the Salt",
       "url": "https://open.spotify.com/track/6UuUbGvNaGsNjCYOuyw18Y"
@@ -5459,6 +5459,24 @@
     },
     {
       "album": {
+        "name": "Balloon",
+        "url": "https://open.spotify.com/album/3liqaXTzMqDYTMJ8wd3sjb"
+      },
+      "artists": [
+        {
+          "name": "Taras Bazeev",
+          "url": "https://open.spotify.com/artist/3tUuyM5RyjpHXGOJ2w83xA"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302250,
+      "name": "Balloon",
+      "url": "https://open.spotify.com/track/166YIvixak8mzXLLNrcP35"
+    },
+    {
+      "album": {
         "name": "Barbaad (From \"Saiyaara\")",
         "url": "https://open.spotify.com/album/27wFxpV56Pg7Uxk0GxNfoF"
       },
@@ -6874,7 +6892,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 148500,
       "name": "Black & Blue",
       "url": "https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ"
@@ -10298,7 +10316,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 164631,
       "name": "Chemistry",
       "url": "https://open.spotify.com/track/2lNx43EWwVqRXxxSJE5p57"
@@ -11396,7 +11414,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 305051,
       "name": "Corners",
       "url": "https://open.spotify.com/track/3AnJ1qaTUgEuzR3h8aS1Jy"
@@ -13688,7 +13706,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 366386,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/2gkVsWwNUbEWY005qlqSXO"
@@ -14386,7 +14404,7 @@
       ],
       "date_added": "2026-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 183108,
       "name": "Divided",
       "url": "https://open.spotify.com/track/37XA6tsPYRVrRZwwmNkLfV"
@@ -14488,7 +14506,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 207752,
       "name": "Do You Hate Me Now",
       "url": "https://open.spotify.com/track/34qYoMxmCRJL19n0nnJEA2"
@@ -14846,7 +14864,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 214158,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/7Hy8gY7HrTKArprjYXHtpX"
@@ -16038,7 +16056,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 223764,
       "name": "Easier",
       "url": "https://open.spotify.com/track/5YN0wJIdZPdUqekgUkBPEH"
@@ -18268,7 +18286,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 331625,
       "name": "Falling Apart",
       "url": "https://open.spotify.com/track/4iLY23QlJYWdZH4V1AGJ6x"
@@ -18344,7 +18362,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 184973,
       "name": "Falling Like A Stone",
       "url": "https://open.spotify.com/track/29WwxaFvY0ZNOUeafPxMrF"
@@ -19182,7 +19200,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 170356,
       "name": "Fire Escapes",
       "url": "https://open.spotify.com/track/7f8lDyHliy2grjseiVV7JS"
@@ -19656,7 +19674,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 243122,
       "name": "For Always",
       "url": "https://open.spotify.com/track/46pdwWEHQzluyInMAV1ov7"
@@ -20764,7 +20782,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-29",
+      "date_removed": null,
       "duration_ms": 193748,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4tjsnc4oRnbkY3bTIbYeau"
@@ -21410,7 +21428,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 249692,
       "name": "Gold",
       "url": "https://open.spotify.com/track/00veX0DyOhx2e4mqtygdB3"
@@ -22070,7 +22088,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 240143,
       "name": "GRAVES",
       "url": "https://open.spotify.com/track/5JXrGMdnQkhXuyV7uoXB6L"
@@ -23462,7 +23480,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 206872,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4kbRjTaCdyTDedvzlgqo4L"
@@ -27102,7 +27120,7 @@
       ],
       "date_added": "2026-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-06",
+      "date_removed": null,
       "duration_ms": 360213,
       "name": "I Know How To Speak",
       "url": "https://open.spotify.com/track/4G9aoDV0KAsAYqTEKY53BF"
@@ -27696,7 +27714,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 230318,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2Luezozq8IVchc05Mz0bWl"
@@ -27721,6 +27739,24 @@
     },
     {
       "album": {
+        "name": "Dreams You Don't Forget",
+        "url": "https://open.spotify.com/album/1SIZ2zghRyCAvozSaMrA7Q"
+      },
+      "artists": [
+        {
+          "name": "NIGHT TRAVELER",
+          "url": "https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308266,
+      "name": "I Still Love You",
+      "url": "https://open.spotify.com/track/7EeG6iNjAZDpbDs7Gt0BtD"
+    },
+    {
+      "album": {
         "name": "I Still Love You (VIP Edit)",
         "url": "https://open.spotify.com/album/1bnbZrzxdDOPfAakxJkb44"
       },
@@ -27736,7 +27772,7 @@
       ],
       "date_added": "2026-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 247075,
       "name": "I Still Love You - VIP Edit",
       "url": "https://open.spotify.com/track/0Q9eY0tOedOjF5eLBhlAXC"
@@ -30254,7 +30290,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 221647,
       "name": "In Heaven",
       "url": "https://open.spotify.com/track/6bW4xPbH6DPCP0dXVHRMaO"
@@ -30468,7 +30504,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 218188,
       "name": "In The End - Mellen Gi Remix",
       "url": "https://open.spotify.com/track/5rAUZy2eDdegBxUVYxePK2"
@@ -30972,7 +31008,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 82615,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3YtWyQSBbyOULlV0ugWZor"
@@ -32208,7 +32244,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 325133,
       "name": "Jupiter Drive",
       "url": "https://open.spotify.com/track/3jeRTHNZKxlhgAF6QZ3Bfv"
@@ -32556,7 +32592,7 @@
       ],
       "date_added": "2022-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 183435,
       "name": "Keep You Mine - Acoustic",
       "url": "https://open.spotify.com/track/0Rp4jmwBigtBymrPsMCt3G"
@@ -36268,7 +36304,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 240077,
       "name": "Lost in Myself",
       "url": "https://open.spotify.com/track/1oaNGEoiSsiNpJO1R2y9Jk"
@@ -36860,7 +36896,7 @@
       ],
       "date_added": "2025-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 221686,
       "name": "Love Me Now Or Lose Me Later",
       "url": "https://open.spotify.com/track/6eKTQs8C5k4wvw5pqQF9tf"
@@ -38788,7 +38824,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 299294,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/1tcZmIv6pm0nNpiyDF2yB8"
@@ -41530,7 +41566,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 208000,
       "name": "Never",
       "url": "https://open.spotify.com/track/0nPQ5oAz7UoBSHtIQtAs63"
@@ -43976,7 +44012,7 @@
       ],
       "date_added": "2026-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-01",
+      "date_removed": null,
       "duration_ms": 217946,
       "name": "Older",
       "url": "https://open.spotify.com/track/07dQEivh1UNFqtWOnEpyUC"
@@ -45692,7 +45728,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-23",
+      "date_removed": null,
       "duration_ms": 153103,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/3oELxRDbAzyvOodhd5FQzB"
@@ -46118,7 +46154,7 @@
       ],
       "date_added": "2025-08-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-24",
+      "date_removed": null,
       "duration_ms": 205960,
       "name": "Personal",
       "url": "https://open.spotify.com/track/1n6wVsDU6A4wWx5EMXfdn3"
@@ -50416,7 +50452,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 211935,
       "name": "Scared Of Us",
       "url": "https://open.spotify.com/track/4R7P9MgPwDpaXGBseZx9W5"
@@ -50902,7 +50938,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 180740,
       "name": "Self Aware",
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
@@ -56173,6 +56209,24 @@
     },
     {
       "album": {
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/2kogU7fVhRXhquW1BrsESP"
+      },
+      "artists": [
+        {
+          "name": "Volkor X",
+          "url": "https://open.spotify.com/artist/5Us4fLalowFjzrjC85k4Xq"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267000,
+      "name": "Sunshine - Adagio in D Minor",
+      "url": "https://open.spotify.com/track/695ptKxXvK8TlM3X3fcJuL"
+    },
+    {
+      "album": {
         "name": "Super Human",
         "url": "https://open.spotify.com/album/5yjMa5thOg0X7tieV3rhTf"
       },
@@ -59316,7 +59370,7 @@
       ],
       "date_added": "2026-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 187034,
       "name": "The Sound of My Heart Breaking",
       "url": "https://open.spotify.com/track/0kofvSADC1Fa3JJg0SYSLk"
@@ -63802,7 +63856,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Violin Night",
       "url": "https://open.spotify.com/track/0qabzP9rom9SR3tZwkfcBV"
@@ -63824,7 +63878,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-23",
+      "date_removed": null,
       "duration_ms": 315500,
       "name": "Violin Night - Slowed",
       "url": "https://open.spotify.com/track/2zgNm7oc1rSPZ4hslE613P"
@@ -65119,6 +65173,28 @@
     },
     {
       "album": {
+        "name": "untold",
+        "url": "https://open.spotify.com/album/6wdJKgdcgYan9UqYz2gwVM"
+      },
+      "artists": [
+        {
+          "name": "Ashref",
+          "url": "https://open.spotify.com/artist/5VlCWMebGynSUIx6dRxaPe"
+        },
+        {
+          "name": "oceanbala",
+          "url": "https://open.spotify.com/artist/0ay01h4zHuNdOcBiapjKn9"
+        }
+      ],
+      "date_added": "2026-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176401,
+      "name": "what about us",
+      "url": "https://open.spotify.com/track/4Sbbv1bWi05nmcCBhfl32w"
+    },
+    {
+      "album": {
         "name": "Beautiful Trauma",
         "url": "https://open.spotify.com/album/7hwhuEQT4Fp5bzwLlYZtiz"
       },
@@ -66258,7 +66334,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-30",
+      "date_removed": null,
       "duration_ms": 258000,
       "name": "Where You Belong",
       "url": "https://open.spotify.com/track/1xL0pJ3eT2EE5UalMCFAjr"
@@ -69274,7 +69350,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-01",
       "duration_ms": 236053,
       "name": "Young And Beautiful",
       "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
