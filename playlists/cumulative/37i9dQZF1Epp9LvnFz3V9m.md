@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-2,373 songs - 5 day 6 hr 45 min
+2,374 songs - 5 day 6 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1453,6 +1453,7 @@
 | [Not Giving Up](https://open.spotify.com/track/6iBZUBMIcBp6xtY56NQmOV) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Finest Selection: The Greatest Hits \(Deluxe Edition\)](https://open.spotify.com/album/5lwFrWCu2ay6zOzOF8kpyd) | 3:18 | 2023-05-01 | 2023-05-14 |
 | [Not Like Them](https://open.spotify.com/track/4ZDD6m9Y1JMyT0w43qkn0f) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5), [Jeremy Estes](https://open.spotify.com/artist/4fwQLCrMNK1TcoiBjl7a5r) | [Not Like Them](https://open.spotify.com/album/5Z5S3RViUMFosoTKJFqmyv) | 3:49 | 2022-08-22 | 2022-11-22 |
 | [Not Meant To Be Easy](https://open.spotify.com/track/0WTztHvGydbmUbIiyP1A8T) | [Last Island](https://open.spotify.com/artist/6ur5V10oH2Psv3xeDNBYmz) | [Not Meant To Be Easy](https://open.spotify.com/album/05EdQbifqG09Pk1nOqE93w) | 2:58 | 2023-04-04 | 2023-06-10 |
+| [Not Meant To Be Easy](https://open.spotify.com/track/15DrELygQXVIbh1jw1pI58) | [Last Island](https://open.spotify.com/artist/6ur5V10oH2Psv3xeDNBYmz) | [Not Meant To Be Easy](https://open.spotify.com/album/6GIEtlONsOr8qRHY06xfa3) | 2:58 | 2026-10-12 |  |
 | [Not your Lover](https://open.spotify.com/track/3aED9hNQ7zzwsOCn0arOBd) | [Amir Nazari](https://open.spotify.com/artist/0Wdymr3gKyVWc0wZgMA2Ub) | [Don't go Back](https://open.spotify.com/album/2cJdcDJ5mqKRMLFpkVNUgB) | 3:50 | 2026-03-20 | 2026-04-16 |
 | [Nothing Left To Lose](https://open.spotify.com/track/326frrNGGptgoSKtpf5Jvv) | [Starfox](https://open.spotify.com/artist/7seogxyz6BPGoNlx5jSscQ) | [Nothing Left To Lose](https://open.spotify.com/album/1ZFCYLrJmmGTbzZKQbFvRM) | 3:35 | 2025-12-14 | 2025-12-18 |
 | [Nothing to You](https://open.spotify.com/track/6CYFx1jP4F9QPKkY7FtZOd) | [Payson Lewis](https://open.spotify.com/artist/69zyKWGSd3gemLNgqGxaOA) | [Nothing to You](https://open.spotify.com/album/2lcjzxqqyuAPlg4CjL0Ube) | 3:18 | 2022-05-20 | 2022-05-27 |
@@ -2220,7 +2221,7 @@
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 3:48 | 2025-04-29 | 2025-08-15 |
 | [We Come Alive](https://open.spotify.com/track/3jjtukdwDhMCVBG2OCiN4J) | [waykap](https://open.spotify.com/artist/7MOdMkYndSPga2oqKQjhgR), [Emmi](https://open.spotify.com/artist/3eSiyfI9xykA5QtgcLS43b) | [Summer Of Our Lives](https://open.spotify.com/album/5eGssCCpjdskGun4AU1Ksw) | 3:16 | 2022-09-03 | 2022-09-13 |
 | [We Could](https://open.spotify.com/track/4fLFUdK8Ia7RbruTRjR0lh) | [Amoria](https://open.spotify.com/artist/4xsqk5nuLpOemSxti3Dl9L), [Jok'a'Face](https://open.spotify.com/artist/3dggRRaNqUuchYUig34C7c) | [Future Pop, Vol\. 2](https://open.spotify.com/album/2WlP7QaMbsfHJbjsLTb3PD) | 2:59 | 2022-10-09 | 2022-12-16 |
-| [We Could Run Away](https://open.spotify.com/track/4hlWwEYsEcHorlIEiSGEAZ) | [Yesable](https://open.spotify.com/artist/6sQcE03UfjGq6W1FuciTSb), [Mia Stegmar](https://open.spotify.com/artist/3LGPJpLv34OmaqeROjc5d3) | [Pristine](https://open.spotify.com/album/6ZOpkBr4IVDscLX9bwQUlx) | 3:20 | 2026-10-09 |  |
+| [We Could Run Away](https://open.spotify.com/track/4hlWwEYsEcHorlIEiSGEAZ) | [Yesable](https://open.spotify.com/artist/6sQcE03UfjGq6W1FuciTSb), [Mia Stegmar](https://open.spotify.com/artist/3LGPJpLv34OmaqeROjc5d3) | [Pristine](https://open.spotify.com/album/6ZOpkBr4IVDscLX9bwQUlx) | 3:20 | 2026-10-09 | 2026-10-13 |
 | [We Got Company](https://open.spotify.com/track/00Eq7sdo04lpda1I8CIRtP) | [Lost Nights](https://open.spotify.com/artist/2GcwyeNNWcsofm42pOXvAT) | [Rewind](https://open.spotify.com/album/0w69w80dr4pNgM0zMDhpAk) | 1:11 | 2024-10-08 | 2024-10-12 |
 | [We Need Love](https://open.spotify.com/track/5dx3HcI9t0dRpWcgM47SNZ) | [Snse](https://open.spotify.com/artist/7zE6qVwyotw0t0o6NRK0oS), [Elijah Blake](https://open.spotify.com/artist/65OtBLtkrifQrdTlKI90IR) | [We Need Love](https://open.spotify.com/album/67mEZmZxJSHieth94YTVNI) | 3:24 | 2022-05-20 | 2022-05-27 |
 | [We Were Young](https://open.spotify.com/track/0WkVBNfptu21IW0ubJZLLY) | [PRIZM](https://open.spotify.com/artist/0elWefATNt1GKkpPX2L5bo) | [All Night \(Deluxe Edition\)](https://open.spotify.com/album/10XsGcPLT5yXbGQEpziLOR) | 3:38 | 2024-10-05 | 2026-08-28 |
