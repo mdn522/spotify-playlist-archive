@@ -4,7 +4,7 @@
 
 > Songs you love right now
 
-2,374 songs - 5 day 6 hr 48 min
+2,375 songs - 5 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1241,7 +1241,7 @@
 | [Love Lockdown](https://open.spotify.com/track/3k8aCw10PCdgawqXKLM4m6) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Matt Wolff](https://open.spotify.com/artist/4EpbgBcPraTPaE3obtbvKA), [Jordan Rys](https://open.spotify.com/artist/7voVuewp9js4Ru1FQCw2RI) | [Love Lockdown](https://open.spotify.com/album/3N3kvMneTdVSsG2CgTW217) | 2:56 | 2022-07-14 | 2022-10-04 |
 | [Love Me](https://open.spotify.com/track/4ukJ5sgj6XiCPj1NiSWvI6) | [DEAMN](https://open.spotify.com/artist/1Q50Y9cXWlkNEG6gJfUP1e) | [Seventeen](https://open.spotify.com/album/4g0d3U8RFkVrmQA069LIra) | 2:42 | 2022-11-24 | 2022-12-04 |
 | [Love Me Again](https://open.spotify.com/track/3Iohuo2AJetV1Mcs3vtDrP) | [Jack O'Kings](https://open.spotify.com/artist/58glecwjJXEzskc9aKXzKl) | [Love Me Again](https://open.spotify.com/album/7oayMeb7EAHLWtOIJQU8KJ) | 3:16 | 2026-07-07 | 2026-07-28 |
-| [Love Me like a Stranger](https://open.spotify.com/track/0SZ63NLmC3cyegFBimla6X) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [Mia Pfirrman](https://open.spotify.com/artist/1J41DPq09UJRlSdeGDRKiH) | [Basixx](https://open.spotify.com/album/4BHQaaFUwHeLB7T9A2dNiJ) | 3:16 | 2025-02-22 |  |
+| [Love Me like a Stranger](https://open.spotify.com/track/0SZ63NLmC3cyegFBimla6X) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd), [Mia Pfirrman](https://open.spotify.com/artist/1J41DPq09UJRlSdeGDRKiH) | [Basixx](https://open.spotify.com/album/4BHQaaFUwHeLB7T9A2dNiJ) | 3:16 | 2025-02-22 | 2026-10-19 |
 | [Love Me Little More](https://open.spotify.com/track/6j2nyMkP5ACxj7JiXx40RE) | [Iman Fandi](https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg) | [Love Me Little More](https://open.spotify.com/album/35dpZS4M2NcrxZXTrOTIQR) | 3:19 | 2022-07-29 | 2022-08-20 |
 | [love me to death](https://open.spotify.com/track/7fTK6Xtx6RQ3xeJcBRfBej) | [Miss Caitlin Bell](https://open.spotify.com/artist/1Br77SSEoP1RNrliDIJabQ) | [love me to death](https://open.spotify.com/album/1qLcOTvSrcGGVRkwMfXKLD) | 3:05 | 2025-09-18 | 2025-10-19 |
 | [Love Me With Your Lie](https://open.spotify.com/track/6LWceFHm38kmnAmgavU1Ba) | [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Crave](https://open.spotify.com/album/1tAbo8d7jkigBwC0ILVGvC) | 2:50 | 2025-08-29 | 2025-09-10 |
@@ -2000,6 +2000,7 @@
 | [THE BADDEST](https://open.spotify.com/track/6y3EPT8iw6HmuMpX05gyvt) | [K/DA](https://open.spotify.com/artist/4gOc8TsQed9eqnqJct2c5v), [i\-dle](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx), [Wolftyla](https://open.spotify.com/artist/7qd6KGoABHifvXKeFNe2Yb), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [THE BADDEST](https://open.spotify.com/album/3qo3MiVHiorkDRbuhjKK5d) | 2:42 | 2026-08-18 | 2026-10-01 |
 | [The Birth of Solitude](https://open.spotify.com/track/463ddcbIg2jpNkk8JoVmJQ) | [Lei Chini](https://open.spotify.com/artist/5EbnxTdPMZFVLDh810uYj5) | [The Birth of Solitude](https://open.spotify.com/album/6NJcJj1yGCs08pnlJgjwpk) | 1:54 | 2023-01-29 | 2023-02-20 |
 | [The Boy Is Mine](https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF) | [James Mac](https://open.spotify.com/artist/2mrrXxzLsLPgLSiJz9COWB), [Vall](https://open.spotify.com/artist/0SI37BtvfxqNpnvjeMPqyD), [Rosalie](https://open.spotify.com/artist/58PEgJMZGqZ5d3CHYJTGv7) | [The Boy Is Mine](https://open.spotify.com/album/3vmR5tggRYJhVhuB0j1uVc) | 3:21 | 2024-09-14 | 2024-09-24 |
+| [The Chase](https://open.spotify.com/track/1SuqObc8rUMuvoeW0WmNJR) | [Basixx](https://open.spotify.com/artist/3yoJOUgWeJEC81UoZhYIdd) | [The Chase](https://open.spotify.com/album/0PUmR1jZGi5AWzr8IycjiG) | 3:24 | 2026-10-18 |  |
 | [The Devil's Got A Deal](https://open.spotify.com/track/2yc8VXAhrtTOGUd4hAdtaO) | [22Bullets](https://open.spotify.com/artist/18006kpQI473m1ICcpimQ9) | [The Devil's Got A Deal](https://open.spotify.com/album/4hZwHcAMtmrJ2f3LY4pXaH) | 3:31 | 2024-09-23 | 2024-09-27 |
 | [The Difference](https://open.spotify.com/track/5Cbc3v4DKzrwQAv3hlA9Hn) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [The Difference](https://open.spotify.com/album/6xgSmmAAK2Yd0kLYUelbYk) | 3:30 | 2022-06-11 | 2022-09-19 |
 | [The Door](https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 3:32 | 2025-02-22 | 2025-03-01 |
