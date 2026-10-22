@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-21",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIWFask1qaD4i>The Rish</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIYIC1XGb7Jvy>The Irrepressibles</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXQcwiHyhPTB>Matt Hansen</a>, <a href=spotify:playlist:37i9dQZF1EIYLI5idwc9ys>Faouzia</a>, <a href=spotify:playlist:37i9dQZF1EIY0lpJ0ZFFiE>Gregory Alan Isakov</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-03",
+      "date_removed": null,
       "duration_ms": 203000,
       "name": "(Don't Fear) the Reaper",
       "url": "https://open.spotify.com/track/2VMfa4Z0rFH7Ns6hFkuOEI"
@@ -620,7 +620,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 194195,
       "name": "4AM (feat. HOLT.)",
       "url": "https://open.spotify.com/track/5Wg6cZxFJ1xkaWGNUUuIOc"
@@ -3026,7 +3026,7 @@
       ],
       "date_added": "2026-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 240866,
       "name": "Always Fly",
       "url": "https://open.spotify.com/track/3odXqDtDW94y06h6j5L5Ru"
@@ -3152,7 +3152,7 @@
       ],
       "date_added": "2026-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 186468,
       "name": "Always Think of You",
       "url": "https://open.spotify.com/track/1ibYG51MGAjn5MSpMaCJtf"
@@ -5510,7 +5510,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 178200,
       "name": "Badlands (with Gracie Abrams)",
       "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
@@ -5590,7 +5590,7 @@
       ],
       "date_added": "2025-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 129945,
       "name": "Barbaad Reprise - Female",
       "url": "https://open.spotify.com/track/2A7uwnEzSin7nf0498AE3x"
@@ -7753,6 +7753,24 @@
     },
     {
       "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/5BYGW2sMi95F1gclRY2ziW"
+      },
+      "artists": [
+        {
+          "name": "Aldae",
+          "url": "https://open.spotify.com/artist/15SHURx3CnODWKpjmNcxgO"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/4Jnr6mS3JY8eliIWkD9Hy0"
+    },
+    {
+      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/6L1GAb6OTb13MT7o1howRc"
       },
@@ -7840,7 +7858,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 199137,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/5OOWN83PkfmONqoQzmmjaT"
@@ -9514,7 +9532,7 @@
       ],
       "date_added": "2026-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 160985,
       "name": "Can't Remember a Smile",
       "url": "https://open.spotify.com/track/0hdqxp07O71ongr0ugFttB"
@@ -12524,7 +12542,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-19",
+      "date_removed": null,
       "duration_ms": 168437,
       "name": "Dark",
       "url": "https://open.spotify.com/track/7zTnmcYglZxfA734WGRRXk"
@@ -12828,7 +12846,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 213882,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/15wsFBXqgEFim9tO57GnYr"
@@ -13688,7 +13706,7 @@
       ],
       "date_added": "2026-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 205004,
       "name": "Departure (Melodic Drill)",
       "url": "https://open.spotify.com/track/6k53jxDmp3hAQAkPls4nBj"
@@ -15088,7 +15106,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 214158,
       "name": "Don't Let Go",
       "url": "https://open.spotify.com/track/7Hy8gY7HrTKArprjYXHtpX"
@@ -16280,7 +16298,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 223764,
       "name": "Easier",
       "url": "https://open.spotify.com/track/5YN0wJIdZPdUqekgUkBPEH"
@@ -17499,6 +17517,24 @@
     },
     {
       "album": {
+        "name": "Evenfall",
+        "url": "https://open.spotify.com/album/4SPeLQdLBGbiT8v6UY0aag"
+      },
+      "artists": [
+        {
+          "name": "Infinite Reflections",
+          "url": "https://open.spotify.com/artist/2EUjJk3SBZqRejMsexsd9c"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176016,
+      "name": "Evenfall",
+      "url": "https://open.spotify.com/track/56UdKRYYQ7TNUGfMEA6KVA"
+    },
+    {
+      "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
       },
@@ -17510,7 +17546,7 @@
       ],
       "date_added": "2026-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 236973,
       "name": "Ever Know",
       "url": "https://open.spotify.com/track/2ay8QqR3AhfrHL7nhMVMMW"
@@ -17724,7 +17760,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 263104,
       "name": "Everyone Is Dark",
       "url": "https://open.spotify.com/track/5zIUEka3djdqFEvPfXGqqu"
@@ -18220,7 +18256,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 214106,
       "name": "Faces",
       "url": "https://open.spotify.com/track/1SJKiZuLBeOofInrtXF9Af"
@@ -18658,7 +18694,7 @@
       ],
       "date_added": "2026-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 184973,
       "name": "Falling Like A Stone",
       "url": "https://open.spotify.com/track/29WwxaFvY0ZNOUeafPxMrF"
@@ -19824,7 +19860,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 203192,
       "name": "Flowers For A Home",
       "url": "https://open.spotify.com/track/7xfumm5vIcVNgVlKIhJ0ex"
@@ -22108,7 +22144,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 210983,
       "name": "Good Enough",
       "url": "https://open.spotify.com/track/5PK9V1QmvYa8UlnFdztjtC"
@@ -24484,7 +24520,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 210001,
       "name": "Here in the Dark (feat. Shelley Harland) [Floris De Haan Chillout Mix]",
       "url": "https://open.spotify.com/track/691bhe6D9iWuOnBhvrOB3N"
@@ -24582,7 +24618,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 182000,
       "name": "Hero",
       "url": "https://open.spotify.com/track/6vp1C0oz3aJDzqnSzr1DD1"
@@ -25206,7 +25242,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 213036,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/5SPyYYcLcXN7khpxOiqUQU"
@@ -25820,6 +25856,24 @@
       "duration_ms": 243176,
       "name": "how did they know",
       "url": "https://open.spotify.com/track/3b8M7JYleRsiMlvwad6IQ1"
+    },
+    {
+      "album": {
+        "name": "How Do I Love You?",
+        "url": "https://open.spotify.com/album/1fEHdCotbwSI2y7hBK9XM0"
+      },
+      "artists": [
+        {
+          "name": "MIIA",
+          "url": "https://open.spotify.com/artist/0h3YCmvRJ2jqt4jFiR6nGL"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214306,
+      "name": "How Do I Love You?",
+      "url": "https://open.spotify.com/track/2EBuV7kEx169vNctQLPiiX"
     },
     {
       "album": {
@@ -28190,7 +28244,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 230318,
       "name": "I See You",
       "url": "https://open.spotify.com/track/2Luezozq8IVchc05Mz0bWl"
@@ -28810,7 +28864,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 222759,
       "name": "I'll Be There If You'll Be There",
       "url": "https://open.spotify.com/track/7gGYtb2go3wPnx0Wfa1YX6"
@@ -30100,7 +30154,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 208000,
       "name": "If only You knew",
       "url": "https://open.spotify.com/track/4BEbveKJG4VzI3Y3UcBAQA"
@@ -31150,7 +31204,7 @@
       ],
       "date_added": "2024-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 335146,
       "name": "In This Shirt",
       "url": "https://open.spotify.com/track/14QX1ckbDIhqetvu5VZ3cP"
@@ -31520,7 +31574,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 82615,
       "name": "Intro",
       "url": "https://open.spotify.com/track/3YtWyQSBbyOULlV0ugWZor"
@@ -36150,7 +36204,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 201389,
       "name": "Lonely",
       "url": "https://open.spotify.com/track/73td6qflD1Z67HAfP6pYDp"
@@ -37044,7 +37098,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 240000,
       "name": "Lost Together",
       "url": "https://open.spotify.com/track/3TkkB8GLvhD9xT493I1JmM"
@@ -37204,7 +37258,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 203530,
       "name": "Love For You",
       "url": "https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv"
@@ -40398,7 +40452,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 190605,
       "name": "Minefields",
       "url": "https://open.spotify.com/track/0vH52Icuf6LzOFrkHE8mZG"
@@ -43323,6 +43377,24 @@
     },
     {
       "album": {
+        "name": "North Carolina",
+        "url": "https://open.spotify.com/album/0OEv8MSJdEpvLOE2wqq1hA"
+      },
+      "artists": [
+        {
+          "name": "Angel District",
+          "url": "https://open.spotify.com/artist/045HqayMEplh2S44FMiR6u"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237669,
+      "name": "North Carolina",
+      "url": "https://open.spotify.com/track/7sMdlLtezxLECcEUje7gvC"
+    },
+    {
+      "album": {
         "name": "I've Tried Everything But Therapy (Part 2)",
         "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
@@ -43778,7 +43850,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-13",
+      "date_removed": null,
       "duration_ms": 190282,
       "name": "Nothing Left to Say",
       "url": "https://open.spotify.com/track/4AV6nK7JWdDofbOegsXT69"
@@ -44276,7 +44348,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 248613,
       "name": "Numbers",
       "url": "https://open.spotify.com/track/2W1MnubGwsVNgFMZPhM16h"
@@ -48468,7 +48540,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 240004,
       "name": "Reach Out To Me - Sadege Chill Out Remix",
       "url": "https://open.spotify.com/track/50uwjGaCdy6TecdYywTOYb"
@@ -48754,7 +48826,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 221538,
       "name": "Remember",
       "url": "https://open.spotify.com/track/1kDKaGo781Tt242ePz4MQS"
@@ -53198,7 +53270,7 @@
       ],
       "date_added": "2026-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-21",
+      "date_removed": null,
       "duration_ms": 160949,
       "name": "Skies Are Beautiful",
       "url": "https://open.spotify.com/track/1G9hh0luGhoJMrIz3hKJTn"
@@ -53360,7 +53432,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-10",
+      "date_removed": null,
       "duration_ms": 244320,
       "name": "Sky's Still Blue",
       "url": "https://open.spotify.com/track/6nXIYClvJAfi6ujLiKqEq8"
@@ -54670,7 +54742,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-12",
+      "date_removed": null,
       "duration_ms": 179853,
       "name": "SOMEONE TO YOU",
       "url": "https://open.spotify.com/track/27aLssrBr02bppwwWFCe7k"
@@ -57481,6 +57553,24 @@
     },
     {
       "album": {
+        "name": "Appaloosa Bones",
+        "url": "https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286120,
+      "name": "Sweet Heat Lightning",
+      "url": "https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769"
+    },
+    {
+      "album": {
         "name": "Sweet Little Lies",
         "url": "https://open.spotify.com/album/0qSNBMGUgtdmmP46p4DTwU"
       },
@@ -59066,7 +59156,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 183920,
       "name": "The Aftertaste",
       "url": "https://open.spotify.com/track/1iXUOUcdQQKSZgNIhSRHUV"
@@ -60630,7 +60720,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 294720,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV"
@@ -60976,7 +61066,7 @@
       ],
       "date_added": "2026-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-25",
+      "date_removed": null,
       "duration_ms": 233000,
       "name": "This Is Cruel",
       "url": "https://open.spotify.com/track/5SMt4Z26FBZYMroWAwmu4w"
@@ -61422,7 +61512,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 226451,
       "name": "Thunder - Chillout Mix",
       "url": "https://open.spotify.com/track/4aWWdh5mogcoYFcKXnAL01"
@@ -61462,6 +61552,24 @@
       "duration_ms": 204106,
       "name": "Tierrita Mojada",
       "url": "https://open.spotify.com/track/6ThsXWiur66KlCzXVj9tXj"
+    },
+    {
+      "album": {
+        "name": "Tighter to You",
+        "url": "https://open.spotify.com/album/3NA4fp0zkultD90slG3ptt"
+      },
+      "artists": [
+        {
+          "name": "Katie Garfield",
+          "url": "https://open.spotify.com/artist/20D6Jrpn4bZvOBq63Jisfx"
+        }
+      ],
+      "date_added": "2026-10-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "Tighter to You",
+      "url": "https://open.spotify.com/track/54vyQ93SpmOlSgmLy5iDe3"
     },
     {
       "album": {
@@ -62268,7 +62376,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 198433,
       "name": "touching the star",
       "url": "https://open.spotify.com/track/1R5kFeYmJc0Dqp1pNw3eQC"
@@ -62702,7 +62810,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-28",
+      "date_removed": null,
       "duration_ms": 182350,
       "name": "Trust Issues",
       "url": "https://open.spotify.com/track/5nAcDjHi1Sn9d24ZPwYpZc"
@@ -64428,7 +64536,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 208213,
       "name": "used to you",
       "url": "https://open.spotify.com/track/5RiaulO1Xfn5k00SEah0PL"
@@ -65808,7 +65916,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 161538,
       "name": "Way Out",
       "url": "https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN"
@@ -66984,7 +67092,7 @@
       ],
       "date_added": "2026-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-18",
+      "date_removed": null,
       "duration_ms": 123960,
       "name": "When The Light Breaks - Lost Version",
       "url": "https://open.spotify.com/track/0i5iQggR1OTUCWEHQYuCDB"
@@ -67104,7 +67212,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 333810,
       "name": "When We Love",
       "url": "https://open.spotify.com/track/08hQ8iUCf0hy6r85agspIH"
@@ -67284,7 +67392,7 @@
       ],
       "date_added": "2026-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 156404,
       "name": "Where Are U Now?",
       "url": "https://open.spotify.com/track/7DnVOJUGLRevDM9TOLnvoj"
@@ -68430,7 +68538,7 @@
       ],
       "date_added": "2026-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-22",
       "duration_ms": 292757,
       "name": "WITH YOU - TC/TC",
       "url": "https://open.spotify.com/track/43KHVNi9kzgFaYjJYUtBlB"
