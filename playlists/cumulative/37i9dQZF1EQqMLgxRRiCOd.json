@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-28",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIXCYIqpLoTWf>The Platters</a>, <a href=spotify:playlist:37i9dQZF1EIW4VZyBwQPwU>Chuck Berry</a>, <a href=spotify:playlist:37i9dQZF1EIUITzJrEPCBA>Nat King Cole</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIWPOpVY3KoU2>Nina Simone</a>, <a href=spotify:playlist:37i9dQZF1EIWkC52ImzeTI>Frank Sinatra</a>, <a href=spotify:playlist:37i9dQZF1EIXivgOg6VSiG>Sam Cooke</a> and more",
   "name": "50s Mix",
   "tracks": [
     {
@@ -250,7 +250,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-28",
+      "date_removed": null,
       "duration_ms": 198863,
       "name": "(All of a Sudden) My Heart Sings",
       "url": "https://open.spotify.com/track/5R3sxGAkd8TkfHvY6O71MK"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 156546,
       "name": "(How Little It Matters) How Little We Know",
       "url": "https://open.spotify.com/track/48SsJI70wRwQkndkebmLAd"
@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 154760,
       "name": "(When Your Heart's On Fire) Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/2sXf6b8mJFA8EVwhxdu12p"
@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 110848,
       "name": "A Kiss in the Dark",
       "url": "https://open.spotify.com/track/5YfIyH64HjSc3T9IDlQkUD"
@@ -5362,7 +5362,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 174813,
       "name": "Apache",
       "url": "https://open.spotify.com/track/4Y8WD0bbvBlSpC7nZ9DSzC"
@@ -5742,7 +5742,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 122960,
       "name": "Around The World",
       "url": "https://open.spotify.com/track/6PHqBsDSDeULTC8nUyGDFs"
@@ -6442,7 +6442,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 183706,
       "name": "Autumn Leaves (with Paul Weston & His Music From Hollywood)",
       "url": "https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki"
@@ -6486,6 +6486,24 @@
       "duration_ms": 181266,
       "name": "Autumn Leaves - Instrumental Version",
       "url": "https://open.spotify.com/track/4BAJX7Myp1qKfAgxfLPG8v"
+    },
+    {
+      "album": {
+        "name": "Atlantic Jazz Legends",
+        "url": "https://open.spotify.com/album/5CYZCXrSlYjKtH6biz9x49"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181266,
+      "name": "Autumn Leaves - Instrumental Version",
+      "url": "https://open.spotify.com/track/4Zhu9rGexTGiJnNsQ2BMNv"
     },
     {
       "album": {
@@ -7564,7 +7582,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 203746,
       "name": "Baubles, Bangles and Beads",
       "url": "https://open.spotify.com/track/0nBVaW2Y2vcwexOQKLwb9B"
@@ -10100,7 +10118,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 156066,
       "name": "Breezin' Along With The Breeze",
       "url": "https://open.spotify.com/track/5X8HU8t87tGiXWLiV7AWTR"
@@ -10630,7 +10648,7 @@
       ],
       "date_added": "2026-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 170666,
       "name": "By a Waterfall",
       "url": "https://open.spotify.com/track/67R3lRRMxtM1l5uGlNA4L9"
@@ -10880,6 +10898,24 @@
       "duration_ms": 183520,
       "name": "C'est à Hambourg",
       "url": "https://open.spotify.com/track/7rKyIhcSBjFugDuBQUaPne"
+    },
+    {
+      "album": {
+        "name": "Texas Matchbox Romance",
+        "url": "https://open.spotify.com/album/2tDbqDQgkfxNREJ9XItuLh"
+      },
+      "artists": [
+        {
+          "name": "Buddy Knox",
+          "url": "https://open.spotify.com/artist/0b5Tz3szM4KK8esFKV2Zsb"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123880,
+      "name": "C'mon Baby",
+      "url": "https://open.spotify.com/track/5OEhg7fgvEaspFk7nk0GRs"
     },
     {
       "album": {
@@ -11930,7 +11966,7 @@
       ],
       "date_added": "2025-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 184200,
       "name": "Chances Are",
       "url": "https://open.spotify.com/track/3jJFRWDDri22pVNseKv7Ip"
@@ -12216,6 +12252,24 @@
       "duration_ms": 155853,
       "name": "Cheek To Cheek",
       "url": "https://open.spotify.com/track/6wfv9xG8CHKhSHpEHB0671"
+    },
+    {
+      "album": {
+        "name": "Billy May's Bacchanalia!",
+        "url": "https://open.spotify.com/album/5KQLjDi5BIqTVAqg9loBHC"
+      },
+      "artists": [
+        {
+          "name": "Billy May",
+          "url": "https://open.spotify.com/artist/45Z2ShPqr2p9ZgfkYhZUgq"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156853,
+      "name": "Cheek to Cheek",
+      "url": "https://open.spotify.com/track/1oMLy3bGeWZevDDaD1DesM"
     },
     {
       "album": {
@@ -12880,7 +12934,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 164333,
       "name": "Cimarron",
       "url": "https://open.spotify.com/track/3ZHrlFw8wU30OF3bVdHSaX"
@@ -13816,7 +13870,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 200733,
       "name": "Concerto for Violin, Strings and Continuo in E Major, RV 269 \"La primavera\": II. Largo",
       "url": "https://open.spotify.com/track/2LuXJWJOadRnmdK0Be1Q9n"
@@ -13842,7 +13896,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 130160,
       "name": "Concerto for Violin, Strings and Continuo in F Major, RV 293 \"L'autunno\": II. Adagio molto",
       "url": "https://open.spotify.com/track/1sSiUex7ZyvH55YAyKih8p"
@@ -18798,7 +18852,7 @@
       ],
       "date_added": "2026-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 179559,
       "name": "Endless Regret",
       "url": "https://open.spotify.com/track/34eFN6n7lcqDSL1GEz47H0"
@@ -19550,7 +19604,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-09",
+      "date_removed": null,
       "duration_ms": 190359,
       "name": "Exodus",
       "url": "https://open.spotify.com/track/7MIzIo0Z9S8zmBiXdGwOeS"
@@ -19586,7 +19640,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 176773,
       "name": "Exodus (Theme From Exodus)",
       "url": "https://open.spotify.com/track/3mIEY7AEwdI5vSyiVhPdqb"
@@ -19846,7 +19900,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 235746,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/6BsDaA58aAl1M8Ltv0tz24"
@@ -20200,7 +20254,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-17",
+      "date_removed": null,
       "duration_ms": 186012,
       "name": "Fever",
       "url": "https://open.spotify.com/track/4DeLgHoZs34j9p1n62YBRC"
@@ -21526,7 +21580,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 197973,
       "name": "Friendly Persuasion",
       "url": "https://open.spotify.com/track/0myfCInyd8vGnSZF7X94dx"
@@ -23236,7 +23290,7 @@
       ],
       "date_added": "2026-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-20",
+      "date_removed": null,
       "duration_ms": 160360,
       "name": "Goodnight My Love (Pleasant Dreams)",
       "url": "https://open.spotify.com/track/7yxtw2F10f9S4FtpAtkkLd"
@@ -24856,7 +24910,7 @@
       ],
       "date_added": "2026-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 192413,
       "name": "Hey There",
       "url": "https://open.spotify.com/track/3v64U9nMVXln0pIaHltXqJ"
@@ -26476,7 +26530,7 @@
       ],
       "date_added": "2026-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 136120,
       "name": "I Hear A Rhapsody",
       "url": "https://open.spotify.com/track/0GfshVYfibtuETlOD2kEdF"
@@ -26704,7 +26758,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 179917,
       "name": "I Love You",
       "url": "https://open.spotify.com/track/545lzzayuzKG87FWrh0zL2"
@@ -26812,7 +26866,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 203440,
       "name": "I Only Have Eyes For You",
       "url": "https://open.spotify.com/track/6wah4ro8mt7Mf2mDYEcqfU"
@@ -28520,7 +28574,7 @@
       ],
       "date_added": "2026-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 213293,
       "name": "I've Got You Under My Skin - Live At The Sands, Las Vegas, NV / January 26, 1966 / Second Show",
       "url": "https://open.spotify.com/track/3SpZwUpp0hIKhzAKV6Ul6P"
@@ -29240,7 +29294,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 145680,
       "name": "Indian Love Call",
       "url": "https://open.spotify.com/track/6JLpmCG8Q7c4cxxfA1iGBz"
@@ -30094,7 +30148,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 158520,
       "name": "It's All In The Game",
       "url": "https://open.spotify.com/track/2tvt5K7y1gndmCgtIoLo1f"
@@ -31564,7 +31618,7 @@
       ],
       "date_added": "2023-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 161560,
       "name": "Johnny B. Goode",
       "url": "https://open.spotify.com/track/2QfiRTz5Yc8DdShCxG1tB2"
@@ -31952,7 +32006,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-01",
+      "date_removed": null,
       "duration_ms": 171693,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/3GrHtJUaqrKjXmyKB1mKL5"
@@ -34388,7 +34442,7 @@
       ],
       "date_added": "2026-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 165680,
       "name": "La Malagueña",
       "url": "https://open.spotify.com/track/70oyTG2aEPSz3ZReyHKsnn"
@@ -37694,7 +37748,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-11",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Love Is a Many Splendored Thing",
       "url": "https://open.spotify.com/track/2yikkpXOsk270jcvhXjP2T"
@@ -39278,7 +39332,7 @@
       ],
       "date_added": "2026-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 199090,
       "name": "Make It Soon",
       "url": "https://open.spotify.com/track/6O2Ho96ZwHRTrb5yqn3BgA"
@@ -41604,7 +41658,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 194986,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/5dae01pKNjRQtgOeAkFzPY"
@@ -42020,7 +42074,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-24",
+      "date_removed": null,
       "duration_ms": 216026,
       "name": "Moonlight In Vermont",
       "url": "https://open.spotify.com/track/7oUuiDTxCdmlg8OpcxLS35"
@@ -42182,7 +42236,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 164733,
       "name": "Moonlight Serenade",
       "url": "https://open.spotify.com/track/21LNfkx5HrWlwxTY5FN6xa"
@@ -42756,7 +42810,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-15",
+      "date_removed": null,
       "duration_ms": 215746,
       "name": "My Baby Just Cares for Me (2013 - Remaster)",
       "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534"
@@ -43016,7 +43070,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-13",
+      "date_removed": null,
       "duration_ms": 150666,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/0x0ffSAP6PkdoDgHOfroof"
@@ -43034,7 +43088,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 202026,
       "name": "My Funny Valentine",
       "url": "https://open.spotify.com/track/33haaDXqwsd7wOk75ov0NL"
@@ -43800,7 +43854,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-26",
+      "date_removed": null,
       "duration_ms": 228576,
       "name": "Nel Blu di Pinto di Blu - Instrumental",
       "url": "https://open.spotify.com/track/3YQcOHXwbM2kDe09c3F6PJ"
@@ -49110,7 +49164,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-22",
+      "date_removed": null,
       "duration_ms": 154466,
       "name": "Poetry In Motion",
       "url": "https://open.spotify.com/track/1ASWAH866Xn0gWeX3zC2SW"
@@ -49358,7 +49412,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 153933,
       "name": "Poor Little Fool",
       "url": "https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX"
@@ -53009,6 +53063,24 @@
     },
     {
       "album": {
+        "name": "Sabor a Mí",
+        "url": "https://open.spotify.com/album/0hsbpWdQ0hwHUEU0WLUveY"
+      },
+      "artists": [
+        {
+          "name": "Yuto Kanazawa",
+          "url": "https://open.spotify.com/artist/01svVAKPw9ioP5e46kMARC"
+        }
+      ],
+      "date_added": "2026-10-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112874,
+      "name": "Sabor a Mí",
+      "url": "https://open.spotify.com/track/0l20yGe7suULR9e1zpzhiF"
+    },
+    {
+      "album": {
         "name": "Trovador De Dos Mundos",
         "url": "https://open.spotify.com/album/54Q7OxYB3fxNswpGMxlhH6"
       },
@@ -54062,7 +54134,7 @@
       ],
       "date_added": "2026-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 191506,
       "name": "September Song",
       "url": "https://open.spotify.com/track/0t1LRheuON61IxWGZAuUyM"
@@ -55724,7 +55796,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 160933,
       "name": "Smoke Gets In Your Eyes",
       "url": "https://open.spotify.com/track/2vSxjnyrWrtxyfzO47EX6q"
@@ -57618,7 +57690,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 174219,
       "name": "Stars & Stripes Forever",
       "url": "https://open.spotify.com/track/70NKQDcMiXH3YeGL7lMHil"
@@ -57824,7 +57896,7 @@
       ],
       "date_added": "2026-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-11",
+      "date_removed": null,
       "duration_ms": 211653,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/451JEA0SfMavvqtaVKfHck"
@@ -59098,7 +59170,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 193066,
       "name": "Sweet Little Sixteen - Take 11",
       "url": "https://open.spotify.com/track/2AdMi0ejDmHTty03H7kwsP"
@@ -61054,7 +61126,7 @@
       ],
       "date_added": "2026-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 137964,
       "name": "Tennessee Waltz",
       "url": "https://open.spotify.com/track/6KNguEq4CB9sSfx1emiBf5"
@@ -61734,7 +61806,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 230823,
       "name": "That's All",
       "url": "https://open.spotify.com/track/0rqTXAmPTRaMfSzM4c7Ejr"
@@ -64206,7 +64278,7 @@
       ],
       "date_added": "2026-04-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 156933,
       "name": "The Wonder of You",
       "url": "https://open.spotify.com/track/1vcqKMb6EjQFrdA7AFM4D9"
@@ -65348,7 +65420,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 206226,
       "name": "Till",
       "url": "https://open.spotify.com/track/3AnwEU9pKrFgpT4uSwoFtX"
@@ -65402,7 +65474,7 @@
       ],
       "date_added": "2023-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-10",
+      "date_removed": null,
       "duration_ms": 185800,
       "name": "Till",
       "url": "https://open.spotify.com/track/1qyavWn3bzAb9sYTyErvAQ"
@@ -67256,7 +67328,7 @@
       ],
       "date_added": "2023-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 168293,
       "name": "Twilight Time - Single Version",
       "url": "https://open.spotify.com/track/3MpGQae6zAFd7Z1FdLV9fV"
@@ -68006,7 +68078,7 @@
       ],
       "date_added": "2026-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-28",
+      "date_removed": null,
       "duration_ms": 213399,
       "name": "Under the Copper Moon",
       "url": "https://open.spotify.com/track/2ITmyC3C4prkJdXjsOeN3v"
@@ -68082,7 +68154,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-27",
+      "date_removed": null,
       "duration_ms": 191973,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/648TTtYB0bH0P8Hfy0FmkL"
@@ -68690,7 +68762,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 156240,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/6dN79WekZXg7LvNibIDjHB"
@@ -70270,7 +70342,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-27",
+      "date_removed": null,
       "duration_ms": 203626,
       "name": "When I Fall In Love",
       "url": "https://open.spotify.com/track/7JtRmkSx93P01gB75R82NM"
@@ -70342,7 +70414,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 178973,
       "name": "When I Grow Too Old to Dream",
       "url": "https://open.spotify.com/track/7fo3hcV4vTBCcDPNhHFvtH"
@@ -70978,7 +71050,7 @@
       ],
       "date_added": "2026-10-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-10-25",
+      "date_removed": null,
       "duration_ms": 194066,
       "name": "Willow Weep for Me",
       "url": "https://open.spotify.com/track/7urWf2IpiJnHXbtVVNrOrt"
@@ -72288,7 +72360,7 @@
       ],
       "date_added": "2026-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 217306,
       "name": "You And The Night And The Music",
       "url": "https://open.spotify.com/track/7j8Y5UR24GR4RspS9FBIot"
@@ -72914,7 +72986,7 @@
       ],
       "date_added": "2023-12-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-31",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "You Send Me - Mono",
       "url": "https://open.spotify.com/track/1XPj5quoeV5Gd0paSUDpvm"
@@ -73188,7 +73260,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 178451,
       "name": "You'll Never Know",
       "url": "https://open.spotify.com/track/1XKXn2DZOJrI5CWdRJKgLl"
@@ -73398,7 +73470,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 182986,
       "name": "You're My Everything - From \"The Eddy Duchin Story\" Soundtrack",
       "url": "https://open.spotify.com/track/0TqNgMiwPEmLOnfQJhwF4T"
@@ -73972,7 +74044,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-10-29",
       "duration_ms": 177253,
       "name": "Éxodo",
       "url": "https://open.spotify.com/track/1ZsZ7QD8ZLnoVZ9icrZeyV"
