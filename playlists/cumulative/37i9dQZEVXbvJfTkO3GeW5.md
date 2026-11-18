@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-6,481 songs - 15 day 22 hr 44 min
+6,483 songs - 15 day 22 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [12345678](https://open.spotify.com/track/4TbuW9pROHEgQxEXptleTu) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [12345678](https://open.spotify.com/album/6LgzQ07mU3E9sTSNWgNz78) | 2:04 | 2024-08-08 | 2024-08-16 |
 | [12345678](https://open.spotify.com/track/5wruoScE2nBfiTZXfxM595) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [12345678](https://open.spotify.com/album/4KguE4ZB52iYCe9SyrgrUO) | 2:04 | 2024-08-15 | 2024-09-08 |
 | [12345678 \- Extended Version](https://open.spotify.com/track/4D9Ucy615vjpnZHbNG71H8) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [12345678](https://open.spotify.com/album/4KguE4ZB52iYCe9SyrgrUO) | 2:46 | 2024-08-08 | 2024-08-14 |
-| [1357我的节拍 \- 伴奏版](https://open.spotify.com/track/08a43cfugr0aQC22utPniA) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [1357我的节拍](https://open.spotify.com/album/1xUAhIDacWEhU3rqqrNC9t) | 3:33 | 2026-11-12 |  |
+| [1357我的节拍](https://open.spotify.com/track/2oKtLy7MYYEybjm8oc28um) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [1357我的节拍](https://open.spotify.com/album/1xUAhIDacWEhU3rqqrNC9t) | 3:33 | 2026-11-12 |  |
+| [1357我的节拍 \- 伴奏版](https://open.spotify.com/track/08a43cfugr0aQC22utPniA) | [黃霄雲](https://open.spotify.com/artist/2xwlufPslbQKrv1MXDBpIM) | [1357我的节拍](https://open.spotify.com/album/1xUAhIDacWEhU3rqqrNC9t) | 3:33 | 2026-11-12 | 2026-11-18 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-18 | 2024-08-02 |
 | [16 Ani](https://open.spotify.com/track/0W9uRDfkVorkDE5BuccjvJ) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Uzzi](https://open.spotify.com/artist/1u7VoUsRoA8TwydQXPLseH) | [16 Ani](https://open.spotify.com/album/4OTCGmrxnkfI9dTMWHb84Y) | 3:39 | 2022-10-20 | 2022-11-13 |
 | [16 Ani \(Acoustic Live Session\)](https://open.spotify.com/track/7HCMf7ikUELP7OBixH9v44) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [16 Ani \(Acoustic Live Session\)](https://open.spotify.com/album/0edi5UFn5T7lFjcYjzB5j4) | 3:06 | 2022-11-24 | 2022-12-03 |
@@ -5526,6 +5527,7 @@
 | [The Future Is Now](https://open.spotify.com/track/1XZhL5Rgbgbhf9o9MWneOx) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [The Future Is Now \- The Truth](https://open.spotify.com/album/1pa9ceQtw8p6Gl8EAY7ZIh) | 2:58 | 2024-03-14 | 2024-03-30 |
 | [The Game](https://open.spotify.com/track/3hqrbR4pDX414hmfp402Xq) | [GR\-M](https://open.spotify.com/artist/45YCAc9oyPLKXtDZDoDEV4), [Monstercat](https://open.spotify.com/artist/4YwB41gFHCxY5bcNR3CcIH), [Magic Music Record](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG) | [The Game](https://open.spotify.com/album/6u02EUGQGacQfW4H2JFQVR) | 2:29 | 2023-05-18 | 2023-06-10 |
 | [The Ghost Of The Lost Lantern](https://open.spotify.com/track/0SotRReWFxVm84LQ85Ttuy) | [Tulsi Kumar](https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1) | [The Ghost Of The Lost Lantern](https://open.spotify.com/album/3rrbXslhX3vJaVSoBXDQRD) | 4:01 | 2025-03-13 | 2025-03-21 |
+| [The Gift I Got Myself](https://open.spotify.com/track/29cDGUXmNvG7BLSbOa4dz1) | [Shuba](https://open.spotify.com/artist/3Uios5Yyv4i8EBs9H3DUY5) | [HBM Presents: Sleigh The Holidays, Vol\. 3](https://open.spotify.com/album/0V9C2rzujjBCLDDtIAzRZK) | 3:24 | 2026-11-12 |  |
 | [The Girl I Used to Be](https://open.spotify.com/track/2azVR5b7lxE73vi1MriNx8) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Descendants – Cast](https://open.spotify.com/artist/4J79AY6Z2927FTTAgHChuv), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants: Wicked Wonderland \(Original Soundtrack\)](https://open.spotify.com/album/2vg5VhJdkiNNHKBTrHcV4q) | 2:21 | 2026-07-23 | 2026-07-29 |
 | [The girl, so confusing version with lorde](https://open.spotify.com/track/2YFhqZvhTpyK13gKXMKV7R) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The girl, so confusing version with lorde](https://open.spotify.com/album/7mwumbLY3qKZOQRCv0OdyX) | 3:25 | 2024-06-27 | 2024-07-21 |
 | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/track/2FI28SeyrsLmor4TaNmjEn) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE GIRLS \(BLACKPINK THE GAME OST\)](https://open.spotify.com/album/0slmdIwTsoubwL5Sy5E1Vj) | 2:42 | 2023-08-31 | 2023-09-07 |
