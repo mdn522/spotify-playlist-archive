@@ -4,7 +4,7 @@
 
 > Mishari Rashid Alafasy, Muhammad Al Muqit, Al Sheikh Saad Al Ghamidi and more
 
-18,812 songs - 42 day 0 hr 57 min
+18,813 songs - 42 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15063,6 +15063,7 @@
 | [Surah Al Qari'ah](https://open.spotify.com/track/28gRmlQmls6oCgDzoXcYN5) | [Salim Bahanan](https://open.spotify.com/artist/0NONqUHa4UTAU07nXfIxiG) | [Salim Bahanan Juz 30](https://open.spotify.com/album/2OdKRuKLdOlzKHFK6nkeaf) | 1:15 | 2024-05-29 | 2024-05-30 |
 | [Surah Al\-Baqarah \- Ayat 285\-286](https://open.spotify.com/track/1KVusxHHN65hcwbUTaHMH4) | [Azwan Ibrahim](https://open.spotify.com/artist/68FfxdKvgg3gb6pLgdW4bm) | [Manzil](https://open.spotify.com/album/3hIJodB5HXf592A3UZRRUm) | 1:48 | 2024-05-29 | 2024-05-30 |
 | [Surah Al\-Baqarah, Ayat 255\-257](https://open.spotify.com/track/5qAUmt6XEgF4YkudlvvMA6) | [Ustaz Khairul Anuar Basri Al\-Hafiz](https://open.spotify.com/artist/0eFZ8UkG27m92xxiiJs5oh) | [Ayat Ruqyah & Surah Yasin, Ikhtiar Ruqyah, Amalan Pelindung Diri & Keluarga](https://open.spotify.com/album/4XNCsJBxMAoSsIeD6Kh4qF) | 2:23 | 2026-11-16 | 2026-11-17 |
+| [Surah Al\-Fajr \- سُورَةُ الفَجۡرِ](https://open.spotify.com/track/2zey20dHDepyRkuyT5qZg0) | [القرآن](https://open.spotify.com/artist/2gJgTCrD7XDVNnB5EiNbWW), [القرآن الكريم](https://open.spotify.com/artist/2agF3mAKyDdULwWCZl3Lx5), [الله](https://open.spotify.com/artist/7EnmxgVd3czrn5S5JxX64o) | [Surah Al\-Fajr \- سُورَةُ الفَجۡرِ](https://open.spotify.com/album/0SvtMivRLIJJMr1PfUdwzk) | 2:46 | 2026-11-20 |  |
 | [Surah Al\-Fatihah](https://open.spotify.com/track/5Q3jFdTstW9vDveCwwK4S9) | [Azwan Ibrahim](https://open.spotify.com/artist/68FfxdKvgg3gb6pLgdW4bm) | [Manzil](https://open.spotify.com/album/3hIJodB5HXf592A3UZRRUm) | 1:09 | 2024-05-27 | 2024-05-30 |
 | [Surah Al\-Fiil](https://open.spotify.com/track/0M31slc1d62s0GcxcgMSus) | [Ustaz Dzulkarnain Al\-Hafiz](https://open.spotify.com/artist/0sz9zPh5QoJzqJbeQtI7Dv) | [Yasin Dan Doa](https://open.spotify.com/album/2zg2OzYCD0YlwKzOokES3o) | 1:11 | 2024-05-29 | 2024-05-30 |
 | [Surah Al\-Hasyr, Ayat 21\-24](https://open.spotify.com/track/7fjMWHqclWbqJEhzWXV14U) | [Ustaz Khairul Anuar Basri Al\-Hafiz](https://open.spotify.com/artist/0eFZ8UkG27m92xxiiJs5oh) | [Ayat Ruqyah & Surah Yasin, Ikhtiar Ruqyah, Amalan Pelindung Diri & Keluarga](https://open.spotify.com/album/4XNCsJBxMAoSsIeD6Kh4qF) | 1:40 | 2026-11-11 | 2026-11-17 |
@@ -18764,7 +18765,7 @@
 | [الفاروق](https://open.spotify.com/track/7fQsUNtFBDLNtvFc4iQbJT) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [تراحمي يا قلوب](https://open.spotify.com/album/1WERlDYXU4tbnriHUomjq9) | 4:14 | 2024-05-27 | 2024-05-30 |
 | [الله الله](https://open.spotify.com/track/3WDlyo0gaRSRn3Tv3Ak8Rk) | [Yousef Al Ayoub](https://open.spotify.com/artist/3JenNVbS5aTA7XGTUd25Rg) | [قلبي لك](https://open.spotify.com/album/1AzVpX6KTObe8rX2CoT8Td) | 2:54 | 2026-11-12 | 2026-11-14 |
 | [الله يعلم \( النسخة المبطئة \)](https://open.spotify.com/track/2FoNICiAgBaHbF0Xhm7dvq) | [Abdulaziz Alrashed](https://open.spotify.com/artist/3hgrkUu3zk24uR1isgdYJN) | [الله يعلم \( النسخة المبطئة \)](https://open.spotify.com/album/339fsLkVBTweHNIQH56UNk) | 1:14 | 2026-11-14 | 2026-11-19 |
-| [الله يعلم Allahu Ya'lamu](https://open.spotify.com/track/3FjukReOwucjEcjeZL2VIU) | [Abdulaziz Alrashed](https://open.spotify.com/artist/6280FNT6M3UusanS1qGZLB) | [الله يعلم Allahu Ya'lamu](https://open.spotify.com/album/34xkMFEO9Mc1fPMcfIFyF1) | 1:06 | 2026-11-19 |  |
+| [الله يعلم Allahu Ya'lamu](https://open.spotify.com/track/3FjukReOwucjEcjeZL2VIU) | [Abdulaziz Alrashed](https://open.spotify.com/artist/6280FNT6M3UusanS1qGZLB) | [الله يعلم Allahu Ya'lamu](https://open.spotify.com/album/34xkMFEO9Mc1fPMcfIFyF1) | 1:06 | 2026-11-19 | 2026-11-20 |
 | [الماهر](https://open.spotify.com/track/2y6pV9Lpcqc46XVNjJLVVD) | [Abdulaziz Alrashed](https://open.spotify.com/artist/3hgrkUu3zk24uR1isgdYJN), [Nafas Records](https://open.spotify.com/artist/7Hb7tqyMR7ebLNIqt4L6Dg) | [الماهر](https://open.spotify.com/album/4doXyVq1GfNTZdAuf2SpKU) | 3:50 | 2026-11-14 | 2026-11-19 |
 | [المصطفى](https://open.spotify.com/track/0kq1YQMzeTPSFP5zDVyNXn) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [ألبوم مشاري العفاسي 2020](https://open.spotify.com/album/0TUXeCJPXf0SibbS06Pm3G) | 3:20 | 2024-05-27 | 2024-05-30 |
 | [ايا من يدعي الفهم](https://open.spotify.com/track/10lmRM8klGxXp2jOyiruhJ) | [مشاري بن راشد العفاسي](https://open.spotify.com/artist/6nd2oiKSu9ksEAMzpXjIyi) | [عيون الأفاعي](https://open.spotify.com/album/7Jcy1hYa8av431Dl2KixCS) | 3:59 | 2024-05-29 | 2024-05-30 |
